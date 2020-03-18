@@ -72,6 +72,9 @@
  
 ## 疫苗相关／新药开发
 
+- [2020-03-18 新冠病毒重要药物靶点-RNA依赖的RNA聚合酶三维精细结构获得解析](https://mp.weixin.qq.com/s?__biz=MjM5NTY5OTMxMA==&mid=2651311956&idx=1&sn=fe7b925bed54be440e8fab3fe0abee51&chksm=bd07e0558a706943da71ebf4b630ad0a4e4ae6c89440fc87478e659ad68dbb7d8b1c1e7ed7e1&mpshare=1&scene=1&srcid=&sharer_sharetime=1584563423612&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Au0JvES7EgSjwM%2BgI%2F8aJ2Y%3D&pass_ticket=I28Db8P7PMyKR5Lzw0ixxIajuVaMzahzUszVfVQGxr97QzRBKo%2By7BliS5XCSlsk#rd)
+![rao1](/pic/rao1.jpg)
+
 - [2020-03-18 科技部：法匹拉韦完成临床研究，显示出很好的临床疗效，药品已实现量产](https://mp.weixin.qq.com/s?__biz=MzAwODA5MjQ3Ng==&mid=2653089989&idx=1&sn=33b7bc6f866fb4ab04f32cb083c33f7a&chksm=80a27e96b7d5f780bb028c36fb08432811509324cf4e5698f2678ab15eb8a9c7febf92aab42d&mpshare=1&scene=1&srcid=0317Wh0ClXED19ytl3WO6Liq&sharer_sharetime=1584501785128&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlDnjBcl3%2BmL%2F%2BhvY2gJg%2FM%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![fapilawei2](./pic/fapilawei2.jpg)
 
