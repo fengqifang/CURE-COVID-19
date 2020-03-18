@@ -19,7 +19,7 @@
 ## 检测试剂
 
 - [2020-03-17 中美上市新型冠状病毒检测试剂对比](https://mp.weixin.qq.com/s?__biz=MzA3ODgzODc5NA==&mid=2651778806&idx=1&sn=241867507717156503d81c7694487f57&chksm=8446e393b3316a856f0b8e5381f13d5b7a401e776b92af57c075d2d71c807d7be6a3721c5280&mpshare=1&scene=1&srcid=0318xetmhIcbKxoRNtN4AmfM&sharer_sharetime=1584492582044&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Anhhsami5IaqdwlUjPVAtbE%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
-![对比](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/shiji1.jpg)
+![对比](/pic/shiji1.jpg)
 
 -[2020-03-14 罗氏 cobas SARS-CoV-2 检测获得FDA紧急使用授权，显著提高新型冠状病毒检测能力](https://mp.weixin.qq.com/s?__biz=MzAxMjA5ODExMg==&mid=2649767588&idx=1&sn=4258907ea9e07394bec8215b7a35a811&chksm=83b3918bb4c4189d0d4ed717b7600ac9dba3764055c108657cebbe843ede24efb9edeaa74c32&mpshare=1&scene=1&srcid=03181WPcXsMbuTty8hDY8SuP&sharer_sharetime=1584499170738&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuBZoeH9Lf35GRebQY31wQQ%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![Roche](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/roche.jpg)
