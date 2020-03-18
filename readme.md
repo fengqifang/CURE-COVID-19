@@ -26,6 +26,9 @@
 
 ## 治疗方案
 
+- [2020-03-15 韩国在救治新冠肺炎病患中异军突起](http://www.360doc.cn/article/1120683_899395057.html)
+![zn](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/zn.jpg)
+
 - [2020-03-13 日本结果显示remdesivir ( 人民的希望） 对新冠状病毒重症100%有效](https://mp.weixin.qq.com/s?__biz=MzA5MTI5MDY5Mg==&mid=2649570394&idx=1&sn=14a024fcc63b0b59b800dbee7279be32&chksm=88673171bf10b867c58efb5c0e0cc2bcdf6deb83e88c125e22bc74e4a236690e8ecf8d23ad87&mpshare=1&scene=1&srcid=0314bluSprgg77Lzm7QoPiLT&sharer_sharetime=1584499454786&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao9MAMZPymM%2B%2F4dQHj1eCgI%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![日本](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/riben.jpg)
 
