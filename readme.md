@@ -26,6 +26,9 @@
 
 ## 治疗方案
 
+- [2020-03-12 从柳叶刀最新论文看新冠病毒的一些临床特点](https://mp.weixin.qq.com/s?__biz=MzA3MjA5ODY1Mg==&mid=2658067545&idx=1&sn=5094fa06b961e28c6291afcdbb1b27b1&chksm=84b9326ab3cebb7c45ec8532fa3b889062c81f587828cddfc3bebca3911fb53bc1e50eb901c3&mpshare=1&scene=1&srcid=0318uPeqTqQ8WGx2kZo2O5PJ&sharer_sharetime=1584499340077&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuN2XTaZCeQyD8fFZIHc0hY%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+![特点](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/tedian.jpg)
+
 - [2020-03-11 UC Davis Medical Center successfully treats patients with coronavirus; hospital plans to expand on-site testing](https://health.ucdavis.edu/health-news/newsroom/UC-Davis-Medical-Center-successfully-treats-coronavirus-patients-hospital-plans-on-site-testing/2020/03?fbclid=IwAR0nx4lOlO8IPFrndv2pGMo5djlLke9KqE5HpRhVHVQNKSss0yUKslC0Diw&from=groupmessage&isappinstalled=0#.Xmzs6qkpkOG.facebook)
 ![Davis](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/davis.jpg)
 
