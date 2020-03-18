@@ -46,7 +46,7 @@
 - [2020-03-17 中美上市新型冠状病毒检测试剂对比](https://mp.weixin.qq.com/s?__biz=MzA3ODgzODc5NA==&mid=2651778806&idx=1&sn=241867507717156503d81c7694487f57&chksm=8446e393b3316a856f0b8e5381f13d5b7a401e776b92af57c075d2d71c807d7be6a3721c5280&mpshare=1&scene=1&srcid=0318xetmhIcbKxoRNtN4AmfM&sharer_sharetime=1584492582044&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Anhhsami5IaqdwlUjPVAtbE%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![对比](./pic/shiji1.jpg)
 
--[2020-03-14 罗氏 cobas SARS-CoV-2 检测获得FDA紧急使用授权，显著提高新型冠状病毒检测能力](https://mp.weixin.qq.com/s?__biz=MzAxMjA5ODExMg==&mid=2649767588&idx=1&sn=4258907ea9e07394bec8215b7a35a811&chksm=83b3918bb4c4189d0d4ed717b7600ac9dba3764055c108657cebbe843ede24efb9edeaa74c32&mpshare=1&scene=1&srcid=03181WPcXsMbuTty8hDY8SuP&sharer_sharetime=1584499170738&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuBZoeH9Lf35GRebQY31wQQ%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+- [2020-03-14 罗氏 cobas SARS-CoV-2 检测获得FDA紧急使用授权，显著提高新型冠状病毒检测能力](https://mp.weixin.qq.com/s?__biz=MzAxMjA5ODExMg==&mid=2649767588&idx=1&sn=4258907ea9e07394bec8215b7a35a811&chksm=83b3918bb4c4189d0d4ed717b7600ac9dba3764055c108657cebbe843ede24efb9edeaa74c32&mpshare=1&scene=1&srcid=03181WPcXsMbuTty8hDY8SuP&sharer_sharetime=1584499170738&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuBZoeH9Lf35GRebQY31wQQ%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![Roche](./pic/roche.jpg)
 
  ***
@@ -72,13 +72,13 @@
  
 ## 疫苗相关／新药开发
 
--[2020-03-18 科技部：法匹拉韦完成临床研究，显示出很好的临床疗效，药品已实现量产](https://mp.weixin.qq.com/s?__biz=MzAwODA5MjQ3Ng==&mid=2653089989&idx=1&sn=33b7bc6f866fb4ab04f32cb083c33f7a&chksm=80a27e96b7d5f780bb028c36fb08432811509324cf4e5698f2678ab15eb8a9c7febf92aab42d&mpshare=1&scene=1&srcid=0317Wh0ClXED19ytl3WO6Liq&sharer_sharetime=1584501785128&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlDnjBcl3%2BmL%2F%2BhvY2gJg%2FM%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+- [2020-03-18 科技部：法匹拉韦完成临床研究，显示出很好的临床疗效，药品已实现量产](https://mp.weixin.qq.com/s?__biz=MzAwODA5MjQ3Ng==&mid=2653089989&idx=1&sn=33b7bc6f866fb4ab04f32cb083c33f7a&chksm=80a27e96b7d5f780bb028c36fb08432811509324cf4e5698f2678ab15eb8a9c7febf92aab42d&mpshare=1&scene=1&srcid=0317Wh0ClXED19ytl3WO6Liq&sharer_sharetime=1584501785128&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlDnjBcl3%2BmL%2F%2BhvY2gJg%2FM%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![fapilawei2](./pic/fapilawei2.jpg)
 
--[2020-03-18 重磅 | 饶子和院士等团队首次解析了瑞德昔韦标靶的结构，对于药物开发意义重大](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247507736&idx=2&sn=1d3ae0cf96a74d9d1da0a75be8e45e21&chksm=fce6acc7cb9125d1aac3b1ec166c99ad343634ce28f037b1028f32373a571bb5427cff932cca&mpshare=1&scene=1&srcid=&sharer_sharetime=1584501378606&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgYJoto1vy5l3Kc%2Bi21dI5g%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+- [2020-03-18 重磅 | 饶子和院士等团队首次解析了瑞德昔韦标靶的结构，对于药物开发意义重大](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247507736&idx=2&sn=1d3ae0cf96a74d9d1da0a75be8e45e21&chksm=fce6acc7cb9125d1aac3b1ec166c99ad343634ce28f037b1028f32373a571bb5427cff932cca&mpshare=1&scene=1&srcid=&sharer_sharetime=1584501378606&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgYJoto1vy5l3Kc%2Bi21dI5g%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![rao](./pic/rao.jpg)
 
--[2020-03-17 国务院联防联控发布会：法匹拉韦临床疗效明确，已有8种疫苗进行有效性评价](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=2247495666&idx=1&sn=aefb3efc3f3c35e229dd795ad8756fcf&chksm=fc76dc46cb0155505bf6a068f3becb2a39b90527b82de66e2b232619a34fed40ee0220f45c98&mpshare=1&scene=1&srcid=&sharer_sharetime=1584496848014&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtiUegClNbs%2B%2FQ0M9WLQGjg%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+- [2020-03-17 国务院联防联控发布会：法匹拉韦临床疗效明确，已有8种疫苗进行有效性评价](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=2247495666&idx=1&sn=aefb3efc3f3c35e229dd795ad8756fcf&chksm=fc76dc46cb0155505bf6a068f3becb2a39b90527b82de66e2b232619a34fed40ee0220f45c98&mpshare=1&scene=1&srcid=&sharer_sharetime=1584496848014&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtiUegClNbs%2B%2FQ0M9WLQGjg%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![８种](./pic/fapilawei.jpg)
 
 - [2020-03-16 重磅|康希诺生物新冠疫苗进入临床试验招募阶段！](https://mp.weixin.qq.com/s?__biz=MzI4OTIzMzcwMw==&mid=2659320076&idx=2&sn=50075531d1b58f676ac3dab8444861a5&chksm=f744ef44c03366523e5f4dbb0d527405e35f485d7345bc067ecae68c1feee4732d700728c069&mpshare=1&scene=1&srcid=0318yCwSHpA56JZwEOlr3J3G&sharer_sharetime=1584492754342&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avu9z%2FuymCwRdFmhBHGGydY%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
@@ -109,13 +109,13 @@
  
 ## 研究进展
 
--[2020-03-18 清华医学院教授董晨：新冠病毒引起的免疫应答急需研究](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247498350&idx=1&sn=b436908221f54f34e5344d346e3b2498&chksm=9b348cbfac4305a997d216bdb52160133d7830470c8f66d09c815e16fd759b2461872a18f455&mpshare=1&scene=1&srcid=0318I6lNzy7GPsadgLJoG5RS&sharer_sharetime=1584540457721&sharer_shareid=401b51ed94baba186ceb8c21b6321762&exportkey=Amd1d9eEsAewj5EjpE0MRRc%3D&pass_ticket=ZMeptotHChG%2FT%2Fux1lAB7lUQ%2F6ZqF39uMy9JJ4OAnUrkY4pabZJ66%2FvC36wY86DP#rd)
+- [2020-03-18 清华医学院教授董晨：新冠病毒引起的免疫应答急需研究](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247498350&idx=1&sn=b436908221f54f34e5344d346e3b2498&chksm=9b348cbfac4305a997d216bdb52160133d7830470c8f66d09c815e16fd759b2461872a18f455&mpshare=1&scene=1&srcid=0318I6lNzy7GPsadgLJoG5RS&sharer_sharetime=1584540457721&sharer_shareid=401b51ed94baba186ceb8c21b6321762&exportkey=Amd1d9eEsAewj5EjpE0MRRc%3D&pass_ticket=ZMeptotHChG%2FT%2Fux1lAB7lUQ%2F6ZqF39uMy9JJ4OAnUrkY4pabZJ66%2FvC36wY86DP#rd)
 ![免疫应答](/pic/mianyi.jpg)
 
--[2020-03-18 新冠病毒能在塑料表面存活72小时？最新NEJM研究评估病毒体外稳定性](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914426&idx=1&sn=a429ffea94f71567ed6f3c8cba9581f5&chksm=83c3d2f8b4b45bee57718d5a9b9d7fcc24105622e95ee22971eb08a6c23e19b28d1420f62f3f&mpshare=1&scene=1&srcid=0318FgajzRDmrkharjodvMVx&sharer_sharetime=1584540331556&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Av4T7SeHmzHwsnyHMiKc4Io%3D&pass_ticket=ZMeptotHChG%2FT%2Fux1lAB7lUQ%2F6ZqF39uMy9JJ4OAnUrkY4pabZJ66%2FvC36wY86DP#rd)
+- [2020-03-18 新冠病毒能在塑料表面存活72小时？最新NEJM研究评估病毒体外稳定性](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914426&idx=1&sn=a429ffea94f71567ed6f3c8cba9581f5&chksm=83c3d2f8b4b45bee57718d5a9b9d7fcc24105622e95ee22971eb08a6c23e19b28d1420f62f3f&mpshare=1&scene=1&srcid=0318FgajzRDmrkharjodvMVx&sharer_sharetime=1584540331556&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Av4T7SeHmzHwsnyHMiKc4Io%3D&pass_ticket=ZMeptotHChG%2FT%2Fux1lAB7lUQ%2F6ZqF39uMy9JJ4OAnUrkY4pabZJ66%2FvC36wY86DP#rd)
 ![存活](/pic/cunhuo.jpg)
 
--[2020-03-18 预印本 | 美国首批12名确诊新冠病毒感染者临床特征](https://m.sohu.com/sa/380061610_456025?from=groupmessage&isappinstalled=0)
+- [2020-03-18 预印本 | 美国首批12名确诊新冠病毒感染者临床特征](https://m.sohu.com/sa/380061610_456025?from=groupmessage&isappinstalled=0)
 ![特征](/pic/tezheng.jpg)
 
 - [2020-03-18 美英澳科学家《自然医学》再添力证：新冠病毒乃自然进化产物，或有两种起源...](https://mp.weixin.qq.com/s?__biz=MjM5ODU5NDgyMg==&mid=2653947598&idx=1&sn=b0f3f6e45e9cc898a863458cb7164b90&chksm=bd0cf6a78a7b7fb1d61ebcc05227f1680bdecbf5867cdc4ceace6af7eeb230b0877363f12a58&mpshare=1&scene=1&srcid=&sharer_sharetime=1584540152734&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aii8JesDHMMK5xlpbMosYwY%3D&pass_ticket=ZMeptotHChG%2FT%2Fux1lAB7lUQ%2F6ZqF39uMy9JJ4OAnUrkY4pabZJ66%2FvC36wY86DP#rd)
@@ -124,19 +124,22 @@
 - [2020-03-18 《科学》最新研究聚焦疫情之初：武汉封城前超八成新冠未确诊](https://mp.weixin.qq.com/s?__biz=MjM5ODU5NDgyMg==&mid=2653947598&idx=2&sn=dcb178bfd91f7f80d6ccc2d3218fa4f7&chksm=bd0cf6a78a7b7fb1c670475dd92b09522f8a9dbac1038ae8c3e00eb42b03f1f22d6daa6533d9&mpshare=1&scene=1&srcid=0318Lf3hfQR6fIGU5nRsrEqd&sharer_sharetime=1584530564257&sharer_shareid=6121d04fa85dd0dd3b76f7ddf88a5e16&exportkey=Ao8rlDM7LAomXVhsFuc8muI%3D&pass_ticket=ZMeptotHChG%2FT%2Fux1lAB7lUQ%2F6ZqF39uMy9JJ4OAnUrkY4pabZJ66%2FvC36wY86DP#rd) 
 ![确诊](/pic/quezhen.jpg)
 
+- [2020-03-17 Coronavirus can persist in air for hours and on surfaces for days: study](https://www.reuters.com/article/us-health-coronavirus-study-idUSKBN2143QP)
+![persist](/pic/persist.jpg)
+
 - [2020-03-17 上海交大等多个团队联合研究发现：A型血的人更易感染新冠病毒，O型血最不易感染！](https://mp.weixin.qq.com/s?__biz=MzIwMzA1MzU5Mg==&mid=2652139183&idx=1&sn=3f40e20e154d49f18e77220f8f6d497f&chksm=8d3581d8ba4208ceb1e2fc0e4f9d6c99d0feca5ab5255b503a3cc428c19482efbb796526b92b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584494317607&sharer_shareid=1276c91aef12fcece8d6cc480b1cfdf0&exportkey=AjJ6hto0PQAQmJeSn6l%2Bpdo%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![A型](/pic/atype.jpg)
 
--[2020-03-16 Lower death rate estimates for coronavirus, especially for non-elderly, provide glimmer of hope](https://www.statnews.com/2020/03/16/lower-coronavirus-death-rate-estimates/)
+- [2020-03-16 Lower death rate estimates for coronavirus, especially for non-elderly, provide glimmer of hope](https://www.statnews.com/2020/03/16/lower-coronavirus-death-rate-estimates/)
 ![lower](/pic/lower.jpg)
 
  ***
  
 ## 典型病历史报道
 
--[2020-03-17 Coronavirus Study: One Traveler from China Infected 39 People in Washington State](https://www.breitbart.com/health/2020/03/17/wuhan-report-one-traveller-from-china-infected-39-people-in-washington-state/)
+- [2020-03-17 Coronavirus Study: One Traveler from China Infected 39 People in Washington State](https://www.breitbart.com/health/2020/03/17/wuhan-report-one-traveller-from-china-infected-39-people-in-washington-state/)
 
--[2020-03-16 《柳叶刀》：如何遏制社区传播？新加坡复盘3起“跨国”聚集性疫情](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914415&idx=1&sn=36960f74162441fa1cf6cb18217ea4b3&chksm=83c3d2edb4b45bfb9d8ecac035cd827afe5824335133ad2618871939b3857cc09158bf67e609&mpshare=1&scene=1&srcid=&sharer_sharetime=1584496724592&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ajvk8j0FhYRgYjsPTL3vJSA%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+- [2020-03-16 《柳叶刀》：如何遏制社区传播？新加坡复盘3起“跨国”聚集性疫情](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914415&idx=1&sn=36960f74162441fa1cf6cb18217ea4b3&chksm=83c3d2edb4b45bfb9d8ecac035cd827afe5824335133ad2618871939b3857cc09158bf67e609&mpshare=1&scene=1&srcid=&sharer_sharetime=1584496724592&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ajvk8j0FhYRgYjsPTL3vJSA%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 
  ***
  
@@ -156,5 +159,5 @@
 
 ## 妖孽存照 
 
--[2020-03-18 一个叫“郭红”的人，炮制了你朋友圈所有的“世界失控”](https://mp.weixin.qq.com/s?__biz=MjM5MTk4MDI2MA==&mid=2649595236&idx=1&sn=b6fe643825dbbe95f945355061638c78&chksm=beb472ef89c3fbf987358dccf92ea0f88fd470f15f730d738cb9029d91ea9f16dabc09fc3933&mpshare=1&scene=1&srcid=&sharer_sharetime=1584543316049&sharer_shareid=b6d9339d6b785397058c38b1d1ed2ff0&exportkey=AiX3S3Jq%2B5K5My7imZlKrHM%3D&pass_ticket=DHFvkeKQ0K51NcfNeVy0%2F5dGD5jlmdm7QJ%2F2VQh0EddqWUD6P%2B%2FteG1C%2FakKYnf2#rd)
+- [2020-03-18 一个叫“郭红”的人，炮制了你朋友圈所有的“世界失控”](https://mp.weixin.qq.com/s?__biz=MjM5MTk4MDI2MA==&mid=2649595236&idx=1&sn=b6fe643825dbbe95f945355061638c78&chksm=beb472ef89c3fbf987358dccf92ea0f88fd470f15f730d738cb9029d91ea9f16dabc09fc3933&mpshare=1&scene=1&srcid=&sharer_sharetime=1584543316049&sharer_shareid=b6d9339d6b785397058c38b1d1ed2ff0&exportkey=AiX3S3Jq%2B5K5My7imZlKrHM%3D&pass_ticket=DHFvkeKQ0K51NcfNeVy0%2F5dGD5jlmdm7QJ%2F2VQh0EddqWUD6P%2B%2FteG1C%2FakKYnf2#rd)
 ![失控](/pic/shikong.jpg)
