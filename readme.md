@@ -25,6 +25,9 @@
 
 ## 疫苗相关／新药开发
 
+-[2020-03-17 国务院联防联控发布会：法匹拉韦临床疗效明确，已有8种疫苗进行有效性评价](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=2247495666&idx=1&sn=aefb3efc3f3c35e229dd795ad8756fcf&chksm=fc76dc46cb0155505bf6a068f3becb2a39b90527b82de66e2b232619a34fed40ee0220f45c98&mpshare=1&scene=1&srcid=&sharer_sharetime=1584496848014&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtiUegClNbs%2B%2FQ0M9WLQGjg%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+![８种](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/fapilawei.jpg)
+
 - [2020-03-16 重磅|康希诺生物新冠疫苗进入临床试验招募阶段！](https://mp.weixin.qq.com/s?__biz=MzI4OTIzMzcwMw==&mid=2659320076&idx=2&sn=50075531d1b58f676ac3dab8444861a5&chksm=f744ef44c03366523e5f4dbb0d527405e35f485d7345bc067ecae68c1feee4732d700728c069&mpshare=1&scene=1&srcid=0318yCwSHpA56JZwEOlr3J3G&sharer_sharetime=1584492754342&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avu9z%2FuymCwRdFmhBHGGydY%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 
 - [2020-03-17 康希诺生物全国首款重组新型冠状病毒疫苗获批进入临床](https://mp.weixin.qq.com/s?__biz=MzI0Nzc5MDU4OQ==&mid=2247483963&idx=1&sn=5511849497d6e65abf843780068b17e5&chksm=e9abeca9dedc65bf03d7a59ff57d33eb5178350db36f32b4b02d8bd727d36f6d240dee50e785&mpshare=1&scene=1&srcid=&sharer_sharetime=1584496562702&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alcx7stNO%2Fwzud2qt%2FhA0Po%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
