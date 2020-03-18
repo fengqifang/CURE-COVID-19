@@ -126,6 +126,9 @@
 - [2020-03-17 上海交大等多个团队联合研究发现：A型血的人更易感染新冠病毒，O型血最不易感染！](https://mp.weixin.qq.com/s?__biz=MzIwMzA1MzU5Mg==&mid=2652139183&idx=1&sn=3f40e20e154d49f18e77220f8f6d497f&chksm=8d3581d8ba4208ceb1e2fc0e4f9d6c99d0feca5ab5255b503a3cc428c19482efbb796526b92b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584494317607&sharer_shareid=1276c91aef12fcece8d6cc480b1cfdf0&exportkey=AjJ6hto0PQAQmJeSn6l%2Bpdo%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![A型](/pic/atype.jpg)
 
+-[2020-03-16 Lower death rate estimates for coronavirus, especially for non-elderly, provide glimmer of hope](https://www.statnews.com/2020/03/16/lower-coronavirus-death-rate-estimates/)
+![lower](/pic/lower.jpg)
+
  ***
  
 ## 典型病历史报道
