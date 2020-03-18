@@ -34,6 +34,9 @@
 - [2020-03-17 我国疫苗研发属于国际先进行列，不会慢于国外](https://news.html5.qq.com/share/1237309093773132098?cardmode=1&ch=060000&dataSrc=96&docId=1237309093773132098&from=timeline&isappinstalled=0&pid=1&qbredirect=&queryId=1584434838014&sc_id=7OqxzeD&sh_sid=5__25bda8df21827333__a7f844b04b6a4ecb13644c6913b788cb&share=true&share_count=2&subjectId=12307&url=http%3A%2F%2Fkuaibao.qq.com%2Fs%2F20200317A0ISG200&zimeitiId=qeh_5109679)
 ![慢](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/man.jpg)
 
+- [2020-03-17 重磅！军队成功研制重组新冠疫苗](http://www.mod.gov.cn/topnews/2020-03/17/content_4862066.htm?from=timeline&isappinstalled=0)
+![军队](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/jun.jpg)
+
 ## 研究进展
 
 - [2020-03-17 上海交大等多个团队联合研究发现：A型血的人更易感染新冠病毒，O型血最不易感染！](https://mp.weixin.qq.com/s?__biz=MzIwMzA1MzU5Mg==&mid=2652139183&idx=1&sn=3f40e20e154d49f18e77220f8f6d497f&chksm=8d3581d8ba4208ceb1e2fc0e4f9d6c99d0feca5ab5255b503a3cc428c19482efbb796526b92b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584494317607&sharer_shareid=1276c91aef12fcece8d6cc480b1cfdf0&exportkey=AjJ6hto0PQAQmJeSn6l%2Bpdo%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
