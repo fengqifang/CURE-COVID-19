@@ -142,6 +142,9 @@
  
 ## 其他
 
+-[2020-03-18 COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
+![open](/pic/open.jpg)
+
 －[2020-03-18 【JAMA】面对新冠肺炎，美式打法到底什么样？](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488238&idx=1&sn=ee9832247ff66f8ad3d78dbcc5cd361b&chksm=f98018abcef791bdcd80748b017e9d504258b36ee474660e20a2843bf8858732341743ee46d3&mpshare=1&scene=1&srcid=0318Xt7kza79TXqGnA3ViobD&sharer_sharetime=1584501157321&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avpr%2BjZh4deYapZf0eJzXqo%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![jama](/pic/jama.jpg)
 
