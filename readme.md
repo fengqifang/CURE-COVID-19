@@ -78,6 +78,18 @@
 
 ## 研究进展
 
+-[2020-03-18 新冠病毒能在塑料表面存活72小时？最新NEJM研究评估病毒体外稳定性](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914426&idx=1&sn=a429ffea94f71567ed6f3c8cba9581f5&chksm=83c3d2f8b4b45bee57718d5a9b9d7fcc24105622e95ee22971eb08a6c23e19b28d1420f62f3f&mpshare=1&scene=1&srcid=0318FgajzRDmrkharjodvMVx&sharer_sharetime=1584540331556&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Av4T7SeHmzHwsnyHMiKc4Io%3D&pass_ticket=ZMeptotHChG%2FT%2Fux1lAB7lUQ%2F6ZqF39uMy9JJ4OAnUrkY4pabZJ66%2FvC36wY86DP#rd)
+![存活](/pic/cunhuo.jpg)
+
+-[2020-03-18 预印本 | 美国首批12名确诊新冠病毒感染者临床特征](https://m.sohu.com/sa/380061610_456025?from=groupmessage&isappinstalled=0)
+![特征](/pic/tezheng.jpg)
+
+- [2020-03-18 美英澳科学家《自然医学》再添力证：新冠病毒乃自然进化产物，或有两种起源...](https://mp.weixin.qq.com/s?__biz=MjM5ODU5NDgyMg==&mid=2653947598&idx=1&sn=b0f3f6e45e9cc898a863458cb7164b90&chksm=bd0cf6a78a7b7fb1d61ebcc05227f1680bdecbf5867cdc4ceace6af7eeb230b0877363f12a58&mpshare=1&scene=1&srcid=&sharer_sharetime=1584540152734&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aii8JesDHMMK5xlpbMosYwY%3D&pass_ticket=ZMeptotHChG%2FT%2Fux1lAB7lUQ%2F6ZqF39uMy9JJ4OAnUrkY4pabZJ66%2FvC36wY86DP#rd)
+![起源](/pic/qiyuan.jpg)
+
+- [2020-03-18 《科学》最新研究聚焦疫情之初：武汉封城前超八成新冠未确诊](https://mp.weixin.qq.com/s?__biz=MjM5ODU5NDgyMg==&mid=2653947598&idx=2&sn=dcb178bfd91f7f80d6ccc2d3218fa4f7&chksm=bd0cf6a78a7b7fb1c670475dd92b09522f8a9dbac1038ae8c3e00eb42b03f1f22d6daa6533d9&mpshare=1&scene=1&srcid=0318Lf3hfQR6fIGU5nRsrEqd&sharer_sharetime=1584530564257&sharer_shareid=6121d04fa85dd0dd3b76f7ddf88a5e16&exportkey=Ao8rlDM7LAomXVhsFuc8muI%3D&pass_ticket=ZMeptotHChG%2FT%2Fux1lAB7lUQ%2F6ZqF39uMy9JJ4OAnUrkY4pabZJ66%2FvC36wY86DP#rd) 
+![确诊](/pic/quezhen.jpg)
+
 - [2020-03-17 上海交大等多个团队联合研究发现：A型血的人更易感染新冠病毒，O型血最不易感染！](https://mp.weixin.qq.com/s?__biz=MzIwMzA1MzU5Mg==&mid=2652139183&idx=1&sn=3f40e20e154d49f18e77220f8f6d497f&chksm=8d3581d8ba4208ceb1e2fc0e4f9d6c99d0feca5ab5255b503a3cc428c19482efbb796526b92b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584494317607&sharer_shareid=1276c91aef12fcece8d6cc480b1cfdf0&exportkey=AjJ6hto0PQAQmJeSn6l%2Bpdo%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![A型](/pic/atype.jpg)
 
