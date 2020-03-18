@@ -49,6 +49,9 @@
 - [2020-03-16 上海市科委：新冠疫苗已启动灵长类动物实验，预计4月中旬临床试验](https://mp.weixin.qq.com/s?__biz=MjI3Njc0NTk4MQ==&mid=2649979424&idx=3&sn=5810764fca37c1f1326c9b4cdf6a8cff&chksm=b78c4fb280fbc6a4a541f821db1cb9ce729b0b9a112ab78e8d3c1fc31b8ecb4d461d6e32889e&mpshare=1&scene=1&srcid=0317gT6mROiqrILCZesHpjud&sharer_sharetime=1584496435992&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsQnPZqQHDiDeTIprPkzoMU%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![上海](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/dongwu.jpg)
 
+- [2020-03-16 今日COVID-19研发动态：Moderna新冠疫苗完成首例志愿者接种，IL-6抑制剂启动2/3期临床试验](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992287&idx=2&sn=3e460afbf5656f82bd5e7f586a1b46b2&chksm=82e92adfb59ea3c9965741232ae038013db5d2174fc348d0217256cc748a48a95bae68ea9547&mpshare=1&scene=1&srcid=0317sJvu7aPZdXcYsC4UaV4w&sharer_sharetime=1584497050691&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ag5YNAgDJCvLmXixOokhcSo%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+![moderna](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/moderna.jpg)
+
 ## 研究进展
 
 - [2020-03-17 上海交大等多个团队联合研究发现：A型血的人更易感染新冠病毒，O型血最不易感染！](https://mp.weixin.qq.com/s?__biz=MzIwMzA1MzU5Mg==&mid=2652139183&idx=1&sn=3f40e20e154d49f18e77220f8f6d497f&chksm=8d3581d8ba4208ceb1e2fc0e4f9d6c99d0feca5ab5255b503a3cc428c19482efbb796526b92b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584494317607&sharer_shareid=1276c91aef12fcece8d6cc480b1cfdf0&exportkey=AjJ6hto0PQAQmJeSn6l%2Bpdo%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
