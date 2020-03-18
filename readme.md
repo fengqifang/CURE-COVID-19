@@ -43,6 +43,9 @@
 
 ## 疫苗相关／新药开发
 
+-[2020-03-18 科技部：法匹拉韦完成临床研究，显示出很好的临床疗效，药品已实现量产](https://mp.weixin.qq.com/s?__biz=MzAwODA5MjQ3Ng==&mid=2653089989&idx=1&sn=33b7bc6f866fb4ab04f32cb083c33f7a&chksm=80a27e96b7d5f780bb028c36fb08432811509324cf4e5698f2678ab15eb8a9c7febf92aab42d&mpshare=1&scene=1&srcid=0317Wh0ClXED19ytl3WO6Liq&sharer_sharetime=1584501785128&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlDnjBcl3%2BmL%2F%2BhvY2gJg%2FM%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+![fapilawei2](./pic/fapilawei2.jpg)
+
 -[2020-03-18 重磅 | 饶子和院士等团队首次解析了瑞德昔韦标靶的结构，对于药物开发意义重大](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247507736&idx=2&sn=1d3ae0cf96a74d9d1da0a75be8e45e21&chksm=fce6acc7cb9125d1aac3b1ec166c99ad343634ce28f037b1028f32373a571bb5427cff932cca&mpshare=1&scene=1&srcid=&sharer_sharetime=1584501378606&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgYJoto1vy5l3Kc%2Bi21dI5g%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![rao](./pic/rao.jpg)
 
