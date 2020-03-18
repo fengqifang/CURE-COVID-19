@@ -26,7 +26,10 @@
 - [2020-03-16 重磅|康希诺生物新冠疫苗进入临床试验招募阶段！](https://mp.weixin.qq.com/s?__biz=MzI4OTIzMzcwMw==&mid=2659320076&idx=2&sn=50075531d1b58f676ac3dab8444861a5&chksm=f744ef44c03366523e5f4dbb0d527405e35f485d7345bc067ecae68c1feee4732d700728c069&mpshare=1&scene=1&srcid=0318yCwSHpA56JZwEOlr3J3G&sharer_sharetime=1584492754342&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avu9z%2FuymCwRdFmhBHGGydY%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![康希诺](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/kangxinuo.jpg)
 
-## 疫苗相关
+## 疫苗相关／新药开发
+
+- [2020-03-17 再生元已鉴定数百种新冠病毒中和抗体，有望下月进入临床](https://mp.weixin.qq.com/s?__biz=MzI5OTAyOTI1Ng==&mid=2247483964&idx=1&sn=dc16f2998761ee4fd400a3cb1bf5b12f&chksm=ec9d845bdbea0d4daca5ecfc9a7e2580c7e9f506aa8c2965b419c492fca526a835535d5ed745&mpshare=1&scene=1&srcid=&sharer_sharetime=1584495733288&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApHWUQi7gxVafMZZ1HF1vyE%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+![再生元](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/zaishengyuan.jpg)
 
 ## 研究进展
 
