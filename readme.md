@@ -1,5 +1,7 @@
 # COVID-19 治疗相关报道
 
+ ***
+
 ### 疫情地图
 
 -[Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering](https://coronavirus.jhu.edu/map.html)
@@ -16,6 +18,8 @@
 
 -[北美版丁香园 美国和加拿大 疫情地图实时动态追踪](https://coronavirus.1point3acres.com/)
 
+ ***
+ 
 ## 检测试剂
 
 - [2020-03-17 中美上市新型冠状病毒检测试剂对比](https://mp.weixin.qq.com/s?__biz=MzA3ODgzODc5NA==&mid=2651778806&idx=1&sn=241867507717156503d81c7694487f57&chksm=8446e393b3316a856f0b8e5381f13d5b7a401e776b92af57c075d2d71c807d7be6a3721c5280&mpshare=1&scene=1&srcid=0318xetmhIcbKxoRNtN4AmfM&sharer_sharetime=1584492582044&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Anhhsami5IaqdwlUjPVAtbE%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
@@ -24,6 +28,8 @@
 -[2020-03-14 罗氏 cobas SARS-CoV-2 检测获得FDA紧急使用授权，显著提高新型冠状病毒检测能力](https://mp.weixin.qq.com/s?__biz=MzAxMjA5ODExMg==&mid=2649767588&idx=1&sn=4258907ea9e07394bec8215b7a35a811&chksm=83b3918bb4c4189d0d4ed717b7600ac9dba3764055c108657cebbe843ede24efb9edeaa74c32&mpshare=1&scene=1&srcid=03181WPcXsMbuTty8hDY8SuP&sharer_sharetime=1584499170738&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuBZoeH9Lf35GRebQY31wQQ%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![Roche](./pic/roche.jpg)
 
+ ***
+ 
 ## 治疗方案
 
 - [2020-03-15 韩国在救治新冠肺炎病患中异军突起](http://www.360doc.cn/article/1120683_899395057.html)
@@ -41,6 +47,8 @@
 - [20202-03-10 磷酸氯喹、羟氯喹及双氢青蒿素哌喹片：老牌抗疟药的抗新冠肺炎之路](https://mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655775100&idx=1&sn=65ca8f9e49d6ae1ec832298a0700d335&chksm=8bcef7f9bcb97eeffb7c13146eae4b03ef8d261fb650f1f2bf22962285562d6446657d2e99b2&mpshare=1&scene=1&srcid=0318r5iFNTA29QGzMb48IWjv&sharer_sharetime=1584499661380&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtivEd5X6cbq%2FNo5J1mqI1E%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![氯喹](./pic/lvqui.jpg)
 
+ ***
+ 
 ## 疫苗相关／新药开发
 
 -[2020-03-18 科技部：法匹拉韦完成临床研究，显示出很好的临床疗效，药品已实现量产](https://mp.weixin.qq.com/s?__biz=MzAwODA5MjQ3Ng==&mid=2653089989&idx=1&sn=33b7bc6f866fb4ab04f32cb083c33f7a&chksm=80a27e96b7d5f780bb028c36fb08432811509324cf4e5698f2678ab15eb8a9c7febf92aab42d&mpshare=1&scene=1&srcid=0317Wh0ClXED19ytl3WO6Liq&sharer_sharetime=1584501785128&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlDnjBcl3%2BmL%2F%2BhvY2gJg%2FM%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
@@ -76,6 +84,8 @@
 - [2020-03-16 今日COVID-19研发动态：Moderna新冠疫苗完成首例志愿者接种，IL-6抑制剂启动2/3期临床试验](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992287&idx=2&sn=3e460afbf5656f82bd5e7f586a1b46b2&chksm=82e92adfb59ea3c9965741232ae038013db5d2174fc348d0217256cc748a48a95bae68ea9547&mpshare=1&scene=1&srcid=0317sJvu7aPZdXcYsC4UaV4w&sharer_sharetime=1584497050691&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ag5YNAgDJCvLmXixOokhcSo%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![moderna](/pic/moderna.jpg)
 
+ ***
+ 
 ## 研究进展
 
 -[2020-03-18 清华医学院教授董晨：新冠病毒引起的免疫应答急需研究](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247498350&idx=1&sn=b436908221f54f34e5344d346e3b2498&chksm=9b348cbfac4305a997d216bdb52160133d7830470c8f66d09c815e16fd759b2461872a18f455&mpshare=1&scene=1&srcid=0318I6lNzy7GPsadgLJoG5RS&sharer_sharetime=1584540457721&sharer_shareid=401b51ed94baba186ceb8c21b6321762&exportkey=Amd1d9eEsAewj5EjpE0MRRc%3D&pass_ticket=ZMeptotHChG%2FT%2Fux1lAB7lUQ%2F6ZqF39uMy9JJ4OAnUrkY4pabZJ66%2FvC36wY86DP#rd)
@@ -96,12 +106,16 @@
 - [2020-03-17 上海交大等多个团队联合研究发现：A型血的人更易感染新冠病毒，O型血最不易感染！](https://mp.weixin.qq.com/s?__biz=MzIwMzA1MzU5Mg==&mid=2652139183&idx=1&sn=3f40e20e154d49f18e77220f8f6d497f&chksm=8d3581d8ba4208ceb1e2fc0e4f9d6c99d0feca5ab5255b503a3cc428c19482efbb796526b92b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584494317607&sharer_shareid=1276c91aef12fcece8d6cc480b1cfdf0&exportkey=AjJ6hto0PQAQmJeSn6l%2Bpdo%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![A型](/pic/atype.jpg)
 
+ ***
+ 
 ## 典型病历史报道
 
 -[2020-03-17 Coronavirus Study: One Traveler from China Infected 39 People in Washington State](https://www.breitbart.com/health/2020/03/17/wuhan-report-one-traveller-from-china-infected-39-people-in-washington-state/)
 
 -[2020-03-16 《柳叶刀》：如何遏制社区传播？新加坡复盘3起“跨国”聚集性疫情](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914415&idx=1&sn=36960f74162441fa1cf6cb18217ea4b3&chksm=83c3d2edb4b45bfb9d8ecac035cd827afe5824335133ad2618871939b3857cc09158bf67e609&mpshare=1&scene=1&srcid=&sharer_sharetime=1584496724592&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ajvk8j0FhYRgYjsPTL3vJSA%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 
+ ***
+ 
 ## 其他
 
 －[2020-03-18 【JAMA】面对新冠肺炎，美式打法到底什么样？](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488238&idx=1&sn=ee9832247ff66f8ad3d78dbcc5cd361b&chksm=f98018abcef791bdcd80748b017e9d504258b36ee474660e20a2843bf8858732341743ee46d3&mpshare=1&scene=1&srcid=0318Xt7kza79TXqGnA3ViobD&sharer_sharetime=1584501157321&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avpr%2BjZh4deYapZf0eJzXqo%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
