@@ -26,14 +26,17 @@
 
 ## 治疗方案
 
-- [2020-03-12 从柳叶刀最新论文看新冠病毒的一些临床特点](https://mp.weixin.qq.com/s?__biz=MzA3MjA5ODY1Mg==&mid=2658067545&idx=1&sn=5094fa06b961e28c6291afcdbb1b27b1&chksm=84b9326ab3cebb7c45ec8532fa3b889062c81f587828cddfc3bebca3911fb53bc1e50eb901c3&mpshare=1&scene=1&srcid=0318uPeqTqQ8WGx2kZo2O5PJ&sharer_sharetime=1584499340077&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuN2XTaZCeQyD8fFZIHc0hY%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
-![特点](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/tedian.jpg)
-
 - [2020-03-13 日本结果显示remdesivir ( 人民的希望） 对新冠状病毒重症100%有效](https://mp.weixin.qq.com/s?__biz=MzA5MTI5MDY5Mg==&mid=2649570394&idx=1&sn=14a024fcc63b0b59b800dbee7279be32&chksm=88673171bf10b867c58efb5c0e0cc2bcdf6deb83e88c125e22bc74e4a236690e8ecf8d23ad87&mpshare=1&scene=1&srcid=0314bluSprgg77Lzm7QoPiLT&sharer_sharetime=1584499454786&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao9MAMZPymM%2B%2F4dQHj1eCgI%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
 ![日本](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/riben.jpg)
 
+- [2020-03-12 从柳叶刀最新论文看新冠病毒的一些临床特点](https://mp.weixin.qq.com/s?__biz=MzA3MjA5ODY1Mg==&mid=2658067545&idx=1&sn=5094fa06b961e28c6291afcdbb1b27b1&chksm=84b9326ab3cebb7c45ec8532fa3b889062c81f587828cddfc3bebca3911fb53bc1e50eb901c3&mpshare=1&scene=1&srcid=0318uPeqTqQ8WGx2kZo2O5PJ&sharer_sharetime=1584499340077&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuN2XTaZCeQyD8fFZIHc0hY%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+![特点](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/tedian.jpg)
+
 - [2020-03-11 UC Davis Medical Center successfully treats patients with coronavirus; hospital plans to expand on-site testing](https://health.ucdavis.edu/health-news/newsroom/UC-Davis-Medical-Center-successfully-treats-coronavirus-patients-hospital-plans-on-site-testing/2020/03?fbclid=IwAR0nx4lOlO8IPFrndv2pGMo5djlLke9KqE5HpRhVHVQNKSss0yUKslC0Diw&from=groupmessage&isappinstalled=0#.Xmzs6qkpkOG.facebook)
 ![Davis](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/davis.jpg)
+
+- [20202-03-10 磷酸氯喹、羟氯喹及双氢青蒿素哌喹片：老牌抗疟药的抗新冠肺炎之路](https://mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655775100&idx=1&sn=65ca8f9e49d6ae1ec832298a0700d335&chksm=8bcef7f9bcb97eeffb7c13146eae4b03ef8d261fb650f1f2bf22962285562d6446657d2e99b2&mpshare=1&scene=1&srcid=0318r5iFNTA29QGzMb48IWjv&sharer_sharetime=1584499661380&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtivEd5X6cbq%2FNo5J1mqI1E%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+![氯喹](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/lvqui.jpg)
 
 ## 疫苗相关／新药开发
 
