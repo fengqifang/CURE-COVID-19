@@ -56,7 +56,7 @@
 ![再生元](./pic/zaishengyuan.jpg)
 
 - [2020-03-17 我国疫苗研发属于国际先进行列，不会慢于国外](https://news.html5.qq.com/share/1237309093773132098?cardmode=1&ch=060000&dataSrc=96&docId=1237309093773132098&from=timeline&isappinstalled=0&pid=1&qbredirect=&queryId=1584434838014&sc_id=7OqxzeD&sh_sid=5__25bda8df21827333__a7f844b04b6a4ecb13644c6913b788cb&share=true&share_count=2&subjectId=12307&url=http%3A%2F%2Fkuaibao.qq.com%2Fs%2F20200317A0ISG200&zimeitiId=qeh_5109679)
-![慢](../pic/man.jpg)
+![慢](./pic/man.jpg)
 
 - [2020-03-17 重磅！军队成功研制重组新冠疫苗](http://www.mod.gov.cn/topnews/2020-03/17/content_4862066.htm?from=timeline&isappinstalled=0)
 ![军队](./pic/jun.jpg)
