@@ -56,7 +56,10 @@
  
 ## 治疗方案
 
-- [2020-03-20 NEJM重磅 | 随机对照研究，王辰院士等揭示洛匹那韦–利托那韦治疗重症新冠肺炎无效](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247507768&idx=3&sn=84c66d44de6c56cb16c7f3ced95e6502&chksm=fce6ace7cb9125f15cc0bcda0551eac8683914b548e325b5a0fef3a3cc08fd3504628c23ed77&mpshare=1&scene=1&srcid=&sharer_sharetime=1584582466849&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah76d9fDSGUDGIYnc1z%2BIH0%3D&pass_ticket=zWVYVxV8%2FgP9pcTskTZ3kJK2M8M7CIt2zKwqd%2FuyaF7zWd5K0R%2BUKfTp4dSrfWX8#rd)
+- [2020-03-19 《柳叶刀》：抗击疟疾耐药！青蒿素三联疗法安全有效，八国试验支持“现成新选择”](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914444&idx=1&sn=81e64fd62e00ca24685a4a46b28b88a9&chksm=83c3d28eb4b45b982607257e82467414422413209005a038d45f3361b24a65b6cae89a469626&mpshare=1&scene=1&srcid=&sharer_sharetime=1584631681034&sharer_shareid=a9c952ab6f63a17519bb96b39232e47e&exportkey=Ashr9%2FZrKtywenwn00lVf1k%3D&pass_ticket=QVc%2BaIiodq8ErwN1pzyLkkQt3E8FKT9U6n%2BhlSiB9UjrSqz9%2FdqAOv4oPluzeLwh#rd)
+![疟疾](/pic/qing.jpg)
+
+- [2020-03-19 NEJM重磅 | 随机对照研究，王辰院士等揭示洛匹那韦–利托那韦治疗重症新冠肺炎无效](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247507768&idx=3&sn=84c66d44de6c56cb16c7f3ced95e6502&chksm=fce6ace7cb9125f15cc0bcda0551eac8683914b548e325b5a0fef3a3cc08fd3504628c23ed77&mpshare=1&scene=1&srcid=&sharer_sharetime=1584582466849&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah76d9fDSGUDGIYnc1z%2BIH0%3D&pass_ticket=zWVYVxV8%2FgP9pcTskTZ3kJK2M8M7CIt2zKwqd%2FuyaF7zWd5K0R%2BUKfTp4dSrfWX8#rd)
 ![无效](/pic/fail.jpg)
 
 - [2020-03-18 After 6 days 100% of patients treated with HCQ + Azithromycin  were virologically cured](https://twitter.com/RiganoESQ/status/1240273631604809728) 
