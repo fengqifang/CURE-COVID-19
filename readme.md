@@ -177,7 +177,7 @@
 
  ***
  
-## 典型病历史报道
+## 典型病例报道
 
 - [**2020-03-17 Coronavirus Study: One Traveler from China Infected 39 People in Washington State**](https://www.breitbart.com/health/2020/03/17/wuhan-report-one-traveller-from-china-infected-39-people-in-washington-state/)
 
