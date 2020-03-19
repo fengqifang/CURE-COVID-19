@@ -184,8 +184,10 @@
 - [2020-03-19 日本低感染数字背后到底隐藏了什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njk3MjgyMQ==&mid=2247485333&idx=1&sn=b9e5656d0400e0576b05924c6a7c19a0&chksm=ebd5896fdca200790407cd9770b73a8fd7f616330661a5d6dc8a7f048480c56d173c64a231cf&mpshare=1&scene=1&srcid=0316BeLBPhaXIFVEWCQiYanm&sharer_sharetime=1584623061906&sharer_shareid=7db4f677037e2724f7e9fd3e83f49b4a&exportkey=Ar2IYnp5olvZl1mlEauw9gQ%3D&pass_ticket=SmpVjidc%2Bpb9lRtyO5kZVjon%2Bxx1yNJOKkKHz58ZrkdkebmsPahazPlCwcHVdiXM#rd)
 ![低感染](/pic/japanslow.jpg)
 
+
 - [2020-03-18 What is Herd Immunity?](https://www.pbs.org/wgbh/nova/article/herd-immunity/)
 ![herd](/pic/herd.jpg)
+
 
 - [2020-03-18 How to Manage Your Coronavirus Anxiety](https://www.wsj.com/articles/how-to-manage-your-coronavirus-anxiety-11583424434?mod=wsjtwittertest19)
 ![anxiety](/pic/anxiety.jpg)
