@@ -56,6 +56,12 @@
  
 ## 治疗方案
 
+- [2020-03-18 After 6 days 100% of patients treated with HCQ + Azithromycin  were virologically cured](https://twitter.com/RiganoESQ/status/1240273631604809728) [An Open Data Clinical Trial for COVID-19 Prevention](https://www.covidtrial.io/)
+![hcq](/pic/hcq.jpg)
+
+- [2020-03-18 Japanese flu drug 'clearly effective' in treating coronavirus, says China](https://www.theguardian.com/world/2020/mar/18/japanese-flu-drug-clearly-effective-in-treating-coronavirus-says-china)
+![japan](/pic/japan.jpg)
+
 - [2020-03-18 直接比较候选疗法疗效，世卫组织启动大型全球性COVID-19临床试验](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992335&idx=1&sn=297d49e5094715a0c0c106adc8310bfc&chksm=82e92a0fb59ea31918a7ffcbd96b9b9cf7c7a0612b48ac23032132741bcd489f8cf71339d865&mpshare=1&scene=1&srcid=&sharer_sharetime=1584574344481&sharer_shareid=7aebabece500f47b2bda8614435da29f&exportkey=AiLoVnqqZ7L7DAn%2Bkk7d6Xo%3D&pass_ticket=zWVYVxV8%2FgP9pcTskTZ3kJK2M8M7CIt2zKwqd%2FuyaF7zWd5K0R%2BUKfTp4dSrfWX8#rd)
 ![候选](/pic/who.jpg)
 
