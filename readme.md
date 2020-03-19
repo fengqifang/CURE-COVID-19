@@ -163,6 +163,10 @@
  
 ## 其他
 
+- [2020-03-18 How to Manage Your Coronavirus Anxiety](https://www.wsj.com/articles/how-to-manage-your-coronavirus-anxiety-11583424434?mod=wsjtwittertest19)
+![anxiety](/pic/anxiety.jpg)
+
+
 - [2020-03-18 Remembering Who Is Keeping Us Alive](https://www.nationalreview.com/corner/remembering-who-is-keeping-us-alive/)
 ![remember](/pic/remember.jpg)
 
