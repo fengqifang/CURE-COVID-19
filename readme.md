@@ -89,6 +89,10 @@
  
 ## 疫苗相关／新药开发
 
+- [2020-03-19 快讯！罗氏启动首个托珠单抗治疗新冠肺炎全球3期临床试验](https://www.wuximediatech.com/content/post/detail.html?sn=8e7e6b5d148d435fa3285776f04fad9d&from=wechat)
+![托珠](/pic/tuozhu.jpg)
+
+
 - [2020-03-18 英国启动万人试验：COPCOV (警察抓新冠) - 氯喹预防新冠肺炎的研究](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488248&idx=2&sn=dff4d5861d3381a0741c9200b62a32fc&chksm=f98018bdcef791ab49e3b2e111896d06c80c5c7b4160f91b3bb7133dc0d13f9a74d2feb75fec&mpshare=1&scene=1&srcid=0319GJUYbt7n85e3cYSvD2Dn&sharer_sharetime=1584580213616&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AnmXigczTeo%2Fbe1X8LdH2jQ%3D&pass_ticket=zWVYVxV8%2FgP9pcTskTZ3kJK2M8M7CIt2zKwqd%2FuyaF7zWd5K0R%2BUKfTp4dSrfWX8#rd)
 ![COP](/pic/cop.jpg)
 
