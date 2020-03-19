@@ -92,6 +92,9 @@
  
 ## 疫苗相关／新药开发
 
+- [2020-03-19 新冠疫苗，横空出世了吗？](https://mp.weixin.qq.com/s?__biz=MzI5NTc5MTI3Nw==&mid=2247483909&idx=1&sn=06adf58ff3fc759bf3a8bc55ff77aeae&chksm=ec4f7dc7db38f4d1ee7c8bd25095abc0c59e7e6cde0c2011b625bf05ee21a8e1feb6295975c0&mpshare=1&scene=1&srcid=&sharer_sharetime=1584633862070&sharer_shareid=470b615c30870b5523881592816e9b3e&exportkey=ArEs7EJ6KBoly923Q1qLmCM%3D&pass_ticket=QVc%2BaIiodq8ErwN1pzyLkkQt3E8FKT9U6n%2BhlSiB9UjrSqz9%2FdqAOv4oPluzeLwh#rd)
+![横空出世](/pic/healthword.jpg)
+
 - [2020-03-19 医药创新界联署：解决新冠病毒等疫苗、药物研发停滞问题](https://mp.weixin.qq.com/s?__biz=MzA5MTA2MDIxOQ==&mid=2247484099&idx=1&sn=41f1d63734d8a2e1391dfb1fca7fa89c&chksm=90036057a774e941b9e1656fa444976cef0f3b8873f6fac1f22d705934f36a94df628c6ee0d1&mpshare=1&scene=1&srcid=&sharer_sharetime=1584611272328&sharer_shareid=ccc7e15e8277d725ef3ca0c0363c259b&exportkey=AnidKXFyTvwzUGtVC7GwiyM%3D&pass_ticket=SmpVjidc%2Bpb9lRtyO5kZVjon%2Bxx1yNJOKkKHz58ZrkdkebmsPahazPlCwcHVdiXM#rd)
 ![医药创新界](/pic/stop.jpg)
 
