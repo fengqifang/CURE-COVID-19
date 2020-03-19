@@ -64,7 +64,7 @@
 
 - [**2020-03-18 After 6 days 100% of patients treated with HCQ + Azithromycin  were virologically cured**](https://twitter.com/RiganoESQ/status/1240273631604809728) 
 
-[**An Open Data Clinical Trial for COVID-19 Prevention**](https://www.covidtrial.io/)
+- [**An Open Data Clinical Trial for COVID-19 Prevention**](https://www.covidtrial.io/)
 ![hcq](/pic/hcq.jpg)
 
 - [**2020-03-18 Japanese flu drug 'clearly effective' in treating coronavirus, says China**](https://www.theguardian.com/world/2020/mar/18/japanese-flu-drug-clearly-effective-in-treating-coronavirus-says-china)
@@ -102,7 +102,7 @@
 ![托珠](/pic/tuozhu.jpg)
 
 
-- [**2020-03-18 英国启动万人试验：COPCOV (警察抓新冠) - 氯喹预防新冠肺炎的研**究**](https://mp.weixin.qq.com/s?__biz=MzUxODkzOD**QxMA==&mid=2247488248&idx=2&sn=dff4d5861d3381a0741c9200b62a32fc&chksm=f98018bdcef791ab49e3b2e111896d06c80c5c7b4160f91b3bb7133dc0d13f9a74d2feb75fec&mpshare=1&scene=1&srcid=0319GJUYbt7n85e3cYSvD2Dn&sharer_sharetime=1584580213616&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AnmXigczTeo%2Fbe1X8LdH2jQ%3D&pass_ticket=zWVYVxV8%2FgP9pcTskTZ3kJK2M8M7CIt2zKwqd%2FuyaF7zWd5K0R%2BUKfTp4dSrfWX8#rd)
+- [**2020-03-18 英国启动万人试验：COPCOV (警察抓新冠) - 氯喹预防新冠肺炎的研究**](https://mp.weixin.qq.com/s?__biz=MzUxODkzOD**QxMA==&mid=2247488248&idx=2&sn=dff4d5861d3381a0741c9200b62a32fc&chksm=f98018bdcef791ab49e3b2e111896d06c80c5c7b4160f91b3bb7133dc0d13f9a74d2feb75fec&mpshare=1&scene=1&srcid=0319GJUYbt7n85e3cYSvD2Dn&sharer_sharetime=1584580213616&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AnmXigczTeo%2Fbe1X8LdH2jQ%3D&pass_ticket=zWVYVxV8%2FgP9pcTskTZ3kJK2M8M7CIt2zKwqd%2FuyaF7zWd5K0R%2BUKfTp4dSrfWX8#rd)
 ![COP](/pic/cop.jpg)
 
 - [**2020-03-18 新冠病毒重要药物靶点-RNA依赖的RNA聚合酶三维精细结构获得解析**](https://mp.weixin.qq.com/s?__biz=MjM5NTY5OTMxMA==&mid=2651311956&idx=1&sn=fe7b925bed54be440e8fab3fe0abee51&chksm=bd07e0558a706943da71ebf4b630ad0a4e4ae6c89440fc87478e659ad68dbb7d8b1c1e7ed7e1&mpshare=1&scene=1&srcid=&sharer_sharetime=1584563423612&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Au0JvES7EgSjwM%2BgI%2F8aJ2Y%3D&pass_ticket=I28Db8P7PMyKR5Lzw0ixxIajuVaMzahzUszVfVQGxr97QzRBKo%2By7BliS5XCSlsk#rd)
