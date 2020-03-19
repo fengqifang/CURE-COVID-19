@@ -60,6 +60,7 @@
 ![无效](/pic/fail.jpg)
 
 - [2020-03-18 After 6 days 100% of patients treated with HCQ + Azithromycin  were virologically cured](https://twitter.com/RiganoESQ/status/1240273631604809728) 
+
 [An Open Data Clinical Trial for COVID-19 Prevention](https://www.covidtrial.io/)
 ![hcq](/pic/hcq.jpg)
 
