@@ -5,7 +5,10 @@
 **[肺炎实战共享平台](https://covid-19.alibabacloud.com/zh?from=timeline&isappinstalled=0)**
 
 ***
- 
+
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=fengqifang.CURECOVID)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=fengqifang.CURECOVID)
+
 ***
   
   
@@ -147,6 +150,9 @@
  ***
  
 ## 其他
+
+- [2020-03-18 Remembering Who Is Keeping Us Alive](https://www.nationalreview.com/corner/remembering-who-is-keeping-us-alive/)
+![remember](/pic/remember.jpg)
 
 - [2020-03-18 COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
 ![open](/pic/open.jpg)
