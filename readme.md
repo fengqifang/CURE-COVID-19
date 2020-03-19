@@ -89,6 +89,9 @@
  
 ## 疫苗相关／新药开发
 
+- [2020-03-19 医药创新界联署：解决新冠病毒等疫苗、药物研发停滞问题](https://mp.weixin.qq.com/s?__biz=MzA5MTA2MDIxOQ==&mid=2247484099&idx=1&sn=41f1d63734d8a2e1391dfb1fca7fa89c&chksm=90036057a774e941b9e1656fa444976cef0f3b8873f6fac1f22d705934f36a94df628c6ee0d1&mpshare=1&scene=1&srcid=&sharer_sharetime=1584611272328&sharer_shareid=ccc7e15e8277d725ef3ca0c0363c259b&exportkey=AnidKXFyTvwzUGtVC7GwiyM%3D&pass_ticket=SmpVjidc%2Bpb9lRtyO5kZVjon%2Bxx1yNJOKkKHz58ZrkdkebmsPahazPlCwcHVdiXM#rd)
+![医药创新界](/pic/stop.jpg)
+
 - [2020-03-19 快讯！罗氏启动首个托珠单抗治疗新冠肺炎全球3期临床试验](https://www.wuximediatech.com/content/post/detail.html?sn=8e7e6b5d148d435fa3285776f04fad9d&from=wechat)
 ![托珠](/pic/tuozhu.jpg)
 
