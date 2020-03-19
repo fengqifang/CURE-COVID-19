@@ -115,6 +115,9 @@
  
 ## 研究进展
 
+- [2020-03-18 新冠病毒是否粪便传播？《自然-医学》发表广州儿童病例回顾添新证据](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914426&idx=2&sn=2c5b834a621d8ddaa72c0e6fe2d4456a&chksm=83c3d2f8b4b45bee8b59f973aba6646ba280fa131ea776759b7a3b7273873856178fb7ee1403&mpshare=1&scene=1&srcid=&sharer_sharetime=1584569732428&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap0L8R1RK5WRTm4eP6kkk2I%3D&pass_ticket=I28Db8P7PMyKR5Lzw0ixxIajuVaMzahzUszVfVQGxr97QzRBKo%2By7BliS5XCSlsk#rd)
+![粪便](/pic/chuanbo.jpg)
+
 - [2020-03-18 清华医学院教授董晨：新冠病毒引起的免疫应答急需研究](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247498350&idx=1&sn=b436908221f54f34e5344d346e3b2498&chksm=9b348cbfac4305a997d216bdb52160133d7830470c8f66d09c815e16fd759b2461872a18f455&mpshare=1&scene=1&srcid=0318I6lNzy7GPsadgLJoG5RS&sharer_sharetime=1584540457721&sharer_shareid=401b51ed94baba186ceb8c21b6321762&exportkey=Amd1d9eEsAewj5EjpE0MRRc%3D&pass_ticket=ZMeptotHChG%2FT%2Fux1lAB7lUQ%2F6ZqF39uMy9JJ4OAnUrkY4pabZJ66%2FvC36wY86DP#rd)
 ![免疫应答](/pic/mianyi.jpg)
 
