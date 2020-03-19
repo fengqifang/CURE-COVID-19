@@ -216,5 +216,8 @@
 - [2020-03-18 一个叫“郭红”的人，炮制了你朋友圈所有的“世界失控”](https://mp.weixin.qq.com/s?__biz=MjM5MTk4MDI2MA==&mid=2649595236&idx=1&sn=b6fe643825dbbe95f945355061638c78&chksm=beb472ef89c3fbf987358dccf92ea0f88fd470f15f730d738cb9029d91ea9f16dabc09fc3933&mpshare=1&scene=1&srcid=&sharer_sharetime=1584543316049&sharer_shareid=b6d9339d6b785397058c38b1d1ed2ff0&exportkey=AiX3S3Jq%2B5K5My7imZlKrHM%3D&pass_ticket=DHFvkeKQ0K51NcfNeVy0%2F5dGD5jlmdm7QJ%2F2VQh0EddqWUD6P%2B%2FteG1C%2FakKYnf2#rd)
 ![失控](/pic/shikong.jpg)
 
+- [2020-03-16 我们都欠“蔡莉女士”一个热搜](https://mp.weixin.qq.com/s?__biz=MzA4OTUyMzU3NQ==&mid=2247487443&idx=1&sn=32c64f1892c542a1b9b5d0025316c8f7&chksm=9018dbcba76f52ddb5501cab2a0cf71ad663c4f382481711ebf07a1a2b3b478d2ae874232c70&mpshare=1&scene=1&srcid=&sharer_sharetime=1584635748370&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApQm05CuHx17WZed62ifqMM%3D&pass_ticket=QVc%2BaIiodq8ErwN1pzyLkkQt3E8FKT9U6n%2BhlSiB9UjrSqz9%2FdqAOv4oPluzeLwh#rd)
+![蔡莉](/pic/cai.jpg)
+
 - [2020-01-14 World Health Organization (WHO): no clear evidence of human-to-human transmission](https://twitter.com/WHO/status/1217043229427761152)
 ![who2](/pic/who2.jpg)
