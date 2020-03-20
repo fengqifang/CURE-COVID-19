@@ -163,6 +163,9 @@
 - [2020-03-20 不要再重复使用口罩了！研究发现：新冠病毒可以在外科口罩表面存活7天以上](https://mp.weixin.qq.com/s?__biz=MzIwMzA1MzU5Mg==&mid=2652139225&idx=1&sn=6e13f50e2458576ac55782ddf31e6810&chksm=8d3581aeba4208b8db63ffeec9625ea69eca6b8a865ea91960d1cfd0a48cc9e798f6ca79902a&mpshare=1&scene=1&srcid=&sharer_sharetime=1584683477094&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhlofsmiVknIcCeyWZtSEbM%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
 ![mask](/pic/mask.jpg)
 
+- [2020-03-19 Simulating COVID-19 interventions with R](https://rviews.rstudio.com/2020/03/19/simulating-covid-19-interventions-with-r/)
+![simulating](/pic/simulating.gif)
+
 - [**2020-03-18 一文看懂中国首个新冠疫苗：陈薇少将带队，腺病毒做载体，比预期提前1个月**](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247538951&idx=1&sn=a49734b32772a9ab2dccbcd0b2f32f29&chksm=e8d0ee75dfa76763957260fb02f74f748568fe23a7ba86fdc54ead7a2deb1a0945000200299b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584569916238&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Amg4yCMnm%2B7Lf6s3p%2FKXhnI%3D&pass_ticket=I28Db8P7PMyKR5Lzw0ixxIajuVaMzahzUszVfVQGxr97QzRBKo%2By7BliS5XCSlsk#rd)
 ![首个新冠疫苗](/pic/first.jpg)
 
