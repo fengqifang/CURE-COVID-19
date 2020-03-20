@@ -21,7 +21,7 @@
   * [典型病历史报道](#典型病历史报道)
   * [其他](#其他)
   * [妖孽存照 ](#妖孽存照)
-  * [Stock Market](#Stock Market)
+  * [相关股票](#相关股票)
 
 # COVID-19 治疗相关报道
 
@@ -234,7 +234,7 @@
 
  ***
  
-## Stock Market
+## 相关股票
 
 <div class="tradingview-widget-container">
   
