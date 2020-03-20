@@ -96,6 +96,9 @@
  
 ## 疫苗相关／新药开发
 
+- [2020-03-20 Nature提出5个新冠疫苗开发的关键问题](https://mp.weixin.qq.com/s?__biz=MzIzMTY2MTAzMA==&mid=2247487587&idx=1&sn=ec0a50fb41730cbe7bd32b133885c180&chksm=e8a19ceadfd615fcbf44b9f16f0c85b9888ee0ca84fb0e4f107d38849c03a4e61f2b3fe6620f&mpshare=1&scene=1&srcid=&sharer_sharetime=1584694780213&sharer_shareid=a7e32da51bd8652bf82fc868cc3dfc99&exportkey=ArM5YlG4bnru2jGA0z8WSDs%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
+![5questions](/pic/5q.jpg)
+
 - [**2020-03-19 An Effective Treatment for Coronavirus (COVID-19)](https://docs.google.com/document/d/e/2PACX-1vTi-g18ftNZUMRAj2SwRPodtscFio7bJ7GdNgbJAGbdfF67WuRJB3ZsidgpidB2eocFHAVjIL-7deJ7/pub)
 ![effective](/pic/effective.jpg)
 
@@ -157,6 +160,9 @@
  
 ## 研究进展
 
+- [2020-03-20 不要再重复使用口罩了！研究发现：新冠病毒可以在外科口罩表面存活7天以上](https://mp.weixin.qq.com/s?__biz=MzIwMzA1MzU5Mg==&mid=2652139225&idx=1&sn=6e13f50e2458576ac55782ddf31e6810&chksm=8d3581aeba4208b8db63ffeec9625ea69eca6b8a865ea91960d1cfd0a48cc9e798f6ca79902a&mpshare=1&scene=1&srcid=&sharer_sharetime=1584683477094&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhlofsmiVknIcCeyWZtSEbM%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
+![mask](/pic/mask.jpg)
+
 - [**2020-03-18 一文看懂中国首个新冠疫苗：陈薇少将带队，腺病毒做载体，比预期提前1个月**](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247538951&idx=1&sn=a49734b32772a9ab2dccbcd0b2f32f29&chksm=e8d0ee75dfa76763957260fb02f74f748568fe23a7ba86fdc54ead7a2deb1a0945000200299b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584569916238&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Amg4yCMnm%2B7Lf6s3p%2FKXhnI%3D&pass_ticket=I28Db8P7PMyKR5Lzw0ixxIajuVaMzahzUszVfVQGxr97QzRBKo%2By7BliS5XCSlsk#rd)
 ![首个新冠疫苗](/pic/first.jpg)
 
@@ -198,6 +204,13 @@
  ***
  
 ## 其他
+
+- [2020-03-20 一份报告，直接改变了英美两国的防疫对策](https://mp.weixin.qq.com/s?__biz=MzU0OTgwNTYzMw==&mid=2247494958&idx=1&sn=97c312a87f318cc398796d8fe63da607&chksm=fba8e600ccdf6f1608ec71ccd40d9c82bdb8abada39ec94fb6eeeb019f60418e312fff960d99&mpshare=1&scene=1&srcid=&sharer_sharetime=1584713056504&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ag4ojf7iLufB8eCH8dNUnh4%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
+![report](/pic/report.jpg)
+
+- [2020-03-20 美国新冠疫情战争的意见领袖，其实是他](https://mp.weixin.qq.com/s?__biz=MzI5NTc5MTI3Nw==&mid=2247483927&idx=1&sn=2dafd52b30c678a01ba40c0779c4408c&chksm=ec4f7dd5db38f4c37eba04ce93e442ce7c336b153dfbeb74912e6e23bd8c55c9c3de3a6d8814&mpshare=1&scene=1&srcid=&sharer_sharetime=1584681657610&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmEnuoez50qpFL0OG0jWxig%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
+![leader](/pic/leader.jpg)
+
 
 - [**2020-03-19 日本低感染数字背后到底隐藏了什么？**](https://mp.weixin.qq.com/s?__biz=MzI4Njk3MjgyMQ==&mid=2247485333&idx=1&sn=b9e5656d0400e0576b05924c6a7c19a0&chksm=ebd5896fdca200790407cd9770b73a8fd7f616330661a5d6dc8a7f048480c56d173c64a231cf&mpshare=1&scene=1&srcid=0316BeLBPhaXIFVEWCQiYanm&sharer_sharetime=1584623061906&sharer_shareid=7db4f677037e2724f7e9fd3e83f49b4a&exportkey=Ar2IYnp5olvZl1mlEauw9gQ%3D&pass_ticket=SmpVjidc%2Bpb9lRtyO5kZVjon%2Bxx1yNJOKkKHz58ZrkdkebmsPahazPlCwcHVdiXM#rd)
 ![低感染](/pic/japanslow.jpg)
