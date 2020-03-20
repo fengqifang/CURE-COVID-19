@@ -92,6 +92,9 @@
  
 ## 疫苗相关／新药开发
 
+- [**2020-03-19 罗氏启动托珠单抗治疗重症COVID-19肺炎患者III期研究：招募330例患者**](https://mp.weixin.qq.com/s?__biz=MzA4MDA4MTIzMg==&mid=2653069451&idx=2&sn=16675ccd88483a21351f9c4e04125145&chksm=847fb8b4b30831a2f3434784e906afa6e496dc40f2fbe85050a07022fc8f142735d9526eee1e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584659771876&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Atz40SPnsJzKmmqDoh1wXE0%3D&pass_ticket=8w0c%2FEMdX6%2Fj%2B6LnpiniQRWg1OgK%2BgY7vurlya0icShWG%2FfD9eCO0a39Eh2KzF5x#rd)
+![330](/pic/330.jpg)
+
 - [**2020-03-19 新冠疫苗，横空出世了吗？**](https://mp.weixin.qq.com/s?__biz=MzI5NTc5MTI3Nw==&mid=2247483909&idx=1&sn=06adf58ff3fc759bf3a8bc55ff77aeae&chksm=ec4f7dc7db38f4d1ee7c8bd25095abc0c59e7e6cde0c2011b625bf05ee21a8e1feb6295975c0&mpshare=1&scene=1&srcid=&sharer_sharetime=1584633862070&sharer_shareid=470b615c30870b5523881592816e9b3e&exportkey=ArEs7EJ6KBoly923Q1qLmCM%3D&pass_ticket=QVc%2BaIiodq8ErwN1pzyLkkQt3E8FKT9U6n%2BhlSiB9UjrSqz9%2FdqAOv4oPluzeLwh#rd)
 ![横空出世](/pic/healthword.jpg)
 
