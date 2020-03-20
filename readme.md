@@ -13,7 +13,7 @@
   
   
 - [COVID-19 治疗相关报道](#covid-19-------)
-    + [疫情地图](#疫情地图)
+  * [疫情地图](#疫情地图)
   * [检测试剂](#检测试剂)
   * [治疗方案](#治疗方案)
   * [疫苗相关／新药开发](#疫苗相关／新药开发)
@@ -21,14 +21,14 @@
   * [典型病历史报道](#典型病历史报道)
   * [其他](#其他)
   * [妖孽存照 ](#妖孽存照)
-  * [COVID-19-Github](#资料Github)
+  * [资料Github](#资料Github)
   * [相关股票](#相关股票)
 
 # COVID-19 治疗相关报道
 
  ***
 
-### 疫情地图
+## 疫情地图
 
 -[Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering](https://coronavirus.jhu.edu/map.html)
 
