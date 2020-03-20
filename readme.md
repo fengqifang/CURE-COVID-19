@@ -161,6 +161,9 @@
  
 ## 研究进展
 
+- [**2020-03-20 最新研究成果：日检测能力达万例的大规模检测平台，对新冠疫情防控至关重要**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247502302&idx=1&sn=a64bf429da9e68c70f95bc24911a92cc&chksm=96efef8ea1986698f0a2578fa5d5abcf8887db29a5534419cb111e134a0c197c0317bbebdadb&mpshare=1&scene=1&srcid=&sharer_sharetime=1584727266696&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao7Ytcqb1dfHrdM8%2BDK2Vts%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
+![检测](/pic/largescale.jpg)
+
 - [**2020-03-20 不要再重复使用口罩了！研究发现：新冠病毒可以在外科口罩表面存活7天以上**](https://mp.weixin.qq.com/s?__biz=MzIwMzA1MzU5Mg==&mid=2652139225&idx=1&sn=6e13f50e2458576ac55782ddf31e6810&chksm=8d3581aeba4208b8db63ffeec9625ea69eca6b8a865ea91960d1cfd0a48cc9e798f6ca79902a&mpshare=1&scene=1&srcid=&sharer_sharetime=1584683477094&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhlofsmiVknIcCeyWZtSEbM%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
 ![mask](/pic/mask.jpg)
 
@@ -210,6 +213,12 @@
  ***
  
 ## 其他
+
+- [**2020-03-20 300多年前的伦敦大瘟疫，英国政府采取了哪些措施？](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650484674&idx=1&sn=1b1fb01a3935d6012a5f3693b7e2fbba&chksm=beb1e92d89c6603b2c76936f0deca4430dcfef282706ae61b457a09d42729597e4bf79aae148&mpshare=1&scene=1&srcid=&sharer_sharetime=1584727101778&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ara2Ou15HU5Xr3uZTXpOXfU%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
+![london](/pic/london.jpg)
+
+- [**2020-03-20 1910年：上海防疫引发群体骚乱**](https://mp.weixin.qq.com/s?__biz=MjM5OTA5MzAwMQ==&mid=2654520859&idx=1&sn=757b404339054f35d17db59b7508d018&chksm=bd0cd07d8a7b596b8a4f48994b804d15c903a5717613a612879c2177f5c92b43bd937fc111c1&mpshare=1&scene=1&srcid=&sharer_sharetime=1584727315038&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ar0rcD1f3Iq39PpEMdGFO04%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
+![shanghai](/pic/shanghai.jpg)
 
 - [**2020-03-20 从第二大疫情国到疫情似乎初步控制，韩国做对了什么？**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268706&idx=1&sn=288f211308138255db8757ebaeb8c666&chksm=8bb7c4dcbcc04dcaea9d7e706232396a008483316256c5170e98efb8009b282619919266d19e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584726861679&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnIsQrN%2BYH4W71IM2xXgRJw%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
 ![korea](/pic/korea.jpg)
