@@ -204,7 +204,7 @@
  
 ## 典型病例报道
 
-- [**2020-03-20 Breadth of concomitant immune responses prior to patient recovery: a case report of non-severe COVID-19](https://www.nature.com/articles/s41591-020-0819-2)
+- [**2020-03-20 Breadth of concomitant immune responses prior to patient recovery: a case report of non-severe COVID-19**](https://www.nature.com/articles/s41591-020-0819-2)
 
 - [**2020-03-17 Coronavirus Study: One Traveler from China Infected 39 People in Washington State**](https://www.breitbart.com/health/2020/03/17/wuhan-report-one-traveller-from-china-infected-39-people-in-washington-state/)
 
