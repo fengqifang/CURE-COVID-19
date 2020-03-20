@@ -21,6 +21,7 @@
   * [典型病历史报道](#典型病历史报道)
   * [其他](#其他)
   * [妖孽存照 ](#妖孽存照)
+  * [COVID-19-Github](#COVID-19-Github)
   * [相关股票](#相关股票)
 
 # COVID-19 治疗相关报道
@@ -253,6 +254,15 @@
 - [**2020-01-14 World Health Organization (WHO): no clear evidence of human-to-human transmission**](https://twitter.com/WHO/status/1217043229427761152)
 ![who2](/pic/who2.jpg)
 
+ ***
+ 
+## COVID-19-Github
+
+- [疫情与舆情：武汉新冠肺炎时间线TIMELINE](https://github.com/Pratitya/wuhan2020-timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.md)
+![timeline](/pic/timeline.jpg)
+
+- [covid19-r: a collection of analyses on and representations of COVID19 data in R](https://github.com/mine-cetinkaya-rundel/covid19-r)
+![covid19r](/pic/covid19r.jpg)
 
  ***
  
