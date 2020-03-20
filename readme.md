@@ -93,6 +93,9 @@
  
 ## 疫苗相关／新药开发
 
+- [**2020-03-19 An Effective Treatment for Coronavirus (COVID-19)](https://docs.google.com/document/d/e/2PACX-1vTi-g18ftNZUMRAj2SwRPodtscFio7bJ7GdNgbJAGbdfF67WuRJB3ZsidgpidB2eocFHAVjIL-7deJ7/pub)
+![effective](/pic/effective.jpg)
+
 - [**2020-03-19 罗氏启动托珠单抗治疗重症COVID-19肺炎患者III期研究：招募330例患者**](https://mp.weixin.qq.com/s?__biz=MzA4MDA4MTIzMg==&mid=2653069451&idx=2&sn=16675ccd88483a21351f9c4e04125145&chksm=847fb8b4b30831a2f3434784e906afa6e496dc40f2fbe85050a07022fc8f142735d9526eee1e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584659771876&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Atz40SPnsJzKmmqDoh1wXE0%3D&pass_ticket=8w0c%2FEMdX6%2Fj%2B6LnpiniQRWg1OgK%2BgY7vurlya0icShWG%2FfD9eCO0a39Eh2KzF5x#rd)
 ![330](/pic/330.jpg)
 
