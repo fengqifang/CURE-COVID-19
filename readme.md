@@ -57,6 +57,9 @@
  
 ## 治疗方案
 
+- [**2020-03-19 FDA Announces Two Drugs Approved for ‘Compassionate Use’ in Treating COVID-19**](https://www.pharmacytimes.com/news/fda-announces-two-drugs-approved-for-compassionate-use-in-treating-covid-19?from=timeline&isappinstalled=0)
+![twodrug](/pic/twodrugs.jpg)
+
 - [**2020-03-19 《柳叶刀》：抗击疟疾耐药！青蒿素三联疗法安全有效，八国试验支持“现成新选择”**](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914444&idx=1&sn=81e64fd62e00ca24685a4a46b28b88a9&chksm=83c3d28eb4b45b982607257e82467414422413209005a038d45f3361b24a65b6cae89a469626&mpshare=1&scene=1&srcid=&sharer_sharetime=1584631681034&sharer_shareid=a9c952ab6f63a17519bb96b39232e47e&exportkey=Ashr9%2FZrKtywenwn00lVf1k%3D&pass_ticket=QVc%2BaIiodq8ErwN1pzyLkkQt3E8FKT9U6n%2BhlSiB9UjrSqz9%2FdqAOv4oPluzeLwh#rd)
 ![疟疾](/pic/qing.jpg)
 
