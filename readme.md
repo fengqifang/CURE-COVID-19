@@ -21,7 +21,7 @@
   * [典型病历史报道](#典型病历史报道)
   * [其他](#其他)
   * [妖孽存照 ](#妖孽存照)
-  * [COVID-19-Github](#COVID-19-Github)
+  * [COVID-19-Github](#资料Github)
   * [相关股票](#相关股票)
 
 # COVID-19 治疗相关报道
@@ -256,7 +256,7 @@
 
  ***
  
-## COVID-19-Github
+## 资料Github
 
 - [疫情与舆情：武汉新冠肺炎时间线TIMELINE](https://github.com/Pratitya/wuhan2020-timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.md)
 ![timeline](/pic/timeline.jpg)
