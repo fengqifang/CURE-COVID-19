@@ -201,6 +201,8 @@
  
 ## 典型病例报道
 
+- [**2020-03-20 Breadth of concomitant immune responses prior to patient recovery: a case report of non-severe COVID-19](https://www.nature.com/articles/s41591-020-0819-2)
+
 - [**2020-03-17 Coronavirus Study: One Traveler from China Infected 39 People in Washington State**](https://www.breitbart.com/health/2020/03/17/wuhan-report-one-traveller-from-china-infected-39-people-in-washington-state/)
 
 - [**2020-03-16 《柳叶刀》：如何遏制社区传播？新加坡复盘3起“跨国”聚集性疫情**](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914415&idx=1&sn=36960f74162441fa1cf6cb18217ea4b3&chksm=83c3d2edb4b45bfb9d8ecac035cd827afe5824335133ad2618871939b3857cc09158bf67e609&mpshare=1&scene=1&srcid=&sharer_sharetime=1584496724592&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ajvk8j0FhYRgYjsPTL3vJSA%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
