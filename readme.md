@@ -223,6 +223,8 @@
  ***
  
 ## 其他
+- [**2020-03-21 邪教横行、床位吃紧：不封城的韩国如何踩下「疫情急刹车」？**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653375621&idx=1&sn=1b3edc0c8a3d85b354a690eb0df5bd37&chksm=5e32bde3694534f5a4fa1347bf75a2da73e3bd4e59a195c1f14a3b6dee8e77fae0040346454e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584769519794&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aok0yCjGWNbBLWBZHcc3gWg%3D&pass_ticket=xBFLpLZDtf4fOQT3V9iQFywMTX9TkxF6uyqpwgnZUqMEdmxagWy7FTBcqFQ6LTU5#rd)
+![korea2](/pic/korea1.jpg)
 
 - [**2020-03-20 新冠病毒到底是从哪里来的？为何能在人类流行？科学家再发声](https://mp.weixin.qq.com/s?__biz=MjM5NTcxOTM2MA==&mid=2651393179&idx=1&sn=803fd912521db9ecc68d85a4a880f8cd&chksm=bd099d348a7e1422a61bc2200a31622b480b46b7d025af9f5c5ad651d657aee74ec4ff2c33b2&mpshare=1&scene=1&srcid=&sharer_sharetime=1584747647177&sharer_shareid=bf5a714789ae2d58b95538c030a96ab2&exportkey=ArC0Udhmt50sgBflWf0GYxw%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
 ![origin](/pic/origin.jpg)
