@@ -171,6 +171,9 @@
  
 ## 研究进展
 
+-[**2020-03-21 新冠肺炎大规模社区爆发后，为什么说封城（Lockdown) 是唯一选择**](https://mp.weixin.qq.com/s?__biz=MzU0MDk5NjEwMw==&mid=2247484451&idx=1&sn=0587657071e63ebef2fb1ebf4d4904b8&chksm=fb31e34bcc466a5d1cbc7d6f8faf591e586de0c18d1db489ce356e74bc320c9031dc3f90fac6&mpshare=1&scene=1&srcid=&sharer_sharetime=1584800405328&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgcjVoQCmCJf1QXpx9jujzg%3D&pass_ticket=xBFLpLZDtf4fOQT3V9iQFywMTX9TkxF6uyqpwgnZUqMEdmxagWy7FTBcqFQ6LTU5#rd)
+![lockdown](/pic/lockdown.jpg)
+
 - [**2020-03-20 最新研究成果：日检测能力达万例的大规模检测平台，对新冠疫情防控至关重要**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247502302&idx=1&sn=a64bf429da9e68c70f95bc24911a92cc&chksm=96efef8ea1986698f0a2578fa5d5abcf8887db29a5534419cb111e134a0c197c0317bbebdadb&mpshare=1&scene=1&srcid=&sharer_sharetime=1584727266696&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao7Ytcqb1dfHrdM8%2BDK2Vts%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
 ![检测](/pic/largescale.jpg)
 
