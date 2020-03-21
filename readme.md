@@ -107,7 +107,10 @@
  
 ## 疫苗相关／新药开发
 
--[**2020-03-21 中国新冠病毒疫苗已注射进人体，I期试验志愿者仅限武汉居民**](https://mp.weixin.qq.com/s?__biz=MjIyNDQ5Nzc4MQ==&mid=2650867452&idx=1&sn=6d9d875803685113a8cf852cc9ac9d17&chksm=b75d75e6802afcf071354a7ce9c29a5016894132155dc15eb1833f2afaaf9c5eabfd0b681b07&mpshare=1&scene=1&srcid=&sharer_sharetime=1584798544478&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnADIYapbVzAnwUS2DxjnwI%3D&pass_ticket=xBFLpLZDtf4fOQT3V9iQFywMTX9TkxF6uyqpwgnZUqMEdmxagWy7FTBcqFQ6LTU5#rd)
+- [**2020-03-21 美国的新冠病毒疫苗，为何这么快就开始了临床试验？原因很简单**](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247498422&idx=2&sn=7b46f0f3a35cbf5aea7a100dc841e4ed&chksm=9b348c67ac430571ae167fedc2d3f6e82f9cadf69a5f06a81c1f62a3840b3b28a278621b01ac&mpshare=1&scene=1&srcid=&sharer_sharetime=1584814667112&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiiQlEquowslLUoA%2Bx1Q3f8%3D&pass_ticket=xBFLpLZDtf4fOQT3V9iQFywMTX9TkxF6uyqpwgnZUqMEdmxagWy7FTBcqFQ6LTU5#rd)
+![美国疫苗快](/pic/fast.jpg)
+
+- [**2020-03-21 中国新冠病毒疫苗已注射进人体，I期试验志愿者仅限武汉居民**](https://mp.weixin.qq.com/s?__biz=MjIyNDQ5Nzc4MQ==&mid=2650867452&idx=1&sn=6d9d875803685113a8cf852cc9ac9d17&chksm=b75d75e6802afcf071354a7ce9c29a5016894132155dc15eb1833f2afaaf9c5eabfd0b681b07&mpshare=1&scene=1&srcid=&sharer_sharetime=1584798544478&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnADIYapbVzAnwUS2DxjnwI%3D&pass_ticket=xBFLpLZDtf4fOQT3V9iQFywMTX9TkxF6uyqpwgnZUqMEdmxagWy7FTBcqFQ6LTU5#rd)
 ![中国新冠病毒疫苗](/pic/wuhan.jpg)
 
 - [**2020-03-20 Nature提出5个新冠疫苗开发的关键问题**](https://mp.weixin.qq.com/s?__biz=MzIzMTY2MTAzMA==&mid=2247487587&idx=1&sn=ec0a50fb41730cbe7bd32b133885c180&chksm=e8a19ceadfd615fcbf44b9f16f0c85b9888ee0ca84fb0e4f107d38849c03a4e61f2b3fe6620f&mpshare=1&scene=1&srcid=&sharer_sharetime=1584694780213&sharer_shareid=a7e32da51bd8652bf82fc868cc3dfc99&exportkey=ArM5YlG4bnru2jGA0z8WSDs%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
