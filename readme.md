@@ -34,19 +34,21 @@
 
 ## 疫情地图
 
--[Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering](https://coronavirus.jhu.edu/map.html)
+- [**The COVID Tracking Project**](https://covidtracking.com/data/)
 
--[Novel coronavirus (COVID-19) outbreak timeline map](https://www.healthmap.org/covid-19/)
+- [**Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering**](https://coronavirus.jhu.edu/map.html)
 
--[Novel coronavirus infection map](https://hgis.uw.edu/virus/)
+- [**Novel coronavirus (COVID-19) outbreak timeline map**](https://www.healthmap.org/covid-19/)
 
--[Novel coronavirus (COVID-19) situation dashboard (WHO)](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)
+- [**Novel coronavirus infection map**](https://hgis.uw.edu/virus/)
 
--[Coronavirus: the new disease Covid-19 explained](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?src=article-launcher)
+- [**Novel coronavirus (COVID-19) situation dashboard (WHO)**](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)
 
--[全球新冠病毒最新实时疫情地图_丁香园](https://ncov.dxy.cn/ncovh5/view/pneumonia)
+- [**Coronavirus: the new disease Covid-19 explained**](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?src=article-launcher)
 
--[北美版丁香园 美国和加拿大 疫情地图实时动态追踪](https://coronavirus.1point3acres.com/)
+- [**全球新冠病毒最新实时疫情地图_丁香园**](https://ncov.dxy.cn/ncovh5/view/pneumonia)
+
+- [**北美版丁香园 美国和加拿大 疫情地图实时动态追踪**](https://coronavirus.1point3acres.com/)
 
  ***
  
