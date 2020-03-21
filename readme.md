@@ -34,7 +34,7 @@
 
 ## 疫情地图
 
-- [**The COVID Tracking Project**](https://covidtracking.com/data/)
+- [**The COVID Tracking Project :star:**](https://covidtracking.com/data/)
 
 - [**Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering**](https://coronavirus.jhu.edu/map.html)
 
