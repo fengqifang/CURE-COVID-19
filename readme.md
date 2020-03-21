@@ -234,6 +234,10 @@
  ***
  
 ## 其他
+
+- [**2020-03-21 Evidence over hysteria — COVID-19**](https://medium.com/six-four-six-nine/evidence-over-hysteria-covid-19-1b767def5894)
+![hysteria](/pic/hysteria.jpg)
+
 - [**2020-03-21 邪教横行、床位吃紧：不封城的韩国如何踩下「疫情急刹车」？**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653375621&idx=1&sn=1b3edc0c8a3d85b354a690eb0df5bd37&chksm=5e32bde3694534f5a4fa1347bf75a2da73e3bd4e59a195c1f14a3b6dee8e77fae0040346454e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584769519794&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aok0yCjGWNbBLWBZHcc3gWg%3D&pass_ticket=xBFLpLZDtf4fOQT3V9iQFywMTX9TkxF6uyqpwgnZUqMEdmxagWy7FTBcqFQ6LTU5#rd)
 ![korea2](/pic/korea1.jpg)
 
