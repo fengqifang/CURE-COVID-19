@@ -52,6 +52,9 @@
  
 ## 检测试剂
 
+- [**2020-03-21 The First U.S. Company Has Announced an Upcoming Home COVID-19 Test**](https://time.com/5805953/home-covid-19-test-everlywell/)
+![hometest](/pic/hometest.png)
+
 - [**2020-03-20 A Massively Parallel COVID-19 Diagnostic Assay for Simultaneous Testing of 19200 Patient Samples**](https://docs.google.com/document/d/1kP2w_uTMSep2UxTCOnUhh1TMCjWvHEY0sUUpkJHPYV4/edit)
 ![massively](/pic/massive.png)
 
