@@ -115,6 +115,9 @@
  
 ## 疫苗相关／新药开发
 
+- [**2020-03-22 疫苗之战：史上最劲爆的中美“军备竞赛”，一年成功可能并非天方夜谭**](https://mp.weixin.qq.com/s?__biz=MzA3NzIxNzI4Mw==&mid=2671004611&idx=3&sn=eb1d63668ecec080901e888cb8c9b620&chksm=859580afb2e209b916a1b9d9b1b1eeb8d97593c274071303c866cf58c86507a1ba45264f7724&mpshare=1&scene=1&srcid=&sharer_sharetime=1584891275842&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnnyzfHr%2FaLV8rU8sC7uMG0%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
+![疫苗之战](/pic/zhongmei.jpg)
+
 - [**2020-03-21 美国的新冠病毒疫苗，为何这么快就开始了临床试验？原因很简单**](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247498422&idx=2&sn=7b46f0f3a35cbf5aea7a100dc841e4ed&chksm=9b348c67ac430571ae167fedc2d3f6e82f9cadf69a5f06a81c1f62a3840b3b28a278621b01ac&mpshare=1&scene=1&srcid=&sharer_sharetime=1584814667112&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiiQlEquowslLUoA%2Bx1Q3f8%3D&pass_ticket=xBFLpLZDtf4fOQT3V9iQFywMTX9TkxF6uyqpwgnZUqMEdmxagWy7FTBcqFQ6LTU5#rd)
 ![美国疫苗快](/pic/fast.jpg)
 
