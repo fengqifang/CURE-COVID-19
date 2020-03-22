@@ -73,6 +73,9 @@
  
 ## 治疗方案
 
+- [**2020-03-22 法匹拉韦治疗COVID-19最新临床数据！疗效强于阿比朵尔，推荐为普通型患者首选治疗**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488648&idx=1&sn=265db913d632ff033e10aaf796bd3fec&chksm=fb8829cbccffa0dd505ea602c564f81f909c4789214ac6da39ecb5354a2ddd7dbdc8c14d0232&mpshare=1&scene=1&srcid=&sharer_sharetime=1584891490413&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=AgCTTnWmTg7Vtz6feLcNsNk%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
+![法匹拉韦数据](/pic/favip.jpg)
+
 - [**2020-03-22 “穷人的希望” — 奎宁、氯喹、羟氯喹的前世今生**](https://mp.weixin.qq.com/s?__biz=MzI3MTIxNTgyMw==&mid=2651589314&idx=1&sn=59f78974eb2a2bf63ca8a14d51c38b76&chksm=f13d9762c64a1e74d055b021e9f1efcd1b69b06057f9b99e8140a32d05be8a1d41f151df442e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584846116200&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArDGGlX0emqTOk0boaIzVWc%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
 ![氯喹](/pic/kui.jpg)
 
