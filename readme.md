@@ -237,6 +237,9 @@
  
 ## 其他
 
+- [**2020-03-22 欧洲重灾区里，最可怕的还不是意大利**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652013354&idx=1&sn=ff56306135eb741718bbde65fe9ce433&chksm=bd0f79778a78f061d6a6fe2510988e207e7562a2449e8d77155530698c2915a0e22153ce1325&mpshare=1&scene=1&srcid=&sharer_sharetime=1584845980283&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkmjYt0J6ZpOi26MW3S8Xvs%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
+![spain](/pic/spain.jpg)
+
 - [**2020-03-21 Evidence over hysteria — COVID-19**](https://medium.com/six-four-six-nine/evidence-over-hysteria-covid-19-1b767def5894)
 ![hysteria](/pic/hysteria.jpg)
 
