@@ -13,7 +13,9 @@
 ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=fengqifang.CURECOVID)
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=fengqifang.CURECOVID)
 
-
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5e777323ebeba800120faa5f&product=inline-share-buttons" async="async">
+</script>
+<div class="sharethis-inline-share-buttons"></div>
 ***
   
   
@@ -385,10 +387,4 @@
   
 </div>
 
-<div>
-  
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5e777323ebeba800120faa5f&product=inline-share-buttons" async="async">
 
-</script>
-
-</div>
