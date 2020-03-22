@@ -70,6 +70,9 @@
  
 ## 治疗方案
 
+- [**2020-03-22 “穷人的希望” — 奎宁、氯喹、羟氯喹的前世今生**](https://mp.weixin.qq.com/s?__biz=MzI3MTIxNTgyMw==&mid=2651589314&idx=1&sn=59f78974eb2a2bf63ca8a14d51c38b76&chksm=f13d9762c64a1e74d055b021e9f1efcd1b69b06057f9b99e8140a32d05be8a1d41f151df442e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584846116200&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArDGGlX0emqTOk0boaIzVWc%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
+![氯喹](/pic/kui.jpg)
+
 - [**2020-03-19 FDA Announces Two Drugs Approved for ‘Compassionate Use’ in Treating COVID-19**](https://www.pharmacytimes.com/news/fda-announces-two-drugs-approved-for-compassionate-use-in-treating-covid-19?from=timeline&isappinstalled=0)
 ![twodrug](/pic/twodrugs.jpg)
 
@@ -178,6 +181,10 @@
  ***
  
 ## 研究进展
+
+- [**2020-03-22 Nature重磅：超过6成新冠患者无症状，可能引起新一轮疫情爆发**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247497933&idx=2&sn=d777a935d26674fb24fbfaa304988992&chksm=fbf60c18cc81850e48af36a6bf399e171d971578b314c19273d9c6dd7edb65a64a2f8c5d1e15&mpshare=1&scene=1&srcid=&sharer_sharetime=1584879090563&sharer_shareid=1f20c55522f5447831c61422996ae5f9&exportkey=AgknMKdhr7VfKXNTOKGJzJo%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
+![无症状](/pic/asy.jpg)
+
 - [**2020-03-21 Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)**](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)
 ![undocumented](/pic/undocumented.jpg)
 
@@ -293,6 +300,9 @@
 ![act](/pic/act.png)
 
 ## 妖孽存照 
+
+- [**2020-03-22 对湖北人一刀切，对入境的百般伺候，良心不会痛么？**](https://mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650906475&idx=1&sn=8bd29d5778965172d577b4bea5847b8f&chksm=bd19374c8a6ebe5aa5c719a4ffbde5f461cf6f1811207556dc482d18ecfd4560fb699e16f2e8&mpshare=1&scene=1&srcid=0322p0M0EWaJmDV0uS6X8pqj&sharer_sharetime=1584883308340&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AurapGDVarUUNmTM7Wyun6Y%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
+![hubei](/pic/hubei.jpg)
 
 - [**2020-03-18 一个叫“郭红”的人，炮制了你朋友圈所有的“世界失控”**](https://mp.weixin.qq.com/s?__biz=MjM5MTk4MDI2MA==&mid=2649595236&idx=1&sn=b6fe643825dbbe95f945355061638c78&chksm=beb472ef89c3fbf987358dccf92ea0f88fd470f15f730d738cb9029d91ea9f16dabc09fc3933&mpshare=1&scene=1&srcid=&sharer_sharetime=1584543316049&sharer_shareid=b6d9339d6b785397058c38b1d1ed2ff0&exportkey=AiX3S3Jq%2B5K5My7imZlKrHM%3D&pass_ticket=DHFvkeKQ0K51NcfNeVy0%2F5dGD5jlmdm7QJ%2F2VQh0EddqWUD6P%2B%2FteG1C%2FakKYnf2#rd)
 ![失控](/pic/shikong.jpg)
