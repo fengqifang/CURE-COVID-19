@@ -57,6 +57,9 @@
  
 ## 检测试剂
 
+- [**2020-03-22 快讯！FDA紧急授权首个新冠病毒POC即时检测产品，最快45分钟出结果**](https://www.wuximediatech.com/content/post/detail.html?sn=bb0f2bf78bca4991a40f8085a5f3f566&from=timeline&isappinstalled=0)
+![即时检测](/pic/45min.jpg)
+
 - [**2020-03-21 The First U.S. Company Has Announced an Upcoming Home COVID-19 Test**](https://time.com/5805953/home-covid-19-test-everlywell/)
 ![hometest](/pic/hometest.png)
 
@@ -72,6 +75,9 @@
  ***
  
 ## 治疗方案
+
+- [**2020-03-22 治疗新冠肺炎，羟氯喹是否比氯喹更合适？**](https://mp.weixin.qq.com/s?__biz=MjM5MDIzMDMwMA==&mid=2656138895&idx=1&sn=f13ef7825f8c3aec3364addfca0bf810&chksm=bde224fc8a95adea7d3d219b4d96d0870678e72416abc8ef0ccbd8b886a0c976192f3c7f5531&mpshare=1&scene=1&srcid=&sharer_sharetime=1584901602016&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Anr5TSjuxexdj%2B%2BIrT0RQVI%3D&pass_ticket=yGq308KHjldfGusEXTm2PrdOta2h0OxvbMk%2BUUMwX7Hb%2F15kFTisCmMIo%2FavfNHW#rd)
+![羟氯喹](/pic/qianglvkui.jpg)
 
 - [**2020-03-22 法匹拉韦治疗COVID-19最新临床数据！疗效强于阿比朵尔，推荐为普通型患者首选治疗**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488648&idx=1&sn=265db913d632ff033e10aaf796bd3fec&chksm=fb8829cbccffa0dd505ea602c564f81f909c4789214ac6da39ecb5354a2ddd7dbdc8c14d0232&mpshare=1&scene=1&srcid=&sharer_sharetime=1584891490413&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=AgCTTnWmTg7Vtz6feLcNsNk%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
 ![法匹拉韦数据](/pic/favip.jpg)
