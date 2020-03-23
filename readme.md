@@ -191,6 +191,9 @@
  
 ## 研究进展
 
+- [**2020-03-22 566个全球新冠病毒基因组谱系图**](https://mp.weixin.qq.com/s?__biz=MzAwNTU3OTM5MA==&mid=2247489196&idx=1&sn=2d1a32884c97f2a9a2dacf8d310237d7&chksm=9b1b21bdac6ca8ab5277de8a2799dd4755661ff14ea15c8fa6e4a87f32c76cf14dd81f508015&mpshare=1&scene=1&srcid=&sharer_sharetime=1584894138803&sharer_shareid=6cca3844077dcf436e21c18b4e0fff82&exportkey=AvItungnSi6eZ2kL6fbybLs%3D&pass_ticket=yGq308KHjldfGusEXTm2PrdOta2h0OxvbMk%2BUUMwX7Hb%2F15kFTisCmMIo%2FavfNHW#rd)
+![gene](/pic/gene.jpg)
+
 - [**2020-03-22 Nature重磅：超过6成新冠患者无症状，可能引起新一轮疫情爆发**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247497933&idx=2&sn=d777a935d26674fb24fbfaa304988992&chksm=fbf60c18cc81850e48af36a6bf399e171d971578b314c19273d9c6dd7edb65a64a2f8c5d1e15&mpshare=1&scene=1&srcid=&sharer_sharetime=1584879090563&sharer_shareid=1f20c55522f5447831c61422996ae5f9&exportkey=AgknMKdhr7VfKXNTOKGJzJo%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
 ![无症状](/pic/asy.jpg)
 
