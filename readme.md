@@ -328,6 +328,9 @@
 
 ## 妖孽存照 
 
+- :new:[**2020-03-23 人人得而诛之：看看这是谁家捐的防护服，捐赠者要回来吧！**](https://mp.weixin.qq.com/s?__biz=MzA3MjA5ODY1Mg==&mid=2658067760&idx=1&sn=6fb3e1b30c9024ae8c8077b6d3a57e34&chksm=84b93303b3ceba1545912e508208c3e3caa713e3b27b1aacb496dc031222113d8b295985c53b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584997153795&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApqrRVVFBoIDStp8o993nnk%3D&pass_ticket=ZwOiQJfXVoIfe%2FJCFsYATcZVIDErHHkIfwYn3ZoAw62cmM%2FjM2UwPLbNCjtpCDoX#rd)
+![suit](/pic/suit.jpg)
+
 - [**2020-03-22 对湖北人一刀切，对入境的百般伺候，良心不会痛么？**](https://mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650906475&idx=1&sn=8bd29d5778965172d577b4bea5847b8f&chksm=bd19374c8a6ebe5aa5c719a4ffbde5f461cf6f1811207556dc482d18ecfd4560fb699e16f2e8&mpshare=1&scene=1&srcid=0322p0M0EWaJmDV0uS6X8pqj&sharer_sharetime=1584883308340&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AurapGDVarUUNmTM7Wyun6Y%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
 ![hubei](/pic/hubei.jpg)
 
