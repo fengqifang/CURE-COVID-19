@@ -262,6 +262,9 @@
  
 ## 其他
 
+- [**2020-03-23 新冠病毒应该从哪起源？病毒自己都懵了！**](https://mp.weixin.qq.com/s?__biz=MzU5NDU0ODg0Ng==&mid=2247486037&idx=1&sn=1141468ff5eb9eb359e41d80f97b227f&chksm=fe7ecb54c9094242f83976cb49792d1c497b328d32af774b8c2197e1c48a7bf71586e59dee7f&mpshare=1&scene=1&srcid=03235I686cHSpbdMM9091X43&sharer_sharetime=1584968382792&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvxJ0lkB7n6HocsIYqXzi9Q%3D&pass_ticket=yKvYcc3zRO07d5%2B3y3Q2k%2BReBqSQe6qf6RArN05Vd6KcaZcnYA7qoVs5dU%2Bd03XX#rd)
+![起源](/pic/neworigin.jpg)
+
 - [**2020-03-23 江湖一别六十天**](https://mp.weixin.qq.com/s?__biz=MzU3MzQ2MDEwNQ==&mid=2247485022&idx=1&sn=5d02aadda2eae81391a607150c8ea44d&chksm=fcc01db8cbb794ae8c2db35a6393db72c5ce66fd9ab8bbf00321a20fc903ee1444e3be48ec14&mpshare=1&scene=1&srcid=&sharer_sharetime=1584968231820&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=At3ujXt0%2BMi%2BeMu%2FVQnyvw8%3D&pass_ticket=yKvYcc3zRO07d5%2B3y3Q2k%2BReBqSQe6qf6RArN05Vd6KcaZcnYA7qoVs5dU%2Bd03XX#rd)
 ![60days](/pic/60days.jpg)
 
