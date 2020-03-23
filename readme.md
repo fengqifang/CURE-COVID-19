@@ -37,7 +37,7 @@
 
 ## 疫情地图
 
-- [**The COVID Tracking Project**](https://covidtracking.com/data/)<p>&#11088;</p>
+- [**The COVID Tracking Project**](https://covidtracking.com/data/) &#11088;
 
 - [**Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering**](https://coronavirus.jhu.edu/map.html)
 
@@ -262,7 +262,7 @@
  
 ## 其他
 
--  <p>&#127381;</p>[**2020-03-23 Coronavirus tracked: the latest figures as the pandemic spreads**](https://www.ft.com/coronavirus-latest)<p>&#11088;</p>
+-  [**2020-03-23 Coronavirus tracked: the latest figures as the pandemic spreads**](https://www.ft.com/coronavirus-latest) &#11088;  &#127381;
 ![ft](/pic/ft.jpg)
 
 - <p>&#127381;</p>[**2020-03-23 新冠病毒应该从哪起源？病毒自己都懵了！**](https://mp.weixin.qq.com/s?__biz=MzU5NDU0ODg0Ng==&mid=2247486037&idx=1&sn=1141468ff5eb9eb359e41d80f97b227f&chksm=fe7ecb54c9094242f83976cb49792d1c497b328d32af774b8c2197e1c48a7bf71586e59dee7f&mpshare=1&scene=1&srcid=03235I686cHSpbdMM9091X43&sharer_sharetime=1584968382792&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvxJ0lkB7n6HocsIYqXzi9Q%3D&pass_ticket=yKvYcc3zRO07d5%2B3y3Q2k%2BReBqSQe6qf6RArN05Vd6KcaZcnYA7qoVs5dU%2Bd03XX#rd)
