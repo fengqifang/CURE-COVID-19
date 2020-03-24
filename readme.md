@@ -57,7 +57,7 @@
  
 ## 检测试剂
 
-- [**2020-03-22 快讯！FDA紧急授权首个新冠病毒POC即时检测产品，最快45分钟出结果**](https://www.wuximediatech.com/content/post/detail.html?sn=bb0f2bf78bca4991a40f8085a5f3f566&from=timeline&isappinstalled=0) &#127381;
+- [**2020-03-22 快讯！FDA紧急授权首个新冠病毒POC即时检测产品，最快45分钟出结果**](https://www.wuximediatech.com/content/post/detail.html?sn=bb0f2bf78bca4991a40f8085a5f3f566&from=timeline&isappinstalled=0)
 ![即时检测](/pic/45min.jpg)
 
 - [**2020-03-21 The First U.S. Company Has Announced an Upcoming Home COVID-19 Test**](https://time.com/5805953/home-covid-19-test-everlywell/)
@@ -75,6 +75,9 @@
  ***
  
 ## 治疗方案
+
+- [**2020-03-24 从 PK/PD 角度浅谈新冠肺炎患者治疗中奈诺沙星用药方案合理性**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653375398&idx=2&sn=a8efac05c4ff04d0ca3148ec7fe4ea19&chksm=5e32bac0694533d6aca58997b721067d1cdd8f11fa063b47f905ea38b02e7a0cf775342db7fa&mpshare=1&scene=1&srcid=&sharer_sharetime=1585010568679&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AilIOYxAtMwO1E%2FUzm90C7o%3D&pass_ticket=AffHC52GB9HY5n%2BDrR8AjuY2CbTqEkbsgvAIn9%2FRHzOlhwSlxqPxxEt7Kshiv8Pq#rd) &#127381;
+![pdpk](/pic/pdpk.jpg)
 
 - [**2020-03-22 治疗新冠肺炎，羟氯喹是否比氯喹更合适？**](https://mp.weixin.qq.com/s?__biz=MjM5MDIzMDMwMA==&mid=2656138895&idx=1&sn=f13ef7825f8c3aec3364addfca0bf810&chksm=bde224fc8a95adea7d3d219b4d96d0870678e72416abc8ef0ccbd8b886a0c976192f3c7f5531&mpshare=1&scene=1&srcid=&sharer_sharetime=1584901602016&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Anr5TSjuxexdj%2B%2BIrT0RQVI%3D&pass_ticket=yGq308KHjldfGusEXTm2PrdOta2h0OxvbMk%2BUUMwX7Hb%2F15kFTisCmMIo%2FavfNHW#rd) &#127381;
 ![羟氯喹](/pic/qianglvkui.jpg)
@@ -123,6 +126,12 @@
  ***
  
 ## 疫苗相关／新药开发
+
+- [**2020-03-24 【快报】瑞德西韦刚刚获得治疗新冠肺炎孤儿药认证**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488337&idx=3&sn=a2a7e4c092248b2d66111f6302279b35&chksm=f9801914cef79002a9b50342457c44b1d748855b175f0bafda6c0de90c8590320f8e85f49e88&mpshare=1&scene=1&srcid=0324g8mZFJ3rheo9Smf8R1Xx&sharer_sharetime=1585009795426&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AlItbKzwojfYN4f%2F9pRtPEs%3D&pass_ticket=AffHC52GB9HY5n%2BDrR8AjuY2CbTqEkbsgvAIn9%2FRHzOlhwSlxqPxxEt7Kshiv8Pq#rd) &#127381;
+![孤儿药](/pic/orph.jpg)
+
+- [**2020-03-24 Gilead's potential coronavirus treatment gets FDA's orphan drug label**](https://www.reuters.com/article/us-health-coronavirus-gilead-sciences-idUSKBN21A3PR) &#127381;
+![orphan](/pic/orph1.jpg)
 
 - [**2020-03-22 疫苗之战：史上最劲爆的中美“军备竞赛”，一年成功可能并非天方夜谭**](https://mp.weixin.qq.com/s?__biz=MzA3NzIxNzI4Mw==&mid=2671004611&idx=3&sn=eb1d63668ecec080901e888cb8c9b620&chksm=859580afb2e209b916a1b9d9b1b1eeb8d97593c274071303c866cf58c86507a1ba45264f7724&mpshare=1&scene=1&srcid=&sharer_sharetime=1584891275842&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnnyzfHr%2FaLV8rU8sC7uMG0%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
 ![疫苗之战](/pic/zhongmei.jpg)
@@ -197,7 +206,7 @@
  
 ## 研究进展
 
-- [**2020-03-22 566个全球新冠病毒基因组谱系图**](https://mp.weixin.qq.com/s?__biz=MzAwNTU3OTM5MA==&mid=2247489196&idx=1&sn=2d1a32884c97f2a9a2dacf8d310237d7&chksm=9b1b21bdac6ca8ab5277de8a2799dd4755661ff14ea15c8fa6e4a87f32c76cf14dd81f508015&mpshare=1&scene=1&srcid=&sharer_sharetime=1584894138803&sharer_shareid=6cca3844077dcf436e21c18b4e0fff82&exportkey=AvItungnSi6eZ2kL6fbybLs%3D&pass_ticket=yGq308KHjldfGusEXTm2PrdOta2h0OxvbMk%2BUUMwX7Hb%2F15kFTisCmMIo%2FavfNHW#rd) &#127381;
+- [**2020-03-22 566个全球新冠病毒基因组谱系图**](https://mp.weixin.qq.com/s?__biz=MzAwNTU3OTM5MA==&mid=2247489196&idx=1&sn=2d1a32884c97f2a9a2dacf8d310237d7&chksm=9b1b21bdac6ca8ab5277de8a2799dd4755661ff14ea15c8fa6e4a87f32c76cf14dd81f508015&mpshare=1&scene=1&srcid=&sharer_sharetime=1584894138803&sharer_shareid=6cca3844077dcf436e21c18b4e0fff82&exportkey=AvItungnSi6eZ2kL6fbybLs%3D&pass_ticket=yGq308KHjldfGusEXTm2PrdOta2h0OxvbMk%2BUUMwX7Hb%2F15kFTisCmMIo%2FavfNHW#rd)
 ![gene](/pic/gene.jpg)
 
 - [**2020-03-22 Nature重磅：超过6成新冠患者无症状，可能引起新一轮疫情爆发**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247497933&idx=2&sn=d777a935d26674fb24fbfaa304988992&chksm=fbf60c18cc81850e48af36a6bf399e171d971578b314c19273d9c6dd7edb65a64a2f8c5d1e15&mpshare=1&scene=1&srcid=&sharer_sharetime=1584879090563&sharer_shareid=1f20c55522f5447831c61422996ae5f9&exportkey=AgknMKdhr7VfKXNTOKGJzJo%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
@@ -262,16 +271,25 @@
  
 ## 其他
 
-- [**2020-03-23 Coronavirus tracked: the latest figures as the pandemic spreads**](https://www.ft.com/coronavirus-latest) &#11088;  &#127381;
+- [**2020-03-24 德国出手收治法国意大利重患！对内还这样支持本国医疗系统**](https://mp.weixin.qq.com/s?__biz=MzAwODAyMTA5OQ==&mid=2656075313&idx=2&sn=3b58b860e7e1c05f37572f56faeb1621&chksm=80d1eb35b7a66223662505381399e5f0617792936a5909dc5789270267debe612878fb3932fe&mpshare=1&scene=1&srcid=&sharer_sharetime=1585059103570&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Asvxs7sAgxCwbbscFbCGQow%3D&pass_ticket=AffHC52GB9HY5n%2BDrR8AjuY2CbTqEkbsgvAIn9%2FRHzOlhwSlxqPxxEt7Kshiv8Pq#rd) &#127381;
+![help](/pic/help.jpg)
+
+- [**2020-03-24 被误读的“群体免疫”背后，英国抗疫有哪些亮点？**](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA4MA==&mid=2650983028&idx=4&sn=5d04d6df40f7a0bb8f8b7a55708e483c&chksm=bd3687538a410e45091ebf9d66c80cbb7da825db07a443c1a6eb2ca61c056dcaeafd60f47cb6&mpshare=1&scene=1&srcid=&sharer_sharetime=1585055241397&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Amw9oiU2OJsnVMFrBXJ0dz4%3D&pass_ticket=AffHC52GB9HY5n%2BDrR8AjuY2CbTqEkbsgvAIn9%2FRHzOlhwSlxqPxxEt7Kshiv8Pq#rd) &#127381;
+![亮点](/pic/wudu.jpg)
+
+- [**2020-03-24 The science behind coronavirus testing, and where the U.S. went wrong**](https://medium.com/swlh/the-science-behind-coronavirus-testing-and-where-the-u-s-went-wrong-7920c3fb5049) &#127381;
+![testwrong](/pic/testwrong.jpg)
+
+- [**2020-03-23 Coronavirus tracked: the latest figures as the pandemic spreads**](https://www.ft.com/coronavirus-latest) &#11088;  
 ![ft](/pic/ft.jpg)
 
-- [**2020-03-23 新冠病毒应该从哪起源？病毒自己都懵了！**](https://mp.weixin.qq.com/s?__biz=MzU5NDU0ODg0Ng==&mid=2247486037&idx=1&sn=1141468ff5eb9eb359e41d80f97b227f&chksm=fe7ecb54c9094242f83976cb49792d1c497b328d32af774b8c2197e1c48a7bf71586e59dee7f&mpshare=1&scene=1&srcid=03235I686cHSpbdMM9091X43&sharer_sharetime=1584968382792&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvxJ0lkB7n6HocsIYqXzi9Q%3D&pass_ticket=yKvYcc3zRO07d5%2B3y3Q2k%2BReBqSQe6qf6RArN05Vd6KcaZcnYA7qoVs5dU%2Bd03XX#rd) &#127381;
+- [**2020-03-23 新冠病毒应该从哪起源？病毒自己都懵了！**](https://mp.weixin.qq.com/s?__biz=MzU5NDU0ODg0Ng==&mid=2247486037&idx=1&sn=1141468ff5eb9eb359e41d80f97b227f&chksm=fe7ecb54c9094242f83976cb49792d1c497b328d32af774b8c2197e1c48a7bf71586e59dee7f&mpshare=1&scene=1&srcid=03235I686cHSpbdMM9091X43&sharer_sharetime=1584968382792&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvxJ0lkB7n6HocsIYqXzi9Q%3D&pass_ticket=yKvYcc3zRO07d5%2B3y3Q2k%2BReBqSQe6qf6RArN05Vd6KcaZcnYA7qoVs5dU%2Bd03XX#rd)
 ![起源](/pic/neworigin.jpg)
 
-- [**2020-03-23 江湖一别六十天**](https://mp.weixin.qq.com/s?__biz=MzU3MzQ2MDEwNQ==&mid=2247485022&idx=1&sn=5d02aadda2eae81391a607150c8ea44d&chksm=fcc01db8cbb794ae8c2db35a6393db72c5ce66fd9ab8bbf00321a20fc903ee1444e3be48ec14&mpshare=1&scene=1&srcid=&sharer_sharetime=1584968231820&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=At3ujXt0%2BMi%2BeMu%2FVQnyvw8%3D&pass_ticket=yKvYcc3zRO07d5%2B3y3Q2k%2BReBqSQe6qf6RArN05Vd6KcaZcnYA7qoVs5dU%2Bd03XX#rd) &#127381;
+- [**2020-03-23 江湖一别六十天**](https://mp.weixin.qq.com/s?__biz=MzU3MzQ2MDEwNQ==&mid=2247485022&idx=1&sn=5d02aadda2eae81391a607150c8ea44d&chksm=fcc01db8cbb794ae8c2db35a6393db72c5ce66fd9ab8bbf00321a20fc903ee1444e3be48ec14&mpshare=1&scene=1&srcid=&sharer_sharetime=1584968231820&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=At3ujXt0%2BMi%2BeMu%2FVQnyvw8%3D&pass_ticket=yKvYcc3zRO07d5%2B3y3Q2k%2BReBqSQe6qf6RArN05Vd6KcaZcnYA7qoVs5dU%2Bd03XX#rd)
 ![60days](/pic/60days.jpg)
 
-- [**2020-03-23 哈佛流行病学家：为什么韩国听到了武汉的警告，而欧美行动太晚**](https://mp.weixin.qq.com/s?__biz=MzU2MDEwMTIwMg==&mid=2247494626&idx=1&sn=ad50c0388807fc200eee72bba37e7dde&chksm=fc0f89dfcb7800c98f8e12307531bbf5612497dd488489a1a3ff0bc76f184652bf239377d42a&mpshare=1&scene=1&srcid=&sharer_sharetime=1584968223003&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApQ1zsCVxAIioHJO0ddyhdY%3D&pass_ticket=yKvYcc3zRO07d5%2B3y3Q2k%2BReBqSQe6qf6RArN05Vd6KcaZcnYA7qoVs5dU%2Bd03XX#rd) &#127381;
+- [**2020-03-23 哈佛流行病学家：为什么韩国听到了武汉的警告，而欧美行动太晚**](https://mp.weixin.qq.com/s?__biz=MzU2MDEwMTIwMg==&mid=2247494626&idx=1&sn=ad50c0388807fc200eee72bba37e7dde&chksm=fc0f89dfcb7800c98f8e12307531bbf5612497dd488489a1a3ff0bc76f184652bf239377d42a&mpshare=1&scene=1&srcid=&sharer_sharetime=1584968223003&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApQ1zsCVxAIioHJO0ddyhdY%3D&pass_ticket=yKvYcc3zRO07d5%2B3y3Q2k%2BReBqSQe6qf6RArN05Vd6KcaZcnYA7qoVs5dU%2Bd03XX#rd)
 ![警告](/pic/warning.jpg)
 
 - [**2020-03-22 欧洲重灾区里，最可怕的还不是意大利**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652013354&idx=1&sn=ff56306135eb741718bbde65fe9ce433&chksm=bd0f79778a78f061d6a6fe2510988e207e7562a2449e8d77155530698c2915a0e22153ce1325&mpshare=1&scene=1&srcid=&sharer_sharetime=1584845980283&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkmjYt0J6ZpOi26MW3S8Xvs%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
@@ -331,7 +349,10 @@
 
 ## 妖孽存照 
 
-- [**2020-03-23 人人得而诛之：看看这是谁家捐的防护服，捐赠者要回来吧！**](https://mp.weixin.qq.com/s?__biz=MzA3MjA5ODY1Mg==&mid=2658067760&idx=1&sn=6fb3e1b30c9024ae8c8077b6d3a57e34&chksm=84b93303b3ceba1545912e508208c3e3caa713e3b27b1aacb496dc031222113d8b295985c53b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584997153795&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApqrRVVFBoIDStp8o993nnk%3D&pass_ticket=ZwOiQJfXVoIfe%2FJCFsYATcZVIDErHHkIfwYn3ZoAw62cmM%2FjM2UwPLbNCjtpCDoX#rd) &#127381;
+- [**2020-03-24 群众的眼睛是雪亮的，在盯着别人的时候**](https://mp.weixin.qq.com/s?__biz=MjM5MjQ5Mjk2OA==&mid=2653311783&idx=1&sn=acb8fc9edbb6dca8a29220d754675b69&chksm=bd778fe08a0006f6241b4579675ecc1c01f153d1653bd4e3b84b0d3a72c5876431b89929d235&mpshare=1&scene=1&srcid=&sharer_sharetime=1585073674730&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlLZykVZkA4mLa0iBAif9BY%3D&pass_ticket=AffHC52GB9HY5n%2BDrR8AjuY2CbTqEkbsgvAIn9%2FRHzOlhwSlxqPxxEt7Kshiv8Pq#rd) &#127381;
+![funny](/pic/funy.jpg)
+
+- [**2020-03-23 人人得而诛之：看看这是谁家捐的防护服，捐赠者要回来吧！**](https://mp.weixin.qq.com/s?__biz=MzA3MjA5ODY1Mg==&mid=2658067760&idx=1&sn=6fb3e1b30c9024ae8c8077b6d3a57e34&chksm=84b93303b3ceba1545912e508208c3e3caa713e3b27b1aacb496dc031222113d8b295985c53b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584997153795&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApqrRVVFBoIDStp8o993nnk%3D&pass_ticket=ZwOiQJfXVoIfe%2FJCFsYATcZVIDErHHkIfwYn3ZoAw62cmM%2FjM2UwPLbNCjtpCDoX#rd)
 ![suit](/pic/suit.jpg)
 
 - [**2020-03-22 对湖北人一刀切，对入境的百般伺候，良心不会痛么？**](https://mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650906475&idx=1&sn=8bd29d5778965172d577b4bea5847b8f&chksm=bd19374c8a6ebe5aa5c719a4ffbde5f461cf6f1811207556dc482d18ecfd4560fb699e16f2e8&mpshare=1&scene=1&srcid=0322p0M0EWaJmDV0uS6X8pqj&sharer_sharetime=1584883308340&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AurapGDVarUUNmTM7Wyun6Y%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
