@@ -131,7 +131,7 @@
 ![孤儿药](/pic/orph.jpg)
 
 - [**2020-03-24 Gilead's potential coronavirus treatment gets FDA's orphan drug label**](https://www.reuters.com/article/us-health-coronavirus-gilead-sciences-idUSKBN21A3PR) &#127381;
-![orphan](/pic/orph1.jpg)
+![orphan](/pic/orph2.jpg)
 
 - [**2020-03-22 疫苗之战：史上最劲爆的中美“军备竞赛”，一年成功可能并非天方夜谭**](https://mp.weixin.qq.com/s?__biz=MzA3NzIxNzI4Mw==&mid=2671004611&idx=3&sn=eb1d63668ecec080901e888cb8c9b620&chksm=859580afb2e209b916a1b9d9b1b1eeb8d97593c274071303c866cf58c86507a1ba45264f7724&mpshare=1&scene=1&srcid=&sharer_sharetime=1584891275842&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnnyzfHr%2FaLV8rU8sC7uMG0%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
 ![疫苗之战](/pic/zhongmei.jpg)
