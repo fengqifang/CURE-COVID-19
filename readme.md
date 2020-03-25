@@ -280,6 +280,15 @@
  
 ## 其他
 
+- [**2020-03-25 Why Germany’s coronavirus death rate is so much lower than other countries’ rates**](https://www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html)  &#127381;
+![deathrate](/pic/deathrate.jpg)
+
+- [**2020-03-25 How the Coronavirus Became an American Catastrophe**](https://www.theatlantic.com/health/archive/2020/03/how-many-americans-are-sick-lost-february/608521/) &#127381;
+![catastrophe](/pic/catas.jpg)
+
+- [**2020-03-25 We need smart coronavirus testing, not just more testing**](https://www.statnews.com/2020/03/24/we-need-smart-coronavirus-testing-not-just-more-testing/) &#127381;
+![smart](/pic/smart.jpg)
+
 - [**2020-03-25 意大利新冠肺炎病死率为何这么高？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488351&idx=1&sn=47d9c9d107bed62ecd4362607412710e&chksm=f980191acef7900c09cf8569b70d7311fa2f4ba843954c4a5fff054a89f64fed6400fa268033&mpshare=1&scene=1&srcid=0325pP0TeQ9QokYHeCgutJwL&sharer_sharetime=1585106568446&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=Ao2uwuMTCKZ8xWCdXBHoQWs%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
 ![italy](/pic/italy.jpg)
 
