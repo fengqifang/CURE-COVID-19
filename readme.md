@@ -222,6 +222,9 @@
  
 ## 研究进展
 
+- [**2020-03-26 Everyone In Iceland Can Get Tested For The Coronavirus. Here's How The Results Could Help All Of Us.**](https://www.buzzfeed.com/albertonardelli/coronavirus-testing-iceland) &#127381;
+![iceland2](/pic/iceland2.jpg)
+
 - [**2020-03-26 Iceland’s testing suggests 50% of COVID-19 cases are asymptomatic**](https://www.zmescience.com/medicine/iceland-testing-covid-19-0523/) &#127381;
 ![iceland](/pic/iceland.jpg)
 
