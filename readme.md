@@ -76,10 +76,10 @@
  
 ## 治疗方案
 
-- [**2020-03-25 特朗普力推的「羟氯喹」，你知道它该怎么用吗？**](https://mp.weixin.qq.com/s?__biz=MjM5MjgwOTI5MQ==&mid=2650208001&idx=1&sn=a922d6fa558fa9204fd71dc0262f5193&chksm=bea2ff2589d57633d1ef2c10bc3d9f7652b362fcee41177523fa3f7d51344fddb63d16d6ff60&mpshare=1&scene=1&srcid=&sharer_sharetime=1585185941819&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkT3iPSIvxcrUW0rn4SHS2o%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+- [**2020-03-25 特朗普力推的「羟氯喹」，你知道它该怎么用吗？**](https://mp.weixin.qq.com/s?__biz=MjM5MjgwOTI5MQ==&mid=2650208001&idx=1&sn=a922d6fa558fa9204fd71dc0262f5193&chksm=bea2ff2589d57633d1ef2c10bc3d9f7652b362fcee41177523fa3f7d51344fddb63d16d6ff60&mpshare=1&scene=1&srcid=&sharer_sharetime=1585185941819&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkT3iPSIvxcrUW0rn4SHS2o%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
 ![羟氯喹](/pic/qianglvkui.jpg)
 
-- [**2020-03-25 达诺瑞韦治疗初治和经治新冠肺炎患者的首个临床研究结果发表**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=100012283&idx=1&sn=1e951878a490d66210fa205e5d733d2e&chksm=7c76c34f4b014a59cfdf95f2d985b8ac3f8cbee4432b26187a67da65234284901fed4ec264d9&mpshare=1&scene=1&srcid=0325UvMeWCZ42quTXTBCdTtw&sharer_sharetime=1585102317900&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avyi7qVcRdm1ijylGAszW1c%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+- [**2020-03-25 达诺瑞韦治疗初治和经治新冠肺炎患者的首个临床研究结果发表**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=100012283&idx=1&sn=1e951878a490d66210fa205e5d733d2e&chksm=7c76c34f4b014a59cfdf95f2d985b8ac3f8cbee4432b26187a67da65234284901fed4ec264d9&mpshare=1&scene=1&srcid=0325UvMeWCZ42quTXTBCdTtw&sharer_sharetime=1585102317900&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avyi7qVcRdm1ijylGAszW1c%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
 ![达诺瑞韦](/pic/dano.jpg)
 
 - [**2020-03-24 从 PK/PD 角度浅谈新冠肺炎患者治疗中奈诺沙星用药方案合理性**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653375398&idx=2&sn=a8efac05c4ff04d0ca3148ec7fe4ea19&chksm=5e32bac0694533d6aca58997b721067d1cdd8f11fa063b47f905ea38b02e7a0cf775342db7fa&mpshare=1&scene=1&srcid=&sharer_sharetime=1585010568679&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AilIOYxAtMwO1E%2FUzm90C7o%3D&pass_ticket=AffHC52GB9HY5n%2BDrR8AjuY2CbTqEkbsgvAIn9%2FRHzOlhwSlxqPxxEt7Kshiv8Pq#rd) 
@@ -133,7 +133,7 @@
  
 ## 疫苗相关／新药开发
 
-- [**2020-03-25 FDA对于疫情期间临床试验的执行提供建议**](https://mp.weixin.qq.com/s?__biz=MzI0ODQ4MzM0MQ==&mid=2247494096&idx=1&sn=0ba0d6ee1f4ce5c7cbc074bf0a1ced5f&chksm=e9a2b2b2ded53ba4656ac21a8f49d8b1aacd628182dc5437ad367d78811e72dfe8a68cb9ac19&mpshare=1&scene=1&srcid=&sharer_sharetime=1585087518266&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al8K1lOzrKtxK2NmmJ%2F%2FKiI%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+- [**2020-03-25 FDA对于疫情期间临床试验的执行提供建议**](https://mp.weixin.qq.com/s?__biz=MzI0ODQ4MzM0MQ==&mid=2247494096&idx=1&sn=0ba0d6ee1f4ce5c7cbc074bf0a1ced5f&chksm=e9a2b2b2ded53ba4656ac21a8f49d8b1aacd628182dc5437ad367d78811e72dfe8a68cb9ac19&mpshare=1&scene=1&srcid=&sharer_sharetime=1585087518266&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al8K1lOzrKtxK2NmmJ%2F%2FKiI%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
 ![clinical](/pic/clinical.jpg)
 
 - [**2020-03-24 【快报】瑞德西韦刚刚获得治疗新冠肺炎孤儿药认证**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488337&idx=3&sn=a2a7e4c092248b2d66111f6302279b35&chksm=f9801914cef79002a9b50342457c44b1d748855b175f0bafda6c0de90c8590320f8e85f49e88&mpshare=1&scene=1&srcid=0324g8mZFJ3rheo9Smf8R1Xx&sharer_sharetime=1585009795426&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AlItbKzwojfYN4f%2F9pRtPEs%3D&pass_ticket=AffHC52GB9HY5n%2BDrR8AjuY2CbTqEkbsgvAIn9%2FRHzOlhwSlxqPxxEt7Kshiv8Pq#rd)
@@ -218,10 +218,10 @@
 - [**2020-03-25 初步的SARS-CoV-2蛋白酶抑制剂在小鼠中显示功效**](https://mp.weixin.qq.com/s?__biz=MzU2ODU3Mzc4Nw==&mid=2247484799&idx=1&sn=9b98d2834b20b1fd5274b06abb734597&chksm=fc8aaf4bcbfd265dc833fc2734b3145e2a5ce7989866181f90c8f7bcf4f3347c772572f945de&mpshare=1&scene=1&srcid=&sharer_sharetime=1585172356572&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtTaYcEqWimyFFJgFlagnfY%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
 ![science](/pic/science.jpg)
 
-- [**2020-03-25 隔离多重要？柳叶刀建模分析新加坡：新冠患者因此少约95%**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=504128241&idx=1&sn=595a98cceb5ebb63ddc79d12be301ef1&chksm=3d61ff4d0a16765b2b8bc360257c105e0073e1302d7793e406d50edda9f0939fe694a7afd65d&mpshare=1&scene=1&srcid=&sharer_sharetime=1585163126399&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkDvjNhaO8B01T2OpQO4P2I%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+- [**2020-03-25 隔离多重要？柳叶刀建模分析新加坡：新冠患者因此少约95%**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=504128241&idx=1&sn=595a98cceb5ebb63ddc79d12be301ef1&chksm=3d61ff4d0a16765b2b8bc360257c105e0073e1302d7793e406d50edda9f0939fe694a7afd65d&mpshare=1&scene=1&srcid=&sharer_sharetime=1585163126399&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkDvjNhaO8B01T2OpQO4P2I%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
 ![隔离](/pic/iso.jpg)
 
-- [**2020-03-25 柳叶刀子刊解释新冠快速传播：患者发病首周唾液病毒载量最高**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=504128176&idx=1&sn=15b142c992b24a3ceb7096c774229efa&chksm=3d61ff0c0a16761a73985f5a80cb8a0e086cdaef126121c941109842c47077ede6cd2a033d23&mpshare=1&scene=1&srcid=&sharer_sharetime=1585160648037&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AspUSRm6aehZXpOIN7wKOh8%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+- [**2020-03-25 柳叶刀子刊解释新冠快速传播：患者发病首周唾液病毒载量最高**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=504128176&idx=1&sn=15b142c992b24a3ceb7096c774229efa&chksm=3d61ff0c0a16761a73985f5a80cb8a0e086cdaef126121c941109842c47077ede6cd2a033d23&mpshare=1&scene=1&srcid=&sharer_sharetime=1585160648037&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AspUSRm6aehZXpOIN7wKOh8%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
 ![saliva](/pic/saliva.jpg)
 
 - [**2020-03-22 566个全球新冠病毒基因组谱系图**](https://mp.weixin.qq.com/s?__biz=MzAwNTU3OTM5MA==&mid=2247489196&idx=1&sn=2d1a32884c97f2a9a2dacf8d310237d7&chksm=9b1b21bdac6ca8ab5277de8a2799dd4755661ff14ea15c8fa6e4a87f32c76cf14dd81f508015&mpshare=1&scene=1&srcid=&sharer_sharetime=1584894138803&sharer_shareid=6cca3844077dcf436e21c18b4e0fff82&exportkey=AvItungnSi6eZ2kL6fbybLs%3D&pass_ticket=yGq308KHjldfGusEXTm2PrdOta2h0OxvbMk%2BUUMwX7Hb%2F15kFTisCmMIo%2FavfNHW#rd)
@@ -289,25 +289,28 @@
  
 ## 其他
 
-- [**2020-03-25 为什么东亚对疫情的控制比欧洲有效？**](https://mp.weixin.qq.com/s?__biz=MzU4NzQ4OTYzMA==&mid=2247485232&idx=1&sn=73cac9d39989ebb193d858f319f5ee87&chksm=fdea0f01ca9d861721933e6ef54e4d5e77b96d60bd2f2fdaf48d7fbf2391302d87a65ff972ef&mpshare=1&scene=1&srcid=&sharer_sharetime=1585183989721&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlmiOiLaVyRYztsACfgI%2BRE%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+- [**2020-03-25 It Wasn’t Just Trump Who Got It Wrong**](https://www.theatlantic.com/technology/archive/2020/03/what-really-doomed-americas-coronavirus-response/608596/) &#127381;
+![trump](/pic/trump.jpg)
+
+- [**2020-03-25 为什么东亚对疫情的控制比欧洲有效？**](https://mp.weixin.qq.com/s?__biz=MzU4NzQ4OTYzMA==&mid=2247485232&idx=1&sn=73cac9d39989ebb193d858f319f5ee87&chksm=fdea0f01ca9d861721933e6ef54e4d5e77b96d60bd2f2fdaf48d7fbf2391302d87a65ff972ef&mpshare=1&scene=1&srcid=&sharer_sharetime=1585183989721&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlmiOiLaVyRYztsACfgI%2BRE%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
 ![东亚](/pic/eastasia.jpg)
 
-- [**2020-03-25 哈佛教授：为什么新冠病毒会促进去国际化？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQyNDk1MQ==&mid=2247483654&idx=1&sn=de6788ebcb75533390df47ef7bc7d634&chksm=ec21501edb56d908527208a0c10c69fb99098b4c4c7ce29a154f07ed29841fdeea233fb443f2&mpshare=1&scene=1&srcid=0326ndCLDycTaVwe49JTahGx&sharer_sharetime=1585174506589&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AigbtvKzdlkvupZDZmFvGUo%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+- [**2020-03-25 哈佛教授：为什么新冠病毒会促进去国际化？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQyNDk1MQ==&mid=2247483654&idx=1&sn=de6788ebcb75533390df47ef7bc7d634&chksm=ec21501edb56d908527208a0c10c69fb99098b4c4c7ce29a154f07ed29841fdeea233fb443f2&mpshare=1&scene=1&srcid=0326ndCLDycTaVwe49JTahGx&sharer_sharetime=1585174506589&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AigbtvKzdlkvupZDZmFvGUo%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
 ![去国际化](/pic/deglobal.jpg)
 
-- [**2020-03-25 Why Germany’s coronavirus death rate is so much lower than other countries’ rates**](https://www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html)  &#127381;
+- [**2020-03-25 Why Germany’s coronavirus death rate is so much lower than other countries’ rates**](https://www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html) 
 ![deathrate](/pic/deathrate.jpg)
 
-- [**2020-03-25 How the Coronavirus Became an American Catastrophe**](https://www.theatlantic.com/health/archive/2020/03/how-many-americans-are-sick-lost-february/608521/) &#127381;
+- [**2020-03-25 How the Coronavirus Became an American Catastrophe**](https://www.theatlantic.com/health/archive/2020/03/how-many-americans-are-sick-lost-february/608521/)
 ![catastrophe](/pic/catas.jpg)
 
-- [**2020-03-25 We need smart coronavirus testing, not just more testing**](https://www.statnews.com/2020/03/24/we-need-smart-coronavirus-testing-not-just-more-testing/) &#127381;
+- [**2020-03-25 We need smart coronavirus testing, not just more testing**](https://www.statnews.com/2020/03/24/we-need-smart-coronavirus-testing-not-just-more-testing/)
 ![smart](/pic/smart.jpg)
 
-- [**2020-03-25 意大利新冠肺炎病死率为何这么高？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488351&idx=1&sn=47d9c9d107bed62ecd4362607412710e&chksm=f980191acef7900c09cf8569b70d7311fa2f4ba843954c4a5fff054a89f64fed6400fa268033&mpshare=1&scene=1&srcid=0325pP0TeQ9QokYHeCgutJwL&sharer_sharetime=1585106568446&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=Ao2uwuMTCKZ8xWCdXBHoQWs%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+- [**2020-03-25 意大利新冠肺炎病死率为何这么高？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488351&idx=1&sn=47d9c9d107bed62ecd4362607412710e&chksm=f980191acef7900c09cf8569b70d7311fa2f4ba843954c4a5fff054a89f64fed6400fa268033&mpshare=1&scene=1&srcid=0325pP0TeQ9QokYHeCgutJwL&sharer_sharetime=1585106568446&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=Ao2uwuMTCKZ8xWCdXBHoQWs%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
 ![italy](/pic/italy.jpg)
 
-- [**2020-03-25 概念陷阱：病死率、R0和群体免疫｜大象公会**](https://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&mid=2651034991&idx=1&sn=62c4d343295fe90c72d327c53faf3b8a&chksm=bd2d44018a5acd17abf478b1fb71b82c05daec55cd5e1cc1ca1f0a60a7dd80d2e13b89583587&mpshare=1&scene=1&srcid=&sharer_sharetime=1585088035267&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArlYrfz%2F3mQDU0NnychD6AE%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+- [**2020-03-25 概念陷阱：病死率、R0和群体免疫｜大象公会**](https://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&mid=2651034991&idx=1&sn=62c4d343295fe90c72d327c53faf3b8a&chksm=bd2d44018a5acd17abf478b1fb71b82c05daec55cd5e1cc1ca1f0a60a7dd80d2e13b89583587&mpshare=1&scene=1&srcid=&sharer_sharetime=1585088035267&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArlYrfz%2F3mQDU0NnychD6AE%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
 ![trap](/pic/trap.jpg)
 
 - [**2020-03-24 德国出手收治法国意大利重患！对内还这样支持本国医疗系统**](https://mp.weixin.qq.com/s?__biz=MzAwODAyMTA5OQ==&mid=2656075313&idx=2&sn=3b58b860e7e1c05f37572f56faeb1621&chksm=80d1eb35b7a66223662505381399e5f0617792936a5909dc5789270267debe612878fb3932fe&mpshare=1&scene=1&srcid=&sharer_sharetime=1585059103570&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Asvxs7sAgxCwbbscFbCGQow%3D&pass_ticket=AffHC52GB9HY5n%2BDrR8AjuY2CbTqEkbsgvAIn9%2FRHzOlhwSlxqPxxEt7Kshiv8Pq#rd)
