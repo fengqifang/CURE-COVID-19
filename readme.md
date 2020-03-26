@@ -294,6 +294,9 @@
  
 ## 其他
 
+- [**2020-03-26 意大利为何疫情如此失控？剖析背后的复杂原因**](https://mp.weixin.qq.com/s?__biz=MzI0NTE0NjYyNg==&mid=2649501647&idx=1&sn=67b91807852c9c2126785c4e678c27b0&chksm=f14a7aa2c63df3b4e92b090b1bb7e5295ff58d87e9474aaf70a2e7b4ebf8b3f2cd52eb5be831&mpshare=1&scene=1&srcid=&sharer_sharetime=1585252061803&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvwOSFgKzb%2FGyd4f8R8Za5c%3D&pass_ticket=72%2BVsUL0p7Q7yb0Ynt%2FTulMj3zgiiVeokpMEW2JL87wjzE9dsMBNo30gd46pFcLb#rd) &#127381;
+![疫情失控](/pic/control.jpg)
+
 - [**2020-03-26 It Wasn’t Just Trump Who Got It Wrong**](https://www.theatlantic.com/technology/archive/2020/03/what-really-doomed-americas-coronavirus-response/608596/) &#127381;
 ![trump](/pic/trump.jpg)
 
