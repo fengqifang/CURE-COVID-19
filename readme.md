@@ -222,7 +222,10 @@
  
 ## 研究进展
 
-- [**2020-03-25 初步的SARS-CoV-2蛋白酶抑制剂在小鼠中显示功效**](https://mp.weixin.qq.com/s?__biz=MzU2ODU3Mzc4Nw==&mid=2247484799&idx=1&sn=9b98d2834b20b1fd5274b06abb734597&chksm=fc8aaf4bcbfd265dc833fc2734b3145e2a5ce7989866181f90c8f7bcf4f3347c772572f945de&mpshare=1&scene=1&srcid=&sharer_sharetime=1585172356572&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtTaYcEqWimyFFJgFlagnfY%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+- [**2020-03-26 Iceland’s testing suggests 50% of COVID-19 cases are asymptomatic**](https://www.zmescience.com/medicine/iceland-testing-covid-19-0523/) &#127381;
+![iceland](/pic/iceland.jpg)
+
+- [**2020-03-25 初步的SARS-CoV-2蛋白酶抑制剂在小鼠中显示功效**](https://mp.weixin.qq.com/s?__biz=MzU2ODU3Mzc4Nw==&mid=2247484799&idx=1&sn=9b98d2834b20b1fd5274b06abb734597&chksm=fc8aaf4bcbfd265dc833fc2734b3145e2a5ce7989866181f90c8f7bcf4f3347c772572f945de&mpshare=1&scene=1&srcid=&sharer_sharetime=1585172356572&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtTaYcEqWimyFFJgFlagnfY%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) 
 ![science](/pic/science.jpg)
 
 - [**2020-03-25 隔离多重要？柳叶刀建模分析新加坡：新冠患者因此少约95%**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=504128241&idx=1&sn=595a98cceb5ebb63ddc79d12be301ef1&chksm=3d61ff4d0a16765b2b8bc360257c105e0073e1302d7793e406d50edda9f0939fe694a7afd65d&mpshare=1&scene=1&srcid=&sharer_sharetime=1585163126399&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkDvjNhaO8B01T2OpQO4P2I%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
