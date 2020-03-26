@@ -76,6 +76,9 @@
  
 ## 治疗方案
 
+- [**2020-03-25 特朗普力推的「羟氯喹」，你知道它该怎么用吗？**](https://mp.weixin.qq.com/s?__biz=MjM5MjgwOTI5MQ==&mid=2650208001&idx=1&sn=a922d6fa558fa9204fd71dc0262f5193&chksm=bea2ff2589d57633d1ef2c10bc3d9f7652b362fcee41177523fa3f7d51344fddb63d16d6ff60&mpshare=1&scene=1&srcid=&sharer_sharetime=1585185941819&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkT3iPSIvxcrUW0rn4SHS2o%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+![羟氯喹](/pic/qianglvkui.jpg)
+
 - [**2020-03-25 达诺瑞韦治疗初治和经治新冠肺炎患者的首个临床研究结果发表**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=100012283&idx=1&sn=1e951878a490d66210fa205e5d733d2e&chksm=7c76c34f4b014a59cfdf95f2d985b8ac3f8cbee4432b26187a67da65234284901fed4ec264d9&mpshare=1&scene=1&srcid=0325UvMeWCZ42quTXTBCdTtw&sharer_sharetime=1585102317900&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avyi7qVcRdm1ijylGAszW1c%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
 ![达诺瑞韦](/pic/dano.jpg)
 
@@ -212,6 +215,12 @@
  
 ## 研究进展
 
+- [**2020-03-25 初步的SARS-CoV-2蛋白酶抑制剂在小鼠中显示功效**](https://mp.weixin.qq.com/s?__biz=MzU2ODU3Mzc4Nw==&mid=2247484799&idx=1&sn=9b98d2834b20b1fd5274b06abb734597&chksm=fc8aaf4bcbfd265dc833fc2734b3145e2a5ce7989866181f90c8f7bcf4f3347c772572f945de&mpshare=1&scene=1&srcid=&sharer_sharetime=1585172356572&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtTaYcEqWimyFFJgFlagnfY%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+![science](/pic/science.jpg)
+
+- [**2020-03-25 隔离多重要？柳叶刀建模分析新加坡：新冠患者因此少约95%**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=504128241&idx=1&sn=595a98cceb5ebb63ddc79d12be301ef1&chksm=3d61ff4d0a16765b2b8bc360257c105e0073e1302d7793e406d50edda9f0939fe694a7afd65d&mpshare=1&scene=1&srcid=&sharer_sharetime=1585163126399&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkDvjNhaO8B01T2OpQO4P2I%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+![隔离](/pic/iso.jpg)
+
 - [**2020-03-25 柳叶刀子刊解释新冠快速传播：患者发病首周唾液病毒载量最高**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=504128176&idx=1&sn=15b142c992b24a3ceb7096c774229efa&chksm=3d61ff0c0a16761a73985f5a80cb8a0e086cdaef126121c941109842c47077ede6cd2a033d23&mpshare=1&scene=1&srcid=&sharer_sharetime=1585160648037&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AspUSRm6aehZXpOIN7wKOh8%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
 ![saliva](/pic/saliva.jpg)
 
@@ -279,6 +288,12 @@
  ***
  
 ## 其他
+
+- [**2020-03-25 为什么东亚对疫情的控制比欧洲有效？**](https://mp.weixin.qq.com/s?__biz=MzU4NzQ4OTYzMA==&mid=2247485232&idx=1&sn=73cac9d39989ebb193d858f319f5ee87&chksm=fdea0f01ca9d861721933e6ef54e4d5e77b96d60bd2f2fdaf48d7fbf2391302d87a65ff972ef&mpshare=1&scene=1&srcid=&sharer_sharetime=1585183989721&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlmiOiLaVyRYztsACfgI%2BRE%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+![东亚](/pic/eastasia.jpg)
+
+- [**2020-03-25 哈佛教授：为什么新冠病毒会促进去国际化？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQyNDk1MQ==&mid=2247483654&idx=1&sn=de6788ebcb75533390df47ef7bc7d634&chksm=ec21501edb56d908527208a0c10c69fb99098b4c4c7ce29a154f07ed29841fdeea233fb443f2&mpshare=1&scene=1&srcid=0326ndCLDycTaVwe49JTahGx&sharer_sharetime=1585174506589&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AigbtvKzdlkvupZDZmFvGUo%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) &#127381;
+![去国际化](/pic/deglobal.jpg)
 
 - [**2020-03-25 Why Germany’s coronavirus death rate is so much lower than other countries’ rates**](https://www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html)  &#127381;
 ![deathrate](/pic/deathrate.jpg)
