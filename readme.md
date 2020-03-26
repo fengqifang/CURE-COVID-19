@@ -37,6 +37,8 @@
 
 ## 疫情地图
 
+- [**2019 Novel Coronavirus - SAS Coronavirus Dashboard**](https://tbub.sas.com/COVID19/) &#127381;
+
 - [**Should we really stay home?**](https://shouldwereallystayhome.com/) &#127381;
 
 - [**The COVID Tracking Project**](https://covidtracking.com/data/) &#11088;
