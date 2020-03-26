@@ -289,7 +289,7 @@
  
 ## 其他
 
-- [**2020-03-25 It Wasn’t Just Trump Who Got It Wrong**](https://www.theatlantic.com/technology/archive/2020/03/what-really-doomed-americas-coronavirus-response/608596/) &#127381;
+- [**2020-03-26 It Wasn’t Just Trump Who Got It Wrong**](https://www.theatlantic.com/technology/archive/2020/03/what-really-doomed-americas-coronavirus-response/608596/) &#127381;
 ![trump](/pic/trump.jpg)
 
 - [**2020-03-25 为什么东亚对疫情的控制比欧洲有效？**](https://mp.weixin.qq.com/s?__biz=MzU4NzQ4OTYzMA==&mid=2247485232&idx=1&sn=73cac9d39989ebb193d858f319f5ee87&chksm=fdea0f01ca9d861721933e6ef54e4d5e77b96d60bd2f2fdaf48d7fbf2391302d87a65ff972ef&mpshare=1&scene=1&srcid=&sharer_sharetime=1585183989721&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlmiOiLaVyRYztsACfgI%2BRE%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
