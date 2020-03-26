@@ -37,6 +37,8 @@
 
 ## 疫情地图
 
+- [**Should we really stay home?**](https://shouldwereallystayhome.com/) &#127381;
+
 - [**The COVID Tracking Project**](https://covidtracking.com/data/) &#11088;
 
 - [**Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering**](https://coronavirus.jhu.edu/map.html)
@@ -75,6 +77,9 @@
  ***
  
 ## 治疗方案
+
+- [**2020-03-26 Bahrain, Belgium report coronavirus treatment touted by Trump is working for patients**](https://justthenews.com/politics-policy/coronavirus/bahrain-hydroxychloroquine-success-response-covid-19#.XnvXrFFGkI4.twitter) &#127381;
+![bahrain](/pic/bahrain.jpg)
 
 - [**2020-03-25 特朗普力推的「羟氯喹」，你知道它该怎么用吗？**](https://mp.weixin.qq.com/s?__biz=MjM5MjgwOTI5MQ==&mid=2650208001&idx=1&sn=a922d6fa558fa9204fd71dc0262f5193&chksm=bea2ff2589d57633d1ef2c10bc3d9f7652b362fcee41177523fa3f7d51344fddb63d16d6ff60&mpshare=1&scene=1&srcid=&sharer_sharetime=1585185941819&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkT3iPSIvxcrUW0rn4SHS2o%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
 ![羟氯喹](/pic/qianglvkui.jpg)
