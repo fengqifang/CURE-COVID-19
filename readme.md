@@ -37,9 +37,9 @@
 
 ## 疫情地图
 
-- [**2019 Novel Coronavirus - SAS Coronavirus Dashboard**](https://tbub.sas.com/COVID19/) &#127381;
+- [**2019 Novel Coronavirus - SAS Coronavirus Dashboard**](https://tbub.sas.com/COVID19/)
 
-- [**Should we really stay home?**](https://shouldwereallystayhome.com/) &#127381;
+- [**Should we really stay home?**](https://shouldwereallystayhome.com/)
 
 - [**The COVID Tracking Project**](https://covidtracking.com/data/) &#11088;
 
@@ -80,7 +80,7 @@
  
 ## 治疗方案
 
-- [**2020-03-26 Bahrain, Belgium report coronavirus treatment touted by Trump is working for patients**](https://justthenews.com/politics-policy/coronavirus/bahrain-hydroxychloroquine-success-response-covid-19#.XnvXrFFGkI4.twitter) &#127381;
+- [**2020-03-26 Bahrain, Belgium report coronavirus treatment touted by Trump is working for patients**](https://justthenews.com/politics-policy/coronavirus/bahrain-hydroxychloroquine-success-response-covid-19#.XnvXrFFGkI4.twitter)
 ![bahrain](/pic/bahrain.jpg)
 
 - [**2020-03-25 特朗普力推的「羟氯喹」，你知道它该怎么用吗？**](https://mp.weixin.qq.com/s?__biz=MjM5MjgwOTI5MQ==&mid=2650208001&idx=1&sn=a922d6fa558fa9204fd71dc0262f5193&chksm=bea2ff2589d57633d1ef2c10bc3d9f7652b362fcee41177523fa3f7d51344fddb63d16d6ff60&mpshare=1&scene=1&srcid=&sharer_sharetime=1585185941819&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkT3iPSIvxcrUW0rn4SHS2o%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
@@ -222,10 +222,22 @@
  
 ## 研究进展
 
-- [**2020-03-26 Everyone In Iceland Can Get Tested For The Coronavirus. Here's How The Results Could Help All Of Us.**](https://www.buzzfeed.com/albertonardelli/coronavirus-testing-iceland) &#127381;
+- [**2020-03-27 新冠病毒侵染人体那一刻发生了什么？西湖大学新冠研究登上《Science》封面**](https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651678147&idx=1&sn=a32305a6b614cbc7a43b75bb2d0ebc39&chksm=bd4c42508a3bcb4641f53e6ba9624f566bdd66e79db089819807d3c1efa3af9f3f511b3e489f&mpshare=1&scene=1&srcid=&sharer_sharetime=1585311275757&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao1Hpjq%2Fx0my1PxuoYAvk9c%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) &#127381;
+![xihu](/pic/xihu.jpg)
+
+- [**2020-03-27 AI如何抗击新冠？WHO的这篇论文说明白了**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268778&idx=1&sn=bca998cc4ba359da98f1ba34d95b3499&chksm=8bb7c414bcc04d02b222b14d4ce866bb2ee4ba4376f2d0eeead7e65dd4242afe5909e312c94a&mpshare=1&scene=1&srcid=&sharer_sharetime=1585311208319&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ar%2BEy3k5eiLVXkeo0a9E7xw%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) &#127381;
+![AI](/pic/ai.jpg)
+
+- [**2020-03-27 新生儿血清测出抗体，新冠病毒是否母婴垂直传播？JAMA发表多篇病例分析**](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914524&idx=1&sn=6aad1f58795181987685d2b4eb7e27c7&chksm=83c3d25eb4b45b482cf4558f82b234fc1fac301d70d71b143efa26cd8dc4bce5c62109518fb7&mpshare=1&scene=1&srcid=&sharer_sharetime=1585310482906&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AufjUSiIrqQPDisO4X3PrHM%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) &#127381;
+![baby](/pic/baby.jpg)
+
+- [**2020-03-27 Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China**](https://www.nature.com/articles/s41591-020-0822-7?fbclid=IwAR1Fpse5xcV__d75oBpnzOo0AhDMLHJnz0fZxk-xW8cZPJXMkXmKRlJ6YfM) &#127381;
+![severity](/pic/severity.jpg)
+
+- [**2020-03-26 Everyone In Iceland Can Get Tested For The Coronavirus. Here's How The Results Could Help All Of Us.**](https://www.buzzfeed.com/albertonardelli/coronavirus-testing-iceland)
 ![iceland2](/pic/iceland2.jpg)
 
-- [**2020-03-26 Iceland’s testing suggests 50% of COVID-19 cases are asymptomatic**](https://www.zmescience.com/medicine/iceland-testing-covid-19-0523/) &#127381;
+- [**2020-03-26 Iceland’s testing suggests 50% of COVID-19 cases are asymptomatic**](https://www.zmescience.com/medicine/iceland-testing-covid-19-0523/)
 ![iceland](/pic/iceland.jpg)
 
 - [**2020-03-25 初步的SARS-CoV-2蛋白酶抑制剂在小鼠中显示功效**](https://mp.weixin.qq.com/s?__biz=MzU2ODU3Mzc4Nw==&mid=2247484799&idx=1&sn=9b98d2834b20b1fd5274b06abb734597&chksm=fc8aaf4bcbfd265dc833fc2734b3145e2a5ce7989866181f90c8f7bcf4f3347c772572f945de&mpshare=1&scene=1&srcid=&sharer_sharetime=1585172356572&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtTaYcEqWimyFFJgFlagnfY%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd) 
@@ -301,11 +313,16 @@
  ***
  
 ## 其他
+- [**2020-03-27 确诊数居全球首位：美国如何错失防疫最佳时机？**](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650713879&idx=1&sn=f40abad9b364721d9b29af9160d9b480&chksm=5afcbe3d6d8b372b55f8aea0697f606ac416fc4f7ec586d4ff62a76dc6f1dd70c15945273091&mpshare=1&scene=1&srcid=&sharer_sharetime=1585311183108&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgDOKy5qx5fqJd11XXbHTkc%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) &#127381;
+![最佳时机](/pic/usa.jpg)
 
-- [**2020-03-26 意大利为何疫情如此失控？剖析背后的复杂原因**](https://mp.weixin.qq.com/s?__biz=MzI0NTE0NjYyNg==&mid=2649501647&idx=1&sn=67b91807852c9c2126785c4e678c27b0&chksm=f14a7aa2c63df3b4e92b090b1bb7e5295ff58d87e9474aaf70a2e7b4ebf8b3f2cd52eb5be831&mpshare=1&scene=1&srcid=&sharer_sharetime=1585252061803&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvwOSFgKzb%2FGyd4f8R8Za5c%3D&pass_ticket=72%2BVsUL0p7Q7yb0Ynt%2FTulMj3zgiiVeokpMEW2JL87wjzE9dsMBNo30gd46pFcLb#rd) &#127381;
+- [**2020-03-27 South Korea Tries ‘Social Distancing’ to Prevent Coronavirus Spread**](https://learningenglish.voanews.com/a/south-korea-tries-social-distancing-to-prevent-coronavirus-spread/5316633.html) &#127381;
+![SouthKorea](/pic/southkorea.jpg)
+
+- [**2020-03-26 意大利为何疫情如此失控？剖析背后的复杂原因**](https://mp.weixin.qq.com/s?__biz=MzI0NTE0NjYyNg==&mid=2649501647&idx=1&sn=67b91807852c9c2126785c4e678c27b0&chksm=f14a7aa2c63df3b4e92b090b1bb7e5295ff58d87e9474aaf70a2e7b4ebf8b3f2cd52eb5be831&mpshare=1&scene=1&srcid=&sharer_sharetime=1585252061803&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvwOSFgKzb%2FGyd4f8R8Za5c%3D&pass_ticket=72%2BVsUL0p7Q7yb0Ynt%2FTulMj3zgiiVeokpMEW2JL87wjzE9dsMBNo30gd46pFcLb#rd)
 ![疫情失控](/pic/control.jpg)
 
-- [**2020-03-26 It Wasn’t Just Trump Who Got It Wrong**](https://www.theatlantic.com/technology/archive/2020/03/what-really-doomed-americas-coronavirus-response/608596/) &#127381;
+- [**2020-03-26 It Wasn’t Just Trump Who Got It Wrong**](https://www.theatlantic.com/technology/archive/2020/03/what-really-doomed-americas-coronavirus-response/608596/)
 ![trump](/pic/trump.jpg)
 
 - [**2020-03-25 为什么东亚对疫情的控制比欧洲有效？**](https://mp.weixin.qq.com/s?__biz=MzU4NzQ4OTYzMA==&mid=2247485232&idx=1&sn=73cac9d39989ebb193d858f319f5ee87&chksm=fdea0f01ca9d861721933e6ef54e4d5e77b96d60bd2f2fdaf48d7fbf2391302d87a65ff972ef&mpshare=1&scene=1&srcid=&sharer_sharetime=1585183989721&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlmiOiLaVyRYztsACfgI%2BRE%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
