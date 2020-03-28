@@ -80,6 +80,9 @@
  
 ## 治疗方案
 
+- [**2020-03-27 瑞德西韦临床试药者：久治不愈，“就想试一试”**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651613637&idx=4&sn=320aa7ea25b0d5055d732d7338b5690c&chksm=bd61f4798a167d6f48df99d75e123fc98b1bb24b742a131e788f1d7a63aee648b835d22c9b41&mpshare=1&scene=1&srcid=&sharer_sharetime=1585350097449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aqby%2FImty0I3IdErbVYO7pg%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) &#127381;
+![临床试药](/pic/try.jpg)
+
 - [**2020-03-26 Bahrain, Belgium report coronavirus treatment touted by Trump is working for patients**](https://justthenews.com/politics-policy/coronavirus/bahrain-hydroxychloroquine-success-response-covid-19#.XnvXrFFGkI4.twitter)
 ![bahrain](/pic/bahrain.jpg)
 
@@ -222,6 +225,9 @@
  
 ## 研究进展
 
+- [**2020-03-27 Coronavirus latest: pandemic could have killed 40 million without any action**](https://www.nature.com/articles/d41586-020-00154-w?utm_source=Nature+Briefing&utm_campaign=08e389c619-briefing-wk-20200327&utm_medium=email&utm_term=0_c9dfd39373-08e389c619-42192335) &#127381;
+![40million](/pic/40million.jpg)
+
 - [**2020-03-27 新冠病毒侵染人体那一刻发生了什么？西湖大学新冠研究登上《Science》封面**](https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651678147&idx=1&sn=a32305a6b614cbc7a43b75bb2d0ebc39&chksm=bd4c42508a3bcb4641f53e6ba9624f566bdd66e79db089819807d3c1efa3af9f3f511b3e489f&mpshare=1&scene=1&srcid=&sharer_sharetime=1585311275757&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao1Hpjq%2Fx0my1PxuoYAvk9c%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) &#127381;
 ![xihu](/pic/xihu.jpg)
 
@@ -313,6 +319,10 @@
  ***
  
 ## 其他
+
+- [**2020-03-27 Bill Gates: State-by-state shutdown won't work**](https://edition.cnn.com/videos/business/2020/03/27/bill-gates-coronavirus-town-hall-shutdown-april-peak-sot-vpx.cnn/video/playlists/cnn-coronavirus-town-hall/?from=timeline&isappinstalled=0) &#127381;
+![bill](/pic/bill.jpg)
+
 - [**2020-03-27 确诊数居全球首位：美国如何错失防疫最佳时机？**](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650713879&idx=1&sn=f40abad9b364721d9b29af9160d9b480&chksm=5afcbe3d6d8b372b55f8aea0697f606ac416fc4f7ec586d4ff62a76dc6f1dd70c15945273091&mpshare=1&scene=1&srcid=&sharer_sharetime=1585311183108&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgDOKy5qx5fqJd11XXbHTkc%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) &#127381;
 ![最佳时机](/pic/usa.jpg)
 
