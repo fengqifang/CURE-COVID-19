@@ -61,6 +61,9 @@
  
 ## 检测试剂
 
+- [**2020-03-29 重大进展！德国博世推出新冠病毒快速检测仪**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxMDgyNQ==&mid=2247485515&idx=1&sn=1d2901469e8964a3c4cc15aa5299d29c&chksm=fc75dbcdcb0252dbfcc9f597df1da5d44ff01cc23862a60502c8085201fd2074358562920942&mpshare=1&scene=1&srcid=&sharer_sharetime=1585398085479&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhdYeyC8abnHYql%2BnkgiuPk%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
+![博世](/pic/bosch.jpg)
+
 - [**2020-03-22 快讯！FDA紧急授权首个新冠病毒POC即时检测产品，最快45分钟出结果**](https://www.wuximediatech.com/content/post/detail.html?sn=bb0f2bf78bca4991a40f8085a5f3f566&from=timeline&isappinstalled=0)
 ![即时检测](/pic/45min.jpg)
 
@@ -80,7 +83,10 @@
  
 ## 治疗方案
 
-- [**2020-03-27 瑞德西韦临床试药者：久治不愈，“就想试一试”**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651613637&idx=4&sn=320aa7ea25b0d5055d732d7338b5690c&chksm=bd61f4798a167d6f48df99d75e123fc98b1bb24b742a131e788f1d7a63aee648b835d22c9b41&mpshare=1&scene=1&srcid=&sharer_sharetime=1585350097449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aqby%2FImty0I3IdErbVYO7pg%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) &#127381;
+- [**2020-03-29 吃氯喹防新冠？英国牛津大学启动万人临床试验**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649584596&idx=1&sn=bfc77e98acb19535606114ce01749ea3&chksm=876a67cdb01deedb11a53e16a261e965bc17f181053b77fc8b21d937cfbdd71abfac747c0cec&mpshare=1&scene=1&srcid=&sharer_sharetime=1585370721977&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap14gsgJoG%2Bx8HL8fWahUCM%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
+![万人临床试验](/pic/10k.jpg)
+
+- [**2020-03-27 瑞德西韦临床试药者：久治不愈，“就想试一试”**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651613637&idx=4&sn=320aa7ea25b0d5055d732d7338b5690c&chksm=bd61f4798a167d6f48df99d75e123fc98b1bb24b742a131e788f1d7a63aee648b835d22c9b41&mpshare=1&scene=1&srcid=&sharer_sharetime=1585350097449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aqby%2FImty0I3IdErbVYO7pg%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd)
 ![临床试药](/pic/try.jpg)
 
 - [**2020-03-26 Bahrain, Belgium report coronavirus treatment touted by Trump is working for patients**](https://justthenews.com/politics-policy/coronavirus/bahrain-hydroxychloroquine-success-response-covid-19#.XnvXrFFGkI4.twitter)
@@ -142,6 +148,12 @@
  ***
  
 ## 疫苗相关／新药开发
+
+- [**2020-03-29 CD147抗体临床试验数据发布！有效改善COVID-19患者康复，安全性良好**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488746&idx=1&sn=d70517da81b81f121ce93240e057f7fc&chksm=fb8829a9ccffa0bf213f8d4b878633c9a3a882214ff8df5bedfe3fa0008ee635f08d16fe6068&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492326831&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnM94Odt9BfCUNPXK3Suosw%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
+![CD147抗体](/pic/cd147.jpg)
+
+- [**2020-03-29 【回顾】抗病毒药物50年批准史**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268784&idx=1&sn=d53f2ac3c70a643f0a565d97fd4f7380&chksm=8bb7c40ebcc04d183229d7d035445f69d173b22a498a9dc67bd4ebf260576957b03775ed8815&mpshare=1&scene=1&srcid=&sharer_sharetime=1585401402734&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah%2BuWnygzaFyKorXtA7taaA%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
+![抗病毒药物](/pic/antivirus.jpg)
 
 - [**2020-03-25 FDA对于疫情期间临床试验的执行提供建议**](https://mp.weixin.qq.com/s?__biz=MzI0ODQ4MzM0MQ==&mid=2247494096&idx=1&sn=0ba0d6ee1f4ce5c7cbc074bf0a1ced5f&chksm=e9a2b2b2ded53ba4656ac21a8f49d8b1aacd628182dc5437ad367d78811e72dfe8a68cb9ac19&mpshare=1&scene=1&srcid=&sharer_sharetime=1585087518266&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al8K1lOzrKtxK2NmmJ%2F%2FKiI%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
 ![clinical](/pic/clinical.jpg)
@@ -225,19 +237,28 @@
  
 ## 研究进展
 
-- [**2020-03-27 Coronavirus latest: pandemic could have killed 40 million without any action**](https://www.nature.com/articles/d41586-020-00154-w?utm_source=Nature+Briefing&utm_campaign=08e389c619-briefing-wk-20200327&utm_medium=email&utm_term=0_c9dfd39373-08e389c619-42192335) &#127381;
+- [**2020-03-29 鼻咽拭子检测新冠病毒太痛苦？柳叶刀最新研究提示冠状病毒检测新途径**](https://mp.weixin.qq.com/s?__biz=MjM5NDg1OTg0Mw==&mid=2651960982&idx=1&sn=7ecf350da5ec14b387c32b633b3f09a4&chksm=bd6448ba8a13c1aca5f529b6b9eed3ba44d0c48da20fcfb739530c2959ba18e279372e65a690&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492471574&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkAaWQBrJ1rCDqHBvX%2FFSF8%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
+![鼻咽拭子](/pic/newmethod.jpg)
+
+- [**2020-03-29 最新研究结果：新冠无症状感染者密接感染率与确诊者无差异**](https://m.guancha.cn/politics/2020_03_28_544299.shtml?from=timeline&isappinstalled=0) &#127381;
+![新冠无症状](/pic/liuxingbing.jpg)
+
+- [**2020-03-29 以基因组学观点探讨新冠病毒起源，复旦大学张永振教授及合作者发表评论文章**](https://mp.weixin.qq.com/s?__biz=MzA5NTYzMzAyNQ==&mid=2650198798&idx=1&sn=2e2bfd8ca4e1462234795977908432e2&chksm=88be18e0bfc991f6476058800f52fb086e681500f0e1d2daa7ac0e28b746eb5fdf476a916caa&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492312562&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AjmL2TzJIGUi7hPNhF%2FDTtY%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
+![基因组学](/pic/genomics.jpg)
+
+- [**2020-03-27 Coronavirus latest: pandemic could have killed 40 million without any action**](https://www.nature.com/articles/d41586-020-00154-w?utm_source=Nature+Briefing&utm_campaign=08e389c619-briefing-wk-20200327&utm_medium=email&utm_term=0_c9dfd39373-08e389c619-42192335)
 ![40million](/pic/40million.jpg)
 
-- [**2020-03-27 新冠病毒侵染人体那一刻发生了什么？西湖大学新冠研究登上《Science》封面**](https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651678147&idx=1&sn=a32305a6b614cbc7a43b75bb2d0ebc39&chksm=bd4c42508a3bcb4641f53e6ba9624f566bdd66e79db089819807d3c1efa3af9f3f511b3e489f&mpshare=1&scene=1&srcid=&sharer_sharetime=1585311275757&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao1Hpjq%2Fx0my1PxuoYAvk9c%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) &#127381;
+- [**2020-03-27 新冠病毒侵染人体那一刻发生了什么？西湖大学新冠研究登上《Science》封面**](https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651678147&idx=1&sn=a32305a6b614cbc7a43b75bb2d0ebc39&chksm=bd4c42508a3bcb4641f53e6ba9624f566bdd66e79db089819807d3c1efa3af9f3f511b3e489f&mpshare=1&scene=1&srcid=&sharer_sharetime=1585311275757&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao1Hpjq%2Fx0my1PxuoYAvk9c%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) 
 ![xihu](/pic/xihu.jpg)
 
-- [**2020-03-27 AI如何抗击新冠？WHO的这篇论文说明白了**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268778&idx=1&sn=bca998cc4ba359da98f1ba34d95b3499&chksm=8bb7c414bcc04d02b222b14d4ce866bb2ee4ba4376f2d0eeead7e65dd4242afe5909e312c94a&mpshare=1&scene=1&srcid=&sharer_sharetime=1585311208319&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ar%2BEy3k5eiLVXkeo0a9E7xw%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) &#127381;
+- [**2020-03-27 AI如何抗击新冠？WHO的这篇论文说明白了**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268778&idx=1&sn=bca998cc4ba359da98f1ba34d95b3499&chksm=8bb7c414bcc04d02b222b14d4ce866bb2ee4ba4376f2d0eeead7e65dd4242afe5909e312c94a&mpshare=1&scene=1&srcid=&sharer_sharetime=1585311208319&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ar%2BEy3k5eiLVXkeo0a9E7xw%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd)
 ![AI](/pic/ai.jpg)
 
-- [**2020-03-27 新生儿血清测出抗体，新冠病毒是否母婴垂直传播？JAMA发表多篇病例分析**](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914524&idx=1&sn=6aad1f58795181987685d2b4eb7e27c7&chksm=83c3d25eb4b45b482cf4558f82b234fc1fac301d70d71b143efa26cd8dc4bce5c62109518fb7&mpshare=1&scene=1&srcid=&sharer_sharetime=1585310482906&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AufjUSiIrqQPDisO4X3PrHM%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) &#127381;
+- [**2020-03-27 新生儿血清测出抗体，新冠病毒是否母婴垂直传播？JAMA发表多篇病例分析**](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914524&idx=1&sn=6aad1f58795181987685d2b4eb7e27c7&chksm=83c3d25eb4b45b482cf4558f82b234fc1fac301d70d71b143efa26cd8dc4bce5c62109518fb7&mpshare=1&scene=1&srcid=&sharer_sharetime=1585310482906&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AufjUSiIrqQPDisO4X3PrHM%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd)
 ![baby](/pic/baby.jpg)
 
-- [**2020-03-27 Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China**](https://www.nature.com/articles/s41591-020-0822-7?fbclid=IwAR1Fpse5xcV__d75oBpnzOo0AhDMLHJnz0fZxk-xW8cZPJXMkXmKRlJ6YfM) &#127381;
+- [**2020-03-27 Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China**](https://www.nature.com/articles/s41591-020-0822-7?fbclid=IwAR1Fpse5xcV__d75oBpnzOo0AhDMLHJnz0fZxk-xW8cZPJXMkXmKRlJ6YfM)
 ![severity](/pic/severity.jpg)
 
 - [**2020-03-26 Everyone In Iceland Can Get Tested For The Coronavirus. Here's How The Results Could Help All Of Us.**](https://www.buzzfeed.com/albertonardelli/coronavirus-testing-iceland)
@@ -320,13 +341,16 @@
  
 ## 其他
 
-- [**2020-03-27 Bill Gates: State-by-state shutdown won't work**](https://edition.cnn.com/videos/business/2020/03/27/bill-gates-coronavirus-town-hall-shutdown-april-peak-sot-vpx.cnn/video/playlists/cnn-coronavirus-town-hall/?from=timeline&isappinstalled=0) &#127381;
+- [**2020-03-29 How London became a Covid-19 hub as virus mutated into eight different strains and raced around the world**](https://www.dailymail.co.uk/news/article-8164615/Genetic-sequencing-data-map-shows-London-coronavirus-hub.html?from=timeline&isappinstalled=0) &#127381;
+![hub](/pic/hub.jpg)
+
+- [**2020-03-27 Bill Gates: State-by-state shutdown won't work**](https://edition.cnn.com/videos/business/2020/03/27/bill-gates-coronavirus-town-hall-shutdown-april-peak-sot-vpx.cnn/video/playlists/cnn-coronavirus-town-hall/?from=timeline&isappinstalled=0)
 ![bill](/pic/bill.jpg)
 
-- [**2020-03-27 确诊数居全球首位：美国如何错失防疫最佳时机？**](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650713879&idx=1&sn=f40abad9b364721d9b29af9160d9b480&chksm=5afcbe3d6d8b372b55f8aea0697f606ac416fc4f7ec586d4ff62a76dc6f1dd70c15945273091&mpshare=1&scene=1&srcid=&sharer_sharetime=1585311183108&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgDOKy5qx5fqJd11XXbHTkc%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd) &#127381;
+- [**2020-03-27 确诊数居全球首位：美国如何错失防疫最佳时机？**](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650713879&idx=1&sn=f40abad9b364721d9b29af9160d9b480&chksm=5afcbe3d6d8b372b55f8aea0697f606ac416fc4f7ec586d4ff62a76dc6f1dd70c15945273091&mpshare=1&scene=1&srcid=&sharer_sharetime=1585311183108&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgDOKy5qx5fqJd11XXbHTkc%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd)
 ![最佳时机](/pic/usa.jpg)
 
-- [**2020-03-27 South Korea Tries ‘Social Distancing’ to Prevent Coronavirus Spread**](https://learningenglish.voanews.com/a/south-korea-tries-social-distancing-to-prevent-coronavirus-spread/5316633.html) &#127381;
+- [**2020-03-27 South Korea Tries ‘Social Distancing’ to Prevent Coronavirus Spread**](https://learningenglish.voanews.com/a/south-korea-tries-social-distancing-to-prevent-coronavirus-spread/5316633.html)
 ![SouthKorea](/pic/southkorea.jpg)
 
 - [**2020-03-26 意大利为何疫情如此失控？剖析背后的复杂原因**](https://mp.weixin.qq.com/s?__biz=MzI0NTE0NjYyNg==&mid=2649501647&idx=1&sn=67b91807852c9c2126785c4e678c27b0&chksm=f14a7aa2c63df3b4e92b090b1bb7e5295ff58d87e9474aaf70a2e7b4ebf8b3f2cd52eb5be831&mpshare=1&scene=1&srcid=&sharer_sharetime=1585252061803&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvwOSFgKzb%2FGyd4f8R8Za5c%3D&pass_ticket=72%2BVsUL0p7Q7yb0Ynt%2FTulMj3zgiiVeokpMEW2JL87wjzE9dsMBNo30gd46pFcLb#rd)
