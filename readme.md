@@ -37,6 +37,10 @@
 
 ## 疫情地图
 
+- [**COVID-19 Projections**](https://covid19.healthdata.org/projections) &#127381;
+   
+   Charts below shows projected hospital resource use based on COVID-19 deaths.
+
 - [**2019 Novel Coronavirus - SAS Coronavirus Dashboard**](https://tbub.sas.com/COVID19/)
 
 - [**Should we really stay home?**](https://shouldwereallystayhome.com/)
