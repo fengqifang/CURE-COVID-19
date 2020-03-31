@@ -153,6 +153,9 @@
  
 ## 疫苗相关／新药开发
 
+- [**2020-03-30 FDA issues emergency authorization of anti-malaria drug for coronavirus care**](https://www.politico.com/news/2020/03/29/fda-emergency-authorization-anti-malaria-drug-155095) &#127381;
+![fda](/pic/fda.jpg)
+
 - [**2020-03-29 CD147抗体临床试验数据发布！有效改善COVID-19患者康复，安全性良好**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488746&idx=1&sn=d70517da81b81f121ce93240e057f7fc&chksm=fb8829a9ccffa0bf213f8d4b878633c9a3a882214ff8df5bedfe3fa0008ee635f08d16fe6068&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492326831&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnM94Odt9BfCUNPXK3Suosw%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
 ![CD147抗体](/pic/cd147.jpg)
 
@@ -240,6 +243,9 @@
  ***
  
 ## 研究进展
+
+- [**2020-03-30 Mathematics of life and death: How disease models shape national shutdowns and other pandemic policies**](https://www.sciencemag.org/news/2020/03/mathematics-life-and-death-how-disease-models-shape-national-shutdowns-and-other#) &#127381;
+![math](/pic/math.jpg)
 
 - [**2020-03-29 鼻咽拭子检测新冠病毒太痛苦？柳叶刀最新研究提示冠状病毒检测新途径**](https://mp.weixin.qq.com/s?__biz=MjM5NDg1OTg0Mw==&mid=2651960982&idx=1&sn=7ecf350da5ec14b387c32b633b3f09a4&chksm=bd6448ba8a13c1aca5f529b6b9eed3ba44d0c48da20fcfb739530c2959ba18e279372e65a690&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492471574&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkAaWQBrJ1rCDqHBvX%2FFSF8%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
 ![鼻咽拭子](/pic/newmethod.jpg)
@@ -344,6 +350,10 @@
  ***
  
 ## 其他
+
+- [**2020-03-30 Science发表社论：需要启用曼哈顿计划抗击新型冠状病毒**](https://mp.weixin.qq.com/s?__biz=MzIyNTA5MzUyMg==&mid=2651078499&idx=3&sn=31ca19759f4a459e6a6df2244c8ad6b1&chksm=f3f46d9ec483e488a76c8bf379099c423a1feffde345827db9dc4164ed99c34ce5cee0162221&mpshare=1&scene=1&srcid=&sharer_sharetime=1585514634153&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AujTN1E%2FBd9JT%2BuTxQU%2FHl8%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd) &#127381;
+![曼哈顿](/pic/manhattan.jpg)
+
 
 - [**2020-03-29 How London became a Covid-19 hub as virus mutated into eight different strains and raced around the world**](https://www.dailymail.co.uk/news/article-8164615/Genetic-sequencing-data-map-shows-London-coronavirus-hub.html?from=timeline&isappinstalled=0) &#127381;
 ![hub](/pic/hub.jpg)
