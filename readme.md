@@ -65,6 +65,9 @@
  
 ## 检测试剂
 
+- [**2020-03-30 新冠病毒诊断检测技术小结**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247519174&idx=1&sn=2ec35a220b1bf967e7798a229ab44fca&chksm=ecb33320dbc4ba36cd8f4deb2bdb7a42e26ec956285a705e3e46a3b4ff17f57f3c92477a4796&mpshare=1&scene=1&srcid=&sharer_sharetime=1585617731763&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiAU3NSzKBuYVIWhViNYWgc%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd) &#127381;
+![ivd](/pic/ivd.jpg)
+
 - [**2020-03-29 重大进展！德国博世推出新冠病毒快速检测仪**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxMDgyNQ==&mid=2247485515&idx=1&sn=1d2901469e8964a3c4cc15aa5299d29c&chksm=fc75dbcdcb0252dbfcc9f597df1da5d44ff01cc23862a60502c8085201fd2074358562920942&mpshare=1&scene=1&srcid=&sharer_sharetime=1585398085479&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhdYeyC8abnHYql%2BnkgiuPk%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
 ![博世](/pic/bosch.jpg)
 
@@ -86,6 +89,9 @@
  ***
  
 ## 治疗方案
+
+- [**2020-03-30 C&EN深度：如何看待氯喹/羟氯喹治疗COVID-19的研究进展？**](https://mp.weixin.qq.com/s?__biz=MzUxMTY5MzM5OQ==&mid=2247493219&idx=1&sn=b54927cc87843cd9d7cb4d57544db3d6&chksm=f96d615bce1ae84d167025f3934761e8d328bbac4e2385c85fce41a48b233690eb0e889072e7&mpshare=1&scene=1&srcid=&sharer_sharetime=1585524118021&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alknqo37T%2BQACacpx9kVL7o%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd) &#127381;
+![CEN](/pic/cen.jpg)
 
 - [**2020-03-29 吃氯喹防新冠？英国牛津大学启动万人临床试验**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649584596&idx=1&sn=bfc77e98acb19535606114ce01749ea3&chksm=876a67cdb01deedb11a53e16a261e965bc17f181053b77fc8b21d937cfbdd71abfac747c0cec&mpshare=1&scene=1&srcid=&sharer_sharetime=1585370721977&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap14gsgJoG%2Bx8HL8fWahUCM%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
 ![万人临床试验](/pic/10k.jpg)
