@@ -37,7 +37,9 @@
 
 ## 疫情地图
 
-- [**COVID-19 Projections**](https://covid19.healthdata.org/projections) &#127381;
+- [**COVID Community Vulnerability Map**](https://covid19.jvion.com/) &#127381;
+
+- [**COVID-19 Projections**](https://covid19.healthdata.org/projections)
    
    Charts below shows projected hospital resource use based on COVID-19 deaths.
 
@@ -65,10 +67,13 @@
  
 ## 检测试剂
 
-- [**2020-03-30 新冠病毒诊断检测技术小结**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247519174&idx=1&sn=2ec35a220b1bf967e7798a229ab44fca&chksm=ecb33320dbc4ba36cd8f4deb2bdb7a42e26ec956285a705e3e46a3b4ff17f57f3c92477a4796&mpshare=1&scene=1&srcid=&sharer_sharetime=1585617731763&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiAU3NSzKBuYVIWhViNYWgc%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd) &#127381;
+- [**2020-03-31 2分钟血清学检测获FDA紧急使用授权，腾盛博药合作开发中和抗体**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992739&idx=2&sn=bb30013d2d6aebc8f31b9a46e57e4c0b&chksm=82e928a3b59ea1b504083169967c64e62ece232fe768e7e236a2b49b6246c11a2a2ca225127c&mpshare=1&scene=1&srcid=&sharer_sharetime=1585704914132&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al20%2BRB1XWj8%2F%2BTYlpFPspY%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
+![2分钟](/pic/2min.jpg)
+
+- [**2020-03-30 新冠病毒诊断检测技术小结**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247519174&idx=1&sn=2ec35a220b1bf967e7798a229ab44fca&chksm=ecb33320dbc4ba36cd8f4deb2bdb7a42e26ec956285a705e3e46a3b4ff17f57f3c92477a4796&mpshare=1&scene=1&srcid=&sharer_sharetime=1585617731763&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiAU3NSzKBuYVIWhViNYWgc%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd)
 ![ivd](/pic/ivd.jpg)
 
-- [**2020-03-29 重大进展！德国博世推出新冠病毒快速检测仪**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxMDgyNQ==&mid=2247485515&idx=1&sn=1d2901469e8964a3c4cc15aa5299d29c&chksm=fc75dbcdcb0252dbfcc9f597df1da5d44ff01cc23862a60502c8085201fd2074358562920942&mpshare=1&scene=1&srcid=&sharer_sharetime=1585398085479&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhdYeyC8abnHYql%2BnkgiuPk%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
+- [**2020-03-29 重大进展！德国博世推出新冠病毒快速检测仪**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxMDgyNQ==&mid=2247485515&idx=1&sn=1d2901469e8964a3c4cc15aa5299d29c&chksm=fc75dbcdcb0252dbfcc9f597df1da5d44ff01cc23862a60502c8085201fd2074358562920942&mpshare=1&scene=1&srcid=&sharer_sharetime=1585398085479&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhdYeyC8abnHYql%2BnkgiuPk%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd)
 ![博世](/pic/bosch.jpg)
 
 - [**2020-03-22 快讯！FDA紧急授权首个新冠病毒POC即时检测产品，最快45分钟出结果**](https://www.wuximediatech.com/content/post/detail.html?sn=bb0f2bf78bca4991a40f8085a5f3f566&from=timeline&isappinstalled=0)
@@ -90,10 +95,10 @@
  
 ## 治疗方案
 
-- [**2020-03-30 C&EN深度：如何看待氯喹/羟氯喹治疗COVID-19的研究进展？**](https://mp.weixin.qq.com/s?__biz=MzUxMTY5MzM5OQ==&mid=2247493219&idx=1&sn=b54927cc87843cd9d7cb4d57544db3d6&chksm=f96d615bce1ae84d167025f3934761e8d328bbac4e2385c85fce41a48b233690eb0e889072e7&mpshare=1&scene=1&srcid=&sharer_sharetime=1585524118021&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alknqo37T%2BQACacpx9kVL7o%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd) &#127381;
+- [**2020-03-30 C&EN深度：如何看待氯喹/羟氯喹治疗COVID-19的研究进展？**](https://mp.weixin.qq.com/s?__biz=MzUxMTY5MzM5OQ==&mid=2247493219&idx=1&sn=b54927cc87843cd9d7cb4d57544db3d6&chksm=f96d615bce1ae84d167025f3934761e8d328bbac4e2385c85fce41a48b233690eb0e889072e7&mpshare=1&scene=1&srcid=&sharer_sharetime=1585524118021&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alknqo37T%2BQACacpx9kVL7o%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd)
 ![CEN](/pic/cen.jpg)
 
-- [**2020-03-29 吃氯喹防新冠？英国牛津大学启动万人临床试验**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649584596&idx=1&sn=bfc77e98acb19535606114ce01749ea3&chksm=876a67cdb01deedb11a53e16a261e965bc17f181053b77fc8b21d937cfbdd71abfac747c0cec&mpshare=1&scene=1&srcid=&sharer_sharetime=1585370721977&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap14gsgJoG%2Bx8HL8fWahUCM%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
+- [**2020-03-29 吃氯喹防新冠？英国牛津大学启动万人临床试验**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649584596&idx=1&sn=bfc77e98acb19535606114ce01749ea3&chksm=876a67cdb01deedb11a53e16a261e965bc17f181053b77fc8b21d937cfbdd71abfac747c0cec&mpshare=1&scene=1&srcid=&sharer_sharetime=1585370721977&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap14gsgJoG%2Bx8HL8fWahUCM%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd)
 ![万人临床试验](/pic/10k.jpg)
 
 - [**2020-03-27 瑞德西韦临床试药者：久治不愈，“就想试一试”**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651613637&idx=4&sn=320aa7ea25b0d5055d732d7338b5690c&chksm=bd61f4798a167d6f48df99d75e123fc98b1bb24b742a131e788f1d7a63aee648b835d22c9b41&mpshare=1&scene=1&srcid=&sharer_sharetime=1585350097449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aqby%2FImty0I3IdErbVYO7pg%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd)
@@ -159,13 +164,19 @@
  
 ## 疫苗相关／新药开发
 
-- [**2020-03-30 FDA issues emergency authorization of anti-malaria drug for coronavirus care**](https://www.politico.com/news/2020/03/29/fda-emergency-authorization-anti-malaria-drug-155095) &#127381;
+- [**2020-03-31 IL-6受体抑制剂治疗新冠肺炎！赛诺菲/再生元Kevzara全球项目美国以外地区首例患者接受治疗！**](https://mp.weixin.qq.com/s?__biz=Mzg3OTE3NjA4Nw==&mid=2247485966&idx=6&sn=3e8e928a6b99834a35e02dd64643c273&chksm=cf093af6f87eb3e0672c32d3e0c61c70adff16ce570dc4fd0a5fa7c005de4515bb44cad35dbd&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664548449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnaHcbGqs9%2FAAeaeOkzf7lk%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
+![IL-6](/pic/il6.jpg)
+
+- [**2020-03-31 Johnson & Johnson Announces a Lead Vaccine Candidate for COVID-19**](https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use?from=timeline&isappinstalled=0) &#127381;
+![jj](/pic/jj.jpg)
+
+- [**2020-03-30 FDA issues emergency authorization of anti-malaria drug for coronavirus care**](https://www.politico.com/news/2020/03/29/fda-emergency-authorization-anti-malaria-drug-155095)
 ![fda](/pic/fda.jpg)
 
-- [**2020-03-29 CD147抗体临床试验数据发布！有效改善COVID-19患者康复，安全性良好**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488746&idx=1&sn=d70517da81b81f121ce93240e057f7fc&chksm=fb8829a9ccffa0bf213f8d4b878633c9a3a882214ff8df5bedfe3fa0008ee635f08d16fe6068&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492326831&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnM94Odt9BfCUNPXK3Suosw%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
+- [**2020-03-29 CD147抗体临床试验数据发布！有效改善COVID-19患者康复，安全性良好**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488746&idx=1&sn=d70517da81b81f121ce93240e057f7fc&chksm=fb8829a9ccffa0bf213f8d4b878633c9a3a882214ff8df5bedfe3fa0008ee635f08d16fe6068&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492326831&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnM94Odt9BfCUNPXK3Suosw%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd)
 ![CD147抗体](/pic/cd147.jpg)
 
-- [**2020-03-29 【回顾】抗病毒药物50年批准史**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268784&idx=1&sn=d53f2ac3c70a643f0a565d97fd4f7380&chksm=8bb7c40ebcc04d183229d7d035445f69d173b22a498a9dc67bd4ebf260576957b03775ed8815&mpshare=1&scene=1&srcid=&sharer_sharetime=1585401402734&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah%2BuWnygzaFyKorXtA7taaA%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
+- [**2020-03-29 【回顾】抗病毒药物50年批准史**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268784&idx=1&sn=d53f2ac3c70a643f0a565d97fd4f7380&chksm=8bb7c40ebcc04d183229d7d035445f69d173b22a498a9dc67bd4ebf260576957b03775ed8815&mpshare=1&scene=1&srcid=&sharer_sharetime=1585401402734&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah%2BuWnygzaFyKorXtA7taaA%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd)
 ![抗病毒药物](/pic/antivirus.jpg)
 
 - [**2020-03-25 FDA对于疫情期间临床试验的执行提供建议**](https://mp.weixin.qq.com/s?__biz=MzI0ODQ4MzM0MQ==&mid=2247494096&idx=1&sn=0ba0d6ee1f4ce5c7cbc074bf0a1ced5f&chksm=e9a2b2b2ded53ba4656ac21a8f49d8b1aacd628182dc5437ad367d78811e72dfe8a68cb9ac19&mpshare=1&scene=1&srcid=&sharer_sharetime=1585087518266&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al8K1lOzrKtxK2NmmJ%2F%2FKiI%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
@@ -250,16 +261,23 @@
  
 ## 研究进展
 
-- [**2020-03-30 Mathematics of life and death: How disease models shape national shutdowns and other pandemic policies**](https://www.sciencemag.org/news/2020/03/mathematics-life-and-death-how-disease-models-shape-national-shutdowns-and-other#) &#127381;
+- [**2020-03-31 大数据揭示新冠肺炎病死率的真实情况**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488431&idx=1&sn=bcb4d19a9e6b85a3d0c1261b3e9a096d&chksm=f98019eacef790fc468d8e77ee0cf46810890903d63871a12a19fb17ffd05c69ed22b6efc8bb&mpshare=1&scene=1&srcid=&sharer_sharetime=1585704476750&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvHoUMSM8Ecpdkwi6UzoGdw%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
+![truth](/pic/truth.jpg)
+
+
+- [**2020-03-31 清华大学等团队研究发现抗新冠病毒潜在药物分子**](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650466643&idx=1&sn=907b7199922ebc0f4e3e8190772e5787&chksm=bef2afe3898526f55fe5b05f9992c490d7330cd9df09f6ecfad2d3e4c8a933aab62ee26fe5e3&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664826173&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Av3%2FkskQrVXK0KEyZyXMkag%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
+![清华大学](/pic/qinghua.jpg)
+
+- [**2020-03-30 Mathematics of life and death: How disease models shape national shutdowns and other pandemic policies**](https://www.sciencemag.org/news/2020/03/mathematics-life-and-death-how-disease-models-shape-national-shutdowns-and-other#)
 ![math](/pic/math.jpg)
 
-- [**2020-03-29 鼻咽拭子检测新冠病毒太痛苦？柳叶刀最新研究提示冠状病毒检测新途径**](https://mp.weixin.qq.com/s?__biz=MjM5NDg1OTg0Mw==&mid=2651960982&idx=1&sn=7ecf350da5ec14b387c32b633b3f09a4&chksm=bd6448ba8a13c1aca5f529b6b9eed3ba44d0c48da20fcfb739530c2959ba18e279372e65a690&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492471574&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkAaWQBrJ1rCDqHBvX%2FFSF8%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
+- [**2020-03-29 鼻咽拭子检测新冠病毒太痛苦？柳叶刀最新研究提示冠状病毒检测新途径**](https://mp.weixin.qq.com/s?__biz=MjM5NDg1OTg0Mw==&mid=2651960982&idx=1&sn=7ecf350da5ec14b387c32b633b3f09a4&chksm=bd6448ba8a13c1aca5f529b6b9eed3ba44d0c48da20fcfb739530c2959ba18e279372e65a690&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492471574&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkAaWQBrJ1rCDqHBvX%2FFSF8%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd)
 ![鼻咽拭子](/pic/newmethod.jpg)
 
-- [**2020-03-29 最新研究结果：新冠无症状感染者密接感染率与确诊者无差异**](https://m.guancha.cn/politics/2020_03_28_544299.shtml?from=timeline&isappinstalled=0) &#127381;
+- [**2020-03-29 最新研究结果：新冠无症状感染者密接感染率与确诊者无差异**](https://m.guancha.cn/politics/2020_03_28_544299.shtml?from=timeline&isappinstalled=0)
 ![新冠无症状](/pic/liuxingbing.jpg)
 
-- [**2020-03-29 以基因组学观点探讨新冠病毒起源，复旦大学张永振教授及合作者发表评论文章**](https://mp.weixin.qq.com/s?__biz=MzA5NTYzMzAyNQ==&mid=2650198798&idx=1&sn=2e2bfd8ca4e1462234795977908432e2&chksm=88be18e0bfc991f6476058800f52fb086e681500f0e1d2daa7ac0e28b746eb5fdf476a916caa&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492312562&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AjmL2TzJIGUi7hPNhF%2FDTtY%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd) &#127381;
+- [**2020-03-29 以基因组学观点探讨新冠病毒起源，复旦大学张永振教授及合作者发表评论文章**](https://mp.weixin.qq.com/s?__biz=MzA5NTYzMzAyNQ==&mid=2650198798&idx=1&sn=2e2bfd8ca4e1462234795977908432e2&chksm=88be18e0bfc991f6476058800f52fb086e681500f0e1d2daa7ac0e28b746eb5fdf476a916caa&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492312562&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AjmL2TzJIGUi7hPNhF%2FDTtY%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd)
 ![基因组学](/pic/genomics.jpg)
 
 - [**2020-03-27 Coronavirus latest: pandemic could have killed 40 million without any action**](https://www.nature.com/articles/d41586-020-00154-w?utm_source=Nature+Briefing&utm_campaign=08e389c619-briefing-wk-20200327&utm_medium=email&utm_term=0_c9dfd39373-08e389c619-42192335)
@@ -357,11 +375,19 @@
  
 ## 其他
 
-- [**2020-03-30 Science发表社论：需要启用曼哈顿计划抗击新型冠状病毒**](https://mp.weixin.qq.com/s?__biz=MzIyNTA5MzUyMg==&mid=2651078499&idx=3&sn=31ca19759f4a459e6a6df2244c8ad6b1&chksm=f3f46d9ec483e488a76c8bf379099c423a1feffde345827db9dc4164ed99c34ce5cee0162221&mpshare=1&scene=1&srcid=&sharer_sharetime=1585514634153&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AujTN1E%2FBd9JT%2BuTxQU%2FHl8%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd) &#127381;
+- [**2020-03-31 百年拜耳沉浮，从天使到魔鬼只差11天**](https://mp.weixin.qq.com/s?__biz=MjM5NTE1NTc0MA==&mid=2652490155&idx=1&sn=cbf32276fe21a3c01a806b0e8c344a7f&chksm=bd11b3d88a663ace49cf7d9a3b59c3ff4792a24d9c827c1d041a3e94e06ba9af7e3070b1db48&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664809214&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArEsI0guUCVsarM%2BLcsvCyg%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
+![Bayer](/pic/bayer.jpg)
+
+- [**2020-03-31 专访美国抗疫专家组成员黄海涛：拐点最早四月中，为何错过防疫黄金时间？**](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653357352&idx=1&sn=c41acc97084c693714a717132b6e89f7&chksm=bd56f2728a217b64ffda507f2e386e14429ffd8ed7e08a30e28eb7920a1b979ce95d83b2729d&mpshare=1&scene=1&srcid=&sharer_sharetime=1585660885719&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AoqS1wlcbexHAqG9sQqBVsE%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
+![防疫黄金时间](/pic/golden.jpg)
+
+- [**2020-03-31 The Tech That Could Be Our Best Hope for Fighting COVID-19—and Future Outbreaks**](https://time.com/5805622/coronavirus-pandemic-technology/)
+![time](/pic/time.jpg)
+
+- [**2020-03-30 Science发表社论：需要启用曼哈顿计划抗击新型冠状病毒**](https://mp.weixin.qq.com/s?__biz=MzIyNTA5MzUyMg==&mid=2651078499&idx=3&sn=31ca19759f4a459e6a6df2244c8ad6b1&chksm=f3f46d9ec483e488a76c8bf379099c423a1feffde345827db9dc4164ed99c34ce5cee0162221&mpshare=1&scene=1&srcid=&sharer_sharetime=1585514634153&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AujTN1E%2FBd9JT%2BuTxQU%2FHl8%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd)
 ![曼哈顿](/pic/manhattan.jpg)
 
-
-- [**2020-03-29 How London became a Covid-19 hub as virus mutated into eight different strains and raced around the world**](https://www.dailymail.co.uk/news/article-8164615/Genetic-sequencing-data-map-shows-London-coronavirus-hub.html?from=timeline&isappinstalled=0) &#127381;
+- [**2020-03-29 How London became a Covid-19 hub as virus mutated into eight different strains and raced around the world**](https://www.dailymail.co.uk/news/article-8164615/Genetic-sequencing-data-map-shows-London-coronavirus-hub.html?from=timeline&isappinstalled=0) 
 ![hub](/pic/hub.jpg)
 
 - [**2020-03-27 Bill Gates: State-by-state shutdown won't work**](https://edition.cnn.com/videos/business/2020/03/27/bill-gates-coronavirus-town-hall-shutdown-april-peak-sot-vpx.cnn/video/playlists/cnn-coronavirus-town-hall/?from=timeline&isappinstalled=0)
