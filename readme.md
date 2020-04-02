@@ -23,6 +23,7 @@
   * [疫情地图](#疫情地图)
   * [检测试剂](#检测试剂)
   * [治疗方案](#治疗方案)
+  * [氯喹专题](#氯喹专题)
   * [疫苗相关／新药开发](#疫苗相关／新药开发)
   * [研究进展](#研究进展)
   * [典型病历史报道](#典型病历史报道)
@@ -162,6 +163,12 @@
 
  ***
  
+## 氯喹专题
+
+
+
+ ***
+
 ## 疫苗相关／新药开发
 
 - [**2020-03-31 IL-6受体抑制剂治疗新冠肺炎！赛诺菲/再生元Kevzara全球项目美国以外地区首例患者接受治疗！**](https://mp.weixin.qq.com/s?__biz=Mzg3OTE3NjA4Nw==&mid=2247485966&idx=6&sn=3e8e928a6b99834a35e02dd64643c273&chksm=cf093af6f87eb3e0672c32d3e0c61c70adff16ce570dc4fd0a5fa7c005de4515bb44cad35dbd&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664548449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnaHcbGqs9%2FAAeaeOkzf7lk%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
