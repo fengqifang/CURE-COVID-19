@@ -38,7 +38,7 @@
 
 ## 疫情地图
 
-- [**Every Vaccine and Treatment in Development for COVID-19, So Far**] (https://www.visualcapitalist.com/every-vaccine-treatment-covid-19-so-far/) &#127381; 
+- [**Every Vaccine and Treatment in Development for COVID-19, So Far**](https://www.visualcapitalist.com/every-vaccine-treatment-covid-19-so-far/) &#127381; 
 
 - [**Social Distancing Scoreboard**](https://www.unacast.com/covid19/social-distancing-scoreboard) &#127381;
 
@@ -387,10 +387,13 @@
  
 ## 其他
 
-- [**2020-03-31 百年拜耳沉浮，从天使到魔鬼只差11天**](https://mp.weixin.qq.com/s?__biz=MjM5NTE1NTc0MA==&mid=2652490155&idx=1&sn=cbf32276fe21a3c01a806b0e8c344a7f&chksm=bd11b3d88a663ace49cf7d9a3b59c3ff4792a24d9c827c1d041a3e94e06ba9af7e3070b1db48&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664809214&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArEsI0guUCVsarM%2BLcsvCyg%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
+- [**2020-04-02 A Covid-19 Vaccine Will Need Equitable, Global Distribution**](https://hbr.org/2020/04/a-covid-19-vaccine-will-need-equitable-global-distribution) &#127381;
+![hbr](/pic/hbr.jpg)
+
+- [**2020-03-31 百年拜耳沉浮，从天使到魔鬼只差11天**](https://mp.weixin.qq.com/s?__biz=MjM5NTE1NTc0MA==&mid=2652490155&idx=1&sn=cbf32276fe21a3c01a806b0e8c344a7f&chksm=bd11b3d88a663ace49cf7d9a3b59c3ff4792a24d9c827c1d041a3e94e06ba9af7e3070b1db48&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664809214&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArEsI0guUCVsarM%2BLcsvCyg%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
 ![Bayer](/pic/bayer.jpg)
 
-- [**2020-03-31 专访美国抗疫专家组成员黄海涛：拐点最早四月中，为何错过防疫黄金时间？**](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653357352&idx=1&sn=c41acc97084c693714a717132b6e89f7&chksm=bd56f2728a217b64ffda507f2e386e14429ffd8ed7e08a30e28eb7920a1b979ce95d83b2729d&mpshare=1&scene=1&srcid=&sharer_sharetime=1585660885719&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AoqS1wlcbexHAqG9sQqBVsE%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
+- [**2020-03-31 专访美国抗疫专家组成员黄海涛：拐点最早四月中，为何错过防疫黄金时间？**](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653357352&idx=1&sn=c41acc97084c693714a717132b6e89f7&chksm=bd56f2728a217b64ffda507f2e386e14429ffd8ed7e08a30e28eb7920a1b979ce95d83b2729d&mpshare=1&scene=1&srcid=&sharer_sharetime=1585660885719&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AoqS1wlcbexHAqG9sQqBVsE%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
 ![防疫黄金时间](/pic/golden.jpg)
 
 - [**2020-03-31 The Tech That Could Be Our Best Hope for Fighting COVID-19—and Future Outbreaks**](https://time.com/5805622/coronavirus-pandemic-technology/)
