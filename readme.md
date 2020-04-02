@@ -96,20 +96,11 @@
  
 ## 治疗方案
 
-- [**2020-03-30 C&EN深度：如何看待氯喹/羟氯喹治疗COVID-19的研究进展？**](https://mp.weixin.qq.com/s?__biz=MzUxMTY5MzM5OQ==&mid=2247493219&idx=1&sn=b54927cc87843cd9d7cb4d57544db3d6&chksm=f96d615bce1ae84d167025f3934761e8d328bbac4e2385c85fce41a48b233690eb0e889072e7&mpshare=1&scene=1&srcid=&sharer_sharetime=1585524118021&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alknqo37T%2BQACacpx9kVL7o%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd)
-![CEN](/pic/cen.jpg)
-
-- [**2020-03-29 吃氯喹防新冠？英国牛津大学启动万人临床试验**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649584596&idx=1&sn=bfc77e98acb19535606114ce01749ea3&chksm=876a67cdb01deedb11a53e16a261e965bc17f181053b77fc8b21d937cfbdd71abfac747c0cec&mpshare=1&scene=1&srcid=&sharer_sharetime=1585370721977&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap14gsgJoG%2Bx8HL8fWahUCM%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd)
-![万人临床试验](/pic/10k.jpg)
-
 - [**2020-03-27 瑞德西韦临床试药者：久治不愈，“就想试一试”**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651613637&idx=4&sn=320aa7ea25b0d5055d732d7338b5690c&chksm=bd61f4798a167d6f48df99d75e123fc98b1bb24b742a131e788f1d7a63aee648b835d22c9b41&mpshare=1&scene=1&srcid=&sharer_sharetime=1585350097449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aqby%2FImty0I3IdErbVYO7pg%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd)
 ![临床试药](/pic/try.jpg)
 
 - [**2020-03-26 Bahrain, Belgium report coronavirus treatment touted by Trump is working for patients**](https://justthenews.com/politics-policy/coronavirus/bahrain-hydroxychloroquine-success-response-covid-19#.XnvXrFFGkI4.twitter)
 ![bahrain](/pic/bahrain.jpg)
-
-- [**2020-03-25 特朗普力推的「羟氯喹」，你知道它该怎么用吗？**](https://mp.weixin.qq.com/s?__biz=MjM5MjgwOTI5MQ==&mid=2650208001&idx=1&sn=a922d6fa558fa9204fd71dc0262f5193&chksm=bea2ff2589d57633d1ef2c10bc3d9f7652b362fcee41177523fa3f7d51344fddb63d16d6ff60&mpshare=1&scene=1&srcid=&sharer_sharetime=1585185941819&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkT3iPSIvxcrUW0rn4SHS2o%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
-![羟氯喹](/pic/qianglvkui.jpg)
 
 - [**2020-03-25 达诺瑞韦治疗初治和经治新冠肺炎患者的首个临床研究结果发表**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=100012283&idx=1&sn=1e951878a490d66210fa205e5d733d2e&chksm=7c76c34f4b014a59cfdf95f2d985b8ac3f8cbee4432b26187a67da65234284901fed4ec264d9&mpshare=1&scene=1&srcid=0325UvMeWCZ42quTXTBCdTtw&sharer_sharetime=1585102317900&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avyi7qVcRdm1ijylGAszW1c%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
 ![达诺瑞韦](/pic/dano.jpg)
@@ -117,14 +108,8 @@
 - [**2020-03-24 从 PK/PD 角度浅谈新冠肺炎患者治疗中奈诺沙星用药方案合理性**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653375398&idx=2&sn=a8efac05c4ff04d0ca3148ec7fe4ea19&chksm=5e32bac0694533d6aca58997b721067d1cdd8f11fa063b47f905ea38b02e7a0cf775342db7fa&mpshare=1&scene=1&srcid=&sharer_sharetime=1585010568679&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AilIOYxAtMwO1E%2FUzm90C7o%3D&pass_ticket=AffHC52GB9HY5n%2BDrR8AjuY2CbTqEkbsgvAIn9%2FRHzOlhwSlxqPxxEt7Kshiv8Pq#rd) 
 ![pdpk](/pic/pdpk.jpg)
 
-- [**2020-03-22 治疗新冠肺炎，羟氯喹是否比氯喹更合适？**](https://mp.weixin.qq.com/s?__biz=MjM5MDIzMDMwMA==&mid=2656138895&idx=1&sn=f13ef7825f8c3aec3364addfca0bf810&chksm=bde224fc8a95adea7d3d219b4d96d0870678e72416abc8ef0ccbd8b886a0c976192f3c7f5531&mpshare=1&scene=1&srcid=&sharer_sharetime=1584901602016&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Anr5TSjuxexdj%2B%2BIrT0RQVI%3D&pass_ticket=yGq308KHjldfGusEXTm2PrdOta2h0OxvbMk%2BUUMwX7Hb%2F15kFTisCmMIo%2FavfNHW#rd)
-![羟氯喹](/pic/qianglvkui.jpg)
-
 - [**2020-03-22 法匹拉韦治疗COVID-19最新临床数据！疗效强于阿比朵尔，推荐为普通型患者首选治疗**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488648&idx=1&sn=265db913d632ff033e10aaf796bd3fec&chksm=fb8829cbccffa0dd505ea602c564f81f909c4789214ac6da39ecb5354a2ddd7dbdc8c14d0232&mpshare=1&scene=1&srcid=&sharer_sharetime=1584891490413&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=AgCTTnWmTg7Vtz6feLcNsNk%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
 ![法匹拉韦数据](/pic/favip.jpg)
-
-- [**2020-03-22 “穷人的希望” — 奎宁、氯喹、羟氯喹的前世今生**](https://mp.weixin.qq.com/s?__biz=MzI3MTIxNTgyMw==&mid=2651589314&idx=1&sn=59f78974eb2a2bf63ca8a14d51c38b76&chksm=f13d9762c64a1e74d055b021e9f1efcd1b69b06057f9b99e8140a32d05be8a1d41f151df442e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584846116200&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArDGGlX0emqTOk0boaIzVWc%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
-![氯喹](/pic/kui.jpg)
 
 - [**2020-03-19 FDA Announces Two Drugs Approved for ‘Compassionate Use’ in Treating COVID-19**](https://www.pharmacytimes.com/news/fda-announces-two-drugs-approved-for-compassionate-use-in-treating-covid-19?from=timeline&isappinstalled=0)
 ![twodrug](/pic/twodrugs.jpg)
@@ -134,11 +119,6 @@
 
 - [**2020-03-19 NEJM重磅 | 随机对照研究，王辰院士等揭示洛匹那韦–利托那韦治疗重症新冠肺炎无效**](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247507768&idx=3&sn=84c66d44de6c56cb16c7f3ced95e6502&chksm=fce6ace7cb9125f15cc0bcda0551eac8683914b548e325b5a0fef3a3cc08fd3504628c23ed77&mpshare=1&scene=1&srcid=&sharer_sharetime=1584582466849&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah76d9fDSGUDGIYnc1z%2BIH0%3D&pass_ticket=zWVYVxV8%2FgP9pcTskTZ3kJK2M8M7CIt2zKwqd%2FuyaF7zWd5K0R%2BUKfTp4dSrfWX8#rd)
 ![无效](/pic/fail.jpg)
-
-- [**2020-03-18 After 6 days 100% of patients treated with HCQ + Azithromycin  were virologically cured**](https://twitter.com/RiganoESQ/status/1240273631604809728) 
-
-- [**An Open Data Clinical Trial for COVID-19 Prevention**](https://www.covidtrial.io/)
-![hcq](/pic/hcq.jpg)
 
 - [**2020-03-18 Japanese flu drug 'clearly effective' in treating coronavirus, says China**](https://www.theguardian.com/world/2020/mar/18/japanese-flu-drug-clearly-effective-in-treating-coronavirus-says-china)
 ![japan](/pic/japan.jpg)
@@ -158,14 +138,38 @@
 - [**2020-03-11 UC Davis Medical Center successfully treats patients with coronavirus; hospital plans to expand on-site testing**](https://health.ucdavis.edu/health-news/newsroom/UC-Davis-Medical-Center-successfully-treats-coronavirus-patients-hospital-plans-on-site-testing/2020/03?fbclid=IwAR0nx4lOlO8IPFrndv2pGMo5djlLke9KqE5HpRhVHVQNKSss0yUKslC0Diw&from=groupmessage&isappinstalled=0#.Xmzs6qkpkOG.facebook)
 ![Davis](./pic/davis.jpg)
 
-- [**20202-03-10 磷酸氯喹、羟氯喹及双氢青蒿素哌喹片：老牌抗疟药的抗新冠肺炎之路**](https://mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655775100&idx=1&sn=65ca8f9e49d6ae1ec832298a0700d335&chksm=8bcef7f9bcb97eeffb7c13146eae4b03ef8d261fb650f1f2bf22962285562d6446657d2e99b2&mpshare=1&scene=1&srcid=0318r5iFNTA29QGzMb48IWjv&sharer_sharetime=1584499661380&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtivEd5X6cbq%2FNo5J1mqI1E%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
-![氯喹](./pic/lvqui.jpg)
-
  ***
  
 ## 氯喹专题
 
+- [**2020-04-01 Malaria Drug Helps Virus Patients Improve, in Small Study**](https://www.nytimes.com/2020/04/01/health/hydroxychloroquine-coronavirus-malaria.html) &#127381;
+![malaria](/pic/malaria.jpg)
 
+- [**2020-03-30 C&EN深度：如何看待氯喹/羟氯喹治疗COVID-19的研究进展？**](https://mp.weixin.qq.com/s?__biz=MzUxMTY5MzM5OQ==&mid=2247493219&idx=1&sn=b54927cc87843cd9d7cb4d57544db3d6&chksm=f96d615bce1ae84d167025f3934761e8d328bbac4e2385c85fce41a48b233690eb0e889072e7&mpshare=1&scene=1&srcid=&sharer_sharetime=1585524118021&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alknqo37T%2BQACacpx9kVL7o%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd)
+![CEN](/pic/cen.jpg)
+
+- [**2020-03-30 FDA issues emergency authorization of anti-malaria drug for coronavirus care**](https://www.politico.com/news/2020/03/29/fda-emergency-authorization-anti-malaria-drug-155095)
+![fda](/pic/fda.jpg)
+
+- [**2020-03-29 吃氯喹防新冠？英国牛津大学启动万人临床试验**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649584596&idx=1&sn=bfc77e98acb19535606114ce01749ea3&chksm=876a67cdb01deedb11a53e16a261e965bc17f181053b77fc8b21d937cfbdd71abfac747c0cec&mpshare=1&scene=1&srcid=&sharer_sharetime=1585370721977&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap14gsgJoG%2Bx8HL8fWahUCM%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd)
+![万人临床试验](/pic/10k.jpg)
+
+- [**2020-03-25 特朗普力推的「羟氯喹」，你知道它该怎么用吗？**](https://mp.weixin.qq.com/s?__biz=MjM5MjgwOTI5MQ==&mid=2650208001&idx=1&sn=a922d6fa558fa9204fd71dc0262f5193&chksm=bea2ff2589d57633d1ef2c10bc3d9f7652b362fcee41177523fa3f7d51344fddb63d16d6ff60&mpshare=1&scene=1&srcid=&sharer_sharetime=1585185941819&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkT3iPSIvxcrUW0rn4SHS2o%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
+![羟氯喹](/pic/qianglvkui.jpg)
+
+- [**2020-03-22 治疗新冠肺炎，羟氯喹是否比氯喹更合适？**](https://mp.weixin.qq.com/s?__biz=MjM5MDIzMDMwMA==&mid=2656138895&idx=1&sn=f13ef7825f8c3aec3364addfca0bf810&chksm=bde224fc8a95adea7d3d219b4d96d0870678e72416abc8ef0ccbd8b886a0c976192f3c7f5531&mpshare=1&scene=1&srcid=&sharer_sharetime=1584901602016&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Anr5TSjuxexdj%2B%2BIrT0RQVI%3D&pass_ticket=yGq308KHjldfGusEXTm2PrdOta2h0OxvbMk%2BUUMwX7Hb%2F15kFTisCmMIo%2FavfNHW#rd)
+![羟氯喹1](/pic/qianglvkui1.jpg)
+
+- [**2020-03-22 “穷人的希望” — 奎宁、氯喹、羟氯喹的前世今生**](https://mp.weixin.qq.com/s?__biz=MzI3MTIxNTgyMw==&mid=2651589314&idx=1&sn=59f78974eb2a2bf63ca8a14d51c38b76&chksm=f13d9762c64a1e74d055b021e9f1efcd1b69b06057f9b99e8140a32d05be8a1d41f151df442e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584846116200&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArDGGlX0emqTOk0boaIzVWc%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
+![氯喹](/pic/kui.jpg)
+
+- [**2020-03-18 After 6 days 100% of patients treated with HCQ + Azithromycin  were virologically cured**](https://twitter.com/RiganoESQ/status/1240273631604809728) 
+
+- [**An Open Data Clinical Trial for COVID-19 Prevention**](https://www.covidtrial.io/)
+![hcq](/pic/hcq.jpg)
+
+- [**20202-03-10 磷酸氯喹、羟氯喹及双氢青蒿素哌喹片：老牌抗疟药的抗新冠肺炎之路**](https://mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655775100&idx=1&sn=65ca8f9e49d6ae1ec832298a0700d335&chksm=8bcef7f9bcb97eeffb7c13146eae4b03ef8d261fb650f1f2bf22962285562d6446657d2e99b2&mpshare=1&scene=1&srcid=0318r5iFNTA29QGzMb48IWjv&sharer_sharetime=1584499661380&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtivEd5X6cbq%2FNo5J1mqI1E%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
+![氯喹](./pic/lvqui.jpg)
 
  ***
 
@@ -176,9 +180,6 @@
 
 - [**2020-03-31 Johnson & Johnson Announces a Lead Vaccine Candidate for COVID-19**](https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use?from=timeline&isappinstalled=0) &#127381;
 ![jj](/pic/jj.jpg)
-
-- [**2020-03-30 FDA issues emergency authorization of anti-malaria drug for coronavirus care**](https://www.politico.com/news/2020/03/29/fda-emergency-authorization-anti-malaria-drug-155095)
-![fda](/pic/fda.jpg)
 
 - [**2020-03-29 CD147抗体临床试验数据发布！有效改善COVID-19患者康复，安全性良好**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488746&idx=1&sn=d70517da81b81f121ce93240e057f7fc&chksm=fb8829a9ccffa0bf213f8d4b878633c9a3a882214ff8df5bedfe3fa0008ee635f08d16fe6068&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492326831&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnM94Odt9BfCUNPXK3Suosw%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd)
 ![CD147抗体](/pic/cd147.jpg)
