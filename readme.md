@@ -38,7 +38,11 @@
 
 ## 疫情地图
 
-- [**COVID Community Vulnerability Map**](https://covid19.jvion.com/) &#127381;
+- [**Every Vaccine and Treatment in Development for COVID-19, So Far**] (https://www.visualcapitalist.com/every-vaccine-treatment-covid-19-so-far/) &#127381; 
+
+- [**Social Distancing Scoreboard**](https://www.unacast.com/covid19/social-distancing-scoreboard) &#127381;
+
+- [**COVID Community Vulnerability Map**](https://covid19.jvion.com/)
 
 - [**COVID-19 Projections**](https://covid19.healthdata.org/projections)
    
