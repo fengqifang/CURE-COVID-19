@@ -179,10 +179,13 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-03-31 IL-6受体抑制剂治疗新冠肺炎！赛诺菲/再生元Kevzara全球项目美国以外地区首例患者接受治疗！**](https://mp.weixin.qq.com/s?__biz=Mzg3OTE3NjA4Nw==&mid=2247485966&idx=6&sn=3e8e928a6b99834a35e02dd64643c273&chksm=cf093af6f87eb3e0672c32d3e0c61c70adff16ce570dc4fd0a5fa7c005de4515bb44cad35dbd&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664548449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnaHcbGqs9%2FAAeaeOkzf7lk%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
+- [**Coronavirus: Pittsburgh Scientists Detail Potential Vaccine**](https://patch.com/pennsylvania/pittsburgh/potential-coronavirus-vaccine-details-disclosed) &#127381;
+![upmc](/pic/upmc.jpg)
+
+- [**2020-03-31 IL-6受体抑制剂治疗新冠肺炎！赛诺菲/再生元Kevzara全球项目美国以外地区首例患者接受治疗！**](https://mp.weixin.qq.com/s?__biz=Mzg3OTE3NjA4Nw==&mid=2247485966&idx=6&sn=3e8e928a6b99834a35e02dd64643c273&chksm=cf093af6f87eb3e0672c32d3e0c61c70adff16ce570dc4fd0a5fa7c005de4515bb44cad35dbd&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664548449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnaHcbGqs9%2FAAeaeOkzf7lk%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
 ![IL-6](/pic/il6.jpg)
 
-- [**2020-03-31 Johnson & Johnson Announces a Lead Vaccine Candidate for COVID-19**](https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use?from=timeline&isappinstalled=0) &#127381;
+- [**2020-03-31 Johnson & Johnson Announces a Lead Vaccine Candidate for COVID-19**](https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use?from=timeline&isappinstalled=0)
 ![jj](/pic/jj.jpg)
 
 - [**2020-03-29 CD147抗体临床试验数据发布！有效改善COVID-19患者康复，安全性良好**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488746&idx=1&sn=d70517da81b81f121ce93240e057f7fc&chksm=fb8829a9ccffa0bf213f8d4b878633c9a3a882214ff8df5bedfe3fa0008ee635f08d16fe6068&mpshare=1&scene=1&srcid=&sharer_sharetime=1585492326831&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnM94Odt9BfCUNPXK3Suosw%3D&pass_ticket=5xCHI5TKTqPvQY9lswcOx6tqGhsYpCflEoy6pG0YI2hlzMBG6pQgJ3KoIJVr7hHR#rd)
