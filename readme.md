@@ -279,11 +279,14 @@
  
 ## 研究进展
 
-- [**2020-03-31 大数据揭示新冠肺炎病死率的真实情况**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488431&idx=1&sn=bcb4d19a9e6b85a3d0c1261b3e9a096d&chksm=f98019eacef790fc468d8e77ee0cf46810890903d63871a12a19fb17ffd05c69ed22b6efc8bb&mpshare=1&scene=1&srcid=&sharer_sharetime=1585704476750&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvHoUMSM8Ecpdkwi6UzoGdw%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
+- [**2020-04-02 中国首报尚有1367例无症状感染者的背后**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488459&idx=1&sn=9602d82157066e0f5df56eead83db84d&chksm=f980198ecef790983d88a141b6e7e74a88073d0133bae9a78f9ecd0151b4072b9c07cc1c1560&mpshare=1&scene=1&srcid=0403urmbyt37o2klqkvZMPvy&sharer_sharetime=1585880469513&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=Avl2oKIvo3NpxnkOe7yC8eU%3D&pass_ticket=EZaKcsuSysjFsbZgoshs8%2BXTuzUKtjZ0moKTFS%2F36jF2D0ZitQ%2F%2FvPbCkpsY0224#rd) &#127381;
+![无症状感染](/pic/asymptomatic.jpg)
+
+- [**2020-03-31 大数据揭示新冠肺炎病死率的真实情况**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488431&idx=1&sn=bcb4d19a9e6b85a3d0c1261b3e9a096d&chksm=f98019eacef790fc468d8e77ee0cf46810890903d63871a12a19fb17ffd05c69ed22b6efc8bb&mpshare=1&scene=1&srcid=&sharer_sharetime=1585704476750&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvHoUMSM8Ecpdkwi6UzoGdw%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
 ![truth](/pic/truth.jpg)
 
 
-- [**2020-03-31 清华大学等团队研究发现抗新冠病毒潜在药物分子**](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650466643&idx=1&sn=907b7199922ebc0f4e3e8190772e5787&chksm=bef2afe3898526f55fe5b05f9992c490d7330cd9df09f6ecfad2d3e4c8a933aab62ee26fe5e3&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664826173&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Av3%2FkskQrVXK0KEyZyXMkag%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
+- [**2020-03-31 清华大学等团队研究发现抗新冠病毒潜在药物分子**](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650466643&idx=1&sn=907b7199922ebc0f4e3e8190772e5787&chksm=bef2afe3898526f55fe5b05f9992c490d7330cd9df09f6ecfad2d3e4c8a933aab62ee26fe5e3&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664826173&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Av3%2FkskQrVXK0KEyZyXMkag%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
 ![清华大学](/pic/qinghua.jpg)
 
 - [**2020-03-30 Mathematics of life and death: How disease models shape national shutdowns and other pandemic policies**](https://www.sciencemag.org/news/2020/03/mathematics-life-and-death-how-disease-models-shape-national-shutdowns-and-other#)
