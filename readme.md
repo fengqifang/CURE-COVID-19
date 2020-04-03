@@ -179,7 +179,10 @@
 
 ## 疫苗相关／新药开发
 
-- [**Coronavirus: Pittsburgh Scientists Detail Potential Vaccine**](https://patch.com/pennsylvania/pittsburgh/potential-coronavirus-vaccine-details-disclosed) &#127381;
+- [**2020-04-02 强生承诺向全球提供10亿剂新冠疫苗，与美国政府合作豪赌10亿美元**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488812&idx=1&sn=9f02fbc5fd50293286bb250395dba469&chksm=fb88286fccffa17998e657ec18d03482ac162aed50edf4afe3dc9584ba4bce931c8f63caeecc&mpshare=1&scene=1&srcid=&sharer_sharetime=1585838402486&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnDphZO9S14OK8ONfx%2BLBn0%3D&pass_ticket=b3Vb%2BxtTSi8vvLXKyll7zXgI3xCd%2FEI6E30air%2BCFdB8iX4%2FKKTlkLIj%2BdqMyJ8E#rd) &#127381;
+![强生](/pic/qiangsheng.jpg)
+
+- [**2020-04-02 Coronavirus: Pittsburgh Scientists Detail Potential Vaccine**](https://patch.com/pennsylvania/pittsburgh/potential-coronavirus-vaccine-details-disclosed) &#127381;
 ![upmc](/pic/upmc.jpg)
 
 - [**2020-03-31 IL-6受体抑制剂治疗新冠肺炎！赛诺菲/再生元Kevzara全球项目美国以外地区首例患者接受治疗！**](https://mp.weixin.qq.com/s?__biz=Mzg3OTE3NjA4Nw==&mid=2247485966&idx=6&sn=3e8e928a6b99834a35e02dd64643c273&chksm=cf093af6f87eb3e0672c32d3e0c61c70adff16ce570dc4fd0a5fa7c005de4515bb44cad35dbd&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664548449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnaHcbGqs9%2FAAeaeOkzf7lk%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
