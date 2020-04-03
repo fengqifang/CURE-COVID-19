@@ -72,7 +72,7 @@
  
 ## 检测试剂
 
-- [**2020-03-31 2分钟血清学检测获FDA紧急使用授权，腾盛博药合作开发中和抗体**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992739&idx=2&sn=bb30013d2d6aebc8f31b9a46e57e4c0b&chksm=82e928a3b59ea1b504083169967c64e62ece232fe768e7e236a2b49b6246c11a2a2ca225127c&mpshare=1&scene=1&srcid=&sharer_sharetime=1585704914132&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al20%2BRB1XWj8%2F%2BTYlpFPspY%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd) &#127381;
+- [**2020-03-31 2分钟血清学检测获FDA紧急使用授权，腾盛博药合作开发中和抗体**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992739&idx=2&sn=bb30013d2d6aebc8f31b9a46e57e4c0b&chksm=82e928a3b59ea1b504083169967c64e62ece232fe768e7e236a2b49b6246c11a2a2ca225127c&mpshare=1&scene=1&srcid=&sharer_sharetime=1585704914132&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al20%2BRB1XWj8%2F%2BTYlpFPspY%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
 ![2分钟](/pic/2min.jpg)
 
 - [**2020-03-30 新冠病毒诊断检测技术小结**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247519174&idx=1&sn=2ec35a220b1bf967e7798a229ab44fca&chksm=ecb33320dbc4ba36cd8f4deb2bdb7a42e26ec956285a705e3e46a3b4ff17f57f3c92477a4796&mpshare=1&scene=1&srcid=&sharer_sharetime=1585617731763&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiAU3NSzKBuYVIWhViNYWgc%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd)
