@@ -38,9 +38,11 @@
 
 ## 疫情地图
 
-- [**Every Vaccine and Treatment in Development for COVID-19, So Far**](https://www.visualcapitalist.com/every-vaccine-treatment-covid-19-so-far/) &#127381; 
+- [**See how your community is moving around differently due to COVID-19**](https://www.google.com/covid19/mobility/) &#127381; 
 
-- [**Social Distancing Scoreboard**](https://www.unacast.com/covid19/social-distancing-scoreboard) &#127381;
+- [**Every Vaccine and Treatment in Development for COVID-19, So Far**](https://www.visualcapitalist.com/every-vaccine-treatment-covid-19-so-far/)
+
+- [**Social Distancing Scoreboard**](https://www.unacast.com/covid19/social-distancing-scoreboard)
 
 - [**COVID Community Vulnerability Map**](https://covid19.jvion.com/)
 
@@ -100,6 +102,9 @@
  
 ## 治疗方案
 
+- [**2020-04-03 治疗COVID-19，NK细胞疗法人体试验获FDA批准**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488824&idx=1&sn=f88af90b4fa92570f37ab5db8c45b719&chksm=fb88287bccffa16d5861e4171b5e5b99c78515ab2583407dc45f2e1d8be47a23331493448005&mpshare=1&scene=1&srcid=&sharer_sharetime=1585922680577&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=Al08flfesyTSS45%2FpiGYFwg%3D&pass_ticket=eWvwUin4xExXuTRzPaREucuFHTu4NL6ZUVTfDVaGQg87cKpMxDVnMGKgSobcBzCD#rd) &#127381; 
+![NKcell](/pic/nkcell.jpg)
+
 - [**2020-03-27 瑞德西韦临床试药者：久治不愈，“就想试一试”**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651613637&idx=4&sn=320aa7ea25b0d5055d732d7338b5690c&chksm=bd61f4798a167d6f48df99d75e123fc98b1bb24b742a131e788f1d7a63aee648b835d22c9b41&mpshare=1&scene=1&srcid=&sharer_sharetime=1585350097449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aqby%2FImty0I3IdErbVYO7pg%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd)
 ![临床试药](/pic/try.jpg)
 
@@ -146,7 +151,7 @@
  
 ## 氯喹专题
 
-- [**2020-04-01 Malaria Drug Helps Virus Patients Improve, in Small Study**](https://www.nytimes.com/2020/04/01/health/hydroxychloroquine-coronavirus-malaria.html) &#127381;
+- [**2020-04-01 Malaria Drug Helps Virus Patients Improve, in Small Study**](https://www.nytimes.com/2020/04/01/health/hydroxychloroquine-coronavirus-malaria.html)
 ![malaria](/pic/malaria.jpg)
 
 - [**2020-03-30 C&EN深度：如何看待氯喹/羟氯喹治疗COVID-19的研究进展？**](https://mp.weixin.qq.com/s?__biz=MzUxMTY5MzM5OQ==&mid=2247493219&idx=1&sn=b54927cc87843cd9d7cb4d57544db3d6&chksm=f96d615bce1ae84d167025f3934761e8d328bbac4e2385c85fce41a48b233690eb0e889072e7&mpshare=1&scene=1&srcid=&sharer_sharetime=1585524118021&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alknqo37T%2BQACacpx9kVL7o%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd)
@@ -167,6 +172,9 @@
 - [**2020-03-22 “穷人的希望” — 奎宁、氯喹、羟氯喹的前世今生**](https://mp.weixin.qq.com/s?__biz=MzI3MTIxNTgyMw==&mid=2651589314&idx=1&sn=59f78974eb2a2bf63ca8a14d51c38b76&chksm=f13d9762c64a1e74d055b021e9f1efcd1b69b06057f9b99e8140a32d05be8a1d41f151df442e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584846116200&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArDGGlX0emqTOk0boaIzVWc%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
 ![氯喹](/pic/kui.jpg)
 
+- [**2020-03-18 英国启动万人试验：COPCOV (警察抓新冠) - 氯喹预防新冠肺炎的研究**](https://mp.weixin.qq.com/s?__biz=MzUxODkzOD**QxMA==&mid=2247488248&idx=2&sn=dff4d5861d3381a0741c9200b62a32fc&chksm=f98018bdcef791ab49e3b2e111896d06c80c5c7b4160f91b3bb7133dc0d13f9a74d2feb75fec&mpshare=1&scene=1&srcid=0319GJUYbt7n85e3cYSvD2Dn&sharer_sharetime=1584580213616&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AnmXigczTeo%2Fbe1X8LdH2jQ%3D&pass_ticket=zWVYVxV8%2FgP9pcTskTZ3kJK2M8M7CIt2zKwqd%2FuyaF7zWd5K0R%2BUKfTp4dSrfWX8#rd)
+![COP](/pic/cop.jpg)
+
 - [**2020-03-18 After 6 days 100% of patients treated with HCQ + Azithromycin  were virologically cured**](https://twitter.com/RiganoESQ/status/1240273631604809728) 
 
 - [**An Open Data Clinical Trial for COVID-19 Prevention**](https://www.covidtrial.io/)
@@ -179,10 +187,10 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-04-02 强生承诺向全球提供10亿剂新冠疫苗，与美国政府合作豪赌10亿美元**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488812&idx=1&sn=9f02fbc5fd50293286bb250395dba469&chksm=fb88286fccffa17998e657ec18d03482ac162aed50edf4afe3dc9584ba4bce931c8f63caeecc&mpshare=1&scene=1&srcid=&sharer_sharetime=1585838402486&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnDphZO9S14OK8ONfx%2BLBn0%3D&pass_ticket=b3Vb%2BxtTSi8vvLXKyll7zXgI3xCd%2FEI6E30air%2BCFdB8iX4%2FKKTlkLIj%2BdqMyJ8E#rd) &#127381;
+- [**2020-04-02 强生承诺向全球提供10亿剂新冠疫苗，与美国政府合作豪赌10亿美元**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488812&idx=1&sn=9f02fbc5fd50293286bb250395dba469&chksm=fb88286fccffa17998e657ec18d03482ac162aed50edf4afe3dc9584ba4bce931c8f63caeecc&mpshare=1&scene=1&srcid=&sharer_sharetime=1585838402486&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnDphZO9S14OK8ONfx%2BLBn0%3D&pass_ticket=b3Vb%2BxtTSi8vvLXKyll7zXgI3xCd%2FEI6E30air%2BCFdB8iX4%2FKKTlkLIj%2BdqMyJ8E#rd)
 ![强生](/pic/qiangsheng.jpg)
 
-- [**2020-04-02 Coronavirus: Pittsburgh Scientists Detail Potential Vaccine**](https://patch.com/pennsylvania/pittsburgh/potential-coronavirus-vaccine-details-disclosed) &#127381;
+- [**2020-04-02 Coronavirus: Pittsburgh Scientists Detail Potential Vaccine**](https://patch.com/pennsylvania/pittsburgh/potential-coronavirus-vaccine-details-disclosed)
 ![upmc](/pic/upmc.jpg)
 
 - [**2020-03-31 IL-6受体抑制剂治疗新冠肺炎！赛诺菲/再生元Kevzara全球项目美国以外地区首例患者接受治疗！**](https://mp.weixin.qq.com/s?__biz=Mzg3OTE3NjA4Nw==&mid=2247485966&idx=6&sn=3e8e928a6b99834a35e02dd64643c273&chksm=cf093af6f87eb3e0672c32d3e0c61c70adff16ce570dc4fd0a5fa7c005de4515bb44cad35dbd&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664548449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnaHcbGqs9%2FAAeaeOkzf7lk%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
@@ -236,9 +244,6 @@
 - [**2020-03-18 Coronavirus vaccines: five key questions as trials begin**](https://www.nature.com/articles/d41586-020-00798-8)
 ![nature](/pic/nature.jpg)
 
-- [**2020-03-18 英国启动万人试验：COPCOV (警察抓新冠) - 氯喹预防新冠肺炎的研究**](https://mp.weixin.qq.com/s?__biz=MzUxODkzOD**QxMA==&mid=2247488248&idx=2&sn=dff4d5861d3381a0741c9200b62a32fc&chksm=f98018bdcef791ab49e3b2e111896d06c80c5c7b4160f91b3bb7133dc0d13f9a74d2feb75fec&mpshare=1&scene=1&srcid=0319GJUYbt7n85e3cYSvD2Dn&sharer_sharetime=1584580213616&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AnmXigczTeo%2Fbe1X8LdH2jQ%3D&pass_ticket=zWVYVxV8%2FgP9pcTskTZ3kJK2M8M7CIt2zKwqd%2FuyaF7zWd5K0R%2BUKfTp4dSrfWX8#rd)
-![COP](/pic/cop.jpg)
-
 - [**2020-03-18 新冠病毒重要药物靶点-RNA依赖的RNA聚合酶三维精细结构获得解析**](https://mp.weixin.qq.com/s?__biz=MjM5NTY5OTMxMA==&mid=2651311956&idx=1&sn=fe7b925bed54be440e8fab3fe0abee51&chksm=bd07e0558a706943da71ebf4b630ad0a4e4ae6c89440fc87478e659ad68dbb7d8b1c1e7ed7e1&mpshare=1&scene=1&srcid=&sharer_sharetime=1584563423612&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Au0JvES7EgSjwM%2BgI%2F8aJ2Y%3D&pass_ticket=I28Db8P7PMyKR5Lzw0ixxIajuVaMzahzUszVfVQGxr97QzRBKo%2By7BliS5XCSlsk#rd)
 ![rao1](/pic/rao1.jpg)
 
@@ -279,7 +284,16 @@
  
 ## 研究进展
 
-- [**2020-04-02 中国首报尚有1367例无症状感染者的背后**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488459&idx=1&sn=9602d82157066e0f5df56eead83db84d&chksm=f980198ecef790983d88a141b6e7e74a88073d0133bae9a78f9ecd0151b4072b9c07cc1c1560&mpshare=1&scene=1&srcid=0403urmbyt37o2klqkvZMPvy&sharer_sharetime=1585880469513&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=Avl2oKIvo3NpxnkOe7yC8eU%3D&pass_ticket=EZaKcsuSysjFsbZgoshs8%2BXTuzUKtjZ0moKTFS%2F36jF2D0ZitQ%2F%2FvPbCkpsY0224#rd) &#127381;
+- [**病毒所石正丽等发现，14.7%的猫已感染新冠病毒！防控措施应做出改变**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268833&idx=1&sn=8715317a6880fca32b14d9995f3f89f5&chksm=8bb7c45fbcc04d492f06de65921253efe659c5c5461dca710833ff7c866706ef6099ab8e5da2&mpshare=1&scene=1&srcid=&sharer_sharetime=1585971940623&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj9hmnvS7gbzAe7HIq2k%2BDQ%3D&pass_ticket=eWvwUin4xExXuTRzPaREucuFHTu4NL6ZUVTfDVaGQg87cKpMxDVnMGKgSobcBzCD#rd) &#127381;
+![CAT2](/pic/cat2.jpg)
+
+- [**2020-04-03 Covid-19: four fifths of cases are asymptomatic, China figures indicate**](https://www.bmj.com/content/369/bmj.m1375) &#127381;
+![bmj](/pic/bmj.jpg)
+
+- [**2020-04-03 武汉病毒所石正丽等多个团队研究表明，猫确实容易感染新冠病毒！**](https://mp.weixin.qq.com/s?__biz=MzIwMzA1MzU5Mg==&mid=2652139406&idx=1&sn=f02fcf15cbb5c2c4d6f313b86bbf20c1&chksm=8d3580f9ba4209eff33abbdafb474472e3e7f93c3948e4c1b689079f1ea9a81ffc1f09eee596&mpshare=1&scene=1&srcid=&sharer_sharetime=1585921674869&sharer_shareid=1276c91aef12fcece8d6cc480b1cfdf0&exportkey=AkAw5LQM%2FDiocTLww8BRoNg%3D&pass_ticket=eWvwUin4xExXuTRzPaREucuFHTu4NL6ZUVTfDVaGQg87cKpMxDVnMGKgSobcBzCD#rd) &#127381;
+![CAT1](/pic/cat1.jpg)
+
+- [**2020-04-02 中国首报尚有1367例无症状感染者的背后**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488459&idx=1&sn=9602d82157066e0f5df56eead83db84d&chksm=f980198ecef790983d88a141b6e7e74a88073d0133bae9a78f9ecd0151b4072b9c07cc1c1560&mpshare=1&scene=1&srcid=0403urmbyt37o2klqkvZMPvy&sharer_sharetime=1585880469513&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=Avl2oKIvo3NpxnkOe7yC8eU%3D&pass_ticket=EZaKcsuSysjFsbZgoshs8%2BXTuzUKtjZ0moKTFS%2F36jF2D0ZitQ%2F%2FvPbCkpsY0224#rd)
 ![无症状感染](/pic/asymptomatic.jpg)
 
 - [**2020-03-31 大数据揭示新冠肺炎病死率的真实情况**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488431&idx=1&sn=bcb4d19a9e6b85a3d0c1261b3e9a096d&chksm=f98019eacef790fc468d8e77ee0cf46810890903d63871a12a19fb17ffd05c69ed22b6efc8bb&mpshare=1&scene=1&srcid=&sharer_sharetime=1585704476750&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvHoUMSM8Ecpdkwi6UzoGdw%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
@@ -396,7 +410,13 @@
  
 ## 其他
 
-- [**2020-04-02 A Covid-19 Vaccine Will Need Equitable, Global Distribution**](https://hbr.org/2020/04/a-covid-19-vaccine-will-need-equitable-global-distribution) &#127381;
+- [**Thinking Globally, Acting Locally — The U.S. Response to Covid-19**](https://www.nejm.org/doi/pdf/10.1056/NEJMp2006740?articleTools=true) &#127381;
+![globally](/pic/globally.jpg)
+
+- [**2020-04-03 Chinese families should be sweeping graves now. But thousands still haven’t buried their dead.**](https://www.washingtonpost.com/world/asia_pacific/chinese-families-should-be-sweeping-graves-now-but-thousands-still-havent-buried-their-dead/2020/04/03/5a6daa50-7234-11ea-ad9b-254ec99993bc_story.html) &#127381;
+![grave](/pic/grave.jpg)
+
+- [**2020-04-02 A Covid-19 Vaccine Will Need Equitable, Global Distribution**](https://hbr.org/2020/04/a-covid-19-vaccine-will-need-equitable-global-distribution)
 ![hbr](/pic/hbr.jpg)
 
 - [**2020-03-31 百年拜耳沉浮，从天使到魔鬼只差11天**](https://mp.weixin.qq.com/s?__biz=MjM5NTE1NTc0MA==&mid=2652490155&idx=1&sn=cbf32276fe21a3c01a806b0e8c344a7f&chksm=bd11b3d88a663ace49cf7d9a3b59c3ff4792a24d9c827c1d041a3e94e06ba9af7e3070b1db48&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664809214&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArEsI0guUCVsarM%2BLcsvCyg%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
@@ -498,18 +518,14 @@
 - [**2020-03-20 美国新冠疫情战争的意见领袖，其实是他**](https://mp.weixin.qq.com/s?__biz=MzI5NTc5MTI3Nw==&mid=2247483927&idx=1&sn=2dafd52b30c678a01ba40c0779c4408c&chksm=ec4f7dd5db38f4c37eba04ce93e442ce7c336b153dfbeb74912e6e23bd8c55c9c3de3a6d8814&mpshare=1&scene=1&srcid=&sharer_sharetime=1584681657610&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmEnuoez50qpFL0OG0jWxig%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
 ![leader](/pic/leader.jpg)
 
-
 - [**2020-03-19 日本低感染数字背后到底隐藏了什么？**](https://mp.weixin.qq.com/s?__biz=MzI4Njk3MjgyMQ==&mid=2247485333&idx=1&sn=b9e5656d0400e0576b05924c6a7c19a0&chksm=ebd5896fdca200790407cd9770b73a8fd7f616330661a5d6dc8a7f048480c56d173c64a231cf&mpshare=1&scene=1&srcid=0316BeLBPhaXIFVEWCQiYanm&sharer_sharetime=1584623061906&sharer_shareid=7db4f677037e2724f7e9fd3e83f49b4a&exportkey=Ar2IYnp5olvZl1mlEauw9gQ%3D&pass_ticket=SmpVjidc%2Bpb9lRtyO5kZVjon%2Bxx1yNJOKkKHz58ZrkdkebmsPahazPlCwcHVdiXM#rd)
 ![低感染](/pic/japanslow.jpg)
-
 
 - [**2020-03-18 What is Herd Immunity?**](https://www.pbs.org/wgbh/nova/article/herd-immunity/)
 ![herd](/pic/herd.jpg)
 
-
 - [**2020-03-18 How to Manage Your Coronavirus Anxiety**](https://www.wsj.com/articles/how-to-manage-your-coronavirus-anxiety-11583424434?mod=wsjtwittertest19)
 ![anxiety](/pic/anxiety.jpg)
-
 
 - [**2020-03-18 Remembering Who Is Keeping Us Alive**](https://www.nationalreview.com/corner/remembering-who-is-keeping-us-alive/)
 ![remember](/pic/remember.jpg)
