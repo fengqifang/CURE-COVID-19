@@ -293,6 +293,9 @@
  
 ## 研究进展
 
+- [**2020-04-06 CDC launches studies to get more precise count of undetected Covid-19 cases**](https://www.statnews.com/2020/04/04/cdc-launches-studies-to-get-more-precise-count-of-undetected-covid-19-cases/) &#127381;
+![undetected](/pic/undetected.jpg)
+
 - [**2020-04-05 3370例新冠病毒基因图谱新信息**](https://mp.weixin.qq.com/s?__biz=MzAwNTU3OTM5MA==&mid=2247489457&idx=1&sn=068edfb4472afd6af2d89511de90a7a2&chksm=9b1b20a0ac6ca9b60aed3f8606e2f03985c70e460815e8f57710f869463c976afce547f18576&scene=0&xtrack=1&exportkey=AgZJM7XAz%2BYLS8taamZHOCY%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd) &#127381;
 ![3370](/pic/3370.jpg)
 
@@ -427,6 +430,9 @@
  ***
  
 ## 其他
+
+- [**2020-04-06 Understanding SARS-CoV-2 and the drugs that might lessen its power**] (https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power?fsrc=scn/tw/te/bl/ed/anatomyofakillerunderstandingsarscov2andthedrugsthatmightlessenitspowerbriefing) &#127381;
+![lessen](/pic/lessen.jpg)
 
 - [**2020-04-04 7 Ways to Explore the Math of the Coronavirus Using The New York Times**](https://www.nytimes.com/2020/04/02/learning/7-ways-to-explore-the-math-of-the-coronavirus-using-the-new-york-times.html) &#127381;
 ![7ways](/pic/7ways.png)
