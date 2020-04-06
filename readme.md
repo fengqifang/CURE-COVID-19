@@ -38,7 +38,7 @@
 
 ## 疫情地图
 
-- [**See how your community is moving around differently due to COVID-19**](https://www.google.com/covid19/mobility/) &#127381; 
+- [**See how your community is moving around differently due to COVID-19**](https://www.google.com/covid19/mobility/)
 
 - [**Every Vaccine and Treatment in Development for COVID-19, So Far**](https://www.visualcapitalist.com/every-vaccine-treatment-covid-19-so-far/)
 
@@ -102,7 +102,7 @@
  
 ## 治疗方案
 
-- [**2020-04-03 治疗COVID-19，NK细胞疗法人体试验获FDA批准**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488824&idx=1&sn=f88af90b4fa92570f37ab5db8c45b719&chksm=fb88287bccffa16d5861e4171b5e5b99c78515ab2583407dc45f2e1d8be47a23331493448005&mpshare=1&scene=1&srcid=&sharer_sharetime=1585922680577&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=Al08flfesyTSS45%2FpiGYFwg%3D&pass_ticket=eWvwUin4xExXuTRzPaREucuFHTu4NL6ZUVTfDVaGQg87cKpMxDVnMGKgSobcBzCD#rd) &#127381; 
+- [**2020-04-03 治疗COVID-19，NK细胞疗法人体试验获FDA批准**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488824&idx=1&sn=f88af90b4fa92570f37ab5db8c45b719&chksm=fb88287bccffa16d5861e4171b5e5b99c78515ab2583407dc45f2e1d8be47a23331493448005&mpshare=1&scene=1&srcid=&sharer_sharetime=1585922680577&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=Al08flfesyTSS45%2FpiGYFwg%3D&pass_ticket=eWvwUin4xExXuTRzPaREucuFHTu4NL6ZUVTfDVaGQg87cKpMxDVnMGKgSobcBzCD#rd)
 ![NKcell](/pic/nkcell.jpg)
 
 - [**2020-03-27 瑞德西韦临床试药者：久治不愈，“就想试一试”**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651613637&idx=4&sn=320aa7ea25b0d5055d732d7338b5690c&chksm=bd61f4798a167d6f48df99d75e123fc98b1bb24b742a131e788f1d7a63aee648b835d22c9b41&mpshare=1&scene=1&srcid=&sharer_sharetime=1585350097449&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aqby%2FImty0I3IdErbVYO7pg%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd)
@@ -186,6 +186,15 @@
  ***
 
 ## 疫苗相关／新药开发
+
+- [**2020-04-05 ANTI-PARASITE DRUG USED SINCE 1980S MAY HELP STOP CORONAVIRUS, NEW STUDY SAYS**](https://www.newsweek.com/anti-parasite-drug-used-since-1980s-may-help-stop-coronavirus-new-study-says-1496083) &#127381; 
+![Parasite2](/pic/parasite2.jpg)
+
+- [**2020-04-04 Common Anti-Parasite Drug May Kill Coronavirus in Under 48 Hours, Say Researchers**](https://www.breitbart.com/border/2020/04/04/common-anti-parasite-drug-may-kill-coronavirus-in-under-48-hours-say-researchers/) &#127381; 
+![Parasite](/pic/parasite.jpg)
+
+- [**2020-04-04 新冠疫苗“皮肤贴片”！有效诱导抗体产生，正在申请人体试验**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488838&idx=1&sn=0b7f51b21b0a1612d49ac8ffcdbfc100&chksm=fb882805ccffa113c13e507452a6ee2ac2c6bc6059fd45d5f18189b32d55f7a55436595ea5ab&mpshare=1&scene=1&srcid=&sharer_sharetime=1586016278463&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=Ag9Iozpmb8sRTl3RAa5RZbo%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd) &#127381; 
+![皮肤贴片](/pic/tiepian.jpg)
 
 - [**2020-04-02 强生承诺向全球提供10亿剂新冠疫苗，与美国政府合作豪赌10亿美元**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488812&idx=1&sn=9f02fbc5fd50293286bb250395dba469&chksm=fb88286fccffa17998e657ec18d03482ac162aed50edf4afe3dc9584ba4bce931c8f63caeecc&mpshare=1&scene=1&srcid=&sharer_sharetime=1585838402486&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnDphZO9S14OK8ONfx%2BLBn0%3D&pass_ticket=b3Vb%2BxtTSi8vvLXKyll7zXgI3xCd%2FEI6E30air%2BCFdB8iX4%2FKKTlkLIj%2BdqMyJ8E#rd)
 ![强生](/pic/qiangsheng.jpg)
@@ -284,13 +293,22 @@
  
 ## 研究进展
 
-- [**病毒所石正丽等发现，14.7%的猫已感染新冠病毒！防控措施应做出改变**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268833&idx=1&sn=8715317a6880fca32b14d9995f3f89f5&chksm=8bb7c45fbcc04d492f06de65921253efe659c5c5461dca710833ff7c866706ef6099ab8e5da2&mpshare=1&scene=1&srcid=&sharer_sharetime=1585971940623&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj9hmnvS7gbzAe7HIq2k%2BDQ%3D&pass_ticket=eWvwUin4xExXuTRzPaREucuFHTu4NL6ZUVTfDVaGQg87cKpMxDVnMGKgSobcBzCD#rd) &#127381;
+- [**2020-04-05 3370例新冠病毒基因图谱新信息**](https://mp.weixin.qq.com/s?__biz=MzAwNTU3OTM5MA==&mid=2247489457&idx=1&sn=068edfb4472afd6af2d89511de90a7a2&chksm=9b1b20a0ac6ca9b60aed3f8606e2f03985c70e460815e8f57710f869463c976afce547f18576&scene=0&xtrack=1&exportkey=AgZJM7XAz%2BYLS8taamZHOCY%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd) &#127381;
+![3370](/pic/3370.jpg)
+
+- [**2020-04-05 Cell发表预防COVID-19新方法：用重组ACE2蛋白中和病毒**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488848&idx=1&sn=930ec64c3fa60b07a6884036e326821d&chksm=fb882813ccffa105779886e9128486d48aa6c1cad214e3311edd7a42f0e69b6df0c8070721f1&mpshare=1&scene=1&srcid=&sharer_sharetime=1586101085012&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=Akmop9g9cy9omb89dZceUVc%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd) &#127381;
+![ACE2](/pic/ace2.jpg)
+
+- [**2020-04-04 摩根斯坦利模型揭示美国新冠肺炎疫情的完整周期**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488488&idx=2&sn=37e88698364dbbed4646fd6a1e192e44&chksm=f98019adcef790bbb4eba6ed5e00898fe3aaaad9c16edc53c1ecb05d3a654e9b8167b008cbf2&mpshare=1&scene=1&srcid=&sharer_sharetime=1586099794011&sharer_shareid=23d35a635a34cae4802d51ab874e937d&exportkey=AruumQxBD6r%2FmwA%2FlCab7es%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd) &#127381;
+![完整周期](/pic/cycle.jpg)
+
+- [**2020-04-03 病毒所石正丽等发现，14.7%的猫已感染新冠病毒！防控措施应做出改变**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268833&idx=1&sn=8715317a6880fca32b14d9995f3f89f5&chksm=8bb7c45fbcc04d492f06de65921253efe659c5c5461dca710833ff7c866706ef6099ab8e5da2&mpshare=1&scene=1&srcid=&sharer_sharetime=1585971940623&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj9hmnvS7gbzAe7HIq2k%2BDQ%3D&pass_ticket=eWvwUin4xExXuTRzPaREucuFHTu4NL6ZUVTfDVaGQg87cKpMxDVnMGKgSobcBzCD#rd)
 ![CAT2](/pic/cat2.jpg)
 
-- [**2020-04-03 Covid-19: four fifths of cases are asymptomatic, China figures indicate**](https://www.bmj.com/content/369/bmj.m1375) &#127381;
+- [**2020-04-03 Covid-19: four fifths of cases are asymptomatic, China figures indicate**](https://www.bmj.com/content/369/bmj.m1375)
 ![bmj](/pic/bmj.jpg)
 
-- [**2020-04-03 武汉病毒所石正丽等多个团队研究表明，猫确实容易感染新冠病毒！**](https://mp.weixin.qq.com/s?__biz=MzIwMzA1MzU5Mg==&mid=2652139406&idx=1&sn=f02fcf15cbb5c2c4d6f313b86bbf20c1&chksm=8d3580f9ba4209eff33abbdafb474472e3e7f93c3948e4c1b689079f1ea9a81ffc1f09eee596&mpshare=1&scene=1&srcid=&sharer_sharetime=1585921674869&sharer_shareid=1276c91aef12fcece8d6cc480b1cfdf0&exportkey=AkAw5LQM%2FDiocTLww8BRoNg%3D&pass_ticket=eWvwUin4xExXuTRzPaREucuFHTu4NL6ZUVTfDVaGQg87cKpMxDVnMGKgSobcBzCD#rd) &#127381;
+- [**2020-04-03 武汉病毒所石正丽等多个团队研究表明，猫确实容易感染新冠病毒！**](https://mp.weixin.qq.com/s?__biz=MzIwMzA1MzU5Mg==&mid=2652139406&idx=1&sn=f02fcf15cbb5c2c4d6f313b86bbf20c1&chksm=8d3580f9ba4209eff33abbdafb474472e3e7f93c3948e4c1b689079f1ea9a81ffc1f09eee596&mpshare=1&scene=1&srcid=&sharer_sharetime=1585921674869&sharer_shareid=1276c91aef12fcece8d6cc480b1cfdf0&exportkey=AkAw5LQM%2FDiocTLww8BRoNg%3D&pass_ticket=eWvwUin4xExXuTRzPaREucuFHTu4NL6ZUVTfDVaGQg87cKpMxDVnMGKgSobcBzCD#rd)
 ![CAT1](/pic/cat1.jpg)
 
 - [**2020-04-02 中国首报尚有1367例无症状感染者的背后**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488459&idx=1&sn=9602d82157066e0f5df56eead83db84d&chksm=f980198ecef790983d88a141b6e7e74a88073d0133bae9a78f9ecd0151b4072b9c07cc1c1560&mpshare=1&scene=1&srcid=0403urmbyt37o2klqkvZMPvy&sharer_sharetime=1585880469513&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=Avl2oKIvo3NpxnkOe7yC8eU%3D&pass_ticket=EZaKcsuSysjFsbZgoshs8%2BXTuzUKtjZ0moKTFS%2F36jF2D0ZitQ%2F%2FvPbCkpsY0224#rd)
@@ -410,10 +428,13 @@
  
 ## 其他
 
-- [**Thinking Globally, Acting Locally — The U.S. Response to Covid-19**](https://www.nejm.org/doi/pdf/10.1056/NEJMp2006740?articleTools=true) &#127381;
+- [**2020-04-04 7 Ways to Explore the Math of the Coronavirus Using The New York Times**](https://www.nytimes.com/2020/04/02/learning/7-ways-to-explore-the-math-of-the-coronavirus-using-the-new-york-times.html) &#127381;
+![7ways](/pic/7ways.png)
+
+- [**Thinking Globally, Acting Locally — The U.S. Response to Covid-19**](https://www.nejm.org/doi/pdf/10.1056/NEJMp2006740?articleTools=true)
 ![globally](/pic/globally.jpg)
 
-- [**2020-04-03 Chinese families should be sweeping graves now. But thousands still haven’t buried their dead.**](https://www.washingtonpost.com/world/asia_pacific/chinese-families-should-be-sweeping-graves-now-but-thousands-still-havent-buried-their-dead/2020/04/03/5a6daa50-7234-11ea-ad9b-254ec99993bc_story.html) &#127381;
+- [**2020-04-03 Chinese families should be sweeping graves now. But thousands still haven’t buried their dead.**](https://www.washingtonpost.com/world/asia_pacific/chinese-families-should-be-sweeping-graves-now-but-thousands-still-havent-buried-their-dead/2020/04/03/5a6daa50-7234-11ea-ad9b-254ec99993bc_story.html)
 ![grave](/pic/grave.jpg)
 
 - [**2020-04-02 A Covid-19 Vaccine Will Need Equitable, Global Distribution**](https://hbr.org/2020/04/a-covid-19-vaccine-will-need-equitable-global-distribution)
