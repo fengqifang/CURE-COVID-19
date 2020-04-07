@@ -193,13 +193,19 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-04-05 ANTI-PARASITE DRUG USED SINCE 1980S MAY HELP STOP CORONAVIRUS, NEW STUDY SAYS**](https://www.newsweek.com/anti-parasite-drug-used-since-1980s-may-help-stop-coronavirus-new-study-says-1496083) &#127381; 
+- [**2020-04-07An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice**](https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883) &#127381; 
+![broadspectrum](/pic/broadspectrum.jpg)
+
+- [**有效抑制多种冠状病毒，它会是我们期盼的“万能药”吗？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498202&idx=1&sn=2ca4039e40eb2e0faa52abc385c8d711&chksm=ec1d5a89db6ad39f0611316c9455520b845a036228ecc57bd4d5597c8d3e2bee1b2029122e3e&mpshare=1&scene=1&srcid=&sharer_sharetime=1586236686401&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlOeLv5F3uIVqTYeBTh%2BPWA%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd) &#127381;
+![万能药](/pic/multiple.jpg)
+
+- [**2020-04-05 ANTI-PARASITE DRUG USED SINCE 1980S MAY HELP STOP CORONAVIRUS, NEW STUDY SAYS**](https://www.newsweek.com/anti-parasite-drug-used-since-1980s-may-help-stop-coronavirus-new-study-says-1496083)
 ![Parasite2](/pic/parasite2.jpg)
 
-- [**2020-04-04 Common Anti-Parasite Drug May Kill Coronavirus in Under 48 Hours, Say Researchers**](https://www.breitbart.com/border/2020/04/04/common-anti-parasite-drug-may-kill-coronavirus-in-under-48-hours-say-researchers/) &#127381; 
+- [**2020-04-04 Common Anti-Parasite Drug May Kill Coronavirus in Under 48 Hours, Say Researchers**](https://www.breitbart.com/border/2020/04/04/common-anti-parasite-drug-may-kill-coronavirus-in-under-48-hours-say-researchers/)
 ![Parasite](/pic/parasite.jpg)
 
-- [**2020-04-04 新冠疫苗“皮肤贴片”！有效诱导抗体产生，正在申请人体试验**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488838&idx=1&sn=0b7f51b21b0a1612d49ac8ffcdbfc100&chksm=fb882805ccffa113c13e507452a6ee2ac2c6bc6059fd45d5f18189b32d55f7a55436595ea5ab&mpshare=1&scene=1&srcid=&sharer_sharetime=1586016278463&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=Ag9Iozpmb8sRTl3RAa5RZbo%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd) &#127381; 
+- [**2020-04-04 新冠疫苗“皮肤贴片”！有效诱导抗体产生，正在申请人体试验**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488838&idx=1&sn=0b7f51b21b0a1612d49ac8ffcdbfc100&chksm=fb882805ccffa113c13e507452a6ee2ac2c6bc6059fd45d5f18189b32d55f7a55436595ea5ab&mpshare=1&scene=1&srcid=&sharer_sharetime=1586016278463&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=Ag9Iozpmb8sRTl3RAa5RZbo%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd)
 ![皮肤贴片](/pic/tiepian.jpg)
 
 - [**2020-04-02 强生承诺向全球提供10亿剂新冠疫苗，与美国政府合作豪赌10亿美元**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488812&idx=1&sn=9f02fbc5fd50293286bb250395dba469&chksm=fb88286fccffa17998e657ec18d03482ac162aed50edf4afe3dc9584ba4bce931c8f63caeecc&mpshare=1&scene=1&srcid=&sharer_sharetime=1585838402486&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnDphZO9S14OK8ONfx%2BLBn0%3D&pass_ticket=b3Vb%2BxtTSi8vvLXKyll7zXgI3xCd%2FEI6E30air%2BCFdB8iX4%2FKKTlkLIj%2BdqMyJ8E#rd)
@@ -299,19 +305,22 @@
  
 ## 研究进展
 
-- [**2020-04-06 COVID-19研发动态：DNA疫苗启动临床试验，GSK合作推动抗体疗法进入2期临床试验**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992863&idx=1&sn=52e7db6539bb15b85b763be615b258fc&chksm=82e9281fb59ea109be808db5a6280811875c9f8d52322d9284dcdf9042e55c18a089c4a2d48e&mpshare=1&scene=1&srcid=&sharer_sharetime=1586223993658&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhkxvIyjn5GUK%2Bfo7Z2D5eo%3D&pass_ticket=%2BHybx1C4kfq%2FdNWQLJInSvi5kIEBEbbyythx9kJJFNCDuX%2FLXii3cQSHGrl2pxF3#rd) &#127381;
+- [**2020-04-07 细数SARS-CoV-2的29种蛋白**](https://mp.weixin.qq.com/s?__biz=Mzg3OTE3NjA4Nw==&mid=2247486037&idx=1&sn=dc91bf15fb2fbcb8831169412d46b925&chksm=cf093aadf87eb3bbacddd974649a4ea0440b7d1ab980397814ac98b9389aa9f29ba87bcb7972&mpshare=1&scene=1&srcid=&sharer_sharetime=1586268022382&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApWq5n4tS%2BSxbtgy5VAowOI%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd) &#127381;
+![antibody](/pic/antibody.jpg)
+
+- [**2020-04-06 COVID-19研发动态：DNA疫苗启动临床试验，GSK合作推动抗体疗法进入2期临床试验**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992863&idx=1&sn=52e7db6539bb15b85b763be615b258fc&chksm=82e9281fb59ea109be808db5a6280811875c9f8d52322d9284dcdf9042e55c18a089c4a2d48e&mpshare=1&scene=1&srcid=&sharer_sharetime=1586223993658&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhkxvIyjn5GUK%2Bfo7Z2D5eo%3D&pass_ticket=%2BHybx1C4kfq%2FdNWQLJInSvi5kIEBEbbyythx9kJJFNCDuX%2FLXii3cQSHGrl2pxF3#rd)
 ![研发动态](/pic/dongtai.jpg)
 
-- [**2020-04-06 CDC launches studies to get more precise count of undetected Covid-19 cases**](https://www.statnews.com/2020/04/04/cdc-launches-studies-to-get-more-precise-count-of-undetected-covid-19-cases/) &#127381;
+- [**2020-04-06 CDC launches studies to get more precise count of undetected Covid-19 cases**](https://www.statnews.com/2020/04/04/cdc-launches-studies-to-get-more-precise-count-of-undetected-covid-19-cases/)
 ![undetected](/pic/undetected.jpg)
 
-- [**2020-04-05 3370例新冠病毒基因图谱新信息**](https://mp.weixin.qq.com/s?__biz=MzAwNTU3OTM5MA==&mid=2247489457&idx=1&sn=068edfb4472afd6af2d89511de90a7a2&chksm=9b1b20a0ac6ca9b60aed3f8606e2f03985c70e460815e8f57710f869463c976afce547f18576&scene=0&xtrack=1&exportkey=AgZJM7XAz%2BYLS8taamZHOCY%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd) &#127381;
+- [**2020-04-05 3370例新冠病毒基因图谱新信息**](https://mp.weixin.qq.com/s?__biz=MzAwNTU3OTM5MA==&mid=2247489457&idx=1&sn=068edfb4472afd6af2d89511de90a7a2&chksm=9b1b20a0ac6ca9b60aed3f8606e2f03985c70e460815e8f57710f869463c976afce547f18576&scene=0&xtrack=1&exportkey=AgZJM7XAz%2BYLS8taamZHOCY%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd)
 ![3370](/pic/3370.jpg)
 
-- [**2020-04-05 Cell发表预防COVID-19新方法：用重组ACE2蛋白中和病毒**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488848&idx=1&sn=930ec64c3fa60b07a6884036e326821d&chksm=fb882813ccffa105779886e9128486d48aa6c1cad214e3311edd7a42f0e69b6df0c8070721f1&mpshare=1&scene=1&srcid=&sharer_sharetime=1586101085012&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=Akmop9g9cy9omb89dZceUVc%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd) &#127381;
+- [**2020-04-05 Cell发表预防COVID-19新方法：用重组ACE2蛋白中和病毒**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488848&idx=1&sn=930ec64c3fa60b07a6884036e326821d&chksm=fb882813ccffa105779886e9128486d48aa6c1cad214e3311edd7a42f0e69b6df0c8070721f1&mpshare=1&scene=1&srcid=&sharer_sharetime=1586101085012&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=Akmop9g9cy9omb89dZceUVc%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd)
 ![ACE2](/pic/ace2.jpg)
 
-- [**2020-04-04 摩根斯坦利模型揭示美国新冠肺炎疫情的完整周期**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488488&idx=2&sn=37e88698364dbbed4646fd6a1e192e44&chksm=f98019adcef790bbb4eba6ed5e00898fe3aaaad9c16edc53c1ecb05d3a654e9b8167b008cbf2&mpshare=1&scene=1&srcid=&sharer_sharetime=1586099794011&sharer_shareid=23d35a635a34cae4802d51ab874e937d&exportkey=AruumQxBD6r%2FmwA%2FlCab7es%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd) &#127381;
+- [**2020-04-04 摩根斯坦利模型揭示美国新冠肺炎疫情的完整周期**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488488&idx=2&sn=37e88698364dbbed4646fd6a1e192e44&chksm=f98019adcef790bbb4eba6ed5e00898fe3aaaad9c16edc53c1ecb05d3a654e9b8167b008cbf2&mpshare=1&scene=1&srcid=&sharer_sharetime=1586099794011&sharer_shareid=23d35a635a34cae4802d51ab874e937d&exportkey=AruumQxBD6r%2FmwA%2FlCab7es%3D&pass_ticket=5K2ZRKaQOEPLCyMglaCTl9QJTZGUpOwZywBq4rZnPjTKyvFKdnExJZY0fmkQekEI#rd)
 ![完整周期](/pic/cycle.jpg)
 
 - [**2020-04-03 病毒所石正丽等发现，14.7%的猫已感染新冠病毒！防控措施应做出改变**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268833&idx=1&sn=8715317a6880fca32b14d9995f3f89f5&chksm=8bb7c45fbcc04d492f06de65921253efe659c5c5461dca710833ff7c866706ef6099ab8e5da2&mpshare=1&scene=1&srcid=&sharer_sharetime=1585971940623&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj9hmnvS7gbzAe7HIq2k%2BDQ%3D&pass_ticket=eWvwUin4xExXuTRzPaREucuFHTu4NL6ZUVTfDVaGQg87cKpMxDVnMGKgSobcBzCD#rd)
