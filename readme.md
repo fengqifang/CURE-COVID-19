@@ -151,6 +151,9 @@
  
 ## 氯喹专题
 
+- [**2020-04-06 Trump’s Aggressive Advocacy of Malaria Drug for Treating Coronavirus Divides Medical Community**](https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html) &#127381;
+![advocacy](/pic/advocacy.jpg)
+
 - [**2020-04-06 LA doctor seeing success with hydroxychloroquine to treat COVID-19**](https://abc7.com/coronavirus-drug-covid-19-malaria-hydroxychloroquine/6079864/)  &#127381;
 ![LA](/pic/la.jpg)
 
