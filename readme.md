@@ -151,6 +151,9 @@
  
 ## 氯喹专题
 
+- [**2020-04-06 LA doctor seeing success with hydroxychloroquine to treat COVID-19**](https://abc7.com/coronavirus-drug-covid-19-malaria-hydroxychloroquine/6079864/)  &#127381;
+![LA](/pic/la.jpg)
+
 - [**2020-04-01 Malaria Drug Helps Virus Patients Improve, in Small Study**](https://www.nytimes.com/2020/04/01/health/hydroxychloroquine-coronavirus-malaria.html)
 ![malaria](/pic/malaria.jpg)
 
@@ -292,6 +295,9 @@
  ***
  
 ## 研究进展
+
+- [**2020-04-06 COVID-19研发动态：DNA疫苗启动临床试验，GSK合作推动抗体疗法进入2期临床试验**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992863&idx=1&sn=52e7db6539bb15b85b763be615b258fc&chksm=82e9281fb59ea109be808db5a6280811875c9f8d52322d9284dcdf9042e55c18a089c4a2d48e&mpshare=1&scene=1&srcid=&sharer_sharetime=1586223993658&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhkxvIyjn5GUK%2Bfo7Z2D5eo%3D&pass_ticket=%2BHybx1C4kfq%2FdNWQLJInSvi5kIEBEbbyythx9kJJFNCDuX%2FLXii3cQSHGrl2pxF3#rd) &#127381;
+![研发动态](/pic/dongtai.jpg)
 
 - [**2020-04-06 CDC launches studies to get more precise count of undetected Covid-19 cases**](https://www.statnews.com/2020/04/04/cdc-launches-studies-to-get-more-precise-count-of-undetected-covid-19-cases/) &#127381;
 ![undetected](/pic/undetected.jpg)
