@@ -193,6 +193,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-04-07 与瑞德西韦互补，新型广谱抗病毒药有望助力COVID-19治疗**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488865&idx=1&sn=521cf8f37995b0984c254df755d6670b&chksm=fb882822ccffa134b47a50ffc671564a15fa357fdedba84f76b9fd42be9a67675bff56d7ad9f&mpshare=1&scene=1&srcid=&sharer_sharetime=1586274806276&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=Ak9%2BSESpmh6tkJHqT4UWd80%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd) &#127381; 
+![broadspectrum2](/pic/broadspectrum2.jpg)
+
 - [**2020-04-07An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice**](https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883) &#127381; 
 ![broadspectrum](/pic/broadspectrum.jpg)
 
