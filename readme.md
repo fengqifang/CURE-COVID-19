@@ -440,7 +440,7 @@
  
 ## 其他
 
-- [**2020-04-06 Understanding SARS-CoV-2 and the drugs that might lessen its power**] (https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power?fsrc=scn/tw/te/bl/ed/anatomyofakillerunderstandingsarscov2andthedrugsthatmightlessenitspowerbriefing) &#127381;
+- [**2020-04-06 Understanding SARS-CoV-2 and the drugs that might lessen its power**](https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power?fsrc=scn/tw/te/bl/ed/anatomyofakillerunderstandingsarscov2andthedrugsthatmightlessenitspowerbriefing) &#127381;
 ![lessen](/pic/lessen.jpg)
 
 - [**2020-04-04 7 Ways to Explore the Math of the Coronavirus Using The New York Times**](https://www.nytimes.com/2020/04/02/learning/7-ways-to-explore-the-math-of-the-coronavirus-using-the-new-york-times.html) &#127381;
