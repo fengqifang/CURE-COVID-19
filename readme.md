@@ -156,8 +156,10 @@
  ***
  
 ## 氯喹专题
+- [**2020-04-08 Malaria drug used to treat coronavirus patients at Oregon veterans home**](Malaria drug used to treat coronavirus patients at Oregon veterans home) &#127381;
+![oregon](/pic/oregon.jpg)
 
-- [**2020-04-07 Trials of drugs to prevent coronavirus infection begin in health care workers**](https://www.sciencemag.org/news/2020/04/trials-drugs-prevent-coronavirus-infection-begin-health-care-workers) &#127381;
+- [**2020-04-07 Trials of drugs to prevent coronavirus infection begin in health care workers**](https://www.sciencemag.org/news/2020/04/trials-drugs-prevent-coronavirus-infection-begin-health-care-workers)
 ![prevent](/pic/prevent.jpg)
 
 - [**2020-04-06 Trump’s Aggressive Advocacy of Malaria Drug for Treating Coronavirus Divides Medical Community**](https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html)
