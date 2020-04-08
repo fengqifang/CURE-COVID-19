@@ -102,6 +102,9 @@
  
 ## 治疗方案
 
+- [**2020-04-07 首个新冠肺炎暂行指导发布，来自20个国家80位临床专家共同完成**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488541&idx=1&sn=211f21f4376d29e5d5f30bf37ce2c58b&chksm=f9801e58cef7974e6d162b7012b982c37babca65aaf8056a155025dfccafeaa5b4f22cb310b5&mpshare=1&scene=1&srcid=&sharer_sharetime=1586308875251&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Au2bjThOzO54A94oMQbpF0Q%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd) &#127381;
+![暂行指导](/pic/guidance.jpg)
+
 - [**2020-04-03 治疗COVID-19，NK细胞疗法人体试验获FDA批准**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488824&idx=1&sn=f88af90b4fa92570f37ab5db8c45b719&chksm=fb88287bccffa16d5861e4171b5e5b99c78515ab2583407dc45f2e1d8be47a23331493448005&mpshare=1&scene=1&srcid=&sharer_sharetime=1585922680577&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=Al08flfesyTSS45%2FpiGYFwg%3D&pass_ticket=eWvwUin4xExXuTRzPaREucuFHTu4NL6ZUVTfDVaGQg87cKpMxDVnMGKgSobcBzCD#rd)
 ![NKcell](/pic/nkcell.jpg)
 
@@ -459,10 +462,13 @@
  
 ## 其他
 
-- [**2020-04-06 Understanding SARS-CoV-2 and the drugs that might lessen its power**](https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power?fsrc=scn/tw/te/bl/ed/anatomyofakillerunderstandingsarscov2andthedrugsthatmightlessenitspowerbriefing) &#127381;
+- [**2020-04-07 'The impossible has already happened': what coronavirus can teach us about hope**](https://www.theguardian.com/world/2020/apr/07/what-coronavirus-can-teach-us-about-hope-rebecca-solnit) &#127381;
+![guardian](/pic/guardian.jpg)
+
+- [**2020-04-06 Understanding SARS-CoV-2 and the drugs that might lessen its power**](https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power?fsrc=scn/tw/te/bl/ed/anatomyofakillerunderstandingsarscov2andthedrugsthatmightlessenitspowerbriefing)
 ![lessen](/pic/lessen.jpg)
 
-- [**2020-04-04 7 Ways to Explore the Math of the Coronavirus Using The New York Times**](https://www.nytimes.com/2020/04/02/learning/7-ways-to-explore-the-math-of-the-coronavirus-using-the-new-york-times.html) &#127381;
+- [**2020-04-04 7 Ways to Explore the Math of the Coronavirus Using The New York Times**](https://www.nytimes.com/2020/04/02/learning/7-ways-to-explore-the-math-of-the-coronavirus-using-the-new-york-times.html) 
 ![7ways](/pic/7ways.png)
 
 - [**Thinking Globally, Acting Locally — The U.S. Response to Covid-19**](https://www.nejm.org/doi/pdf/10.1056/NEJMp2006740?articleTools=true)
