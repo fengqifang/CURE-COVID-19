@@ -315,7 +315,7 @@
 ## 研究进展
 
 - [**2020-04-07 A Virologist Explains Why COVID-19 Coronavirus Isn’t Really Dangerously Lingering On Surfaces For Weeks**](https://www.forbes.com/sites/coronavirusfrontlines/2020/04/07/a-virologist-explains-why-hyped-studies-tell-us-very-little-about-the-likelihood-of-covid-19-coronavirus-transmission/#596c53a11abe) &#127381;
-[!surface](/pic/surface.jpg)
+![surface](/pic/surface.jpg)
 
 
 - [**2020-04-07 细数SARS-CoV-2的29种蛋白**](https://mp.weixin.qq.com/s?__biz=Mzg3OTE3NjA4Nw==&mid=2247486037&idx=1&sn=dc91bf15fb2fbcb8831169412d46b925&chksm=cf093aadf87eb3bbacddd974649a4ea0440b7d1ab980397814ac98b9389aa9f29ba87bcb7972&mpshare=1&scene=1&srcid=&sharer_sharetime=1586268022382&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApWq5n4tS%2BSxbtgy5VAowOI%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd) &#127381;
