@@ -102,6 +102,9 @@
  
 ## 治疗方案
 
+- [**2020-04-08 Largest Statistically Significant Study by 6,200 Multi-Country Physicians on COVID-19 Uncovers Treatment Patterns and Puts Pandemic in Context**](https://www.sermo.com/press-releases/largest-statistically-significant-study-by-6200-multi-country-physicians-on-covid-19-uncovers-treatment-patterns-and-puts-pandemic-in-context/) &#127381;
+![largest](/pic/largest.jpg)
+
 - [**2020-04-08 恢复期血浆治疗重型 COVID-19 患者：3天内临床症状显著改善**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488887&idx=1&sn=edb00ee9eaf334dfde836f6866f65bb9&chksm=fb882834ccffa122dc5a07b7f26154cc3f7c5c2748e92883a583edec7f84e750f4a0e2e76337&mpshare=1&scene=1&srcid=&sharer_sharetime=1586359866671&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=AtydvbzROAHC3qqatUBS%2FKM%3D&pass_ticket=AcBErE63nNJWZkWwt1vjKjUVO4XFB2liYn4SHRvHGZQFHAUyXp488%2FvPLxvmfRbe#rd) &#127381;
 ![血浆治疗](/pic/plasma.jpg)
 
