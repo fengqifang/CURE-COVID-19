@@ -202,10 +202,10 @@
 - [**2020-04-07 与瑞德西韦互补，新型广谱抗病毒药有望助力COVID-19治疗**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488865&idx=1&sn=521cf8f37995b0984c254df755d6670b&chksm=fb882822ccffa134b47a50ffc671564a15fa357fdedba84f76b9fd42be9a67675bff56d7ad9f&mpshare=1&scene=1&srcid=&sharer_sharetime=1586274806276&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=Ak9%2BSESpmh6tkJHqT4UWd80%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd) &#127381; 
 ![broadspectrum2](/pic/broadspectrum2.jpg)
 
-- [**2020-04-07An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice**](https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883) &#127381; 
+- [**2020-04-07 An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice**](https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883) &#127381; 
 ![broadspectrum](/pic/broadspectrum.jpg)
 
-- [**有效抑制多种冠状病毒，它会是我们期盼的“万能药”吗？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498202&idx=1&sn=2ca4039e40eb2e0faa52abc385c8d711&chksm=ec1d5a89db6ad39f0611316c9455520b845a036228ecc57bd4d5597c8d3e2bee1b2029122e3e&mpshare=1&scene=1&srcid=&sharer_sharetime=1586236686401&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlOeLv5F3uIVqTYeBTh%2BPWA%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd) &#127381;
+- [**2020-04-07 有效抑制多种冠状病毒，它会是我们期盼的“万能药”吗？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498202&idx=1&sn=2ca4039e40eb2e0faa52abc385c8d711&chksm=ec1d5a89db6ad39f0611316c9455520b845a036228ecc57bd4d5597c8d3e2bee1b2029122e3e&mpshare=1&scene=1&srcid=&sharer_sharetime=1586236686401&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlOeLv5F3uIVqTYeBTh%2BPWA%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd) &#127381;
 ![万能药](/pic/multiple.jpg)
 
 - [**2020-04-05 ANTI-PARASITE DRUG USED SINCE 1980S MAY HELP STOP CORONAVIRUS, NEW STUDY SAYS**](https://www.newsweek.com/anti-parasite-drug-used-since-1980s-may-help-stop-coronavirus-new-study-says-1496083)
@@ -314,7 +314,7 @@
  
 ## 研究进展
 
-- [**2020-04-07 A Virologist Explains Why COVID-19 Coronavirus Isn’t Really Dangerously Lingering On Surfaces For Weeks**](https://www.forbes.com/sites/coronavirusfrontlines/2020/04/07/a-virologist-explains-why-hyped-studies-tell-us-very-little-about-the-likelihood-of-covid-19-coronavirus-transmission/#702668e81abe)https://www.forbes.com/sites/coronavirusfrontlines/2020/04/07/a-virologist-explains-why-hyped-studies-tell-us-very-little-about-the-likelihood-of-covid-19-coronavirus-transmission/#702668e81abe)  &#127381;
+- [**2020-04-07 A Virologist Explains Why COVID-19 Coronavirus Isn’t Really Dangerously Lingering On Surfaces For Weeks**](https://www.forbes.com/sites/coronavirusfrontlines/2020/04/07/a-virologist-explains-why-hyped-studies-tell-us-very-little-about-the-likelihood-of-covid-19-coronavirus-transmission/#596c53a11abe) &#127381;
 [!surface](/pic/surface.jpg)
 
 
