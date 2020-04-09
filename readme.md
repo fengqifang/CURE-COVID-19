@@ -470,6 +470,12 @@
  
 ## 其他
 
+- [**2020-04-09 We Need a Covid-19 Vaccine—Let’s Get It Right the First Time**](https://www.wired.com/story/we-need-a-covid-19-vaccine-lets-get-it-right-the-first-time/) &#127381;
+![vaccine](/pic/vaccine.jpg)
+
+- [**2020-04-09 When will life return to normal? Expert says US testing is too far behind to know, expects second wave of cases**](https://www.usatoday.com/story/news/health/2020/04/08/coronavirus-cases-how-long-social-distancing-marc-lipsitch/2963430001/) &#127381;
+![normal](/pic/normal.png)
+
 - [**2020-04-09 Coronavirus will test one U.S city's finances more than the others**](https://finance.yahoo.com/news/coronavirus-us-cities-131855790.html) &#127381;
 ![finance](/pic/finance.jpg)
 
