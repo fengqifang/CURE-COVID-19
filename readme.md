@@ -159,6 +159,7 @@
  ***
  
 ## 氯喹专题
+
 - [**2020-04-08 Malaria drug used to treat coronavirus patients at Oregon veterans home**](Malaria drug used to treat coronavirus patients at Oregon veterans home) &#127381;
 ![oregon](/pic/oregon.jpg)
 
@@ -207,7 +208,10 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-04-07 与瑞德西韦互补，新型广谱抗病毒药有望助力COVID-19治疗**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488865&idx=1&sn=521cf8f37995b0984c254df755d6670b&chksm=fb882822ccffa134b47a50ffc671564a15fa357fdedba84f76b9fd42be9a67675bff56d7ad9f&mpshare=1&scene=1&srcid=&sharer_sharetime=1586274806276&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=Ak9%2BSESpmh6tkJHqT4UWd80%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd) &#127381; 
+- [**2020-04-09 瑞德西韦两项临床研究样本量扩充至4000例意味着什么**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660919303&idx=3&sn=760f3db6b0ef302825a0b32a67d615af&chksm=bdd842a08aafcbb65498416eb9ad50d0b5d5f6621b05c680de2920fa403083f1e4b47b797516&mpshare=1&scene=1&srcid=&sharer_sharetime=1586433945255&sharer_shareid=6cca3844077dcf436e21c18b4e0fff82&exportkey=AvqDovmFTvjSAxqJ8Js6%2F40%3D&pass_ticket=emDWjp7kyrzBtRhQZJHQXK%2BejFPhfjRLeczVzCYEcyWYnUdRVjqdbt0j86BPSuHt#rd) &#127381;
+![4000](/pic/4000.jpg)
+
+- [**2020-04-07 与瑞德西韦互补，新型广谱抗病毒药有望助力COVID-19治疗**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488865&idx=1&sn=521cf8f37995b0984c254df755d6670b&chksm=fb882822ccffa134b47a50ffc671564a15fa357fdedba84f76b9fd42be9a67675bff56d7ad9f&mpshare=1&scene=1&srcid=&sharer_sharetime=1586274806276&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=Ak9%2BSESpmh6tkJHqT4UWd80%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd)  
 ![broadspectrum2](/pic/broadspectrum2.jpg)
 
 - [**2020-04-07 An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice**](https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883) &#127381; 
