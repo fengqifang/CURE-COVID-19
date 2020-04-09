@@ -470,7 +470,10 @@
  
 ## 其他
 
-- [**2020-04-08 Nations with Mandatory TB Vaccines Show Fewer Coronavirus Deaths**](https://www.bloomberg.com/news/articles/2020-04-02/fewer-coronavirus-deaths-seen-in-countries-that-mandate-tb-vaccine?from=timeline&isappinstalled=0) &#127381;
+- [**2020-04-09 Coronavirus will test one U.S city's finances more than the others**](https://finance.yahoo.com/news/coronavirus-us-cities-131855790.html) &#127381;
+![finance](/pic/finance.jpg)
+
+- [**2020-04-08 Nations with Mandatory TB Vaccines Show Fewer Coronavirus Deaths**](https://www.bloomberg.com/news/articles/2020-04-02/fewer-coronavirus-deaths-seen-in-countries-that-mandate-tb-vaccine?from=timeline&isappinstalled=0)
 ![TB](/pic/tb.jpg)
 
 - [**2020-04-07 'The impossible has already happened': what coronavirus can teach us about hope**](https://www.theguardian.com/world/2020/apr/07/what-coronavirus-can-teach-us-about-hope-rebecca-solnit)
