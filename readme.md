@@ -332,7 +332,10 @@
  
 ## 研究进展
 
-- [**2020-04-09 Phylogenetic network analysis of SARS-CoV-2 genomes**](https://www.pnas.org/content/early/2020/04/07/2004999117) &#127381;
+- [**2020-04-10 专家解密三种“无症状感染者”产生原因：一部分人已经适应病毒**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268880&idx=1&sn=9bd21fa573709ab708ffc60f10cb5d0f&chksm=8bb7c5aebcc04cb8cb81afa4734556077ab5f0605a335b7d511876e6ebd0b23d0e0e772743eb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586529860912&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgiAU7hT9%2BJanl%2B4vTnm0%2Bo%3D&pass_ticket=zrcI%2BpnVB5VJ5tOVbl4XS%2BEkflkDHzv1gamdWIiidyfwoAobXf6MJ74CIoFduRBj#rd) &#127381;
+![适应病毒](/pic/adapt.jpg)
+
+- [**2020-04-09 Phylogenetic network analysis of SARS-CoV-2 genomes**](https://www.pnas.org/content/early/2020/04/07/2004999117)
 ![pnas](/pic/pnas.jpg)
 
 - [**2020-04-09 过去8天中国新冠肺炎病例中68％为无症状感染者，其中近半数来自湖北**](https://search.weixin.qq.com/k/QFNVWFVDaVRfQVRUSlpRakJXSEJdakFQW1ZvRVVSa1ZQLVUmUiIpUUQ?fontRatio=1&searchid=292248829095747337&scene=21&channel_id=100&pass_ticket=ZFaGpVOASiyvTJCr9AWHWTgg3DLPCM2sxVnAOaxWjHYNZWxFVsIPatZ%2FiHb%2FZioy) &#127381;
