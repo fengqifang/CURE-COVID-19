@@ -102,6 +102,9 @@
  
 ## 治疗方案
 
+- [**2020-04-10 Israeli COVID-19 treatment shows 100% survival rate - preliminary data**](https://www.jpost.com/HEALTH-SCIENCE/Israeli-COVID-19-treatment-shows-100-percent-survival-rate-preliminary-data-624058) &#127381;
+![israel](/pic/israel.jpg)
+
 - [**2020-04-08 Largest Statistically Significant Study by 6,200 Multi-Country Physicians on COVID-19 Uncovers Treatment Patterns and Puts Pandemic in Context**](https://www.sermo.com/press-releases/largest-statistically-significant-study-by-6200-multi-country-physicians-on-covid-19-uncovers-treatment-patterns-and-puts-pandemic-in-context/)
 ![largest](/pic/largest.jpg)
 
@@ -483,16 +486,19 @@
  
 ## 其他
 
-- [**2020-04-09 After coronavirus — will America be a roaring giant or crying baby?**](https://www.foxnews.com/opinion/coronavirus-after-us-roaring-giant-crybaby-victor-davis-hanson) &#127381;
-![roaring]()
+- [**2020-04-10 Early testing helps Canada's British Columbia fight coronavirus, cases elsewhere soar**](https://www.reuters.com/article/us-health-coronavirus-canada-british-col/early-testing-helps-canadas-british-columbia-fight-coronavirus-cases-elsewhere-soar-idUSKCN21R3DI) &#127381;
+![BC](/pic/bc.jpg)
 
-- [**2020-04-09 We Need a Covid-19 Vaccine—Let’s Get It Right the First Time**](https://www.wired.com/story/we-need-a-covid-19-vaccine-lets-get-it-right-the-first-time/) &#127381;
+- [**2020-04-09 After coronavirus — will America be a roaring giant or crying baby?**](https://www.foxnews.com/opinion/coronavirus-after-us-roaring-giant-crybaby-victor-davis-hanson) 
+![roaring](/pic/roaring.jpg)
+
+- [**2020-04-09 We Need a Covid-19 Vaccine—Let’s Get It Right the First Time**](https://www.wired.com/story/we-need-a-covid-19-vaccine-lets-get-it-right-the-first-time/)
 ![vaccine](/pic/vaccine.jpg)
 
-- [**2020-04-09 When will life return to normal? Expert says US testing is too far behind to know, expects second wave of cases**](https://www.usatoday.com/story/news/health/2020/04/08/coronavirus-cases-how-long-social-distancing-marc-lipsitch/2963430001/) &#127381;
+- [**2020-04-09 When will life return to normal? Expert says US testing is too far behind to know, expects second wave of cases**](https://www.usatoday.com/story/news/health/2020/04/08/coronavirus-cases-how-long-social-distancing-marc-lipsitch/2963430001/) 
 ![normal](/pic/normal.png)
 
-- [**2020-04-09 Coronavirus will test one U.S city's finances more than the others**](https://finance.yahoo.com/news/coronavirus-us-cities-131855790.html) &#127381;
+- [**2020-04-09 Coronavirus will test one U.S city's finances more than the others**](https://finance.yahoo.com/news/coronavirus-us-cities-131855790.html)
 ![finance](/pic/finance.jpg)
 
 - [**2020-04-08 Nations with Mandatory TB Vaccines Show Fewer Coronavirus Deaths**](https://www.bloomberg.com/news/articles/2020-04-02/fewer-coronavirus-deaths-seen-in-countries-that-mandate-tb-vaccine?from=timeline&isappinstalled=0)
