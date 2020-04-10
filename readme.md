@@ -163,7 +163,7 @@
 - [**2020-04-09 国际新冠肺炎工作组唯一推荐用药，却被美国心脏病三大学会联合发文警告**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488573&idx=1&sn=a6119d2fb2a232e215a3ba7d78f10899&chksm=f9801e78cef7976eb54923cf5968e7480c332419e9d396fc9777be18b31c71503ec808bc4492&mpshare=1&scene=1&srcid=&sharer_sharetime=1586479323050&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao%2BAVTmZo%2FUDW6%2BwtrWsdow%3D&pass_ticket=ZFaGpVOASiyvTJCr9AWHWTgg3DLPCM2sxVnAOaxWjHYNZWxFVsIPatZ%2FiHb%2FZioy#rd) &#127381;
 ![aha](/pic/aha.jpg)
  
-- [**2020-04-08 Malaria drug used to treat coronavirus patients at Oregon veterans home**](Malaria drug used to treat coronavirus patients at Oregon veterans home)
+- [**2020-04-08 Malaria drug used to treat coronavirus patients at Oregon veterans home**](https://www.oregonlive.com/coronavirus/2020/04/malaria-drug-used-to-treat-coronavirus-patients-at-oregon-veterans-home.html)
 ![oregon](/pic/oregon.jpg)
 
 - [**2020-04-07 Trials of drugs to prevent coronavirus infection begin in health care workers**](https://www.sciencemag.org/news/2020/04/trials-drugs-prevent-coronavirus-infection-begin-health-care-workers)
