@@ -102,10 +102,10 @@
  
 ## 治疗方案
 
-- [**2020-04-08 Largest Statistically Significant Study by 6,200 Multi-Country Physicians on COVID-19 Uncovers Treatment Patterns and Puts Pandemic in Context**](https://www.sermo.com/press-releases/largest-statistically-significant-study-by-6200-multi-country-physicians-on-covid-19-uncovers-treatment-patterns-and-puts-pandemic-in-context/) &#127381;
+- [**2020-04-08 Largest Statistically Significant Study by 6,200 Multi-Country Physicians on COVID-19 Uncovers Treatment Patterns and Puts Pandemic in Context**](https://www.sermo.com/press-releases/largest-statistically-significant-study-by-6200-multi-country-physicians-on-covid-19-uncovers-treatment-patterns-and-puts-pandemic-in-context/)
 ![largest](/pic/largest.jpg)
 
-- [**2020-04-08 恢复期血浆治疗重型 COVID-19 患者：3天内临床症状显著改善**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488887&idx=1&sn=edb00ee9eaf334dfde836f6866f65bb9&chksm=fb882834ccffa122dc5a07b7f26154cc3f7c5c2748e92883a583edec7f84e750f4a0e2e76337&mpshare=1&scene=1&srcid=&sharer_sharetime=1586359866671&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=AtydvbzROAHC3qqatUBS%2FKM%3D&pass_ticket=AcBErE63nNJWZkWwt1vjKjUVO4XFB2liYn4SHRvHGZQFHAUyXp488%2FvPLxvmfRbe#rd) &#127381;
+- [**2020-04-08 恢复期血浆治疗重型 COVID-19 患者：3天内临床症状显著改善**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488887&idx=1&sn=edb00ee9eaf334dfde836f6866f65bb9&chksm=fb882834ccffa122dc5a07b7f26154cc3f7c5c2748e92883a583edec7f84e750f4a0e2e76337&mpshare=1&scene=1&srcid=&sharer_sharetime=1586359866671&sharer_shareid=c5f5665a79f5ff6af10252303d5b126f&exportkey=AtydvbzROAHC3qqatUBS%2FKM%3D&pass_ticket=AcBErE63nNJWZkWwt1vjKjUVO4XFB2liYn4SHRvHGZQFHAUyXp488%2FvPLxvmfRbe#rd)
 ![血浆治疗](/pic/plasma.jpg)
 
 - [**2020-04-07 首个新冠肺炎暂行指导发布，来自20个国家80位临床专家共同完成**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488541&idx=1&sn=211f21f4376d29e5d5f30bf37ce2c58b&chksm=f9801e58cef7974e6d162b7012b982c37babca65aaf8056a155025dfccafeaa5b4f22cb310b5&mpshare=1&scene=1&srcid=&sharer_sharetime=1586308875251&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Au2bjThOzO54A94oMQbpF0Q%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd)
@@ -160,7 +160,10 @@
  
 ## 氯喹专题
 
-- [**2020-04-08 Malaria drug used to treat coronavirus patients at Oregon veterans home**](Malaria drug used to treat coronavirus patients at Oregon veterans home) &#127381;
+- [**2020-04-09 国际新冠肺炎工作组唯一推荐用药，却被美国心脏病三大学会联合发文警告**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488573&idx=1&sn=a6119d2fb2a232e215a3ba7d78f10899&chksm=f9801e78cef7976eb54923cf5968e7480c332419e9d396fc9777be18b31c71503ec808bc4492&mpshare=1&scene=1&srcid=&sharer_sharetime=1586479323050&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao%2BAVTmZo%2FUDW6%2BwtrWsdow%3D&pass_ticket=ZFaGpVOASiyvTJCr9AWHWTgg3DLPCM2sxVnAOaxWjHYNZWxFVsIPatZ%2FiHb%2FZioy#rd) &#127381;
+![aha](/pic/aha.jpg)
+ 
+- [**2020-04-08 Malaria drug used to treat coronavirus patients at Oregon veterans home**](Malaria drug used to treat coronavirus patients at Oregon veterans home)
 ![oregon](/pic/oregon.jpg)
 
 - [**2020-04-07 Trials of drugs to prevent coronavirus infection begin in health care workers**](https://www.sciencemag.org/news/2020/04/trials-drugs-prevent-coronavirus-infection-begin-health-care-workers)
@@ -326,11 +329,17 @@
  
 ## 研究进展
 
-- [**2020-04-07 A Virologist Explains Why COVID-19 Coronavirus Isn’t Really Dangerously Lingering On Surfaces For Weeks**](https://www.forbes.com/sites/coronavirusfrontlines/2020/04/07/a-virologist-explains-why-hyped-studies-tell-us-very-little-about-the-likelihood-of-covid-19-coronavirus-transmission/#596c53a11abe) &#127381;
+- [**2020-04-09 Phylogenetic network analysis of SARS-CoV-2 genomes**](https://www.pnas.org/content/early/2020/04/07/2004999117) &#127381;
+![pnas](/pic/pnas.jpg)
+
+- [**2020-04-09 过去8天中国新冠肺炎病例中68％为无症状感染者，其中近半数来自湖北**](https://search.weixin.qq.com/k/QFNVWFVDaVRfQVRUSlpRakJXSEJdakFQW1ZvRVVSa1ZQLVUmUiIpUUQ?fontRatio=1&searchid=292248829095747337&scene=21&channel_id=100&pass_ticket=ZFaGpVOASiyvTJCr9AWHWTgg3DLPCM2sxVnAOaxWjHYNZWxFVsIPatZ%2FiHb%2FZioy) &#127381;
+![hubei](/pic/hubei.jpg)
+
+- [**2020-04-07 A Virologist Explains Why COVID-19 Coronavirus Isn’t Really Dangerously Lingering On Surfaces For Weeks**](https://www.forbes.com/sites/coronavirusfrontlines/2020/04/07/a-virologist-explains-why-hyped-studies-tell-us-very-little-about-the-likelihood-of-covid-19-coronavirus-transmission/#596c53a11abe)
 ![surface](/pic/surface.jpg)
 
 
-- [**2020-04-07 细数SARS-CoV-2的29种蛋白**](https://mp.weixin.qq.com/s?__biz=Mzg3OTE3NjA4Nw==&mid=2247486037&idx=1&sn=dc91bf15fb2fbcb8831169412d46b925&chksm=cf093aadf87eb3bbacddd974649a4ea0440b7d1ab980397814ac98b9389aa9f29ba87bcb7972&mpshare=1&scene=1&srcid=&sharer_sharetime=1586268022382&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApWq5n4tS%2BSxbtgy5VAowOI%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd) &#127381;
+- [**2020-04-07 细数SARS-CoV-2的29种蛋白**](https://mp.weixin.qq.com/s?__biz=Mzg3OTE3NjA4Nw==&mid=2247486037&idx=1&sn=dc91bf15fb2fbcb8831169412d46b925&chksm=cf093aadf87eb3bbacddd974649a4ea0440b7d1ab980397814ac98b9389aa9f29ba87bcb7972&mpshare=1&scene=1&srcid=&sharer_sharetime=1586268022382&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApWq5n4tS%2BSxbtgy5VAowOI%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd)
 ![antibody](/pic/antibody.jpg)
 
 - [**2020-04-06 COVID-19研发动态：DNA疫苗启动临床试验，GSK合作推动抗体疗法进入2期临床试验**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992863&idx=1&sn=52e7db6539bb15b85b763be615b258fc&chksm=82e9281fb59ea109be808db5a6280811875c9f8d52322d9284dcdf9042e55c18a089c4a2d48e&mpshare=1&scene=1&srcid=&sharer_sharetime=1586223993658&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhkxvIyjn5GUK%2Bfo7Z2D5eo%3D&pass_ticket=%2BHybx1C4kfq%2FdNWQLJInSvi5kIEBEbbyythx9kJJFNCDuX%2FLXii3cQSHGrl2pxF3#rd)
@@ -473,6 +482,9 @@
  ***
  
 ## 其他
+
+- [**2020-04-09 After coronavirus — will America be a roaring giant or crying baby?**](https://www.foxnews.com/opinion/coronavirus-after-us-roaring-giant-crybaby-victor-davis-hanson) &#127381;
+![roaring]()
 
 - [**2020-04-09 We Need a Covid-19 Vaccine—Let’s Get It Right the First Time**](https://www.wired.com/story/we-need-a-covid-19-vaccine-lets-get-it-right-the-first-time/) &#127381;
 ![vaccine](/pic/vaccine.jpg)
