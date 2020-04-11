@@ -109,7 +109,7 @@
 ![NEJM2](/pic/NEJM2.jpg)
 
 - [**2020-04-10 Compassionate Use of Remdesivir for Patients with Severe Covid-19**](https://www.nejm.org/doi/full/10.1056/NEJMoa2007016?from=timeline&isappinstalled=0) &#127381;
-![NEJM3](/pic/NEJM3jpg)
+![NEJM3](/pic/NEJM3.jpg)
 
 - [**2020-04-10 Israeli COVID-19 treatment shows 100% survival rate - preliminary data**](https://www.jpost.com/HEALTH-SCIENCE/Israeli-COVID-19-treatment-shows-100-percent-survival-rate-preliminary-data-624058) &#127381;
 ![israel](/pic/israel.jpg)
@@ -172,7 +172,7 @@
  
 ## 氯喹专题
 
-- [**2020-04-09 国际新冠肺炎工作组唯一推荐用药，却被美国心脏病三大学会联合发文警告**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488573&idx=1&sn=a6119d2fb2a232e215a3ba7d78f10899&chksm=f9801e78cef7976eb54923cf5968e7480c332419e9d396fc9777be18b31c71503ec808bc4492&mpshare=1&scene=1&srcid=&sharer_sharetime=1586479323050&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao%2BAVTmZo%2FUDW6%2BwtrWsdow%3D&pass_ticket=ZFaGpVOASiyvTJCr9AWHWTgg3DLPCM2sxVnAOaxWjHYNZWxFVsIPatZ%2FiHb%2FZioy#rd) &#127381;
+- [**2020-04-09 国际新冠肺炎工作组唯一推荐用药，却被美国心脏病三大学会联合发文警告**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488573&idx=1&sn=a6119d2fb2a232e215a3ba7d78f10899&chksm=f9801e78cef7976eb54923cf5968e7480c332419e9d396fc9777be18b31c71503ec808bc4492&mpshare=1&scene=1&srcid=&sharer_sharetime=1586479323050&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao%2BAVTmZo%2FUDW6%2BwtrWsdow%3D&pass_ticket=ZFaGpVOASiyvTJCr9AWHWTgg3DLPCM2sxVnAOaxWjHYNZWxFVsIPatZ%2FiHb%2FZioy#rd)
 ![aha](/pic/aha.jpg)
  
 - [**2020-04-08 Malaria drug used to treat coronavirus patients at Oregon veterans home**](https://www.oregonlive.com/coronavirus/2020/04/malaria-drug-used-to-treat-coronavirus-patients-at-oregon-veterans-home.html)
@@ -223,7 +223,7 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-04-09 瑞德西韦两项临床研究样本量扩充至4000例意味着什么**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660919303&idx=3&sn=760f3db6b0ef302825a0b32a67d615af&chksm=bdd842a08aafcbb65498416eb9ad50d0b5d5f6621b05c680de2920fa403083f1e4b47b797516&mpshare=1&scene=1&srcid=&sharer_sharetime=1586433945255&sharer_shareid=6cca3844077dcf436e21c18b4e0fff82&exportkey=AvqDovmFTvjSAxqJ8Js6%2F40%3D&pass_ticket=emDWjp7kyrzBtRhQZJHQXK%2BejFPhfjRLeczVzCYEcyWYnUdRVjqdbt0j86BPSuHt#rd) &#127381;
+- [**2020-04-09 瑞德西韦两项临床研究样本量扩充至4000例意味着什么**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660919303&idx=3&sn=760f3db6b0ef302825a0b32a67d615af&chksm=bdd842a08aafcbb65498416eb9ad50d0b5d5f6621b05c680de2920fa403083f1e4b47b797516&mpshare=1&scene=1&srcid=&sharer_sharetime=1586433945255&sharer_shareid=6cca3844077dcf436e21c18b4e0fff82&exportkey=AvqDovmFTvjSAxqJ8Js6%2F40%3D&pass_ticket=emDWjp7kyrzBtRhQZJHQXK%2BejFPhfjRLeczVzCYEcyWYnUdRVjqdbt0j86BPSuHt#rd)
 ![4000](/pic/4000.jpg)
 
 - [**2020-04-07 与瑞德西韦互补，新型广谱抗病毒药有望助力COVID-19治疗**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488865&idx=1&sn=521cf8f37995b0984c254df755d6670b&chksm=fb882822ccffa134b47a50ffc671564a15fa357fdedba84f76b9fd42be9a67675bff56d7ad9f&mpshare=1&scene=1&srcid=&sharer_sharetime=1586274806276&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=Ak9%2BSESpmh6tkJHqT4UWd80%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd)  
