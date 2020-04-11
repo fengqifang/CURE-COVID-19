@@ -102,6 +102,15 @@
  
 ## 治疗方案
 
+- [**2020-04-10 瑞德西韦治疗重症新冠肺炎有效！！！**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488595&idx=1&sn=232275305f0ad0fb5d066f768242e5fb&chksm=f9801e16cef797006d39c359357e8fa0f98dcd0484f3139a4c70908c4aa5b178a71440663710&mpshare=1&scene=1&srcid=&sharer_sharetime=1586568319530&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmJnbvtCXLG9u4tHWLTjbyc%3D&pass_ticket=nyLCgf1Hb2vNcbFmHJWzAlMXuUtt7XbR%2F%2BXlfwjB54vhSVTEOOM3NNeMf3KKI4oX#rd) &#127381;
+![NEJM1](/pic/NEJM1.jpg)
+
+- [**2020-04-10 NEJM：瑞德西韦同情用药结果发布，重症患者死亡率13%**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992960&idx=1&sn=1e40cf68e29754e6f652a299c00e26ab&chksm=82e92980b59ea096152216060b6729dc855d37bf2bf60ee1a7e91b08948c3e60bc866237cb0a&mpshare=1&scene=1&srcid=&sharer_sharetime=1586558495885&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Age92Quua3kc4WocmxBcJcw%3D&pass_ticket=nyLCgf1Hb2vNcbFmHJWzAlMXuUtt7XbR%2F%2BXlfwjB54vhSVTEOOM3NNeMf3KKI4oX#rd) &#127381;
+![NEJM2](/pic/NEJM2.jpg)
+
+- [**2020-04-10 Compassionate Use of Remdesivir for Patients with Severe Covid-19**](https://www.nejm.org/doi/full/10.1056/NEJMoa2007016?from=timeline&isappinstalled=0) &#127381;
+![NEJM3](/pic/NEJM3jpg)
+
 - [**2020-04-10 Israeli COVID-19 treatment shows 100% survival rate - preliminary data**](https://www.jpost.com/HEALTH-SCIENCE/Israeli-COVID-19-treatment-shows-100-percent-survival-rate-preliminary-data-624058) &#127381;
 ![israel](/pic/israel.jpg)
 
