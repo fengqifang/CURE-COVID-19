@@ -223,6 +223,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-04-11 Nature 子刊综述：全球115个COVID-19疫苗研发项目，5款迈入临床阶段**](https://mp.weixin.qq.com/s?__biz=MzUxMTY5MzM5OQ==&mid=2247493560&idx=1&sn=9f7243945e53bca8146a80b5960f6844&chksm=f96d6080ce1ae996062f452c38e6f05207b54229fe0716dddce33a1acc91c773556018344c38&mpshare=1&scene=1&srcid=&sharer_sharetime=1586610411442&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AttPKUpBFa0xIRBY0QiRxzE%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+![115](/pic/115.jpg)
+
 - [**2020-04-11 Lilly Begins Clinical Testing of Therapies for COVID-19**](https://www.prnewswire.com/news-releases/lilly-begins-clinical-testing-of-therapies-for-covid-19-301038931.html?from=timeline&isappinstalled=0) &#127381;
 ![lilly](/pic/lilly.jpg)
 
