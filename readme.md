@@ -175,6 +175,9 @@
  
 ## 氯喹专题
 
+- [**2020-04-12 最新证据！氯喹治疗COVID-19：高剂量组存在安全隐患，有死亡率更高的趋势**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488933&idx=1&sn=dc9ee45f56da122a3087b85d75c38590&chksm=fb8828e6ccffa1f0757ef9573c5e9ebf3cc5dfc1996170b65be89f81f4ee93a3cbd5ee9c5775&mpshare=1&scene=1&srcid=&sharer_sharetime=1586739226651&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aqng4Niq1By2ZOoXuF36RHs%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+![高剂量](/pic/dosage.jpg)
+
 - [**2020-04-09 国际新冠肺炎工作组唯一推荐用药，却被美国心脏病三大学会联合发文警告**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488573&idx=1&sn=a6119d2fb2a232e215a3ba7d78f10899&chksm=f9801e78cef7976eb54923cf5968e7480c332419e9d396fc9777be18b31c71503ec808bc4492&mpshare=1&scene=1&srcid=&sharer_sharetime=1586479323050&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao%2BAVTmZo%2FUDW6%2BwtrWsdow%3D&pass_ticket=ZFaGpVOASiyvTJCr9AWHWTgg3DLPCM2sxVnAOaxWjHYNZWxFVsIPatZ%2FiHb%2FZioy#rd)
 ![aha](/pic/aha.jpg)
  
@@ -225,6 +228,9 @@
  ***
 
 ## 疫苗相关／新药开发
+
+- [**2020-04-12 陈薇团队参研新冠疫苗将上Ⅱ期临床 试验方案调整**](https://mp.weixin.qq.com/s?__biz=MzA3NTQ3ODIxNg==&mid=2662088402&idx=2&sn=ad2c5eba9e60d0a518fea2a68b4cf27a&chksm=84377b75b340f263e2701b614f2609ed9921d0da22bca0ee0d8c8cd28e5b9c174332df9d2a38&mpshare=1&scene=1&srcid=&sharer_sharetime=1586744079607&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avxikk0vQKodv543uA2xfjw%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+![Ⅱ期](/pic/second.jpg)
 
 - [**2020-04-11 Nature 子刊综述：全球115个COVID-19疫苗研发项目，5款迈入临床阶段**](https://mp.weixin.qq.com/s?__biz=MzUxMTY5MzM5OQ==&mid=2247493560&idx=1&sn=9f7243945e53bca8146a80b5960f6844&chksm=f96d6080ce1ae996062f452c38e6f05207b54229fe0716dddce33a1acc91c773556018344c38&mpshare=1&scene=1&srcid=&sharer_sharetime=1586610411442&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AttPKUpBFa0xIRBY0QiRxzE%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
 ![115](/pic/115.jpg)
