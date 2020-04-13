@@ -229,6 +229,12 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-04-13 辉瑞宣布：新冠病毒mRNA疫苗有望4月底开展临床试验**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488935&idx=2&sn=a053f3bdc238dcef6a59d34b36a62630&chksm=fb8828e4ccffa1f2db367e323a8803b1e5738a91b014153508620d2ba3e605dc421410a08d01&mpshare=1&scene=1&srcid=&sharer_sharetime=1586786543695&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=AuMv2cqTKRqvdZBejbmbLG8%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+![pfizer](/pic/pfizer.jpg)
+
+- [**2020-04-13 Nature：治疗 COVID-19的六种潜在药物**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488935&idx=1&sn=57e4209fc5e9e770ac480a6a60b2316e&chksm=fb8828e4ccffa1f2676f5ecec9252124bf5d18470c286c1ef78b5724583d970ee289a9351f68&mpshare=1&scene=1&srcid=&sharer_sharetime=1586786562274&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=Apz4QG2TkH3n%2BchgRmb8tSs%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+![潜在药物](/pic/potential.jpg)
+
 - [**2020-04-12 陈薇团队参研新冠疫苗将上Ⅱ期临床 试验方案调整**](https://mp.weixin.qq.com/s?__biz=MzA3NTQ3ODIxNg==&mid=2662088402&idx=2&sn=ad2c5eba9e60d0a518fea2a68b4cf27a&chksm=84377b75b340f263e2701b614f2609ed9921d0da22bca0ee0d8c8cd28e5b9c174332df9d2a38&mpshare=1&scene=1&srcid=&sharer_sharetime=1586744079607&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avxikk0vQKodv543uA2xfjw%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
 ![Ⅱ期](/pic/second.jpg)
 
