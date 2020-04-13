@@ -102,16 +102,19 @@
  
 ## 治疗方案
 
-- [**2020-04-10 瑞德西韦治疗重症新冠肺炎有效！！！**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488595&idx=1&sn=232275305f0ad0fb5d066f768242e5fb&chksm=f9801e16cef797006d39c359357e8fa0f98dcd0484f3139a4c70908c4aa5b178a71440663710&mpshare=1&scene=1&srcid=&sharer_sharetime=1586568319530&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmJnbvtCXLG9u4tHWLTjbyc%3D&pass_ticket=nyLCgf1Hb2vNcbFmHJWzAlMXuUtt7XbR%2F%2BXlfwjB54vhSVTEOOM3NNeMf3KKI4oX#rd) &#127381;
+- [**2020-04-11 瑞德西韦两项临床研究样本量扩充至4000例意味着什么**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660919303&idx=3&sn=760f3db6b0ef302825a0b32a67d615af&chksm=bdd842a08aafcbb65498416eb9ad50d0b5d5f6621b05c680de2920fa403083f1e4b47b797516&mpshare=1&scene=1&srcid=&sharer_sharetime=1586698706353&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Any8NTEh3UqQUtBij1%2FMgtI%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+![4000](/pic/4000.jpg)
+
+- [**2020-04-10 瑞德西韦治疗重症新冠肺炎有效！！！**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488595&idx=1&sn=232275305f0ad0fb5d066f768242e5fb&chksm=f9801e16cef797006d39c359357e8fa0f98dcd0484f3139a4c70908c4aa5b178a71440663710&mpshare=1&scene=1&srcid=&sharer_sharetime=1586568319530&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmJnbvtCXLG9u4tHWLTjbyc%3D&pass_ticket=nyLCgf1Hb2vNcbFmHJWzAlMXuUtt7XbR%2F%2BXlfwjB54vhSVTEOOM3NNeMf3KKI4oX#rd)
 ![NEJM1](/pic/NEJM1.jpg)
 
-- [**2020-04-10 NEJM：瑞德西韦同情用药结果发布，重症患者死亡率13%**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992960&idx=1&sn=1e40cf68e29754e6f652a299c00e26ab&chksm=82e92980b59ea096152216060b6729dc855d37bf2bf60ee1a7e91b08948c3e60bc866237cb0a&mpshare=1&scene=1&srcid=&sharer_sharetime=1586558495885&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Age92Quua3kc4WocmxBcJcw%3D&pass_ticket=nyLCgf1Hb2vNcbFmHJWzAlMXuUtt7XbR%2F%2BXlfwjB54vhSVTEOOM3NNeMf3KKI4oX#rd) &#127381;
+- [**2020-04-10 NEJM：瑞德西韦同情用药结果发布，重症患者死亡率13%**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992960&idx=1&sn=1e40cf68e29754e6f652a299c00e26ab&chksm=82e92980b59ea096152216060b6729dc855d37bf2bf60ee1a7e91b08948c3e60bc866237cb0a&mpshare=1&scene=1&srcid=&sharer_sharetime=1586558495885&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Age92Quua3kc4WocmxBcJcw%3D&pass_ticket=nyLCgf1Hb2vNcbFmHJWzAlMXuUtt7XbR%2F%2BXlfwjB54vhSVTEOOM3NNeMf3KKI4oX#rd)
 ![NEJM2](/pic/NEJM2.jpg)
 
-- [**2020-04-10 Compassionate Use of Remdesivir for Patients with Severe Covid-19**](https://www.nejm.org/doi/full/10.1056/NEJMoa2007016?from=timeline&isappinstalled=0) &#127381;
+- [**2020-04-10 Compassionate Use of Remdesivir for Patients with Severe Covid-19**](https://www.nejm.org/doi/full/10.1056/NEJMoa2007016?from=timeline&isappinstalled=0)
 ![NEJM3](/pic/NEJM3.jpg)
 
-- [**2020-04-10 Israeli COVID-19 treatment shows 100% survival rate - preliminary data**](https://www.jpost.com/HEALTH-SCIENCE/Israeli-COVID-19-treatment-shows-100-percent-survival-rate-preliminary-data-624058) &#127381;
+- [**2020-04-10 Israeli COVID-19 treatment shows 100% survival rate - preliminary data**](https://www.jpost.com/HEALTH-SCIENCE/Israeli-COVID-19-treatment-shows-100-percent-survival-rate-preliminary-data-624058)
 ![israel](/pic/israel.jpg)
 
 - [**2020-04-08 Largest Statistically Significant Study by 6,200 Multi-Country Physicians on COVID-19 Uncovers Treatment Patterns and Puts Pandemic in Context**](https://www.sermo.com/press-releases/largest-statistically-significant-study-by-6200-multi-country-physicians-on-covid-19-uncovers-treatment-patterns-and-puts-pandemic-in-context/)
@@ -347,7 +350,10 @@
  
 ## 研究进展
 
-- [**2020-04-10 专家解密三种“无症状感染者”产生原因：一部分人已经适应病毒**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268880&idx=1&sn=9bd21fa573709ab708ffc60f10cb5d0f&chksm=8bb7c5aebcc04cb8cb81afa4734556077ab5f0605a335b7d511876e6ebd0b23d0e0e772743eb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586529860912&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgiAU7hT9%2BJanl%2B4vTnm0%2Bo%3D&pass_ticket=zrcI%2BpnVB5VJ5tOVbl4XS%2BEkflkDHzv1gamdWIiidyfwoAobXf6MJ74CIoFduRBj#rd) &#127381;
+- [**2020-04-11 华中、复旦、哈佛三校联合发文证明武汉市公共卫生干预措施的有效性**](https://mp.weixin.qq.com/s?__biz=MzIzMTY2MTAzMA==&mid=2247487693&idx=1&sn=01d80283a1bf6098fae8c9aa77bda578&chksm=e8a19c44dfd615521922588af4eaf49dbf3483b7c3368c83a42428e96a6be577fecc1b650efb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586695445405&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlmJeeGgq8gW7iLQ6DmQvsk%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+![三校](/pic/interventions.jpg)
+
+- [**2020-04-10 专家解密三种“无症状感染者”产生原因：一部分人已经适应病毒**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268880&idx=1&sn=9bd21fa573709ab708ffc60f10cb5d0f&chksm=8bb7c5aebcc04cb8cb81afa4734556077ab5f0605a335b7d511876e6ebd0b23d0e0e772743eb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586529860912&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgiAU7hT9%2BJanl%2B4vTnm0%2Bo%3D&pass_ticket=zrcI%2BpnVB5VJ5tOVbl4XS%2BEkflkDHzv1gamdWIiidyfwoAobXf6MJ74CIoFduRBj#rd) 
 ![适应病毒](/pic/adapt.jpg)
 
 - [**2020-04-09 Phylogenetic network analysis of SARS-CoV-2 genomes**](https://www.pnas.org/content/early/2020/04/07/2004999117)
@@ -503,6 +509,9 @@
  ***
  
 ## 其他
+
+- [**2020-04-12 不封城、不隔离，瑞典何以成为全球抗疫中的“另类”？**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649585339&idx=1&sn=254e73639cb3e6cd23cd2e488a669149&chksm=876a62a2b01debb4cdeaba5de31009ec4a68da25f9a0443d0c8c75bc462013df62e5912a52fb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586698686424&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuxQygipxUinjbpVaGZMBhQ%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+![瑞典](/pic/sweden.jpg)
 
 - [**2020-04-12 UC launches grant program to spur urgently needed COVID-19 research**](https://www.universityofcalifornia.edu/news/uc-launches-grant-program-spur-urgently-needed-covid-19-research) &#127381;
 ![uc](/pic/uc.jpg)
