@@ -504,6 +504,9 @@
  
 ## 其他
 
+- [**2020-04-12 UC launches grant program to spur urgently needed COVID-19 research**](https://www.universityofcalifornia.edu/news/uc-launches-grant-program-spur-urgently-needed-covid-19-research) &#127381;
+![uc](/pic/uc.jpg)
+ 
 - [**2020-04-11 Why a study showing that covid-19 is everywhere is good news**](https://www.economist.com/graphic-detail/2020/04/11/why-a-study-showing-that-covid-19-is-everywhere-is-good-news) &#127381;
 ![goodnews](/pic/goodnews.jpg)
 
