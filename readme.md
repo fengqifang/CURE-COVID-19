@@ -229,6 +229,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-04-13 全球首家新冠病毒灭活疫苗临床试验！央企国药中国生物武汉所！**](https://mp.weixin.qq.com/s?__biz=MjM5MDIxNjczNA==&mid=2652498629&idx=1&sn=010bdb5e734d8504256b17539c252c6c&chksm=bda56db48ad2e4a2967a88672e6ce3bd2422efb7039a4e3e3a3df4293f5e96a11a7e56bba9d7&mpshare=1&scene=1&srcid=0413TvZih72vqUd2DPjUFAxN&sharer_sharetime=1586791669627&sharer_shareid=f6a835f7c21d1ed726164fe787e33ffd&exportkey=Aj%2FEDTv3oipzaGh%2BAiR0YwA%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+![灭活疫苗](/pic/inactivated.jpg)
+
 - [**2020-04-13 辉瑞宣布：新冠病毒mRNA疫苗有望4月底开展临床试验**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488935&idx=2&sn=a053f3bdc238dcef6a59d34b36a62630&chksm=fb8828e4ccffa1f2db367e323a8803b1e5738a91b014153508620d2ba3e605dc421410a08d01&mpshare=1&scene=1&srcid=&sharer_sharetime=1586786543695&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=AuMv2cqTKRqvdZBejbmbLG8%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
 ![pfizer](/pic/pfizer.jpg)
 
