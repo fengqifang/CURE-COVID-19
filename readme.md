@@ -223,6 +223,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-04-11 Lilly Begins Clinical Testing of Therapies for COVID-19**](https://www.prnewswire.com/news-releases/lilly-begins-clinical-testing-of-therapies-for-covid-19-301038931.html?from=timeline&isappinstalled=0) &#127381;
+![lilly](/pic/lilly.jpg)
+
 - [**2020-04-09 瑞德西韦两项临床研究样本量扩充至4000例意味着什么**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660919303&idx=3&sn=760f3db6b0ef302825a0b32a67d615af&chksm=bdd842a08aafcbb65498416eb9ad50d0b5d5f6621b05c680de2920fa403083f1e4b47b797516&mpshare=1&scene=1&srcid=&sharer_sharetime=1586433945255&sharer_shareid=6cca3844077dcf436e21c18b4e0fff82&exportkey=AvqDovmFTvjSAxqJ8Js6%2F40%3D&pass_ticket=emDWjp7kyrzBtRhQZJHQXK%2BejFPhfjRLeczVzCYEcyWYnUdRVjqdbt0j86BPSuHt#rd)
 ![4000](/pic/4000.jpg)
 
