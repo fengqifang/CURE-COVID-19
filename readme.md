@@ -38,6 +38,8 @@
 
 ## 疫情地图
 
+- [**Apple Mobility Trends Reports**](https://www.apple.com/covid19/mobility) &#127381;
+
 - [**See how your community is moving around differently due to COVID-19**](https://www.google.com/covid19/mobility/)
 
 - [**Every Vaccine and Treatment in Development for COVID-19, So Far**](https://www.visualcapitalist.com/every-vaccine-treatment-covid-19-so-far/)
@@ -229,22 +231,25 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-04-13 全球首家新冠病毒灭活疫苗临床试验！央企国药中国生物武汉所！**](https://mp.weixin.qq.com/s?__biz=MjM5MDIxNjczNA==&mid=2652498629&idx=1&sn=010bdb5e734d8504256b17539c252c6c&chksm=bda56db48ad2e4a2967a88672e6ce3bd2422efb7039a4e3e3a3df4293f5e96a11a7e56bba9d7&mpshare=1&scene=1&srcid=0413TvZih72vqUd2DPjUFAxN&sharer_sharetime=1586791669627&sharer_shareid=f6a835f7c21d1ed726164fe787e33ffd&exportkey=Aj%2FEDTv3oipzaGh%2BAiR0YwA%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+- [**2020-04-14 最新！阿斯利康Calquence加入对抗新冠战局，将启动大型临床试验**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268907&idx=1&sn=1268e70a14096aaaeae83a397e0c5c6f&chksm=8bb7c595bcc04c832f0c0b4bdf657ae7f6349a571d639e515da190c4a8c95016029a44fbb225&mpshare=1&scene=1&srcid=&sharer_sharetime=1586883817773&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvYsy7TdHEFcqzGZILKaBTg%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd) &#127381;
+![阿斯利康](/pic/az.jpg)
+
+- [**2020-04-13 全球首家新冠病毒灭活疫苗临床试验！央企国药中国生物武汉所！**](https://mp.weixin.qq.com/s?__biz=MjM5MDIxNjczNA==&mid=2652498629&idx=1&sn=010bdb5e734d8504256b17539c252c6c&chksm=bda56db48ad2e4a2967a88672e6ce3bd2422efb7039a4e3e3a3df4293f5e96a11a7e56bba9d7&mpshare=1&scene=1&srcid=0413TvZih72vqUd2DPjUFAxN&sharer_sharetime=1586791669627&sharer_shareid=f6a835f7c21d1ed726164fe787e33ffd&exportkey=Aj%2FEDTv3oipzaGh%2BAiR0YwA%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
 ![灭活疫苗](/pic/inactivated.jpg)
 
-- [**2020-04-13 辉瑞宣布：新冠病毒mRNA疫苗有望4月底开展临床试验**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488935&idx=2&sn=a053f3bdc238dcef6a59d34b36a62630&chksm=fb8828e4ccffa1f2db367e323a8803b1e5738a91b014153508620d2ba3e605dc421410a08d01&mpshare=1&scene=1&srcid=&sharer_sharetime=1586786543695&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=AuMv2cqTKRqvdZBejbmbLG8%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+- [**2020-04-13 辉瑞宣布：新冠病毒mRNA疫苗有望4月底开展临床试验**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488935&idx=2&sn=a053f3bdc238dcef6a59d34b36a62630&chksm=fb8828e4ccffa1f2db367e323a8803b1e5738a91b014153508620d2ba3e605dc421410a08d01&mpshare=1&scene=1&srcid=&sharer_sharetime=1586786543695&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=AuMv2cqTKRqvdZBejbmbLG8%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
 ![pfizer](/pic/pfizer.jpg)
 
-- [**2020-04-13 Nature：治疗 COVID-19的六种潜在药物**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488935&idx=1&sn=57e4209fc5e9e770ac480a6a60b2316e&chksm=fb8828e4ccffa1f2676f5ecec9252124bf5d18470c286c1ef78b5724583d970ee289a9351f68&mpshare=1&scene=1&srcid=&sharer_sharetime=1586786562274&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=Apz4QG2TkH3n%2BchgRmb8tSs%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+- [**2020-04-13 Nature：治疗 COVID-19的六种潜在药物**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488935&idx=1&sn=57e4209fc5e9e770ac480a6a60b2316e&chksm=fb8828e4ccffa1f2676f5ecec9252124bf5d18470c286c1ef78b5724583d970ee289a9351f68&mpshare=1&scene=1&srcid=&sharer_sharetime=1586786562274&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=Apz4QG2TkH3n%2BchgRmb8tSs%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
 ![潜在药物](/pic/potential.jpg)
 
-- [**2020-04-12 陈薇团队参研新冠疫苗将上Ⅱ期临床 试验方案调整**](https://mp.weixin.qq.com/s?__biz=MzA3NTQ3ODIxNg==&mid=2662088402&idx=2&sn=ad2c5eba9e60d0a518fea2a68b4cf27a&chksm=84377b75b340f263e2701b614f2609ed9921d0da22bca0ee0d8c8cd28e5b9c174332df9d2a38&mpshare=1&scene=1&srcid=&sharer_sharetime=1586744079607&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avxikk0vQKodv543uA2xfjw%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+- [**2020-04-12 陈薇团队参研新冠疫苗将上Ⅱ期临床 试验方案调整**](https://mp.weixin.qq.com/s?__biz=MzA3NTQ3ODIxNg==&mid=2662088402&idx=2&sn=ad2c5eba9e60d0a518fea2a68b4cf27a&chksm=84377b75b340f263e2701b614f2609ed9921d0da22bca0ee0d8c8cd28e5b9c174332df9d2a38&mpshare=1&scene=1&srcid=&sharer_sharetime=1586744079607&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avxikk0vQKodv543uA2xfjw%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
 ![Ⅱ期](/pic/second.jpg)
 
-- [**2020-04-11 Nature 子刊综述：全球115个COVID-19疫苗研发项目，5款迈入临床阶段**](https://mp.weixin.qq.com/s?__biz=MzUxMTY5MzM5OQ==&mid=2247493560&idx=1&sn=9f7243945e53bca8146a80b5960f6844&chksm=f96d6080ce1ae996062f452c38e6f05207b54229fe0716dddce33a1acc91c773556018344c38&mpshare=1&scene=1&srcid=&sharer_sharetime=1586610411442&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AttPKUpBFa0xIRBY0QiRxzE%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+- [**2020-04-11 Nature 子刊综述：全球115个COVID-19疫苗研发项目，5款迈入临床阶段**](https://mp.weixin.qq.com/s?__biz=MzUxMTY5MzM5OQ==&mid=2247493560&idx=1&sn=9f7243945e53bca8146a80b5960f6844&chksm=f96d6080ce1ae996062f452c38e6f05207b54229fe0716dddce33a1acc91c773556018344c38&mpshare=1&scene=1&srcid=&sharer_sharetime=1586610411442&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AttPKUpBFa0xIRBY0QiRxzE%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
 ![115](/pic/115.jpg)
 
-- [**2020-04-11 Lilly Begins Clinical Testing of Therapies for COVID-19**](https://www.prnewswire.com/news-releases/lilly-begins-clinical-testing-of-therapies-for-covid-19-301038931.html?from=timeline&isappinstalled=0) &#127381;
+- [**2020-04-11 Lilly Begins Clinical Testing of Therapies for COVID-19**](https://www.prnewswire.com/news-releases/lilly-begins-clinical-testing-of-therapies-for-covid-19-301038931.html?from=timeline&isappinstalled=0)
 ![lilly](/pic/lilly.jpg)
 
 - [**2020-04-09 瑞德西韦两项临床研究样本量扩充至4000例意味着什么**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660919303&idx=3&sn=760f3db6b0ef302825a0b32a67d615af&chksm=bdd842a08aafcbb65498416eb9ad50d0b5d5f6621b05c680de2920fa403083f1e4b47b797516&mpshare=1&scene=1&srcid=&sharer_sharetime=1586433945255&sharer_shareid=6cca3844077dcf436e21c18b4e0fff82&exportkey=AvqDovmFTvjSAxqJ8Js6%2F40%3D&pass_ticket=emDWjp7kyrzBtRhQZJHQXK%2BejFPhfjRLeczVzCYEcyWYnUdRVjqdbt0j86BPSuHt#rd)
@@ -365,7 +370,7 @@
  
 ## 研究进展
 
-- [**2020-04-11 华中、复旦、哈佛三校联合发文证明武汉市公共卫生干预措施的有效性**](https://mp.weixin.qq.com/s?__biz=MzIzMTY2MTAzMA==&mid=2247487693&idx=1&sn=01d80283a1bf6098fae8c9aa77bda578&chksm=e8a19c44dfd615521922588af4eaf49dbf3483b7c3368c83a42428e96a6be577fecc1b650efb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586695445405&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlmJeeGgq8gW7iLQ6DmQvsk%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+- [**2020-04-11 华中、复旦、哈佛三校联合发文证明武汉市公共卫生干预措施的有效性**](https://mp.weixin.qq.com/s?__biz=MzIzMTY2MTAzMA==&mid=2247487693&idx=1&sn=01d80283a1bf6098fae8c9aa77bda578&chksm=e8a19c44dfd615521922588af4eaf49dbf3483b7c3368c83a42428e96a6be577fecc1b650efb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586695445405&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlmJeeGgq8gW7iLQ6DmQvsk%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
 ![三校](/pic/interventions.jpg)
 
 - [**2020-04-10 专家解密三种“无症状感染者”产生原因：一部分人已经适应病毒**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268880&idx=1&sn=9bd21fa573709ab708ffc60f10cb5d0f&chksm=8bb7c5aebcc04cb8cb81afa4734556077ab5f0605a335b7d511876e6ebd0b23d0e0e772743eb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586529860912&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgiAU7hT9%2BJanl%2B4vTnm0%2Bo%3D&pass_ticket=zrcI%2BpnVB5VJ5tOVbl4XS%2BEkflkDHzv1gamdWIiidyfwoAobXf6MJ74CIoFduRBj#rd) 
@@ -525,10 +530,10 @@
  
 ## 其他
 
-- [**2020-04-13 网民强烈要求美国重查去年“流感”样品，美国还真查了！结果是...**](https://mp.weixin.qq.com/s?__biz=Mzg2MDIzOTgxMw==&mid=2247483872&idx=1&sn=7089f4aae2187cc14e9fb7ab126edc18&chksm=ce28234af95faa5cf722f5472a07bfa11d4606d7d9f9f97758cc163597988cb2f416893ee53b&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872484723&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlRTjGZ45STOea8VMEw6buM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd) &#127381;
+- [**2020-04-13 网民强烈要求美国重查去年“流感”样品，美国还真查了！结果是...**](https://mp.weixin.qq.com/s?__biz=Mzg2MDIzOTgxMw==&mid=2247483872&idx=1&sn=7089f4aae2187cc14e9fb7ab126edc18&chksm=ce28234af95faa5cf722f5472a07bfa11d4606d7d9f9f97758cc163597988cb2f416893ee53b&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872484723&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlRTjGZ45STOea8VMEw6buM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd)
 ![流感](/pic/flu.jpg)
 
-- [**2020-04-13 被误读的剑桥论文。**](https://mp.weixin.qq.com/s?__biz=MzIwMTkyODA3NQ==&mid=2247484108&idx=1&sn=34e17a5b47011543bc591daef99c3f79&chksm=96e73e28a190b73e975040da177f0bc9e1cc4735f15fb902b0f709754b30213746cca4cf1703&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872653997&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtqcPVw1BkGHwMIJC56QknM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd) &#127381;
+- [**2020-04-13 被误读的剑桥论文。**](https://mp.weixin.qq.com/s?__biz=MzIwMTkyODA3NQ==&mid=2247484108&idx=1&sn=34e17a5b47011543bc591daef99c3f79&chksm=96e73e28a190b73e975040da177f0bc9e1cc4735f15fb902b0f709754b30213746cca4cf1703&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872653997&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtqcPVw1BkGHwMIJC56QknM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd)
 ![cambridge](/pic/cambridge.jpg)
 
 - [**2020-04-12 不封城、不隔离，瑞典何以成为全球抗疫中的“另类”？**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649585339&idx=1&sn=254e73639cb3e6cd23cd2e488a669149&chksm=876a62a2b01debb4cdeaba5de31009ec4a68da25f9a0443d0c8c75bc462013df62e5912a52fb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586698686424&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuxQygipxUinjbpVaGZMBhQ%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
