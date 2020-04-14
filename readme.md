@@ -732,7 +732,9 @@
 ## 其它资料
    **Other resources on Github**
 
-- [**Download, Tidy and Visualize Covid-19 Related Data**](https://github.com/joachim-gassen/tidycovid19) &#127381;
+- [**New York Times Coronavirus (Covid-19) Data in the United States**](https://github.com/nytimes/covid-19-data) &#127381;
+
+- [**Download, Tidy and Visualize Covid-19 Related Data**](https://github.com/joachim-gassen/tidycovid19) 
 ![tidycovid19](https://github.com/joachim-gassen/tidycovid19/blob/master/man/figures/DemoPlot-1.png)
    
 - [**疫情与舆情：武汉新冠肺炎时间线TIMELINE**](https://github.com/Pratitya/wuhan2020-timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.md)
