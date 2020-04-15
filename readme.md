@@ -231,6 +231,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-04-14 Moderna举办首届疫苗日，传染病疫苗将成为mRNA技术突破口？（附报告PPT）**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649993059&idx=1&sn=410b248075007bf351cc2b04e67c205e&chksm=82e929e3b59ea0f5180596e72afcf12932ebecc52cff1eba784c5c67832a26084b6ea5ecb9c8&mpshare=1&scene=1&srcid=&sharer_sharetime=1586911196707&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Atv1KeI1AmCbx%2F6BmrT1TpA%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd) &#127381;
+![moderna](/pic/moderna.jpg)
+
 - [**2020-04-14 最新！阿斯利康Calquence加入对抗新冠战局，将启动大型临床试验**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268907&idx=1&sn=1268e70a14096aaaeae83a397e0c5c6f&chksm=8bb7c595bcc04c832f0c0b4bdf657ae7f6349a571d639e515da190c4a8c95016029a44fbb225&mpshare=1&scene=1&srcid=&sharer_sharetime=1586883817773&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvYsy7TdHEFcqzGZILKaBTg%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd) &#127381;
 ![阿斯利康](/pic/az.jpg)
 
