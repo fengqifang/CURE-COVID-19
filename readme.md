@@ -104,7 +104,7 @@
  
 ## 治疗方案
 
-- [**2020-04-11 瑞德西韦两项临床研究样本量扩充至4000例意味着什么**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660919303&idx=3&sn=760f3db6b0ef302825a0b32a67d615af&chksm=bdd842a08aafcbb65498416eb9ad50d0b5d5f6621b05c680de2920fa403083f1e4b47b797516&mpshare=1&scene=1&srcid=&sharer_sharetime=1586698706353&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Any8NTEh3UqQUtBij1%2FMgtI%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+- [**2020-04-11 瑞德西韦两项临床研究样本量扩充至4000例意味着什么**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660919303&idx=3&sn=760f3db6b0ef302825a0b32a67d615af&chksm=bdd842a08aafcbb65498416eb9ad50d0b5d5f6621b05c680de2920fa403083f1e4b47b797516&mpshare=1&scene=1&srcid=&sharer_sharetime=1586698706353&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Any8NTEh3UqQUtBij1%2FMgtI%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
 ![4000](/pic/4000.jpg)
 
 - [**2020-04-10 瑞德西韦治疗重症新冠肺炎有效！！！**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488595&idx=1&sn=232275305f0ad0fb5d066f768242e5fb&chksm=f9801e16cef797006d39c359357e8fa0f98dcd0484f3139a4c70908c4aa5b178a71440663710&mpshare=1&scene=1&srcid=&sharer_sharetime=1586568319530&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmJnbvtCXLG9u4tHWLTjbyc%3D&pass_ticket=nyLCgf1Hb2vNcbFmHJWzAlMXuUtt7XbR%2F%2BXlfwjB54vhSVTEOOM3NNeMf3KKI4oX#rd)
@@ -177,7 +177,7 @@
  
 ## 氯喹专题
 
-- [**2020-04-12 最新证据！氯喹治疗COVID-19：高剂量组存在安全隐患，有死亡率更高的趋势**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488933&idx=1&sn=dc9ee45f56da122a3087b85d75c38590&chksm=fb8828e6ccffa1f0757ef9573c5e9ebf3cc5dfc1996170b65be89f81f4ee93a3cbd5ee9c5775&mpshare=1&scene=1&srcid=&sharer_sharetime=1586739226651&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aqng4Niq1By2ZOoXuF36RHs%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd) &#127381;
+- [**2020-04-12 最新证据！氯喹治疗COVID-19：高剂量组存在安全隐患，有死亡率更高的趋势**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488933&idx=1&sn=dc9ee45f56da122a3087b85d75c38590&chksm=fb8828e6ccffa1f0757ef9573c5e9ebf3cc5dfc1996170b65be89f81f4ee93a3cbd5ee9c5775&mpshare=1&scene=1&srcid=&sharer_sharetime=1586739226651&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aqng4Niq1By2ZOoXuF36RHs%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
 ![高剂量](/pic/dosage.jpg)
 
 - [**2020-04-09 国际新冠肺炎工作组唯一推荐用药，却被美国心脏病三大学会联合发文警告**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488573&idx=1&sn=a6119d2fb2a232e215a3ba7d78f10899&chksm=f9801e78cef7976eb54923cf5968e7480c332419e9d396fc9777be18b31c71503ec808bc4492&mpshare=1&scene=1&srcid=&sharer_sharetime=1586479323050&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao%2BAVTmZo%2FUDW6%2BwtrWsdow%3D&pass_ticket=ZFaGpVOASiyvTJCr9AWHWTgg3DLPCM2sxVnAOaxWjHYNZWxFVsIPatZ%2FiHb%2FZioy#rd)
@@ -533,10 +533,10 @@
  
 ## 其他
 
-- [**2020-04-13 网民强烈要求美国重查去年“流感”样品，美国还真查了！结果是...**](https://mp.weixin.qq.com/s?__biz=Mzg2MDIzOTgxMw==&mid=2247483872&idx=1&sn=7089f4aae2187cc14e9fb7ab126edc18&chksm=ce28234af95faa5cf722f5472a07bfa11d4606d7d9f9f97758cc163597988cb2f416893ee53b&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872484723&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlRTjGZ45STOea8VMEw6buM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd)
+- [**2020-04-14 网民强烈要求美国重查去年“流感”样品，美国还真查了！结果是...**](https://mp.weixin.qq.com/s?__biz=Mzg2MDIzOTgxMw==&mid=2247483872&idx=1&sn=7089f4aae2187cc14e9fb7ab126edc18&chksm=ce28234af95faa5cf722f5472a07bfa11d4606d7d9f9f97758cc163597988cb2f416893ee53b&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872484723&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlRTjGZ45STOea8VMEw6buM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd) &#127381;
 ![流感](/pic/flu.jpg)
 
-- [**2020-04-13 被误读的剑桥论文。**](https://mp.weixin.qq.com/s?__biz=MzIwMTkyODA3NQ==&mid=2247484108&idx=1&sn=34e17a5b47011543bc591daef99c3f79&chksm=96e73e28a190b73e975040da177f0bc9e1cc4735f15fb902b0f709754b30213746cca4cf1703&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872653997&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtqcPVw1BkGHwMIJC56QknM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd)
+- [**2020-04-14 被误读的剑桥论文。**](https://mp.weixin.qq.com/s?__biz=MzIwMTkyODA3NQ==&mid=2247484108&idx=1&sn=34e17a5b47011543bc591daef99c3f79&chksm=96e73e28a190b73e975040da177f0bc9e1cc4735f15fb902b0f709754b30213746cca4cf1703&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872653997&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtqcPVw1BkGHwMIJC56QknM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd) &#127381;
 ![cambridge](/pic/cambridge.jpg)
 
 - [**2020-04-12 不封城、不隔离，瑞典何以成为全球抗疫中的“另类”？**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649585339&idx=1&sn=254e73639cb3e6cd23cd2e488a669149&chksm=876a62a2b01debb4cdeaba5de31009ec4a68da25f9a0443d0c8c75bc462013df62e5912a52fb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586698686424&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuxQygipxUinjbpVaGZMBhQ%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
