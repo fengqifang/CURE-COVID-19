@@ -542,10 +542,13 @@
  
 ## 其他
 
-- [**2020-04-14 网民强烈要求美国重查去年“流感”样品，美国还真查了！结果是...**](https://mp.weixin.qq.com/s?__biz=Mzg2MDIzOTgxMw==&mid=2247483872&idx=1&sn=7089f4aae2187cc14e9fb7ab126edc18&chksm=ce28234af95faa5cf722f5472a07bfa11d4606d7d9f9f97758cc163597988cb2f416893ee53b&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872484723&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlRTjGZ45STOea8VMEw6buM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd) &#127381;
+- [**2020-04-15 How John Burn-Murdoch’s Influential Dataviz Helped The World Understand Coronavirus**](https://medium.com/nightingale/how-john-burn-murdochs-influential-dataviz-helped-the-world-understand-coronavirus-6cb4a09795ae) &#127381;
+![dataviz](https://miro.medium.com/max/2000/1*zay5rHO0oS97-e7nxR-t2g.png)
+
+- [**2020-04-14 网民强烈要求美国重查去年“流感”样品，美国还真查了！结果是...**](https://mp.weixin.qq.com/s?__biz=Mzg2MDIzOTgxMw==&mid=2247483872&idx=1&sn=7089f4aae2187cc14e9fb7ab126edc18&chksm=ce28234af95faa5cf722f5472a07bfa11d4606d7d9f9f97758cc163597988cb2f416893ee53b&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872484723&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlRTjGZ45STOea8VMEw6buM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd)
 ![流感](/pic/flu.jpg)
 
-- [**2020-04-14 被误读的剑桥论文。**](https://mp.weixin.qq.com/s?__biz=MzIwMTkyODA3NQ==&mid=2247484108&idx=1&sn=34e17a5b47011543bc591daef99c3f79&chksm=96e73e28a190b73e975040da177f0bc9e1cc4735f15fb902b0f709754b30213746cca4cf1703&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872653997&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtqcPVw1BkGHwMIJC56QknM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd) &#127381;
+- [**2020-04-14 被误读的剑桥论文。**](https://mp.weixin.qq.com/s?__biz=MzIwMTkyODA3NQ==&mid=2247484108&idx=1&sn=34e17a5b47011543bc591daef99c3f79&chksm=96e73e28a190b73e975040da177f0bc9e1cc4735f15fb902b0f709754b30213746cca4cf1703&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872653997&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtqcPVw1BkGHwMIJC56QknM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd)
 ![cambridge](/pic/cambridge.jpg)
 
 - [**2020-04-12 不封城、不隔离，瑞典何以成为全球抗疫中的“另类”？**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649585339&idx=1&sn=254e73639cb3e6cd23cd2e488a669149&chksm=876a62a2b01debb4cdeaba5de31009ec4a68da25f9a0443d0c8c75bc462013df62e5912a52fb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586698686424&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuxQygipxUinjbpVaGZMBhQ%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
