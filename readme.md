@@ -74,7 +74,10 @@
 
  ***
  
-## 检测试剂
+## 检测试剂**
+()
+- [**2020-04-17 检测、检测、检测！一个月300万，这个输出是怎么做到的？**](https://mp.weixin.qq.com/s?__biz=MzI0NjcxNzYxNw==&mid=2247486475&idx=1&sn=5a815f66f4ffc534285ab9e4c9260c48&chksm=e9ba41d5decdc8c386d6851026e89bda93a7f9487935a858e46647bd80c351e7231795014b9c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587129295949&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apc9kS98F9jPSVh%2F7Teho5A%3D&pass_ticket=R735S6EYkfc%2B%2FTVQdkXRiQ%2BBJ%2BV%2FY%2BkbIpAiEjgAFJ9GG2Ak8V2VbO8Dl1iT%2BSkQ#rd) &#127381;
+![300万](/pic/300test.jpg)
 
 - [**2020-03-31 2分钟血清学检测获FDA紧急使用授权，腾盛博药合作开发中和抗体**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992739&idx=2&sn=bb30013d2d6aebc8f31b9a46e57e4c0b&chksm=82e928a3b59ea1b504083169967c64e62ece232fe768e7e236a2b49b6246c11a2a2ca225127c&mpshare=1&scene=1&srcid=&sharer_sharetime=1585704914132&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al20%2BRB1XWj8%2F%2BTYlpFPspY%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
 ![2分钟](/pic/2min.jpg)
@@ -384,6 +387,9 @@
  ***
  
 ## 研究进展
+
+- [**2020-04-17 一周COVID-19重要研究：45分钟检测核酸的CRISPR技术，患者出现症状3天前便可排出病毒**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498371&idx=1&sn=b3b79f87f04e02bfdd481fed4c0b7214&chksm=ec1d59d0db6ad0c680de63c7449d5580e6f464a31e6105c660d639e8d0d911e01493712ce9e6&mpshare=1&scene=1&srcid=&sharer_sharetime=1587115395077&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=AmuXClZ9Oi4JmoRUcHlN24I%3D&pass_ticket=R735S6EYkfc%2B%2FTVQdkXRiQ%2BBJ%2BV%2FY%2BkbIpAiEjgAFJ9GG2Ak8V2VbO8Dl1iT%2BSkQ#rd) &#127381;
+![crispr](/pic/crispr.jpg)
 
 - [**2020-04-17 COVID-19 Antibody Seroprevalence in Santa Clara County, California**](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1) &#127381;
 "Coronavirus random sampling study from Stanford. They found the infection is 50-85 x more common than previously thought & fatality rate accordingly 50-85 x lower than the crude numbers would suggest."
