@@ -385,10 +385,14 @@
  
 ## 研究进展
 
-- [**2020-04-16 CDC reviewing ‘stunning’ universal testing results from Boston homeless shelter**](https://www.boston25news.com/news/cdc-reviewing-stunning-universal-testing-results-boston-homeless-shelter/Z253TFBO6RG4HCUAARBO4YWO64/) &#127381;
+- [**2020-04-17 COVID-19 Antibody Seroprevalence in Santa Clara County, California**](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1) &#127381;
+"Coronavirus random sampling study from Stanford. They found the infection is 50-85 x more common than previously thought & fatality rate accordingly 50-85 x lower than the crude numbers would suggest."
+![clara](/pic/clara.jpg)
+
+- [**2020-04-16 CDC reviewing ‘stunning’ universal testing results from Boston homeless shelter**](https://www.boston25news.com/news/cdc-reviewing-stunning-universal-testing-results-boston-homeless-shelter/Z253TFBO6RG4HCUAARBO4YWO64/)
 ![boston](/pic/boston.jpg)
 
-- [**2020-04-16 140-Plus Coronavirus Survivors Retest Positive For Disease In South Korea, Raising Questions About Immunity**](https://www.forbes.com/sites/alexandrasternlicht/2020/04/16/140-plus-coronavirus-survivors-retest-positive-for-disease-in-south-korea-raising-questions-about-immunity/#664496d718ad) &#127381;
+- [**2020-04-16 140-Plus Coronavirus Survivors Retest Positive For Disease In South Korea, Raising Questions About Immunity**](https://www.forbes.com/sites/alexandrasternlicht/2020/04/16/140-plus-coronavirus-survivors-retest-positive-for-disease-in-south-korea-raising-questions-about-immunity/#664496d718ad)
 ![immunity](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/immunity.jpg)
 
 - [**2020-04-15 吃了蝙蝠的流浪狗，可能才是人类感染新冠病毒的源头！**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247498510&idx=2&sn=d50fd288c6500e694a7490dc40053e9e&chksm=fbf60fdbcc8186cdafd98ae01af41b6191a301de3f9643cefe19b714959c78d1d587fdb92e31&mpshare=1&scene=1&srcid=&sharer_sharetime=1586921023137&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqdXiN8yGmI4HOjCTtpBcBQ%3D&pass_ticket=NQsSvG%2F9oChuMMahd%2BClsvRqaS4ELzdyrxvSBRApi0tQ8e%2FuUQl%2F4PP0f5RPVERe#rd)
