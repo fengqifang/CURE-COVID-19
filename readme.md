@@ -104,6 +104,12 @@
  
 ## 治疗方案
 
+- [**2020-04-16 Early peek at data on Gilead coronavirus drug suggests patients are responding to treatment**](https://www.statnews.com/2020/04/16/early-peek-at-data-on-gilead-coronavirus-drug-suggests-patients-are-responding-to-treatment/?from=timeline&isappinstalled=0) &#127381;
+![earlypeek](/pic/peek.jpg)
+
+- [**2020-04-16 Dow futures rally more than 800 points after Gilead coronavirus drug reportedly shows effectiveness**](https://www.cnbc.com/2020/04/16/sp-500-etf-jumps-2percent-after-hours-on-report-gilead-drug-showing-effectiveness-treating-coronavirus.html?__source=iosappshare%7Ccom.tencent.xin.sharetimeline&from=groupmessage&isappinstalled=0) &#127381;
+![dow](/pic/dow.jpg)
+
 - [**2020-04-15 萘莫司他抑制SARS-CoV-2感染，阻止COVID-19传播**](https://mp.weixin.qq.com/s?__biz=MzU2ODU3Mzc4Nw==&mid=2247484936&idx=2&sn=2f44e6e4216bbee7dc398b09b85cd109&chksm=fc8aac3ccbfd252a9ec9e7f1d90b7008e329bf65f94601503222e5f23e9e94e148389e358f88&mpshare=1&scene=1&srcid=&sharer_sharetime=1586959477341&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkyIB3CAwIyP1CWFPWD4xTQ%3D&pass_ticket=NQsSvG%2F9oChuMMahd%2BClsvRqaS4ELzdyrxvSBRApi0tQ8e%2FuUQl%2F4PP0f5RPVERe#rd) &#127381;
 ![萘莫司他](/pic/fusan.jpg)
 
@@ -234,7 +240,7 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-04-15 疫苗妥了？一文解读我国新冠疫苗研发进展**](https://mp.weixin.qq.com/s?__biz=MzI4NjUyOTI2MA==&mid=2247484594&idx=1&sn=ea675a7ac9ad4a0166975fcdd7b46ad7&chksm=ebdac731dcad4e27e28d137004fd8a0356280d082e03d875847b39c1dccce5c0f25655ee43fc&mpshare=1&scene=1&srcid=0415el6CfaOX217DOjJDxtUK&sharer_sharetime=1586956157559&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmuQ3A54GrdCqmUgMMKxphc%3D&pass_ticket=NQsSvG%2F9oChuMMahd%2BClsvRqaS4ELzdyrxvSBRApi0tQ8e%2FuUQl%2F4PP0f5RPVERe#rd) &#127381;
+- [**2020-04-15 疫苗妥了？一文解读我国新冠疫苗研发进展**](https://mp.weixin.qq.com/s?__biz=MzI4NjUyOTI2MA==&mid=2247484594&idx=1&sn=ea675a7ac9ad4a0166975fcdd7b46ad7&chksm=ebdac731dcad4e27e28d137004fd8a0356280d082e03d875847b39c1dccce5c0f25655ee43fc&mpshare=1&scene=1&srcid=0415el6CfaOX217DOjJDxtUK&sharer_sharetime=1586956157559&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmuQ3A54GrdCqmUgMMKxphc%3D&pass_ticket=NQsSvG%2F9oChuMMahd%2BClsvRqaS4ELzdyrxvSBRApi0tQ8e%2FuUQl%2F4PP0f5RPVERe#rd)
 ![我国新冠疫苗](/pic/chinesevaccine.jpg)
 
 - [**2020-04-14 Moderna举办首届疫苗日，传染病疫苗将成为mRNA技术突破口？（附报告PPT）**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649993059&idx=1&sn=410b248075007bf351cc2b04e67c205e&chksm=82e929e3b59ea0f5180596e72afcf12932ebecc52cff1eba784c5c67832a26084b6ea5ecb9c8&mpshare=1&scene=1&srcid=&sharer_sharetime=1586911196707&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Atv1KeI1AmCbx%2F6BmrT1TpA%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd)
@@ -379,7 +385,13 @@
  
 ## 研究进展
 
-- [**2020-04-15 吃了蝙蝠的流浪狗，可能才是人类感染新冠病毒的源头！**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247498510&idx=2&sn=d50fd288c6500e694a7490dc40053e9e&chksm=fbf60fdbcc8186cdafd98ae01af41b6191a301de3f9643cefe19b714959c78d1d587fdb92e31&mpshare=1&scene=1&srcid=&sharer_sharetime=1586921023137&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqdXiN8yGmI4HOjCTtpBcBQ%3D&pass_ticket=NQsSvG%2F9oChuMMahd%2BClsvRqaS4ELzdyrxvSBRApi0tQ8e%2FuUQl%2F4PP0f5RPVERe#rd) &#127381;
+- [**2020-04-16 CDC reviewing ‘stunning’ universal testing results from Boston homeless shelter**](https://www.boston25news.com/news/cdc-reviewing-stunning-universal-testing-results-boston-homeless-shelter/Z253TFBO6RG4HCUAARBO4YWO64/) &#127381;
+![boston](/pic/boston.jpg)
+
+- [**2020-04-16 140-Plus Coronavirus Survivors Retest Positive For Disease In South Korea, Raising Questions About Immunity**](https://www.forbes.com/sites/alexandrasternlicht/2020/04/16/140-plus-coronavirus-survivors-retest-positive-for-disease-in-south-korea-raising-questions-about-immunity/#664496d718ad) &#127381;
+![immunity](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/immunity.jpg)
+
+- [**2020-04-15 吃了蝙蝠的流浪狗，可能才是人类感染新冠病毒的源头！**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247498510&idx=2&sn=d50fd288c6500e694a7490dc40053e9e&chksm=fbf60fdbcc8186cdafd98ae01af41b6191a301de3f9643cefe19b714959c78d1d587fdb92e31&mpshare=1&scene=1&srcid=&sharer_sharetime=1586921023137&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqdXiN8yGmI4HOjCTtpBcBQ%3D&pass_ticket=NQsSvG%2F9oChuMMahd%2BClsvRqaS4ELzdyrxvSBRApi0tQ8e%2FuUQl%2F4PP0f5RPVERe#rd)
 ![dog](/pic/dog.jpg)
 
 - [**2020-04-11 华中、复旦、哈佛三校联合发文证明武汉市公共卫生干预措施的有效性**](https://mp.weixin.qq.com/s?__biz=MzIzMTY2MTAzMA==&mid=2247487693&idx=1&sn=01d80283a1bf6098fae8c9aa77bda578&chksm=e8a19c44dfd615521922588af4eaf49dbf3483b7c3368c83a42428e96a6be577fecc1b650efb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586695445405&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlmJeeGgq8gW7iLQ6DmQvsk%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
@@ -542,7 +554,13 @@
  
 ## 其他
 
-- [**2020-04-15 How John Burn-Murdoch’s Influential Dataviz Helped The World Understand Coronavirus**](https://medium.com/nightingale/how-john-burn-murdochs-influential-dataviz-helped-the-world-understand-coronavirus-6cb4a09795ae) &#127381;
+- [**2020-04-16 暴增728例，累计4427 | 总理夫人：新加坡低估了新冠，正为此付出代价**](https://mp.weixin.qq.com/s?__biz=MzU4NTU0MDgzOA==&mid=2247614360&idx=1&sn=cccb755de9dcd1a9adfab5bf9e596548&chksm=fd8b8a11cafc03073c999552c0357b9b88887537d32e6875a46d118010991a4f30b1a152be31&mpshare=1&scene=1&srcid=&sharer_sharetime=1587084152826&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiKL%2BFQxyIDvltwkSRxYsK0%3D&pass_ticket=LPv95jsz8u8JROsRqFCMS9SlwzFfrUYNjp%2Fil%2B7UnMdvOA7kvtlzu4y%2BwyWKCXed#rd) &#127381;
+![新加坡](/pic/singapore.jpg)
+
+- [**2020-04-16 The Metric We Need to Manage COVID-19**](http://systrom.com/blog/the-metric-we-need-to-manage-covid-19/) &#127381;
+![metric](/pic/metric.png)
+
+- [**2020-04-15 How John Burn-Murdoch’s Influential Dataviz Helped The World Understand Coronavirus**](https://medium.com/nightingale/how-john-burn-murdochs-influential-dataviz-helped-the-world-understand-coronavirus-6cb4a09795ae)
 ![dataviz](https://miro.medium.com/max/2000/1*zay5rHO0oS97-e7nxR-t2g.png)
 
 - [**2020-04-14 网民强烈要求美国重查去年“流感”样品，美国还真查了！结果是...**](https://mp.weixin.qq.com/s?__biz=Mzg2MDIzOTgxMw==&mid=2247483872&idx=1&sn=7089f4aae2187cc14e9fb7ab126edc18&chksm=ce28234af95faa5cf722f5472a07bfa11d4606d7d9f9f97758cc163597988cb2f416893ee53b&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872484723&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlRTjGZ45STOea8VMEw6buM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd)
