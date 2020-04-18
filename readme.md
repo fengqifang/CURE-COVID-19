@@ -75,7 +75,7 @@
  ***
  
 ## 检测试剂**
-()
+
 - [**2020-04-17 检测、检测、检测！一个月300万，这个输出是怎么做到的？**](https://mp.weixin.qq.com/s?__biz=MzI0NjcxNzYxNw==&mid=2247486475&idx=1&sn=5a815f66f4ffc534285ab9e4c9260c48&chksm=e9ba41d5decdc8c386d6851026e89bda93a7f9487935a858e46647bd80c351e7231795014b9c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587129295949&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apc9kS98F9jPSVh%2F7Teho5A%3D&pass_ticket=R735S6EYkfc%2B%2FTVQdkXRiQ%2BBJ%2BV%2FY%2BkbIpAiEjgAFJ9GG2Ak8V2VbO8Dl1iT%2BSkQ#rd) &#127381;
 ![300万](/pic/300test.jpg)
 
@@ -107,7 +107,10 @@
  
 ## 治疗方案
 
-- [**2020-04-16 Early peek at data on Gilead coronavirus drug suggests patients are responding to treatment**](https://www.statnews.com/2020/04/16/early-peek-at-data-on-gilead-coronavirus-drug-suggests-patients-are-responding-to-treatment/?from=timeline&isappinstalled=0) &#127381;
+- [**2020-04-17 第一个瑞德西韦治疗新冠病毒的临床前研究发表，解释了很多之前令我们困惑的问题**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488692&idx=1&sn=79da695f35be25cc4cbf5706dab130f1&chksm=f9801ef1cef797e74060d97da8d435c9957d27236322b0f549b1db317691b9dd2f8d23bf2b39&mpshare=1&scene=1&srcid=0418EfjOaRNl9yQQuDtxoQOj&sharer_sharetime=1587177188306&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=Alpqkt1Qzm48d5jIbwN9zQo%3D&pass_ticket=dzndnC5Gk%2FOW7VTaz00qrmXOG68n1oDW2AhdP3HgnXoQMbsrdON8F0UJSytZPWMO#rd) &#127381;
+![临床前研究](/pic/preclinic.jpg)
+
+- [**2020-04-16 Early peek at data on Gilead coronavirus drug suggests patients are responding to treatment**](https://www.statnews.com/2020/04/16/early-peek-at-data-on-gilead-coronavirus-drug-suggests-patients-are-responding-to-treatment/?from=timeline&isappinstalled=0)
 ![earlypeek](/pic/peek.jpg)
 
 - [**2020-04-16 Dow futures rally more than 800 points after Gilead coronavirus drug reportedly shows effectiveness**](https://www.cnbc.com/2020/04/16/sp-500-etf-jumps-2percent-after-hours-on-report-gilead-drug-showing-effectiveness-treating-coronavirus.html?__source=iosappshare%7Ccom.tencent.xin.sharetimeline&from=groupmessage&isappinstalled=0) &#127381;
@@ -242,6 +245,12 @@
  ***
 
 ## 疫苗相关／新药开发
+
+- [**2020-04-17 深度：新冠神药与疫苗那些事**](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247506258&idx=7&sn=9629a8a2c0ebe5842990750fed3b19ee&chksm=a6e231299195b83fae254eb6211ce3466a0de8044fecd2a280a113d52e6e4584b5ab049fa4e7&mpshare=1&scene=1&srcid=&sharer_sharetime=1587168344960&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AveiDqGCudnG1%2BghrLR7cdQ%3D&pass_ticket=dzndnC5Gk%2FOW7VTaz00qrmXOG68n1oDW2AhdP3HgnXoQMbsrdON8F0UJSytZPWMO#rd) &#127381;
+![深度](/pic/stories.jpg)
+
+- [**2020-04-17 8款新冠潜在有效药制造成本！低到难以想象！**](https://mp.weixin.qq.com/s?__biz=MjM5MzU5MzUwNQ==&mid=2652045218&idx=7&sn=23645a7e41b36708e8364da7477e498f&chksm=bd72fe6c8a05777a5c33cbd297f31b2ed2b496d5f361a461608aec3a8bfe0627ab80e40a5118&mpshare=1&scene=1&srcid=&sharer_sharetime=1587168269825&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlLV%2F%2B3n9%2Fnd9W3DAnO2E5Y%3D&pass_ticket=dzndnC5Gk%2FOW7VTaz00qrmXOG68n1oDW2AhdP3HgnXoQMbsrdON8F0UJSytZPWMO#rd) &#127381;
+![新冠潜在有效药](/pic/8drugs.jpg)
 
 - [**2020-04-15 疫苗妥了？一文解读我国新冠疫苗研发进展**](https://mp.weixin.qq.com/s?__biz=MzI4NjUyOTI2MA==&mid=2247484594&idx=1&sn=ea675a7ac9ad4a0166975fcdd7b46ad7&chksm=ebdac731dcad4e27e28d137004fd8a0356280d082e03d875847b39c1dccce5c0f25655ee43fc&mpshare=1&scene=1&srcid=0415el6CfaOX217DOjJDxtUK&sharer_sharetime=1586956157559&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmuQ3A54GrdCqmUgMMKxphc%3D&pass_ticket=NQsSvG%2F9oChuMMahd%2BClsvRqaS4ELzdyrxvSBRApi0tQ8e%2FuUQl%2F4PP0f5RPVERe#rd)
 ![我国新冠疫苗](/pic/chinesevaccine.jpg)
@@ -564,10 +573,10 @@
  
 ## 其他
 
-- [**2020-04-16 暴增728例，累计4427 | 总理夫人：新加坡低估了新冠，正为此付出代价**](https://mp.weixin.qq.com/s?__biz=MzU4NTU0MDgzOA==&mid=2247614360&idx=1&sn=cccb755de9dcd1a9adfab5bf9e596548&chksm=fd8b8a11cafc03073c999552c0357b9b88887537d32e6875a46d118010991a4f30b1a152be31&mpshare=1&scene=1&srcid=&sharer_sharetime=1587084152826&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiKL%2BFQxyIDvltwkSRxYsK0%3D&pass_ticket=LPv95jsz8u8JROsRqFCMS9SlwzFfrUYNjp%2Fil%2B7UnMdvOA7kvtlzu4y%2BwyWKCXed#rd) &#127381;
+- [**2020-04-16 暴增728例，累计4427 | 总理夫人：新加坡低估了新冠，正为此付出代价**](https://mp.weixin.qq.com/s?__biz=MzU4NTU0MDgzOA==&mid=2247614360&idx=1&sn=cccb755de9dcd1a9adfab5bf9e596548&chksm=fd8b8a11cafc03073c999552c0357b9b88887537d32e6875a46d118010991a4f30b1a152be31&mpshare=1&scene=1&srcid=&sharer_sharetime=1587084152826&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiKL%2BFQxyIDvltwkSRxYsK0%3D&pass_ticket=LPv95jsz8u8JROsRqFCMS9SlwzFfrUYNjp%2Fil%2B7UnMdvOA7kvtlzu4y%2BwyWKCXed#rd)
 ![新加坡](/pic/singapore.jpg)
 
-- [**2020-04-16 The Metric We Need to Manage COVID-19**](http://systrom.com/blog/the-metric-we-need-to-manage-covid-19/) &#127381;
+- [**2020-04-16 The Metric We Need to Manage COVID-19**](http://systrom.com/blog/the-metric-we-need-to-manage-covid-19/)
 ![metric](/pic/metric.png)
 
 - [**2020-04-15 How John Burn-Murdoch’s Influential Dataviz Helped The World Understand Coronavirus**](https://medium.com/nightingale/how-john-burn-murdochs-influential-dataviz-helped-the-world-understand-coronavirus-6cb4a09795ae)
