@@ -107,7 +107,10 @@
  
 ## 治疗方案
 
-- [**2020-04-17 第一个瑞德西韦治疗新冠病毒的临床前研究发表，解释了很多之前令我们困惑的问题**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488692&idx=1&sn=79da695f35be25cc4cbf5706dab130f1&chksm=f9801ef1cef797e74060d97da8d435c9957d27236322b0f549b1db317691b9dd2f8d23bf2b39&mpshare=1&scene=1&srcid=0418EfjOaRNl9yQQuDtxoQOj&sharer_sharetime=1587177188306&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=Alpqkt1Qzm48d5jIbwN9zQo%3D&pass_ticket=dzndnC5Gk%2FOW7VTaz00qrmXOG68n1oDW2AhdP3HgnXoQMbsrdON8F0UJSytZPWMO#rd) &#127381;
+- [**2020-04-19 瑞德西韦在华临床试验被迫终止，近300项研究蜂拥而上，专家呼吁建立国家级临床试验网络**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649585745&idx=1&sn=5c36200a9f1ecf9e90a4c298513437fa&chksm=876a6c48b01de55e9d1578af8f714fae63b7bb89e55e2bcb45f4edbbfe7876f80002c412084bmpshare=1&scene=1&srcid=&sharer_sharetime=1587310053088&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Agk%2BB%2Bi12wgBLJYWgLqIV%2Bo%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+![被迫终止](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/term.jpg)
+
+- [**2020-04-17 第一个瑞德西韦治疗新冠病毒的临床前研究发表，解释了很多之前令我们困惑的问题**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488692&idx=1&sn=79da695f35be25cc4cbf5706dab130f1&chksm=f9801ef1cef797e74060d97da8d435c9957d27236322b0f549b1db317691b9dd2f8d23bf2b39&mpshare=1&scene=1&srcid=0418EfjOaRNl9yQQuDtxoQOj&sharer_sharetime=1587177188306&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=Alpqkt1Qzm48d5jIbwN9zQo%3D&pass_ticket=dzndnC5Gk%2FOW7VTaz00qrmXOG68n1oDW2AhdP3HgnXoQMbsrdON8F0UJSytZPWMO#rd)
 ![临床前研究](/pic/preclinic.jpg)
 
 - [**2020-04-16 Early peek at data on Gilead coronavirus drug suggests patients are responding to treatment**](https://www.statnews.com/2020/04/16/early-peek-at-data-on-gilead-coronavirus-drug-suggests-patients-are-responding-to-treatment/?from=timeline&isappinstalled=0)
@@ -192,6 +195,12 @@
  
 ## 氯喹专题
 
+- [**2020-04-20 诺华将启动羟氯喹治疗COVID-19大型III期临床试验**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=2247496742&idx=5&sn=cc26524679bfca21b328de6bbd2d73b9&chksm=fc76c792cb014e84b3e719526efd920ef15f897ea9e0876d335ef8ae2c60bd0a7e1127fd841b&mpshare=1&scene=1&srcid=&sharer_sharetime=1587391612887&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj2QZVYTRkuRyoANwBpvRPU%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381; 
+![诺华](/pic/novartis.jpg)
+
+- [**2020-04-19 法国又一项对照研究发表，“神药”羟氯喹还值得期待吗？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488720&idx=1&sn=f65bab0c4ae6435d6de3a913e7a7c7e2&chksm=f9801e95cef79783306678f9c10ab4b26cc2ebae3a155dc3e08dad9f4b0e86b9c5a58597c373&mpshare=1&scene=1&srcid=&sharer_sharetime=1587266497485&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AkbfB1foowazz4mFy0QIUAE%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+![france](/pic/france.jpg)
+
 - [**2020-04-12 最新证据！氯喹治疗COVID-19：高剂量组存在安全隐患，有死亡率更高的趋势**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488933&idx=1&sn=dc9ee45f56da122a3087b85d75c38590&chksm=fb8828e6ccffa1f0757ef9573c5e9ebf3cc5dfc1996170b65be89f81f4ee93a3cbd5ee9c5775&mpshare=1&scene=1&srcid=&sharer_sharetime=1586739226651&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aqng4Niq1By2ZOoXuF36RHs%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
 ![高剂量](/pic/dosage.jpg)
 
@@ -246,10 +255,13 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-04-17 深度：新冠神药与疫苗那些事**](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247506258&idx=7&sn=9629a8a2c0ebe5842990750fed3b19ee&chksm=a6e231299195b83fae254eb6211ce3466a0de8044fecd2a280a113d52e6e4584b5ab049fa4e7&mpshare=1&scene=1&srcid=&sharer_sharetime=1587168344960&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AveiDqGCudnG1%2BghrLR7cdQ%3D&pass_ticket=dzndnC5Gk%2FOW7VTaz00qrmXOG68n1oDW2AhdP3HgnXoQMbsrdON8F0UJSytZPWMO#rd) &#127381;
+- [**2020-04-18 第一批32名志愿者完成接种，全球首个新冠灭活疫苗研发为何如此迅速？**](https://mp.weixin.qq.com/s?__biz=MzAxMDU0MDYwMQ==&mid=2653030261&idx=2&sn=b1b35bc9e4163b5fafd7960acdd8a102&chksm=80986423b7efed359d41f0f3bdbf3e0e1534e90cca9b7bcd42bc14caa77c50973d4217373d3c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277035855&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj1ZoAMPzAHgoORND0OyqnA%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+![全球首个新冠灭活疫苗](/pic/firstvac.jpg)
+
+- [**2020-04-17 深度：新冠神药与疫苗那些事**](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247506258&idx=7&sn=9629a8a2c0ebe5842990750fed3b19ee&chksm=a6e231299195b83fae254eb6211ce3466a0de8044fecd2a280a113d52e6e4584b5ab049fa4e7&mpshare=1&scene=1&srcid=&sharer_sharetime=1587168344960&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AveiDqGCudnG1%2BghrLR7cdQ%3D&pass_ticket=dzndnC5Gk%2FOW7VTaz00qrmXOG68n1oDW2AhdP3HgnXoQMbsrdON8F0UJSytZPWMO#rd) 
 ![深度](/pic/stories.jpg)
 
-- [**2020-04-17 8款新冠潜在有效药制造成本！低到难以想象！**](https://mp.weixin.qq.com/s?__biz=MjM5MzU5MzUwNQ==&mid=2652045218&idx=7&sn=23645a7e41b36708e8364da7477e498f&chksm=bd72fe6c8a05777a5c33cbd297f31b2ed2b496d5f361a461608aec3a8bfe0627ab80e40a5118&mpshare=1&scene=1&srcid=&sharer_sharetime=1587168269825&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlLV%2F%2B3n9%2Fnd9W3DAnO2E5Y%3D&pass_ticket=dzndnC5Gk%2FOW7VTaz00qrmXOG68n1oDW2AhdP3HgnXoQMbsrdON8F0UJSytZPWMO#rd) &#127381;
+- [**2020-04-17 8款新冠潜在有效药制造成本！低到难以想象！**](https://mp.weixin.qq.com/s?__biz=MjM5MzU5MzUwNQ==&mid=2652045218&idx=7&sn=23645a7e41b36708e8364da7477e498f&chksm=bd72fe6c8a05777a5c33cbd297f31b2ed2b496d5f361a461608aec3a8bfe0627ab80e40a5118&mpshare=1&scene=1&srcid=&sharer_sharetime=1587168269825&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlLV%2F%2B3n9%2Fnd9W3DAnO2E5Y%3D&pass_ticket=dzndnC5Gk%2FOW7VTaz00qrmXOG68n1oDW2AhdP3HgnXoQMbsrdON8F0UJSytZPWMO#rd)
 ![新冠潜在有效药](/pic/8drugs.jpg)
 
 - [**2020-04-15 疫苗妥了？一文解读我国新冠疫苗研发进展**](https://mp.weixin.qq.com/s?__biz=MzI4NjUyOTI2MA==&mid=2247484594&idx=1&sn=ea675a7ac9ad4a0166975fcdd7b46ad7&chksm=ebdac731dcad4e27e28d137004fd8a0356280d082e03d875847b39c1dccce5c0f25655ee43fc&mpshare=1&scene=1&srcid=0415el6CfaOX217DOjJDxtUK&sharer_sharetime=1586956157559&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmuQ3A54GrdCqmUgMMKxphc%3D&pass_ticket=NQsSvG%2F9oChuMMahd%2BClsvRqaS4ELzdyrxvSBRApi0tQ8e%2FuUQl%2F4PP0f5RPVERe#rd)
@@ -397,10 +409,14 @@
  
 ## 研究进展
 
-- [**2020-04-17 一周COVID-19重要研究：45分钟检测核酸的CRISPR技术，患者出现症状3天前便可排出病毒**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498371&idx=1&sn=b3b79f87f04e02bfdd481fed4c0b7214&chksm=ec1d59d0db6ad0c680de63c7449d5580e6f464a31e6105c660d639e8d0d911e01493712ce9e6&mpshare=1&scene=1&srcid=&sharer_sharetime=1587115395077&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=AmuXClZ9Oi4JmoRUcHlN24I%3D&pass_ticket=R735S6EYkfc%2B%2FTVQdkXRiQ%2BBJ%2BV%2FY%2BkbIpAiEjgAFJ9GG2Ak8V2VbO8Dl1iT%2BSkQ#rd) &#127381;
+- [**2020-04-18 和人一样，猕猴也有无症状感染！它们将为研究新冠疗法和疫苗提供帮助**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498411&idx=1&sn=16982e674608270fa1fd0d4815b0082c&chksm=ec1d59f8db6ad0ee40301493519c33c66558ef37cddf0c684c25b751ab74588eacdaa42c0b11&mpshare=1&scene=1&srcid=&sharer_sharetime=1587340866347&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=Aqxa77OSvq%2B9m2HaovMrl6c%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+![monkey]()
+
+
+- [**2020-04-17 一周COVID-19重要研究：45分钟检测核酸的CRISPR技术，患者出现症状3天前便可排出病毒**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498371&idx=1&sn=b3b79f87f04e02bfdd481fed4c0b7214&chksm=ec1d59d0db6ad0c680de63c7449d5580e6f464a31e6105c660d639e8d0d911e01493712ce9e6&mpshare=1&scene=1&srcid=&sharer_sharetime=1587115395077&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=AmuXClZ9Oi4JmoRUcHlN24I%3D&pass_ticket=R735S6EYkfc%2B%2FTVQdkXRiQ%2BBJ%2BV%2FY%2BkbIpAiEjgAFJ9GG2Ak8V2VbO8Dl1iT%2BSkQ#rd)
 ![crispr](/pic/crispr.jpg)
 
-- [**2020-04-17 COVID-19 Antibody Seroprevalence in Santa Clara County, California**](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1) &#127381;
+- [**2020-04-17 COVID-19 Antibody Seroprevalence in Santa Clara County, California**](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1)
 "Coronavirus random sampling study from Stanford. They found the infection is 50-85 x more common than previously thought & fatality rate accordingly 50-85 x lower than the crude numbers would suggest."
 ![clara](/pic/clara.jpg)
 
@@ -572,6 +588,12 @@
  ***
  
 ## 其他
+
+- [**2020-04-19 佛系生活，救了日本**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652016030&idx=1&sn=d0094266682b23457bea4788d4a59376&chksm=bd0f77c38a78fed54576c6891728eac2fb734427357d442b9965b95cf7e1e5075b09f01ccf07&mpshare=1&scene=1&srcid=&sharer_sharetime=1587356407103&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvqVYG5YfUfIATXBF34wWLg%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+![佛系生活](/pic/fo.jpg)
+
+- [**2020-04-18 CAR-T之父Carl June教授感染新冠后康复，将全力挑战COVID-19！**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247519898&idx=4&sn=56fd4385a60ddaf8ef4ef775882a0966&chksm=ecb3367cdbc4bf6aa53f0e53538cbe579efe45dec5e5981db4162a4331d558c272093af6ae05&mpshare=1&scene=1&srcid=&sharer_sharetime=1587343328547&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=At0NyV4jefy%2FCGWOXJ68Xns%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+![carljune](/pic/carljune.jpg)
 
 - [**2020-04-16 暴增728例，累计4427 | 总理夫人：新加坡低估了新冠，正为此付出代价**](https://mp.weixin.qq.com/s?__biz=MzU4NTU0MDgzOA==&mid=2247614360&idx=1&sn=cccb755de9dcd1a9adfab5bf9e596548&chksm=fd8b8a11cafc03073c999552c0357b9b88887537d32e6875a46d118010991a4f30b1a152be31&mpshare=1&scene=1&srcid=&sharer_sharetime=1587084152826&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiKL%2BFQxyIDvltwkSRxYsK0%3D&pass_ticket=LPv95jsz8u8JROsRqFCMS9SlwzFfrUYNjp%2Fil%2B7UnMdvOA7kvtlzu4y%2BwyWKCXed#rd)
 ![新加坡](/pic/singapore.jpg)
