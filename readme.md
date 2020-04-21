@@ -597,6 +597,7 @@
 ## 其他
 
 - [**2020-04-19 佛系生活，救了日本**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652016030&idx=1&sn=d0094266682b23457bea4788d4a59376&chksm=bd0f77c38a78fed54576c6891728eac2fb734427357d442b9965b95cf7e1e5075b09f01ccf07&mpshare=1&scene=1&srcid=&sharer_sharetime=1587356407103&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvqVYG5YfUfIATXBF34wWLg%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+
 ![佛系生活](/pic/fo.jpg)
 
 - [**2020-04-18 CAR-T之父Carl June教授感染新冠后康复，将全力挑战COVID-19！**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247519898&idx=4&sn=56fd4385a60ddaf8ef4ef775882a0966&chksm=ecb3367cdbc4bf6aa53f0e53538cbe579efe45dec5e5981db4162a4331d558c272093af6ae05&mpshare=1&scene=1&srcid=&sharer_sharetime=1587343328547&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=At0NyV4jefy%2FCGWOXJ68Xns%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
