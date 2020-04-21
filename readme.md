@@ -38,6 +38,8 @@
 
 ## 疫情地图
 
+- [**An interactive visualization of the exponential spread of COVID-19**](http://91-divoc.com/pages/covid-visualization/) &#127381;
+
 - [**Apple Mobility Trends Reports**](https://www.apple.com/covid19/mobility)
 
 - [**See how your community is moving around differently due to COVID-19**](https://www.google.com/covid19/mobility/)
@@ -76,7 +78,7 @@
  
 ## 检测试剂**
 
-- [**2020-04-17 检测、检测、检测！一个月300万，这个输出是怎么做到的？**](https://mp.weixin.qq.com/s?__biz=MzI0NjcxNzYxNw==&mid=2247486475&idx=1&sn=5a815f66f4ffc534285ab9e4c9260c48&chksm=e9ba41d5decdc8c386d6851026e89bda93a7f9487935a858e46647bd80c351e7231795014b9c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587129295949&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apc9kS98F9jPSVh%2F7Teho5A%3D&pass_ticket=R735S6EYkfc%2B%2FTVQdkXRiQ%2BBJ%2BV%2FY%2BkbIpAiEjgAFJ9GG2Ak8V2VbO8Dl1iT%2BSkQ#rd) &#127381;
+- [**2020-04-17 检测、检测、检测！一个月300万，这个输出是怎么做到的？**](https://mp.weixin.qq.com/s?__biz=MzI0NjcxNzYxNw==&mid=2247486475&idx=1&sn=5a815f66f4ffc534285ab9e4c9260c48&chksm=e9ba41d5decdc8c386d6851026e89bda93a7f9487935a858e46647bd80c351e7231795014b9c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587129295949&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apc9kS98F9jPSVh%2F7Teho5A%3D&pass_ticket=R735S6EYkfc%2B%2FTVQdkXRiQ%2BBJ%2BV%2FY%2BkbIpAiEjgAFJ9GG2Ak8V2VbO8Dl1iT%2BSkQ#rd)
 ![300万](/pic/300test.jpg)
 
 - [**2020-03-31 2分钟血清学检测获FDA紧急使用授权，腾盛博药合作开发中和抗体**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649992739&idx=2&sn=bb30013d2d6aebc8f31b9a46e57e4c0b&chksm=82e928a3b59ea1b504083169967c64e62ece232fe768e7e236a2b49b6246c11a2a2ca225127c&mpshare=1&scene=1&srcid=&sharer_sharetime=1585704914132&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al20%2BRB1XWj8%2F%2BTYlpFPspY%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
@@ -255,6 +257,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-04-20 中国医科院成功研制出新冠病毒灭活疫苗，系第一个COVID-19疫苗的公开数据**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488743&idx=2&sn=140f80561c6a3fe16a6ae3d455c98868&chksm=f9801ea2cef797b40ffba2be6c1d355a0eedca03972849b37abfbb6fede4b38b5e272afa0735&mpshare=1&scene=1&srcid=&sharer_sharetime=1587430021518&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap16ixWQ9xrAZ0x1mktWhv8%3D&pass_ticket=gmQb7jm8rmUNOrhE3L7Em42JTd0rJuMorXsW6K2kO61Log703BejvT18YaXtlXzF#rd) &#127381;
+![公开数据](/pic/rapid.jpg)
+
 - [**2020-04-18 第一批32名志愿者完成接种，全球首个新冠灭活疫苗研发为何如此迅速？**](https://mp.weixin.qq.com/s?__biz=MzAxMDU0MDYwMQ==&mid=2653030261&idx=2&sn=b1b35bc9e4163b5fafd7960acdd8a102&chksm=80986423b7efed359d41f0f3bdbf3e0e1534e90cca9b7bcd42bc14caa77c50973d4217373d3c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277035855&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj1ZoAMPzAHgoORND0OyqnA%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
 ![全球首个新冠灭活疫苗](/pic/firstvac.jpg)
 
@@ -409,9 +414,11 @@
  
 ## 研究进展
 
-- [**2020-04-18 和人一样，猕猴也有无症状感染！它们将为研究新冠疗法和疫苗提供帮助**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498411&idx=1&sn=16982e674608270fa1fd0d4815b0082c&chksm=ec1d59f8db6ad0ee40301493519c33c66558ef37cddf0c684c25b751ab74588eacdaa42c0b11&mpshare=1&scene=1&srcid=&sharer_sharetime=1587340866347&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=Aqxa77OSvq%2B9m2HaovMrl6c%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
-![monkey]()
+- [**2020-04-20 Antibiotic treatment for COVID-19 complications could fuel resistant bacteria**](https://www.sciencemag.org/news/2020/04/antibiotic-treatment-covid-19-complications-could-fuel-resistant-bacteria) &#127381;
+![antibiotic](/pic/antibiotic.jpg)
 
+- [**2020-04-18 和人一样，猕猴也有无症状感染！它们将为研究新冠疗法和疫苗提供帮助**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498411&idx=1&sn=16982e674608270fa1fd0d4815b0082c&chksm=ec1d59f8db6ad0ee40301493519c33c66558ef37cddf0c684c25b751ab74588eacdaa42c0b11&mpshare=1&scene=1&srcid=&sharer_sharetime=1587340866347&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=Aqxa77OSvq%2B9m2HaovMrl6c%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+![monkey](/pic/monkey.jpg)
 
 - [**2020-04-17 一周COVID-19重要研究：45分钟检测核酸的CRISPR技术，患者出现症状3天前便可排出病毒**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498371&idx=1&sn=b3b79f87f04e02bfdd481fed4c0b7214&chksm=ec1d59d0db6ad0c680de63c7449d5580e6f464a31e6105c660d639e8d0d911e01493712ce9e6&mpshare=1&scene=1&srcid=&sharer_sharetime=1587115395077&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=AmuXClZ9Oi4JmoRUcHlN24I%3D&pass_ticket=R735S6EYkfc%2B%2FTVQdkXRiQ%2BBJ%2BV%2FY%2BkbIpAiEjgAFJ9GG2Ak8V2VbO8Dl1iT%2BSkQ#rd)
 ![crispr](/pic/crispr.jpg)
