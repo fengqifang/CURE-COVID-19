@@ -414,10 +414,13 @@
  
 ## 研究进展
 
-- [**2020-04-20 Antibiotic treatment for COVID-19 complications could fuel resistant bacteria**](https://www.sciencemag.org/news/2020/04/antibiotic-treatment-covid-19-complications-could-fuel-resistant-bacteria) &#127381;
+- [**2020-04-21 Coronavirus’s ability to mutate has been vastly underestimated, and mutations affect deadliness of strains, Chinese study finds**](https://www.scmp.com/news/china/science/article/3080771/coronavirus-mutations-affect-deadliness-strains-chinese-study) &#127381;
+![mutate](/pic/mutate.jpeg)
+
+- [**2020-04-20 Antibiotic treatment for COVID-19 complications could fuel resistant bacteria**](https://www.sciencemag.org/news/2020/04/antibiotic-treatment-covid-19-complications-could-fuel-resistant-bacteria)
 ![antibiotic](/pic/antibiotic.jpg)
 
-- [**2020-04-18 和人一样，猕猴也有无症状感染！它们将为研究新冠疗法和疫苗提供帮助**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498411&idx=1&sn=16982e674608270fa1fd0d4815b0082c&chksm=ec1d59f8db6ad0ee40301493519c33c66558ef37cddf0c684c25b751ab74588eacdaa42c0b11&mpshare=1&scene=1&srcid=&sharer_sharetime=1587340866347&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=Aqxa77OSvq%2B9m2HaovMrl6c%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+- [**2020-04-18 和人一样，猕猴也有无症状感染！它们将为研究新冠疗法和疫苗提供帮助**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498411&idx=1&sn=16982e674608270fa1fd0d4815b0082c&chksm=ec1d59f8db6ad0ee40301493519c33c66558ef37cddf0c684c25b751ab74588eacdaa42c0b11&mpshare=1&scene=1&srcid=&sharer_sharetime=1587340866347&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=Aqxa77OSvq%2B9m2HaovMrl6c%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 ![monkey](/pic/monkey.jpg)
 
 - [**2020-04-17 一周COVID-19重要研究：45分钟检测核酸的CRISPR技术，患者出现症状3天前便可排出病毒**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498371&idx=1&sn=b3b79f87f04e02bfdd481fed4c0b7214&chksm=ec1d59d0db6ad0c680de63c7449d5580e6f464a31e6105c660d639e8d0d911e01493712ce9e6&mpshare=1&scene=1&srcid=&sharer_sharetime=1587115395077&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=AmuXClZ9Oi4JmoRUcHlN24I%3D&pass_ticket=R735S6EYkfc%2B%2FTVQdkXRiQ%2BBJ%2BV%2FY%2BkbIpAiEjgAFJ9GG2Ak8V2VbO8Dl1iT%2BSkQ#rd)
