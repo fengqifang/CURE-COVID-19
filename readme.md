@@ -38,7 +38,9 @@
 
 ## 疫情地图
 
-- [**An interactive visualization of the exponential spread of COVID-19**](http://91-divoc.com/pages/covid-visualization/) &#127381;
+- [**People of the Pandemic: a global pandemic has arrived in your backyard**](https://peopleofthepandemicgame.com/) &#127381;
+
+- [**An interactive visualization of the exponential spread of COVID-19**](http://91-divoc.com/pages/covid-visualization/) 
 
 - [**Apple Mobility Trends Reports**](https://www.apple.com/covid19/mobility)
 
@@ -109,7 +111,7 @@
  
 ## 治疗方案
 
-- [**2020-04-19 瑞德西韦在华临床试验被迫终止，近300项研究蜂拥而上，专家呼吁建立国家级临床试验网络**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649585745&idx=1&sn=5c36200a9f1ecf9e90a4c298513437fa&chksm=876a6c48b01de55e9d1578af8f714fae63b7bb89e55e2bcb45f4edbbfe7876f80002c412084bmpshare=1&scene=1&srcid=&sharer_sharetime=1587310053088&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Agk%2BB%2Bi12wgBLJYWgLqIV%2Bo%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+- [**2020-04-19 瑞德西韦在华临床试验被迫终止，近300项研究蜂拥而上，专家呼吁建立国家级临床试验网络**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649585745&idx=1&sn=5c36200a9f1ecf9e90a4c298513437fa&chksm=876a6c48b01de55e9d1578af8f714fae63b7bb89e55e2bcb45f4edbbfe7876f80002c412084bmpshare=1&scene=1&srcid=&sharer_sharetime=1587310053088&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Agk%2BB%2Bi12wgBLJYWgLqIV%2Bo%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 ![被迫终止](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/term.jpg)
 
 - [**2020-04-17 第一个瑞德西韦治疗新冠病毒的临床前研究发表，解释了很多之前令我们困惑的问题**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488692&idx=1&sn=79da695f35be25cc4cbf5706dab130f1&chksm=f9801ef1cef797e74060d97da8d435c9957d27236322b0f549b1db317691b9dd2f8d23bf2b39&mpshare=1&scene=1&srcid=0418EfjOaRNl9yQQuDtxoQOj&sharer_sharetime=1587177188306&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=Alpqkt1Qzm48d5jIbwN9zQo%3D&pass_ticket=dzndnC5Gk%2FOW7VTaz00qrmXOG68n1oDW2AhdP3HgnXoQMbsrdON8F0UJSytZPWMO#rd)
@@ -197,10 +199,10 @@
  
 ## 氯喹专题
 
-- [**2020-04-20 诺华将启动羟氯喹治疗COVID-19大型III期临床试验**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=2247496742&idx=5&sn=cc26524679bfca21b328de6bbd2d73b9&chksm=fc76c792cb014e84b3e719526efd920ef15f897ea9e0876d335ef8ae2c60bd0a7e1127fd841b&mpshare=1&scene=1&srcid=&sharer_sharetime=1587391612887&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj2QZVYTRkuRyoANwBpvRPU%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381; 
+- [**2020-04-20 诺华将启动羟氯喹治疗COVID-19大型III期临床试验**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=2247496742&idx=5&sn=cc26524679bfca21b328de6bbd2d73b9&chksm=fc76c792cb014e84b3e719526efd920ef15f897ea9e0876d335ef8ae2c60bd0a7e1127fd841b&mpshare=1&scene=1&srcid=&sharer_sharetime=1587391612887&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj2QZVYTRkuRyoANwBpvRPU%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 ![诺华](/pic/novartis.jpg)
 
-- [**2020-04-19 法国又一项对照研究发表，“神药”羟氯喹还值得期待吗？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488720&idx=1&sn=f65bab0c4ae6435d6de3a913e7a7c7e2&chksm=f9801e95cef79783306678f9c10ab4b26cc2ebae3a155dc3e08dad9f4b0e86b9c5a58597c373&mpshare=1&scene=1&srcid=&sharer_sharetime=1587266497485&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AkbfB1foowazz4mFy0QIUAE%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+- [**2020-04-19 法国又一项对照研究发表，“神药”羟氯喹还值得期待吗？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488720&idx=1&sn=f65bab0c4ae6435d6de3a913e7a7c7e2&chksm=f9801e95cef79783306678f9c10ab4b26cc2ebae3a155dc3e08dad9f4b0e86b9c5a58597c373&mpshare=1&scene=1&srcid=&sharer_sharetime=1587266497485&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AkbfB1foowazz4mFy0QIUAE%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 ![france](/pic/france.jpg)
 
 - [**2020-04-12 最新证据！氯喹治疗COVID-19：高剂量组存在安全隐患，有死亡率更高的趋势**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488933&idx=1&sn=dc9ee45f56da122a3087b85d75c38590&chksm=fb8828e6ccffa1f0757ef9573c5e9ebf3cc5dfc1996170b65be89f81f4ee93a3cbd5ee9c5775&mpshare=1&scene=1&srcid=&sharer_sharetime=1586739226651&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aqng4Niq1By2ZOoXuF36RHs%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
@@ -257,10 +259,16 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-04-20 中国医科院成功研制出新冠病毒灭活疫苗，系第一个COVID-19疫苗的公开数据**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488743&idx=2&sn=140f80561c6a3fe16a6ae3d455c98868&chksm=f9801ea2cef797b40ffba2be6c1d355a0eedca03972849b37abfbb6fede4b38b5e272afa0735&mpshare=1&scene=1&srcid=&sharer_sharetime=1587430021518&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap16ixWQ9xrAZ0x1mktWhv8%3D&pass_ticket=gmQb7jm8rmUNOrhE3L7Em42JTd0rJuMorXsW6K2kO61Log703BejvT18YaXtlXzF#rd) &#127381;
+- [**2020-04-21 这场新冠疫苗的科技竞赛，谁会赢？**](https://mp.weixin.qq.com/s?__biz=MzIxMDQzOTUyMw==&mid=2247493326&idx=1&sn=f063da664a087bc9871d93416e11be30&chksm=97663ac2a011b3d4fcbe43fe0fb4e3f86a1e1e51b6b1124587889edfc40db03deee497cad85a&mpshare=1&scene=1&srcid=&sharer_sharetime=1587494335152&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvpzWbL7sxjbgEOc3tnIbnw%3D&pass_ticket=90juE%2FadeX3%2Bwz0Ak67icgLnny94JGzy22pa6zlvXd2vUzUTBdyS55WVTsdSZXFM#rd) &#127381;
+![winner](/pic/winner.jpg)
+
+- [**2020-04-21 首个新冠病毒灭活疫苗临床前实验数据公布：有效中和10个代表性SARS-CoV-2毒株**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247489019&idx=1&sn=4b838add0c1870ba8ca9b6d31e5f1804&chksm=fb8828b8ccffa1ae2f89d8f5b4fe3f7e5644d3d1972f1f1eec079eaa4a649894b7ed39b9c40e&mpshare=1&scene=1&srcid=&sharer_sharetime=1587482029457&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=AmbFd4HWCqQAezeRo5zC%2FRI%3D&pass_ticket=90juE%2FadeX3%2Bwz0Ak67icgLnny94JGzy22pa6zlvXd2vUzUTBdyS55WVTsdSZXFM#rd) &#127381;
+![中和10个代表性](/pic/ADE.jpg)
+
+- [**2020-04-20 中国医科院成功研制出新冠病毒灭活疫苗，系第一个COVID-19疫苗的公开数据**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488743&idx=2&sn=140f80561c6a3fe16a6ae3d455c98868&chksm=f9801ea2cef797b40ffba2be6c1d355a0eedca03972849b37abfbb6fede4b38b5e272afa0735&mpshare=1&scene=1&srcid=&sharer_sharetime=1587430021518&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap16ixWQ9xrAZ0x1mktWhv8%3D&pass_ticket=gmQb7jm8rmUNOrhE3L7Em42JTd0rJuMorXsW6K2kO61Log703BejvT18YaXtlXzF#rd)
 ![公开数据](/pic/rapid.jpg)
 
-- [**2020-04-18 第一批32名志愿者完成接种，全球首个新冠灭活疫苗研发为何如此迅速？**](https://mp.weixin.qq.com/s?__biz=MzAxMDU0MDYwMQ==&mid=2653030261&idx=2&sn=b1b35bc9e4163b5fafd7960acdd8a102&chksm=80986423b7efed359d41f0f3bdbf3e0e1534e90cca9b7bcd42bc14caa77c50973d4217373d3c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277035855&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj1ZoAMPzAHgoORND0OyqnA%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+- [**2020-04-18 第一批32名志愿者完成接种，全球首个新冠灭活疫苗研发为何如此迅速？**](https://mp.weixin.qq.com/s?__biz=MzAxMDU0MDYwMQ==&mid=2653030261&idx=2&sn=b1b35bc9e4163b5fafd7960acdd8a102&chksm=80986423b7efed359d41f0f3bdbf3e0e1534e90cca9b7bcd42bc14caa77c50973d4217373d3c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277035855&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj1ZoAMPzAHgoORND0OyqnA%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 ![全球首个新冠灭活疫苗](/pic/firstvac.jpg)
 
 - [**2020-04-17 深度：新冠神药与疫苗那些事**](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247506258&idx=7&sn=9629a8a2c0ebe5842990750fed3b19ee&chksm=a6e231299195b83fae254eb6211ce3466a0de8044fecd2a280a113d52e6e4584b5ab049fa4e7&mpshare=1&scene=1&srcid=&sharer_sharetime=1587168344960&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AveiDqGCudnG1%2BghrLR7cdQ%3D&pass_ticket=dzndnC5Gk%2FOW7VTaz00qrmXOG68n1oDW2AhdP3HgnXoQMbsrdON8F0UJSytZPWMO#rd) 
@@ -599,11 +607,14 @@
  
 ## 其他
 
-- [**2020-04-19 佛系生活，救了日本**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652016030&idx=1&sn=d0094266682b23457bea4788d4a59376&chksm=bd0f77c38a78fed54576c6891728eac2fb734427357d442b9965b95cf7e1e5075b09f01ccf07&mpshare=1&scene=1&srcid=&sharer_sharetime=1587356407103&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvqVYG5YfUfIATXBF34wWLg%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+- [**2020-04-21 Sweden Says Controversial Virus Strategy Proving Effective**](https://www.bloomberg.com/news/articles/2020-04-19/sweden-says-controversial-covid-19-strategy-is-proving-effective) &#127381;
+![sweden](/pic/sweden2.jpg)
+
+- [**2020-04-19 佛系生活，救了日本**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652016030&idx=1&sn=d0094266682b23457bea4788d4a59376&chksm=bd0f77c38a78fed54576c6891728eac2fb734427357d442b9965b95cf7e1e5075b09f01ccf07&mpshare=1&scene=1&srcid=&sharer_sharetime=1587356407103&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvqVYG5YfUfIATXBF34wWLg%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 
 ![佛系生活](/pic/fo.jpg)
 
-- [**2020-04-18 CAR-T之父Carl June教授感染新冠后康复，将全力挑战COVID-19！**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247519898&idx=4&sn=56fd4385a60ddaf8ef4ef775882a0966&chksm=ecb3367cdbc4bf6aa53f0e53538cbe579efe45dec5e5981db4162a4331d558c272093af6ae05&mpshare=1&scene=1&srcid=&sharer_sharetime=1587343328547&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=At0NyV4jefy%2FCGWOXJ68Xns%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd) &#127381;
+- [**2020-04-18 CAR-T之父Carl June教授感染新冠后康复，将全力挑战COVID-19！**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247519898&idx=4&sn=56fd4385a60ddaf8ef4ef775882a0966&chksm=ecb3367cdbc4bf6aa53f0e53538cbe579efe45dec5e5981db4162a4331d558c272093af6ae05&mpshare=1&scene=1&srcid=&sharer_sharetime=1587343328547&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=At0NyV4jefy%2FCGWOXJ68Xns%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 ![carljune](/pic/carljune.jpg)
 
 - [**2020-04-16 暴增728例，累计4427 | 总理夫人：新加坡低估了新冠，正为此付出代价**](https://mp.weixin.qq.com/s?__biz=MzU4NTU0MDgzOA==&mid=2247614360&idx=1&sn=cccb755de9dcd1a9adfab5bf9e596548&chksm=fd8b8a11cafc03073c999552c0357b9b88887537d32e6875a46d118010991a4f30b1a152be31&mpshare=1&scene=1&srcid=&sharer_sharetime=1587084152826&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiKL%2BFQxyIDvltwkSRxYsK0%3D&pass_ticket=LPv95jsz8u8JROsRqFCMS9SlwzFfrUYNjp%2Fil%2B7UnMdvOA7kvtlzu4y%2BwyWKCXed#rd)
