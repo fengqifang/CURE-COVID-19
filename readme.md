@@ -625,6 +625,9 @@
  
 ## 其他
 
+- [**2020-04-23 Hidden Outbreaks Spread Through U.S. Cities Far Earlier Than Americans Knew, Estimates Say**](https://www.nytimes.com/2020/04/23/us/coronavirus-early-outbreaks-cities.html?referringSource=articleShare) &#127381;
+![hidden](/pic/hidden.jpg)
+
 - [**2020-04-22 澳大利亚:疫情防范里的优等生**](https://mp.weixin.qq.com/s?__biz=MzIxNzAzMjMxNA==&mid=2650279937&idx=2&sn=bcd6849cddfb4c85840996dfbdad6a28&chksm=8ff34314b884ca02880e30d7358007846bf8e1be0de6581af81a503a5cbb44fef84332e69c4e&mpshare=1&scene=1&srcid=&sharer_sharetime=1587600285045&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsRLsa1rn7e0bjq085vjAuU%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
 ![澳大利亚](/pic/australia.jpg)
 
@@ -645,184 +648,125 @@
 ![metric](/pic/metric.png)
 
 - [**2020-04-15 How John Burn-Murdoch’s Influential Dataviz Helped The World Understand Coronavirus**](https://medium.com/nightingale/how-john-burn-murdochs-influential-dataviz-helped-the-world-understand-coronavirus-6cb4a09795ae)
-![dataviz](https://miro.medium.com/max/2000/1*zay5rHO0oS97-e7nxR-t2g.png)
 
 - [**2020-04-14 网民强烈要求美国重查去年“流感”样品，美国还真查了！结果是...**](https://mp.weixin.qq.com/s?__biz=Mzg2MDIzOTgxMw==&mid=2247483872&idx=1&sn=7089f4aae2187cc14e9fb7ab126edc18&chksm=ce28234af95faa5cf722f5472a07bfa11d4606d7d9f9f97758cc163597988cb2f416893ee53b&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872484723&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlRTjGZ45STOea8VMEw6buM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd)
-![流感](/pic/flu.jpg)
 
 - [**2020-04-14 被误读的剑桥论文。**](https://mp.weixin.qq.com/s?__biz=MzIwMTkyODA3NQ==&mid=2247484108&idx=1&sn=34e17a5b47011543bc591daef99c3f79&chksm=96e73e28a190b73e975040da177f0bc9e1cc4735f15fb902b0f709754b30213746cca4cf1703&mpshare=1&scene=1&srcid=&sharer_sharetime=1586872653997&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtqcPVw1BkGHwMIJC56QknM%3D&pass_ticket=mWOl0R25ceOT6RMfNAXeOGCGjUCilhSGGR5fbbgzfDTzzzHnbGU7bPrgB91754%2BM#rd)
-![cambridge](/pic/cambridge.jpg)
 
 - [**2020-04-12 不封城、不隔离，瑞典何以成为全球抗疫中的“另类”？**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649585339&idx=1&sn=254e73639cb3e6cd23cd2e488a669149&chksm=876a62a2b01debb4cdeaba5de31009ec4a68da25f9a0443d0c8c75bc462013df62e5912a52fb&mpshare=1&scene=1&srcid=&sharer_sharetime=1586698686424&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuxQygipxUinjbpVaGZMBhQ%3D&pass_ticket=nO9KCme%2Bp8a8kKOrttzgMG6b6MVlGC9OpeEqa3yV2SRlgC5APsdTrW%2BL3UuN8FYN#rd)
-![瑞典](/pic/sweden.jpg)
 
 - [**2020-04-12 UC launches grant program to spur urgently needed COVID-19 research**](https://www.universityofcalifornia.edu/news/uc-launches-grant-program-spur-urgently-needed-covid-19-research) 
-![uc](/pic/uc.jpg)
  
 - [**2020-04-11 Why a study showing that covid-19 is everywhere is good news**](https://www.economist.com/graphic-detail/2020/04/11/why-a-study-showing-that-covid-19-is-everywhere-is-good-news) 
 ![goodnews](/pic/goodnews.jpg)
 
 - [**2020-04-10 铜线口罩！罩在口罩外侧让新冠病毒灭活**](https://mp.weixin.qq.com/s?__biz=MzIxNzU1MTc2NA==&mid=2247495394&idx=1&sn=b577e3107f99290206ef7dc4196eea4d&chksm=97faa819a08d210f1c4e3fcaa80785c1714a847f29cc3701cb5b24887f19d31703b222c04567&mpshare=1&scene=1&srcid=&sharer_sharetime=1586531485629&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsD5l%2BiaBVA3GKo0QSlRmlg%3D&pass_ticket=zrcI%2BpnVB5VJ5tOVbl4XS%2BEkflkDHzv1gamdWIiidyfwoAobXf6MJ74CIoFduRBj#rd)
-![铜线口罩](/pic/cooper.jpg)
 
 - [**2020-04-10 Early testing helps Canada's British Columbia fight coronavirus, cases elsewhere soar**](https://www.reuters.com/article/us-health-coronavirus-canada-british-col/early-testing-helps-canadas-british-columbia-fight-coronavirus-cases-elsewhere-soar-idUSKCN21R3DI)
-![BC](/pic/bc.jpg)
 
 - [**2020-04-09 After coronavirus — will America be a roaring giant or crying baby?**](https://www.foxnews.com/opinion/coronavirus-after-us-roaring-giant-crybaby-victor-davis-hanson) 
-![roaring](/pic/roaring.jpg)
 
 - [**2020-04-09 We Need a Covid-19 Vaccine—Let’s Get It Right the First Time**](https://www.wired.com/story/we-need-a-covid-19-vaccine-lets-get-it-right-the-first-time/)
-![vaccine](/pic/vaccine.jpg)
 
 - [**2020-04-09 When will life return to normal? Expert says US testing is too far behind to know, expects second wave of cases**](https://www.usatoday.com/story/news/health/2020/04/08/coronavirus-cases-how-long-social-distancing-marc-lipsitch/2963430001/) 
-![normal](/pic/normal.png)
 
 - [**2020-04-09 Coronavirus will test one U.S city's finances more than the others**](https://finance.yahoo.com/news/coronavirus-us-cities-131855790.html)
-![finance](/pic/finance.jpg)
 
 - [**2020-04-08 Nations with Mandatory TB Vaccines Show Fewer Coronavirus Deaths**](https://www.bloomberg.com/news/articles/2020-04-02/fewer-coronavirus-deaths-seen-in-countries-that-mandate-tb-vaccine?from=timeline&isappinstalled=0)
-![TB](/pic/tb.jpg)
 
 - [**2020-04-07 'The impossible has already happened': what coronavirus can teach us about hope**](https://www.theguardian.com/world/2020/apr/07/what-coronavirus-can-teach-us-about-hope-rebecca-solnit)
-![guardian](/pic/guardian.jpg)
 
 - [**2020-04-06 Understanding SARS-CoV-2 and the drugs that might lessen its power**](https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power?fsrc=scn/tw/te/bl/ed/anatomyofakillerunderstandingsarscov2andthedrugsthatmightlessenitspowerbriefing)
-![lessen](/pic/lessen.jpg)
 
 - [**2020-04-04 7 Ways to Explore the Math of the Coronavirus Using The New York Times**](https://www.nytimes.com/2020/04/02/learning/7-ways-to-explore-the-math-of-the-coronavirus-using-the-new-york-times.html) 
-![7ways](/pic/7ways.png)
 
 - [**Thinking Globally, Acting Locally — The U.S. Response to Covid-19**](https://www.nejm.org/doi/pdf/10.1056/NEJMp2006740?articleTools=true)
-![globally](/pic/globally.jpg)
 
 - [**2020-04-03 Chinese families should be sweeping graves now. But thousands still haven’t buried their dead.**](https://www.washingtonpost.com/world/asia_pacific/chinese-families-should-be-sweeping-graves-now-but-thousands-still-havent-buried-their-dead/2020/04/03/5a6daa50-7234-11ea-ad9b-254ec99993bc_story.html)
-![grave](/pic/grave.jpg)
 
 - [**2020-04-02 A Covid-19 Vaccine Will Need Equitable, Global Distribution**](https://hbr.org/2020/04/a-covid-19-vaccine-will-need-equitable-global-distribution)
-![hbr](/pic/hbr.jpg)
 
 - [**2020-03-31 百年拜耳沉浮，从天使到魔鬼只差11天**](https://mp.weixin.qq.com/s?__biz=MjM5NTE1NTc0MA==&mid=2652490155&idx=1&sn=cbf32276fe21a3c01a806b0e8c344a7f&chksm=bd11b3d88a663ace49cf7d9a3b59c3ff4792a24d9c827c1d041a3e94e06ba9af7e3070b1db48&mpshare=1&scene=1&srcid=&sharer_sharetime=1585664809214&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArEsI0guUCVsarM%2BLcsvCyg%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
-![Bayer](/pic/bayer.jpg)
 
 - [**2020-03-31 专访美国抗疫专家组成员黄海涛：拐点最早四月中，为何错过防疫黄金时间？**](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653357352&idx=1&sn=c41acc97084c693714a717132b6e89f7&chksm=bd56f2728a217b64ffda507f2e386e14429ffd8ed7e08a30e28eb7920a1b979ce95d83b2729d&mpshare=1&scene=1&srcid=&sharer_sharetime=1585660885719&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AoqS1wlcbexHAqG9sQqBVsE%3D&pass_ticket=fy6A9NWrSM5GNGsHzIhhDHYvq9KeSlpVx9WfIo0sc56p1KMvSrKCjGYLpYNz%2BKbU#rd)
-![防疫黄金时间](/pic/golden.jpg)
 
 - [**2020-03-31 The Tech That Could Be Our Best Hope for Fighting COVID-19—and Future Outbreaks**](https://time.com/5805622/coronavirus-pandemic-technology/)
-![time](/pic/time.jpg)
 
 - [**2020-03-30 Science发表社论：需要启用曼哈顿计划抗击新型冠状病毒**](https://mp.weixin.qq.com/s?__biz=MzIyNTA5MzUyMg==&mid=2651078499&idx=3&sn=31ca19759f4a459e6a6df2244c8ad6b1&chksm=f3f46d9ec483e488a76c8bf379099c423a1feffde345827db9dc4164ed99c34ce5cee0162221&mpshare=1&scene=1&srcid=&sharer_sharetime=1585514634153&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AujTN1E%2FBd9JT%2BuTxQU%2FHl8%3D&pass_ticket=U2YJrz72y3VMaoWwFTE3ho56hX0fOl4aePX00Wre4jZGzCGPjqAZd%2FBXGPJBdxOu#rd)
-![曼哈顿](/pic/manhattan.jpg)
 
 - [**2020-03-29 How London became a Covid-19 hub as virus mutated into eight different strains and raced around the world**](https://www.dailymail.co.uk/news/article-8164615/Genetic-sequencing-data-map-shows-London-coronavirus-hub.html?from=timeline&isappinstalled=0) 
-![hub](/pic/hub.jpg)
 
 - [**2020-03-27 Bill Gates: State-by-state shutdown won't work**](https://edition.cnn.com/videos/business/2020/03/27/bill-gates-coronavirus-town-hall-shutdown-april-peak-sot-vpx.cnn/video/playlists/cnn-coronavirus-town-hall/?from=timeline&isappinstalled=0)
-![bill](/pic/bill.jpg)
 
 - [**2020-03-27 确诊数居全球首位：美国如何错失防疫最佳时机？**](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650713879&idx=1&sn=f40abad9b364721d9b29af9160d9b480&chksm=5afcbe3d6d8b372b55f8aea0697f606ac416fc4f7ec586d4ff62a76dc6f1dd70c15945273091&mpshare=1&scene=1&srcid=&sharer_sharetime=1585311183108&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgDOKy5qx5fqJd11XXbHTkc%3D&pass_ticket=Z3621RgbKGrRiRFU7k%2FCxsE7nw4MPKqnJos9MxJS%2FlZHGdC97UydMWjbNZt0nsbS#rd)
-![最佳时机](/pic/usa.jpg)
 
 - [**2020-03-27 South Korea Tries ‘Social Distancing’ to Prevent Coronavirus Spread**](https://learningenglish.voanews.com/a/south-korea-tries-social-distancing-to-prevent-coronavirus-spread/5316633.html)
-![SouthKorea](/pic/southkorea.jpg)
 
 - [**2020-03-26 意大利为何疫情如此失控？剖析背后的复杂原因**](https://mp.weixin.qq.com/s?__biz=MzI0NTE0NjYyNg==&mid=2649501647&idx=1&sn=67b91807852c9c2126785c4e678c27b0&chksm=f14a7aa2c63df3b4e92b090b1bb7e5295ff58d87e9474aaf70a2e7b4ebf8b3f2cd52eb5be831&mpshare=1&scene=1&srcid=&sharer_sharetime=1585252061803&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvwOSFgKzb%2FGyd4f8R8Za5c%3D&pass_ticket=72%2BVsUL0p7Q7yb0Ynt%2FTulMj3zgiiVeokpMEW2JL87wjzE9dsMBNo30gd46pFcLb#rd)
-![疫情失控](/pic/control.jpg)
 
 - [**2020-03-26 It Wasn’t Just Trump Who Got It Wrong**](https://www.theatlantic.com/technology/archive/2020/03/what-really-doomed-americas-coronavirus-response/608596/)
-![trump](/pic/trump.jpg)
 
 - [**2020-03-25 为什么东亚对疫情的控制比欧洲有效？**](https://mp.weixin.qq.com/s?__biz=MzU4NzQ4OTYzMA==&mid=2247485232&idx=1&sn=73cac9d39989ebb193d858f319f5ee87&chksm=fdea0f01ca9d861721933e6ef54e4d5e77b96d60bd2f2fdaf48d7fbf2391302d87a65ff972ef&mpshare=1&scene=1&srcid=&sharer_sharetime=1585183989721&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlmiOiLaVyRYztsACfgI%2BRE%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
-![东亚](/pic/eastasia.jpg)
 
 - [**2020-03-25 哈佛教授：为什么新冠病毒会促进去国际化？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQyNDk1MQ==&mid=2247483654&idx=1&sn=de6788ebcb75533390df47ef7bc7d634&chksm=ec21501edb56d908527208a0c10c69fb99098b4c4c7ce29a154f07ed29841fdeea233fb443f2&mpshare=1&scene=1&srcid=0326ndCLDycTaVwe49JTahGx&sharer_sharetime=1585174506589&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AigbtvKzdlkvupZDZmFvGUo%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
-![去国际化](/pic/deglobal.jpg)
 
 - [**2020-03-25 Why Germany’s coronavirus death rate is so much lower than other countries’ rates**](https://www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html) 
-![deathrate](/pic/deathrate.jpg)
 
 - [**2020-03-25 How the Coronavirus Became an American Catastrophe**](https://www.theatlantic.com/health/archive/2020/03/how-many-americans-are-sick-lost-february/608521/)
-![catastrophe](/pic/catas.jpg)
 
 - [**2020-03-25 We need smart coronavirus testing, not just more testing**](https://www.statnews.com/2020/03/24/we-need-smart-coronavirus-testing-not-just-more-testing/)
-![smart](/pic/smart.jpg)
 
 - [**2020-03-25 意大利新冠肺炎病死率为何这么高？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488351&idx=1&sn=47d9c9d107bed62ecd4362607412710e&chksm=f980191acef7900c09cf8569b70d7311fa2f4ba843954c4a5fff054a89f64fed6400fa268033&mpshare=1&scene=1&srcid=0325pP0TeQ9QokYHeCgutJwL&sharer_sharetime=1585106568446&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=Ao2uwuMTCKZ8xWCdXBHoQWs%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
-![italy](/pic/italy.jpg)
 
 - [**2020-03-25 概念陷阱：病死率、R0和群体免疫｜大象公会**](https://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&mid=2651034991&idx=1&sn=62c4d343295fe90c72d327c53faf3b8a&chksm=bd2d44018a5acd17abf478b1fb71b82c05daec55cd5e1cc1ca1f0a60a7dd80d2e13b89583587&mpshare=1&scene=1&srcid=&sharer_sharetime=1585088035267&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArlYrfz%2F3mQDU0NnychD6AE%3D&pass_ticket=TwDSjqO7XaG662lS0nEWFoR5WsGvAzyojkmNY2w6BZh12zPI8QJAhn92AQoew%2BrC#rd)
-![trap](/pic/trap.jpg)
 
 - [**2020-03-24 德国出手收治法国意大利重患！对内还这样支持本国医疗系统**](https://mp.weixin.qq.com/s?__biz=MzAwODAyMTA5OQ==&mid=2656075313&idx=2&sn=3b58b860e7e1c05f37572f56faeb1621&chksm=80d1eb35b7a66223662505381399e5f0617792936a5909dc5789270267debe612878fb3932fe&mpshare=1&scene=1&srcid=&sharer_sharetime=1585059103570&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Asvxs7sAgxCwbbscFbCGQow%3D&pass_ticket=AffHC52GB9HY5n%2BDrR8AjuY2CbTqEkbsgvAIn9%2FRHzOlhwSlxqPxxEt7Kshiv8Pq#rd)
-![help](/pic/help.jpg)
 
 - [**2020-03-24 被误读的“群体免疫”背后，英国抗疫有哪些亮点？**](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA4MA==&mid=2650983028&idx=4&sn=5d04d6df40f7a0bb8f8b7a55708e483c&chksm=bd3687538a410e45091ebf9d66c80cbb7da825db07a443c1a6eb2ca61c056dcaeafd60f47cb6&mpshare=1&scene=1&srcid=&sharer_sharetime=1585055241397&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Amw9oiU2OJsnVMFrBXJ0dz4%3D&pass_ticket=AffHC52GB9HY5n%2BDrR8AjuY2CbTqEkbsgvAIn9%2FRHzOlhwSlxqPxxEt7Kshiv8Pq#rd) 
-![亮点](/pic/wudu.jpg)
 
 - [**2020-03-24 The science behind coronavirus testing, and where the U.S. went wrong**](https://medium.com/swlh/the-science-behind-coronavirus-testing-and-where-the-u-s-went-wrong-7920c3fb5049)
-![testwrong](/pic/testwrong.jpg)
 
 - [**2020-03-23 Coronavirus tracked: the latest figures as the pandemic spreads**](https://www.ft.com/coronavirus-latest) &#11088;  
-![ft](/pic/ft.jpg)
 
 - [**2020-03-23 新冠病毒应该从哪起源？病毒自己都懵了！**](https://mp.weixin.qq.com/s?__biz=MzU5NDU0ODg0Ng==&mid=2247486037&idx=1&sn=1141468ff5eb9eb359e41d80f97b227f&chksm=fe7ecb54c9094242f83976cb49792d1c497b328d32af774b8c2197e1c48a7bf71586e59dee7f&mpshare=1&scene=1&srcid=03235I686cHSpbdMM9091X43&sharer_sharetime=1584968382792&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvxJ0lkB7n6HocsIYqXzi9Q%3D&pass_ticket=yKvYcc3zRO07d5%2B3y3Q2k%2BReBqSQe6qf6RArN05Vd6KcaZcnYA7qoVs5dU%2Bd03XX#rd)
-![起源](/pic/neworigin.jpg)
 
 - [**2020-03-23 江湖一别六十天**](https://mp.weixin.qq.com/s?__biz=MzU3MzQ2MDEwNQ==&mid=2247485022&idx=1&sn=5d02aadda2eae81391a607150c8ea44d&chksm=fcc01db8cbb794ae8c2db35a6393db72c5ce66fd9ab8bbf00321a20fc903ee1444e3be48ec14&mpshare=1&scene=1&srcid=&sharer_sharetime=1584968231820&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=At3ujXt0%2BMi%2BeMu%2FVQnyvw8%3D&pass_ticket=yKvYcc3zRO07d5%2B3y3Q2k%2BReBqSQe6qf6RArN05Vd6KcaZcnYA7qoVs5dU%2Bd03XX#rd)
-![60days](/pic/60days.jpg)
 
 - [**2020-03-23 哈佛流行病学家：为什么韩国听到了武汉的警告，而欧美行动太晚**](https://mp.weixin.qq.com/s?__biz=MzU2MDEwMTIwMg==&mid=2247494626&idx=1&sn=ad50c0388807fc200eee72bba37e7dde&chksm=fc0f89dfcb7800c98f8e12307531bbf5612497dd488489a1a3ff0bc76f184652bf239377d42a&mpshare=1&scene=1&srcid=&sharer_sharetime=1584968223003&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApQ1zsCVxAIioHJO0ddyhdY%3D&pass_ticket=yKvYcc3zRO07d5%2B3y3Q2k%2BReBqSQe6qf6RArN05Vd6KcaZcnYA7qoVs5dU%2Bd03XX#rd)
-![警告](/pic/warning.jpg)
 
 - [**2020-03-22 欧洲重灾区里，最可怕的还不是意大利**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652013354&idx=1&sn=ff56306135eb741718bbde65fe9ce433&chksm=bd0f79778a78f061d6a6fe2510988e207e7562a2449e8d77155530698c2915a0e22153ce1325&mpshare=1&scene=1&srcid=&sharer_sharetime=1584845980283&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkmjYt0J6ZpOi26MW3S8Xvs%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
-![spain](/pic/spain.jpg)
 
 - [**2020-03-21 Evidence over hysteria — COVID-19**](https://medium.com/six-four-six-nine/evidence-over-hysteria-covid-19-1b767def5894)
-![hysteria](/pic/hysteria.jpg)
 
 - [**2020-03-21 邪教横行、床位吃紧：不封城的韩国如何踩下「疫情急刹车」？**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653375621&idx=1&sn=1b3edc0c8a3d85b354a690eb0df5bd37&chksm=5e32bde3694534f5a4fa1347bf75a2da73e3bd4e59a195c1f14a3b6dee8e77fae0040346454e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584769519794&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aok0yCjGWNbBLWBZHcc3gWg%3D&pass_ticket=xBFLpLZDtf4fOQT3V9iQFywMTX9TkxF6uyqpwgnZUqMEdmxagWy7FTBcqFQ6LTU5#rd)
-![korea2](/pic/korea1.jpg)
 
 - [**2020-03-20 新冠病毒到底是从哪里来的？为何能在人类流行？科学家再发声](https://mp.weixin.qq.com/s?__biz=MjM5NTcxOTM2MA==&mid=2651393179&idx=1&sn=803fd912521db9ecc68d85a4a880f8cd&chksm=bd099d348a7e1422a61bc2200a31622b480b46b7d025af9f5c5ad651d657aee74ec4ff2c33b2&mpshare=1&scene=1&srcid=&sharer_sharetime=1584747647177&sharer_shareid=bf5a714789ae2d58b95538c030a96ab2&exportkey=ArC0Udhmt50sgBflWf0GYxw%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
-![origin](/pic/origin.jpg)
 
 - [**2020-03-20 300多年前的伦敦大瘟疫，英国政府采取了哪些措施？](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2650484674&idx=1&sn=1b1fb01a3935d6012a5f3693b7e2fbba&chksm=beb1e92d89c6603b2c76936f0deca4430dcfef282706ae61b457a09d42729597e4bf79aae148&mpshare=1&scene=1&srcid=&sharer_sharetime=1584727101778&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ara2Ou15HU5Xr3uZTXpOXfU%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
-![london](/pic/london.jpg)
 
 - [**2020-03-20 1910年：上海防疫引发群体骚乱**](https://mp.weixin.qq.com/s?__biz=MjM5OTA5MzAwMQ==&mid=2654520859&idx=1&sn=757b404339054f35d17db59b7508d018&chksm=bd0cd07d8a7b596b8a4f48994b804d15c903a5717613a612879c2177f5c92b43bd937fc111c1&mpshare=1&scene=1&srcid=&sharer_sharetime=1584727315038&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ar0rcD1f3Iq39PpEMdGFO04%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
-![shanghai](/pic/shanghai.jpg)
 
 - [**2020-03-20 从第二大疫情国到疫情似乎初步控制，韩国做对了什么？**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268706&idx=1&sn=288f211308138255db8757ebaeb8c666&chksm=8bb7c4dcbcc04dcaea9d7e706232396a008483316256c5170e98efb8009b282619919266d19e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584726861679&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnIsQrN%2BYH4W71IM2xXgRJw%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
-![korea](/pic/korea.jpg)
 
 - [**2020-03-20 一份报告，直接改变了英美两国的防疫对策**](https://mp.weixin.qq.com/s?__biz=MzU0OTgwNTYzMw==&mid=2247494958&idx=1&sn=97c312a87f318cc398796d8fe63da607&chksm=fba8e600ccdf6f1608ec71ccd40d9c82bdb8abada39ec94fb6eeeb019f60418e312fff960d99&mpshare=1&scene=1&srcid=&sharer_sharetime=1584713056504&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ag4ojf7iLufB8eCH8dNUnh4%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
-![report](/pic/report.jpg)
 
 - [**2020-03-20 美国新冠疫情战争的意见领袖，其实是他**](https://mp.weixin.qq.com/s?__biz=MzI5NTc5MTI3Nw==&mid=2247483927&idx=1&sn=2dafd52b30c678a01ba40c0779c4408c&chksm=ec4f7dd5db38f4c37eba04ce93e442ce7c336b153dfbeb74912e6e23bd8c55c9c3de3a6d8814&mpshare=1&scene=1&srcid=&sharer_sharetime=1584681657610&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmEnuoez50qpFL0OG0jWxig%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
-![leader](/pic/leader.jpg)
 
 - [**2020-03-19 日本低感染数字背后到底隐藏了什么？**](https://mp.weixin.qq.com/s?__biz=MzI4Njk3MjgyMQ==&mid=2247485333&idx=1&sn=b9e5656d0400e0576b05924c6a7c19a0&chksm=ebd5896fdca200790407cd9770b73a8fd7f616330661a5d6dc8a7f048480c56d173c64a231cf&mpshare=1&scene=1&srcid=0316BeLBPhaXIFVEWCQiYanm&sharer_sharetime=1584623061906&sharer_shareid=7db4f677037e2724f7e9fd3e83f49b4a&exportkey=Ar2IYnp5olvZl1mlEauw9gQ%3D&pass_ticket=SmpVjidc%2Bpb9lRtyO5kZVjon%2Bxx1yNJOKkKHz58ZrkdkebmsPahazPlCwcHVdiXM#rd)
-![低感染](/pic/japanslow.jpg)
 
 - [**2020-03-18 What is Herd Immunity?**](https://www.pbs.org/wgbh/nova/article/herd-immunity/)
-![herd](/pic/herd.jpg)
 
 - [**2020-03-18 How to Manage Your Coronavirus Anxiety**](https://www.wsj.com/articles/how-to-manage-your-coronavirus-anxiety-11583424434?mod=wsjtwittertest19)
-![anxiety](/pic/anxiety.jpg)
 
 - [**2020-03-18 Remembering Who Is Keeping Us Alive**](https://www.nationalreview.com/corner/remembering-who-is-keeping-us-alive/)
-![remember](/pic/remember.jpg)
 
 - [**2020-03-18 COVID-19 Open Research Dataset (CORD-19)**](https://pages.semanticscholar.org/coronavirus-research)
-![open](/pic/open.jpg)
 
 - [**2020-03-18 【JAMA】面对新冠肺炎，美式打法到底什么样？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488238&idx=1&sn=ee9832247ff66f8ad3d78dbcc5cd361b&chksm=f98018abcef791bdcd80748b017e9d504258b36ee474660e20a2843bf8858732341743ee46d3&mpshare=1&scene=1&srcid=0318Xt7kza79TXqGnA3ViobD&sharer_sharetime=1584501157321&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avpr%2BjZh4deYapZf0eJzXqo%3D&pass_ticket=Ym0fpwqfCHTJOr2fhlHchYZ8NaqDH4zPzxIH4YkaW0zpdzFeWiSxEe6AgNZ1RNSD#rd)
-![jama](/pic/jama.jpg)
 
 - [**2020-03-13 COVID-19 Open Research Dataset Challenge (CORD-19)**](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?from=timeline&isappinstalled=0)
-![kaggle](/pic/kaggle.jpg)
 
 - [**2020-03-10 Coronavirus: Why You Must Act Now**](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
-![act](/pic/act.png)
 
 ## 妖孽存照 
 
