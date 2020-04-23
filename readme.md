@@ -658,7 +658,6 @@
 - [**2020-04-12 UC launches grant program to spur urgently needed COVID-19 research**](https://www.universityofcalifornia.edu/news/uc-launches-grant-program-spur-urgently-needed-covid-19-research) 
  
 - [**2020-04-11 Why a study showing that covid-19 is everywhere is good news**](https://www.economist.com/graphic-detail/2020/04/11/why-a-study-showing-that-covid-19-is-everywhere-is-good-news) 
-![goodnews](/pic/goodnews.jpg)
 
 - [**2020-04-10 铜线口罩！罩在口罩外侧让新冠病毒灭活**](https://mp.weixin.qq.com/s?__biz=MzIxNzU1MTc2NA==&mid=2247495394&idx=1&sn=b577e3107f99290206ef7dc4196eea4d&chksm=97faa819a08d210f1c4e3fcaa80785c1714a847f29cc3701cb5b24887f19d31703b222c04567&mpshare=1&scene=1&srcid=&sharer_sharetime=1586531485629&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsD5l%2BiaBVA3GKo0QSlRmlg%3D&pass_ticket=zrcI%2BpnVB5VJ5tOVbl4XS%2BEkflkDHzv1gamdWIiidyfwoAobXf6MJ74CIoFduRBj#rd)
 
