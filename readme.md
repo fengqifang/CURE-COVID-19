@@ -38,7 +38,7 @@
 
 ## 疫情地图
 
-- [**People of the Pandemic: a global pandemic has arrived in your backyard**](https://peopleofthepandemicgame.com/) &#127381;
+- [**People of the Pandemic: a global pandemic has arrived in your backyard**](https://peopleofthepandemicgame.com/)
 
 - [**An interactive visualization of the exponential spread of COVID-19**](http://91-divoc.com/pages/covid-visualization/) 
 
@@ -80,6 +80,9 @@
  
 ## 检测试剂**
 
+- [**2020-04-22 FDA首开"在家"新冠病毒检测绿灯，专家们看法不一**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268963&idx=1&sn=5b5493cc7beb9b8e99c7278e10122173&chksm=8bb7c5ddbcc04ccb55f0f40cc3c58e9ed746fc96c8d6c3d19bb3cbcbd89713f9916b8187e81d&mpshare=1&scene=1&srcid=&sharer_sharetime=1587567161041&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvLfMgfMTaUp%2Bs24ZbpYpJs%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
+![home](/pic/home.jpg)
+
 - [**2020-04-17 检测、检测、检测！一个月300万，这个输出是怎么做到的？**](https://mp.weixin.qq.com/s?__biz=MzI0NjcxNzYxNw==&mid=2247486475&idx=1&sn=5a815f66f4ffc534285ab9e4c9260c48&chksm=e9ba41d5decdc8c386d6851026e89bda93a7f9487935a858e46647bd80c351e7231795014b9c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587129295949&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apc9kS98F9jPSVh%2F7Teho5A%3D&pass_ticket=R735S6EYkfc%2B%2FTVQdkXRiQ%2BBJ%2BV%2FY%2BkbIpAiEjgAFJ9GG2Ak8V2VbO8Dl1iT%2BSkQ#rd)
 ![300万](/pic/300test.jpg)
 
@@ -110,6 +113,9 @@
  ***
  
 ## 治疗方案
+
+- [**2020-04-22 瑞德西韦将如何改变地球下半年的运转方向**](https://mp.weixin.qq.com/s?__biz=MzUxNTkwNzkzMA==&mid=2247486907&idx=1&sn=91b38c7d05d7f0bb18e313a49f069d36&chksm=f9aec58eced94c98109dc6dccfc8b8ae68a465ecd3b5ea9548cbf6583bdbea4bd03046309e2f&mpshare=1&scene=1&srcid=0418vHLk0c4eECgBGvXx3ts0&sharer_sharetime=1587597743716&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtQDXYGeJBn2amp9JyKVLCg%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
+![运转方向](/pic/review.jpg)
 
 - [**2020-04-19 瑞德西韦在华临床试验被迫终止，近300项研究蜂拥而上，专家呼吁建立国家级临床试验网络**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649585745&idx=1&sn=5c36200a9f1ecf9e90a4c298513437fa&chksm=876a6c48b01de55e9d1578af8f714fae63b7bb89e55e2bcb45f4edbbfe7876f80002c412084bmpshare=1&scene=1&srcid=&sharer_sharetime=1587310053088&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Agk%2BB%2Bi12wgBLJYWgLqIV%2Bo%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 ![被迫终止](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/term.jpg)
@@ -262,7 +268,7 @@
 - [**2020-04-21 这场新冠疫苗的科技竞赛，谁会赢？**](https://mp.weixin.qq.com/s?__biz=MzIxMDQzOTUyMw==&mid=2247493326&idx=1&sn=f063da664a087bc9871d93416e11be30&chksm=97663ac2a011b3d4fcbe43fe0fb4e3f86a1e1e51b6b1124587889edfc40db03deee497cad85a&mpshare=1&scene=1&srcid=&sharer_sharetime=1587494335152&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvpzWbL7sxjbgEOc3tnIbnw%3D&pass_ticket=90juE%2FadeX3%2Bwz0Ak67icgLnny94JGzy22pa6zlvXd2vUzUTBdyS55WVTsdSZXFM#rd) &#127381;
 ![winner](/pic/winner.jpg)
 
-- [**2020-04-21 首个新冠病毒灭活疫苗临床前实验数据公布：有效中和10个代表性SARS-CoV-2毒株**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247489019&idx=1&sn=4b838add0c1870ba8ca9b6d31e5f1804&chksm=fb8828b8ccffa1ae2f89d8f5b4fe3f7e5644d3d1972f1f1eec079eaa4a649894b7ed39b9c40e&mpshare=1&scene=1&srcid=&sharer_sharetime=1587482029457&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=AmbFd4HWCqQAezeRo5zC%2FRI%3D&pass_ticket=90juE%2FadeX3%2Bwz0Ak67icgLnny94JGzy22pa6zlvXd2vUzUTBdyS55WVTsdSZXFM#rd) &#127381;
+- [**2020-04-21 首个新冠病毒灭活疫苗临床前实验数据公布：有效中和10个代表性SARS-CoV-2毒株**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247489019&idx=1&sn=4b838add0c1870ba8ca9b6d31e5f1804&chksm=fb8828b8ccffa1ae2f89d8f5b4fe3f7e5644d3d1972f1f1eec079eaa4a649894b7ed39b9c40e&mpshare=1&scene=1&srcid=&sharer_sharetime=1587482029457&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=AmbFd4HWCqQAezeRo5zC%2FRI%3D&pass_ticket=90juE%2FadeX3%2Bwz0Ak67icgLnny94JGzy22pa6zlvXd2vUzUTBdyS55WVTsdSZXFM#rd)
 ![中和10个代表性](/pic/ADE.jpg)
 
 - [**2020-04-20 中国医科院成功研制出新冠病毒灭活疫苗，系第一个COVID-19疫苗的公开数据**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488743&idx=2&sn=140f80561c6a3fe16a6ae3d455c98868&chksm=f9801ea2cef797b40ffba2be6c1d355a0eedca03972849b37abfbb6fede4b38b5e272afa0735&mpshare=1&scene=1&srcid=&sharer_sharetime=1587430021518&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap16ixWQ9xrAZ0x1mktWhv8%3D&pass_ticket=gmQb7jm8rmUNOrhE3L7Em42JTd0rJuMorXsW6K2kO61Log703BejvT18YaXtlXzF#rd)
@@ -421,6 +427,18 @@
  ***
  
 ## 研究进展
+
+- [**2020-04-22 美国首个新冠肺炎病例报告，揭示三个与中国病例不同的新发现**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488773&idx=1&sn=b3dd3a08d74b9dbf9a3b51f0556943b5&chksm=f9801f40cef79656869e5e788e3037f88ed7c582f95021e02b17b0898b0a42eaf77c7b026342&mpshare=1&scene=1&srcid=&sharer_sharetime=1587606878868&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApuU0P5Wv09dhxCFnPhO3k0%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
+![USAFIRST](/pic/usafirst.jpg)
+
+- [**2020-04-22 李兰娟院士：确切证据表明新冠病毒在患者体内发生突变，并对致病性产生影响**](https://mp.weixin.qq.com/s?__biz=MzI0OTUwODU5Mg==&mid=2247517131&idx=4&sn=607f8a4604a635ddd6b5d02fa7c39677&chksm=e992a454dee52d42dfdc3b9c57ef6851cfef01f7ac9602151954941a049773f03deea61a2968&mpshare=1&scene=1&srcid=0423HOsi5c9PS4fM5rddsN3M&sharer_sharetime=1587597828659&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApBNwWrP%2B1tYm2EGzfr3eF0%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
+![突变](/pic/mutation.jpg)
+
+- [**2020-04-22 柳红/杨海涛/许叶春/张磊砢合作团队基于结构的药物设计策略开发出新型抗SARS-CoV-2病毒候选药物**](https://mp.weixin.qq.com/s?__biz=MzA3MzQyNjY1MQ==&mid=2652483639&idx=1&sn=8df91e0c2e910b57c9e07f388f538831&chksm=84e22383b395aa953d546cf1c91f695b7a3fbb722915260f9bda206efc0f2795ccb09a8feea5&mpshare=1&scene=1&srcid=&sharer_sharetime=1587583176246&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnhmoaV%2BIfEizLFJMrPLf3g%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
+![药物设计](/pic/drugdesign.jpg)
+
+- [**2020-04-22 尿液中检测到新冠病毒，浙江大学梁廷波团队发现粪便排毒时间最长**](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247508387&idx=1&sn=2a038939e61f5bfc08acc7d311711750&chksm=fce6d27ccb915b6a36ef2ea73e7ee17761515ba3469304c2d9c1b246c9adbd3c40200f8d1a8c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587536714249&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Anvq8oi2mxSNhaqiUGpXswE%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
+![尿液检测](/pic/viralload.jpg)
 
 - [**2020-04-21 Coronavirus’s ability to mutate has been vastly underestimated, and mutations affect deadliness of strains, Chinese study finds**](https://www.scmp.com/news/china/science/article/3080771/coronavirus-mutations-affect-deadliness-strains-chinese-study) &#127381;
 ![mutate](/pic/mutate.jpeg)
@@ -607,7 +625,10 @@
  
 ## 其他
 
-- [**2020-04-21 Sweden Says Controversial Virus Strategy Proving Effective**](https://www.bloomberg.com/news/articles/2020-04-19/sweden-says-controversial-covid-19-strategy-is-proving-effective) &#127381;
+- [**2020-04-22 澳大利亚:疫情防范里的优等生**](https://mp.weixin.qq.com/s?__biz=MzIxNzAzMjMxNA==&mid=2650279937&idx=2&sn=bcd6849cddfb4c85840996dfbdad6a28&chksm=8ff34314b884ca02880e30d7358007846bf8e1be0de6581af81a503a5cbb44fef84332e69c4e&mpshare=1&scene=1&srcid=&sharer_sharetime=1587600285045&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsRLsa1rn7e0bjq085vjAuU%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
+![澳大利亚](/pic/australia.jpg)
+
+- [**2020-04-21 Sweden Says Controversial Virus Strategy Proving Effective**](https://www.bloomberg.com/news/articles/2020-04-19/sweden-says-controversial-covid-19-strategy-is-proving-effective) 
 ![sweden](/pic/sweden2.jpg)
 
 - [**2020-04-19 佛系生活，救了日本**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652016030&idx=1&sn=d0094266682b23457bea4788d4a59376&chksm=bd0f77c38a78fed54576c6891728eac2fb734427357d442b9965b95cf7e1e5075b09f01ccf07&mpshare=1&scene=1&srcid=&sharer_sharetime=1587356407103&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvqVYG5YfUfIATXBF34wWLg%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
