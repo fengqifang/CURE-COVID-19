@@ -625,6 +625,9 @@
  
 ## 其他
 
+- [**2020-04-23 Infect Everyone: How Herd Immunity Could Work for Poor Countries**](https://www.bloomberg.com/news/articles/2020-04-21/a-herd-immunity-strategy-could-actually-work-in-youthful-india) &#127381;
+![everyone](/pic/everyone.jpg)
+
 - [**2020-04-23 Hidden Outbreaks Spread Through U.S. Cities Far Earlier Than Americans Knew, Estimates Say**](https://www.nytimes.com/2020/04/23/us/coronavirus-early-outbreaks-cities.html?referringSource=articleShare) &#127381;
 ![hidden](/pic/hidden.jpg)
 
