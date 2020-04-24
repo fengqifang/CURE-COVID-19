@@ -217,7 +217,7 @@
 
  ***
 
-## 疫苗相关／新药开发f
+## 疫苗相关／新药开发
 
 - [**2020-04-23 中西合璧：聚焦COVID-19药物研发进展**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247520129&idx=1&sn=0f3233e5a60a95fba50d4137e114a2de&chksm=ecb33767dbc4be71216a627ec0c318a4f851672ba82dbfab0efc37048f91496f52767f820816&mpshare=1&scene=1&srcid=&sharer_sharetime=1587692361733&sharer_shareid=6079326e0dfa026e8e9fcc86a17f904d&exportkey=ApiGTsoYTWpuJJ1d9KQds5Q%3D&pass_ticket=EJZZ0lMB4xLc65tZn1WwNuTKBvf1jHq%2BuRbeqcSqEvuC5gJ1WVWLSE1OOZK93bl5#rd) &#127381;
 ![newdrug](/pic/newdrug.jpg)
@@ -262,9 +262,9 @@
 
 - [**2020-04-07 与瑞德西韦互补，新型广谱抗病毒药有望助力COVID-19治疗**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247488865&idx=1&sn=521cf8f37995b0984c254df755d6670b&chksm=fb882822ccffa134b47a50ffc671564a15fa357fdedba84f76b9fd42be9a67675bff56d7ad9f&mpshare=1&scene=1&srcid=&sharer_sharetime=1586274806276&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=Ak9%2BSESpmh6tkJHqT4UWd80%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd)  
 
-- [**2020-04-07 An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice**](https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883) &#127381; 
+- [**2020-04-07 An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice**](https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883)
 
-- [**2020-04-07 有效抑制多种冠状病毒，它会是我们期盼的“万能药”吗？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498202&idx=1&sn=2ca4039e40eb2e0faa52abc385c8d711&chksm=ec1d5a89db6ad39f0611316c9455520b845a036228ecc57bd4d5597c8d3e2bee1b2029122e3e&mpshare=1&scene=1&srcid=&sharer_sharetime=1586236686401&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlOeLv5F3uIVqTYeBTh%2BPWA%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd) &#127381;
+- [**2020-04-07 有效抑制多种冠状病毒，它会是我们期盼的“万能药”吗？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498202&idx=1&sn=2ca4039e40eb2e0faa52abc385c8d711&chksm=ec1d5a89db6ad39f0611316c9455520b845a036228ecc57bd4d5597c8d3e2bee1b2029122e3e&mpshare=1&scene=1&srcid=&sharer_sharetime=1586236686401&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlOeLv5F3uIVqTYeBTh%2BPWA%3D&pass_ticket=RrseBzyO%2B22BWfUr5K1TEMTI0KPJkw04EDRKXY0d%2FadLce%2Fr1xk1a5yaK52Ixaug#rd)
 
 - [**2020-04-05 ANTI-PARASITE DRUG USED SINCE 1980S MAY HELP STOP CORONAVIRUS, NEW STUDY SAYS**](https://www.newsweek.com/anti-parasite-drug-used-since-1980s-may-help-stop-coronavirus-new-study-says-1496083)
 
@@ -342,16 +342,16 @@
 - [**2020-04-23 户外空气中的颗粒物首次检测到新冠病毒**](https://mp.weixin.qq.com/s?__biz=MjM5NTU1MTY5Mg==&mid=2654091130&idx=1&sn=50863623caf82f349afeb0726d65847e&chksm=bd3057d98a47decf1fdb64423b7000aa95ecbf8f8c24ca33cac00d03dc3a447e3c45fd4f0de9&mpshare=1&scene=1&srcid=&sharer_sharetime=1587661143070&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtA1MnAzQyDhphqY3%2FSh9b0%3D&pass_ticket=EJZZ0lMB4xLc65tZn1WwNuTKBvf1jHq%2BuRbeqcSqEvuC5gJ1WVWLSE1OOZK93bl5#rd) &#127381;
 ![pm](/pic/pm.jpg)
 
-- [**2020-04-22 美国首个新冠肺炎病例报告，揭示三个与中国病例不同的新发现**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488773&idx=1&sn=b3dd3a08d74b9dbf9a3b51f0556943b5&chksm=f9801f40cef79656869e5e788e3037f88ed7c582f95021e02b17b0898b0a42eaf77c7b026342&mpshare=1&scene=1&srcid=&sharer_sharetime=1587606878868&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApuU0P5Wv09dhxCFnPhO3k0%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
+- [**2020-04-22 美国首个新冠肺炎病例报告，揭示三个与中国病例不同的新发现**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488773&idx=1&sn=b3dd3a08d74b9dbf9a3b51f0556943b5&chksm=f9801f40cef79656869e5e788e3037f88ed7c582f95021e02b17b0898b0a42eaf77c7b026342&mpshare=1&scene=1&srcid=&sharer_sharetime=1587606878868&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApuU0P5Wv09dhxCFnPhO3k0%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
 ![USAFIRST](/pic/usafirst.jpg)
 
-- [**2020-04-22 李兰娟院士：确切证据表明新冠病毒在患者体内发生突变，并对致病性产生影响**](https://mp.weixin.qq.com/s?__biz=MzI0OTUwODU5Mg==&mid=2247517131&idx=4&sn=607f8a4604a635ddd6b5d02fa7c39677&chksm=e992a454dee52d42dfdc3b9c57ef6851cfef01f7ac9602151954941a049773f03deea61a2968&mpshare=1&scene=1&srcid=0423HOsi5c9PS4fM5rddsN3M&sharer_sharetime=1587597828659&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApBNwWrP%2B1tYm2EGzfr3eF0%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
+- [**2020-04-22 李兰娟院士：确切证据表明新冠病毒在患者体内发生突变，并对致病性产生影响**](https://mp.weixin.qq.com/s?__biz=MzI0OTUwODU5Mg==&mid=2247517131&idx=4&sn=607f8a4604a635ddd6b5d02fa7c39677&chksm=e992a454dee52d42dfdc3b9c57ef6851cfef01f7ac9602151954941a049773f03deea61a2968&mpshare=1&scene=1&srcid=0423HOsi5c9PS4fM5rddsN3M&sharer_sharetime=1587597828659&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApBNwWrP%2B1tYm2EGzfr3eF0%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
 ![突变](/pic/mutation.jpg)
 
-- [**2020-04-22 柳红/杨海涛/许叶春/张磊砢合作团队基于结构的药物设计策略开发出新型抗SARS-CoV-2病毒候选药物**](https://mp.weixin.qq.com/s?__biz=MzA3MzQyNjY1MQ==&mid=2652483639&idx=1&sn=8df91e0c2e910b57c9e07f388f538831&chksm=84e22383b395aa953d546cf1c91f695b7a3fbb722915260f9bda206efc0f2795ccb09a8feea5&mpshare=1&scene=1&srcid=&sharer_sharetime=1587583176246&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnhmoaV%2BIfEizLFJMrPLf3g%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
+- [**2020-04-22 柳红/杨海涛/许叶春/张磊砢合作团队基于结构的药物设计策略开发出新型抗SARS-CoV-2病毒候选药物**](https://mp.weixin.qq.com/s?__biz=MzA3MzQyNjY1MQ==&mid=2652483639&idx=1&sn=8df91e0c2e910b57c9e07f388f538831&chksm=84e22383b395aa953d546cf1c91f695b7a3fbb722915260f9bda206efc0f2795ccb09a8feea5&mpshare=1&scene=1&srcid=&sharer_sharetime=1587583176246&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnhmoaV%2BIfEizLFJMrPLf3g%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
 ![药物设计](/pic/drugdesign.jpg)
 
-- [**2020-04-22 尿液中检测到新冠病毒，浙江大学梁廷波团队发现粪便排毒时间最长**](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247508387&idx=1&sn=2a038939e61f5bfc08acc7d311711750&chksm=fce6d27ccb915b6a36ef2ea73e7ee17761515ba3469304c2d9c1b246c9adbd3c40200f8d1a8c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587536714249&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Anvq8oi2mxSNhaqiUGpXswE%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
+- [**2020-04-22 尿液中检测到新冠病毒，浙江大学梁廷波团队发现粪便排毒时间最长**](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247508387&idx=1&sn=2a038939e61f5bfc08acc7d311711750&chksm=fce6d27ccb915b6a36ef2ea73e7ee17761515ba3469304c2d9c1b246c9adbd3c40200f8d1a8c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587536714249&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Anvq8oi2mxSNhaqiUGpXswE%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
 ![尿液检测](/pic/viralload.jpg)
 
 - [**2020-04-21 Coronavirus’s ability to mutate has been vastly underestimated, and mutations affect deadliness of strains, Chinese study finds**](https://www.scmp.com/news/china/science/article/3080771/coronavirus-mutations-affect-deadliness-strains-chinese-study)
@@ -494,7 +494,7 @@
 - [**2020-04-23 Hidden Outbreaks Spread Through U.S. Cities Far Earlier Than Americans Knew, Estimates Say**](https://www.nytimes.com/2020/04/23/us/coronavirus-early-outbreaks-cities.html?referringSource=articleShare) &#127381;
 ![hidden](/pic/hidden.jpg)
 
-- [**2020-04-22 澳大利亚:疫情防范里的优等生**](https://mp.weixin.qq.com/s?__biz=MzIxNzAzMjMxNA==&mid=2650279937&idx=2&sn=bcd6849cddfb4c85840996dfbdad6a28&chksm=8ff34314b884ca02880e30d7358007846bf8e1be0de6581af81a503a5cbb44fef84332e69c4e&mpshare=1&scene=1&srcid=&sharer_sharetime=1587600285045&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsRLsa1rn7e0bjq085vjAuU%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
+- [**2020-04-22 澳大利亚:疫情防范里的优等生**](https://mp.weixin.qq.com/s?__biz=MzIxNzAzMjMxNA==&mid=2650279937&idx=2&sn=bcd6849cddfb4c85840996dfbdad6a28&chksm=8ff34314b884ca02880e30d7358007846bf8e1be0de6581af81a503a5cbb44fef84332e69c4e&mpshare=1&scene=1&srcid=&sharer_sharetime=1587600285045&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsRLsa1rn7e0bjq085vjAuU%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
 ![澳大利亚](/pic/australia.jpg)
 
 - [**2020-04-21 Sweden Says Controversial Virus Strategy Proving Effective**](https://www.bloomberg.com/news/articles/2020-04-19/sweden-says-controversial-covid-19-strategy-is-proving-effective) 
@@ -636,29 +636,23 @@
 ## 妖孽存照 
 
 - [**2020-03-24 群众的眼睛是雪亮的，在盯着别人的时候**](https://mp.weixin.qq.com/s?__biz=MjM5MjQ5Mjk2OA==&mid=2653311783&idx=1&sn=acb8fc9edbb6dca8a29220d754675b69&chksm=bd778fe08a0006f6241b4579675ecc1c01f153d1653bd4e3b84b0d3a72c5876431b89929d235&mpshare=1&scene=1&srcid=&sharer_sharetime=1585073674730&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlLZykVZkA4mLa0iBAif9BY%3D&pass_ticket=AffHC52GB9HY5n%2BDrR8AjuY2CbTqEkbsgvAIn9%2FRHzOlhwSlxqPxxEt7Kshiv8Pq#rd)
-![funny](/pic/funy.jpg)
 
 - [**2020-03-23 人人得而诛之：看看这是谁家捐的防护服，捐赠者要回来吧！**](https://mp.weixin.qq.com/s?__biz=MzA3MjA5ODY1Mg==&mid=2658067760&idx=1&sn=6fb3e1b30c9024ae8c8077b6d3a57e34&chksm=84b93303b3ceba1545912e508208c3e3caa713e3b27b1aacb496dc031222113d8b295985c53b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584997153795&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApqrRVVFBoIDStp8o993nnk%3D&pass_ticket=ZwOiQJfXVoIfe%2FJCFsYATcZVIDErHHkIfwYn3ZoAw62cmM%2FjM2UwPLbNCjtpCDoX#rd)
-![suit](/pic/suit.jpg)
 
 - [**2020-03-22 对湖北人一刀切，对入境的百般伺候，良心不会痛么？**](https://mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650906475&idx=1&sn=8bd29d5778965172d577b4bea5847b8f&chksm=bd19374c8a6ebe5aa5c719a4ffbde5f461cf6f1811207556dc482d18ecfd4560fb699e16f2e8&mpshare=1&scene=1&srcid=0322p0M0EWaJmDV0uS6X8pqj&sharer_sharetime=1584883308340&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AurapGDVarUUNmTM7Wyun6Y%3D&pass_ticket=R04LIHTo9Hcxmbaoq%2Bhvk9GLtI4Eo8hQJLqKMag61uoeW49PRPJk%2FdmMRjXw6RKe#rd)
-![hubei](/pic/hubei.jpg)
 
 - [**2020-03-18 一个叫“郭红”的人，炮制了你朋友圈所有的“世界失控”**](https://mp.weixin.qq.com/s?__biz=MjM5MTk4MDI2MA==&mid=2649595236&idx=1&sn=b6fe643825dbbe95f945355061638c78&chksm=beb472ef89c3fbf987358dccf92ea0f88fd470f15f730d738cb9029d91ea9f16dabc09fc3933&mpshare=1&scene=1&srcid=&sharer_sharetime=1584543316049&sharer_shareid=b6d9339d6b785397058c38b1d1ed2ff0&exportkey=AiX3S3Jq%2B5K5My7imZlKrHM%3D&pass_ticket=DHFvkeKQ0K51NcfNeVy0%2F5dGD5jlmdm7QJ%2F2VQh0EddqWUD6P%2B%2FteG1C%2FakKYnf2#rd)
-![失控](/pic/shikong.jpg)
 
 - [**2020-03-16 我们都欠“蔡莉女士”一个热搜**](https://mp.weixin.qq.com/s?__biz=MzA4OTUyMzU3NQ==&mid=2247487443&idx=1&sn=32c64f1892c542a1b9b5d0025316c8f7&chksm=9018dbcba76f52ddb5501cab2a0cf71ad663c4f382481711ebf07a1a2b3b478d2ae874232c70&mpshare=1&scene=1&srcid=&sharer_sharetime=1584635748370&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApQm05CuHx17WZed62ifqMM%3D&pass_ticket=QVc%2BaIiodq8ErwN1pzyLkkQt3E8FKT9U6n%2BhlSiB9UjrSqz9%2FdqAOv4oPluzeLwh#rd)
-![蔡莉](/pic/cai.jpg)
 
 - [**2020-01-14 World Health Organization (WHO): no clear evidence of human-to-human transmission**](https://twitter.com/WHO/status/1217043229427761152)
-![who2](/pic/who2.jpg)
 
  ***
  
 ## 其它资料
    **Other resources on Github**
 
-- [**New York Times Coronavirus (Covid-19) Data in the United States**](https://github.com/nytimes/covid-19-data) &#127381;
+- [**New York Times Coronavirus (Covid-19) Data in the United States**](https://github.com/nytimes/covid-19-data)
 
 - [**Download, Tidy and Visualize Covid-19 Related Data**](https://github.com/joachim-gassen/tidycovid19) 
 ![tidycovid19](https://github.com/joachim-gassen/tidycovid19/blob/master/man/figures/DemoPlot-1.png)
