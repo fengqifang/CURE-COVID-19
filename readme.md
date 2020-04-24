@@ -298,8 +298,7 @@
 
 - [**2020-03-20 Nature提出5个新冠疫苗开发的关键问题**](https://mp.weixin.qq.com/s?__biz=MzIzMTY2MTAzMA==&mid=2247487587&idx=1&sn=ec0a50fb41730cbe7bd32b133885c180&chksm=e8a19ceadfd615fcbf44b9f16f0c85b9888ee0ca84fb0e4f107d38849c03a4e61f2b3fe6620f&mpshare=1&scene=1&srcid=&sharer_sharetime=1584694780213&sharer_shareid=a7e32da51bd8652bf82fc868cc3dfc99&exportkey=ArM5YlG4bnru2jGA0z8WSDs%3D&pass_ticket=SwNVSziXYg%2B39Yug6qtVhPmKUap2vRoCaNfWY0Hz0mZcQW0ICYv1W18i7wQNgYf6#rd)
 
-- [**2020-03-19 An Effective Treatment for Coronavirus (COVID-19)](https://docs.google.com/document/d/e/2PACX-1vTi-g18ftNZUMRAj2SwRPodtscFio7bJ7GdNgbJAGbdfF67WuRJB3ZsidgpidB2eocFHAVjIL-7deJ7/pub)
-![effective](/pic/effective.jpg)
+- [**2020-03-19 An Effective Treatment for Coronavirus (COVID-19)**](https://docs.google.com/document/d/e/2PACX-1vTi-g18ftNZUMRAj2SwRPodtscFio7bJ7GdNgbJAGbdfF67WuRJB3ZsidgpidB2eocFHAVjIL-7deJ7/pub)
 
 - [**2020-03-19 罗氏启动托珠单抗治疗重症COVID-19肺炎患者III期研究：招募330例患者**](https://mp.weixin.qq.com/s?__biz=MzA4MDA4MTIzMg==&mid=2653069451&idx=2&sn=16675ccd88483a21351f9c4e04125145&chksm=847fb8b4b30831a2f3434784e906afa6e496dc40f2fbe85050a07022fc8f142735d9526eee1e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584659771876&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Atz40SPnsJzKmmqDoh1wXE0%3D&pass_ticket=8w0c%2FEMdX6%2Fj%2B6LnpiniQRWg1OgK%2BgY7vurlya0icShWG%2FfD9eCO0a39Eh2KzF5x#rd)
 
