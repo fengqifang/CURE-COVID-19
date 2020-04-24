@@ -38,6 +38,8 @@
 
 ## 疫情地图
 
+- [**Statistics and Research: Coronavirus Disease (COVID-19)**](https://ourworldindata.org/coronavirus) &#127381;
+
 - [**People of the Pandemic: a global pandemic has arrived in your backyard**](https://peopleofthepandemicgame.com/)
 
 - [**An interactive visualization of the exponential spread of COVID-19**](http://91-divoc.com/pages/covid-visualization/) 
@@ -265,6 +267,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-04-23 中西合璧：聚焦COVID-19药物研发进展**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247520129&idx=1&sn=0f3233e5a60a95fba50d4137e114a2de&chksm=ecb33767dbc4be71216a627ec0c318a4f851672ba82dbfab0efc37048f91496f52767f820816&mpshare=1&scene=1&srcid=&sharer_sharetime=1587692361733&sharer_shareid=6079326e0dfa026e8e9fcc86a17f904d&exportkey=ApiGTsoYTWpuJJ1d9KQds5Q%3D&pass_ticket=EJZZ0lMB4xLc65tZn1WwNuTKBvf1jHq%2BuRbeqcSqEvuC5gJ1WVWLSE1OOZK93bl5#rd) &#127381;
+![newdrug](/pic/newdrug.jpg)
+
 - [**2020-04-21 这场新冠疫苗的科技竞赛，谁会赢？**](https://mp.weixin.qq.com/s?__biz=MzIxMDQzOTUyMw==&mid=2247493326&idx=1&sn=f063da664a087bc9871d93416e11be30&chksm=97663ac2a011b3d4fcbe43fe0fb4e3f86a1e1e51b6b1124587889edfc40db03deee497cad85a&mpshare=1&scene=1&srcid=&sharer_sharetime=1587494335152&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvpzWbL7sxjbgEOc3tnIbnw%3D&pass_ticket=90juE%2FadeX3%2Bwz0Ak67icgLnny94JGzy22pa6zlvXd2vUzUTBdyS55WVTsdSZXFM#rd)
 ![winner](/pic/winner.jpg)
 
@@ -427,6 +432,9 @@
  ***
  
 ## 研究进展
+
+- [**2020-04-23 户外空气中的颗粒物首次检测到新冠病毒**](https://mp.weixin.qq.com/s?__biz=MjM5NTU1MTY5Mg==&mid=2654091130&idx=1&sn=50863623caf82f349afeb0726d65847e&chksm=bd3057d98a47decf1fdb64423b7000aa95ecbf8f8c24ca33cac00d03dc3a447e3c45fd4f0de9&mpshare=1&scene=1&srcid=&sharer_sharetime=1587661143070&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtA1MnAzQyDhphqY3%2FSh9b0%3D&pass_ticket=EJZZ0lMB4xLc65tZn1WwNuTKBvf1jHq%2BuRbeqcSqEvuC5gJ1WVWLSE1OOZK93bl5#rd) &#127381;
+![pm](/pic/pm.jpg)
 
 - [**2020-04-22 美国首个新冠肺炎病例报告，揭示三个与中国病例不同的新发现**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488773&idx=1&sn=b3dd3a08d74b9dbf9a3b51f0556943b5&chksm=f9801f40cef79656869e5e788e3037f88ed7c582f95021e02b17b0898b0a42eaf77c7b026342&mpshare=1&scene=1&srcid=&sharer_sharetime=1587606878868&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApuU0P5Wv09dhxCFnPhO3k0%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd) &#127381;
 ![USAFIRST](/pic/usafirst.jpg)
