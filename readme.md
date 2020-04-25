@@ -38,7 +38,7 @@
 
 ## 疫情地图
 
-- [**Statistics and Research: Coronavirus Disease (COVID-19)**](https://ourworldindata.org/coronavirus) &#127381;
+- [**Statistics and Research: Coronavirus Disease (COVID-19)**](https://ourworldindata.org/coronavirus)
 
 - [**People of the Pandemic: a global pandemic has arrived in your backyard**](https://peopleofthepandemicgame.com/)
 
@@ -108,6 +108,12 @@
  
 ## 治疗方案
 
+- [**2020-04-24 瑞德西韦治疗新冠被曝无效，“人民的希望”破灭了吗？**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655443233&idx=1&sn=6db814b9ab8f6921cb697a6d27b6f974&chksm=f3a6db4cc4d1525a5c07f57ad4336539b2143eed08a36ed0b33b9f57ea59fa11da8570f6dfa6&mpshare=1&scene=1&srcid=&sharer_sharetime=1587710320785&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhEM07qKynIh53VOk0b7gk8%3D&pass_ticket=R15aSSb8vwMk8PAwrWDKUWemQi5DhrJFeyK7LtzV8E11NbmoVHQv4%2Ftb%2F%2BdoSe2A#rd) &#127381;
+![无效](/pic/ineffective.jpg)
+
+- [**2020-04-24 Mesoblast’s Stem Cell Therapy Shows 83% Survival in Ventilator-Dependent COVID-19 Patients**](https://www.biospace.com/article/mesoblast-ltd-s-stem-cell-therapy-shows-83-percent-survival-in-covid-19-patients/?from=timeline&isappinstalled=0) &#127381;
+![meso](/pic/meso.jpg)
+
 - [**2020-04-22 瑞德西韦将如何改变地球下半年的运转方向**](https://mp.weixin.qq.com/s?__biz=MzUxNTkwNzkzMA==&mid=2247486907&idx=1&sn=91b38c7d05d7f0bb18e313a49f069d36&chksm=f9aec58eced94c98109dc6dccfc8b8ae68a465ecd3b5ea9548cbf6583bdbea4bd03046309e2f&mpshare=1&scene=1&srcid=0418vHLk0c4eECgBGvXx3ts0&sharer_sharetime=1587597743716&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtQDXYGeJBn2amp9JyKVLCg%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
 ![运转方向](/pic/review.jpg)
 
@@ -118,10 +124,8 @@
 ![临床前研究](/pic/preclinic.jpg)
 
 - [**2020-04-16 Early peek at data on Gilead coronavirus drug suggests patients are responding to treatment**](https://www.statnews.com/2020/04/16/early-peek-at-data-on-gilead-coronavirus-drug-suggests-patients-are-responding-to-treatment/?from=timeline&isappinstalled=0)
-![earlypeek](/pic/peek.jpg)
 
 - [**2020-04-16 Dow futures rally more than 800 points after Gilead coronavirus drug reportedly shows effectiveness**](https://www.cnbc.com/2020/04/16/sp-500-etf-jumps-2percent-after-hours-on-report-gilead-drug-showing-effectiveness-treating-coronavirus.html?__source=iosappshare%7Ccom.tencent.xin.sharetimeline&from=groupmessage&isappinstalled=0) &#127381;
-![dow](/pic/dow.jpg)
 
 - [**2020-04-15 萘莫司他抑制SARS-CoV-2感染，阻止COVID-19传播**](https://mp.weixin.qq.com/s?__biz=MzU2ODU3Mzc4Nw==&mid=2247484936&idx=2&sn=2f44e6e4216bbee7dc398b09b85cd109&chksm=fc8aac3ccbfd252a9ec9e7f1d90b7008e329bf65f94601503222e5f23e9e94e148389e358f88&mpshare=1&scene=1&srcid=&sharer_sharetime=1586959477341&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkyIB3CAwIyP1CWFPWD4xTQ%3D&pass_ticket=NQsSvG%2F9oChuMMahd%2BClsvRqaS4ELzdyrxvSBRApi0tQ8e%2FuUQl%2F4PP0f5RPVERe#rd)
 
@@ -219,7 +223,10 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-04-23 中西合璧：聚焦COVID-19药物研发进展**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247520129&idx=1&sn=0f3233e5a60a95fba50d4137e114a2de&chksm=ecb33767dbc4be71216a627ec0c318a4f851672ba82dbfab0efc37048f91496f52767f820816&mpshare=1&scene=1&srcid=&sharer_sharetime=1587692361733&sharer_shareid=6079326e0dfa026e8e9fcc86a17f904d&exportkey=ApiGTsoYTWpuJJ1d9KQds5Q%3D&pass_ticket=EJZZ0lMB4xLc65tZn1WwNuTKBvf1jHq%2BuRbeqcSqEvuC5gJ1WVWLSE1OOZK93bl5#rd) &#127381;
+- [**2020-04-24 英国有望造出全球首个新冠疫苗**](https://mp.weixin.qq.com/s?__biz=MzA4OTczMjE2OQ==&mid=2651767609&idx=4&sn=6c302117815ce6bdf175db93c533129c&chksm=8bec061fbc9b8f09b26564cd0cac8ef556beab2c743f059203c256e45e1b9da5d859778d1079&mpshare=1&scene=1&srcid=&sharer_sharetime=1587705269729&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Agt6MoWMmBJq6eiP4NcPdLU%3D&pass_ticket=R15aSSb8vwMk8PAwrWDKUWemQi5DhrJFeyK7LtzV8E11NbmoVHQv4%2Ftb%2F%2BdoSe2A#rd) &#127381;
+![全球首个新冠疫苗](/pic/england.jpg)
+
+- [**2020-04-23 中西合璧：聚焦COVID-19药物研发进展**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247520129&idx=1&sn=0f3233e5a60a95fba50d4137e114a2de&chksm=ecb33767dbc4be71216a627ec0c318a4f851672ba82dbfab0efc37048f91496f52767f820816&mpshare=1&scene=1&srcid=&sharer_sharetime=1587692361733&sharer_shareid=6079326e0dfa026e8e9fcc86a17f904d&exportkey=ApiGTsoYTWpuJJ1d9KQds5Q%3D&pass_ticket=EJZZ0lMB4xLc65tZn1WwNuTKBvf1jHq%2BuRbeqcSqEvuC5gJ1WVWLSE1OOZK93bl5#rd)
 ![newdrug](/pic/newdrug.jpg)
 
 - [**2020-04-21 这场新冠疫苗的科技竞赛，谁会赢？**](https://mp.weixin.qq.com/s?__biz=MzIxMDQzOTUyMw==&mid=2247493326&idx=1&sn=f063da664a087bc9871d93416e11be30&chksm=97663ac2a011b3d4fcbe43fe0fb4e3f86a1e1e51b6b1124587889edfc40db03deee497cad85a&mpshare=1&scene=1&srcid=&sharer_sharetime=1587494335152&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvpzWbL7sxjbgEOc3tnIbnw%3D&pass_ticket=90juE%2FadeX3%2Bwz0Ak67icgLnny94JGzy22pa6zlvXd2vUzUTBdyS55WVTsdSZXFM#rd)
@@ -338,7 +345,10 @@
  
 ## 研究进展
 
-- [**2020-04-23 户外空气中的颗粒物首次检测到新冠病毒**](https://mp.weixin.qq.com/s?__biz=MjM5NTU1MTY5Mg==&mid=2654091130&idx=1&sn=50863623caf82f349afeb0726d65847e&chksm=bd3057d98a47decf1fdb64423b7000aa95ecbf8f8c24ca33cac00d03dc3a447e3c45fd4f0de9&mpshare=1&scene=1&srcid=&sharer_sharetime=1587661143070&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtA1MnAzQyDhphqY3%2FSh9b0%3D&pass_ticket=EJZZ0lMB4xLc65tZn1WwNuTKBvf1jHq%2BuRbeqcSqEvuC5gJ1WVWLSE1OOZK93bl5#rd) &#127381;
+- [**2020-04-24 出院的新冠重症病人：66天历经4家医院，可能要“终身吸氧”**](https://view.inews.qq.com/a/20200422A0SZ0600?chlid=news_news_top&devid=aaf0cd770b71cb15&qimei=864254042371789&cv=0x70000001&dt=6&lang=zh_CN&pass_ticket=R15aSSb8vwMk8PAwrWDKUWemQi5DhrJFeyK7LtzV8E11NbmoVHQv4%2Ftb%2F%2BdoSe2A) &#127381;
+![新冠重症病人](/pic/oxygen.jpg)
+
+- [**2020-04-23 户外空气中的颗粒物首次检测到新冠病毒**](https://mp.weixin.qq.com/s?__biz=MjM5NTU1MTY5Mg==&mid=2654091130&idx=1&sn=50863623caf82f349afeb0726d65847e&chksm=bd3057d98a47decf1fdb64423b7000aa95ecbf8f8c24ca33cac00d03dc3a447e3c45fd4f0de9&mpshare=1&scene=1&srcid=&sharer_sharetime=1587661143070&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtA1MnAzQyDhphqY3%2FSh9b0%3D&pass_ticket=EJZZ0lMB4xLc65tZn1WwNuTKBvf1jHq%2BuRbeqcSqEvuC5gJ1WVWLSE1OOZK93bl5#rd)
 ![pm](/pic/pm.jpg)
 
 - [**2020-04-22 美国首个新冠肺炎病例报告，揭示三个与中国病例不同的新发现**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488773&idx=1&sn=b3dd3a08d74b9dbf9a3b51f0556943b5&chksm=f9801f40cef79656869e5e788e3037f88ed7c582f95021e02b17b0898b0a42eaf77c7b026342&mpshare=1&scene=1&srcid=&sharer_sharetime=1587606878868&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApuU0P5Wv09dhxCFnPhO3k0%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
@@ -370,10 +380,8 @@
 ![clara](/pic/clara.jpg)
 
 - [**2020-04-16 CDC reviewing ‘stunning’ universal testing results from Boston homeless shelter**](https://www.boston25news.com/news/cdc-reviewing-stunning-universal-testing-results-boston-homeless-shelter/Z253TFBO6RG4HCUAARBO4YWO64/)
-![boston](/pic/boston.jpg)
 
 - [**2020-04-16 140-Plus Coronavirus Survivors Retest Positive For Disease In South Korea, Raising Questions About Immunity**](https://www.forbes.com/sites/alexandrasternlicht/2020/04/16/140-plus-coronavirus-survivors-retest-positive-for-disease-in-south-korea-raising-questions-about-immunity/#664496d718ad)
-![immunity](https://github.com/fengqifang/CURE-COVID-19/blob/master/pic/immunity.jpg)
 
 - [**2020-04-15 吃了蝙蝠的流浪狗，可能才是人类感染新冠病毒的源头！**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247498510&idx=2&sn=d50fd288c6500e694a7490dc40053e9e&chksm=fbf60fdbcc8186cdafd98ae01af41b6191a301de3f9643cefe19b714959c78d1d587fdb92e31&mpshare=1&scene=1&srcid=&sharer_sharetime=1586921023137&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqdXiN8yGmI4HOjCTtpBcBQ%3D&pass_ticket=NQsSvG%2F9oChuMMahd%2BClsvRqaS4ELzdyrxvSBRApi0tQ8e%2FuUQl%2F4PP0f5RPVERe#rd)
 
@@ -507,10 +515,8 @@
 ![carljune](/pic/carljune.jpg)
 
 - [**2020-04-16 暴增728例，累计4427 | 总理夫人：新加坡低估了新冠，正为此付出代价**](https://mp.weixin.qq.com/s?__biz=MzU4NTU0MDgzOA==&mid=2247614360&idx=1&sn=cccb755de9dcd1a9adfab5bf9e596548&chksm=fd8b8a11cafc03073c999552c0357b9b88887537d32e6875a46d118010991a4f30b1a152be31&mpshare=1&scene=1&srcid=&sharer_sharetime=1587084152826&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiKL%2BFQxyIDvltwkSRxYsK0%3D&pass_ticket=LPv95jsz8u8JROsRqFCMS9SlwzFfrUYNjp%2Fil%2B7UnMdvOA7kvtlzu4y%2BwyWKCXed#rd)
-![新加坡](/pic/singapore.jpg)
 
 - [**2020-04-16 The Metric We Need to Manage COVID-19**](http://systrom.com/blog/the-metric-we-need-to-manage-covid-19/)
-![metric](/pic/metric.png)
 
 - [**2020-04-15 How John Burn-Murdoch’s Influential Dataviz Helped The World Understand Coronavirus**](https://medium.com/nightingale/how-john-burn-murdochs-influential-dataviz-helped-the-world-understand-coronavirus-6cb4a09795ae)
 
