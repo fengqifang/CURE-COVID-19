@@ -82,6 +82,9 @@
  
 ## 检测试剂
 
+- [**2020-04-27 Antibody testing will enhance the power and accuracy of COVID-19-prevention trials**](https://www.nature.com/articles/s41591-020-0887-3) &#127381;
+![antibodytesting](/pic/antibodytesting.jpg)
+
 - [**2020-04-22 FDA首开"在家"新冠病毒检测绿灯，专家们看法不一**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268963&idx=1&sn=5b5493cc7beb9b8e99c7278e10122173&chksm=8bb7c5ddbcc04ccb55f0f40cc3c58e9ed746fc96c8d6c3d19bb3cbcbd89713f9916b8187e81d&mpshare=1&scene=1&srcid=&sharer_sharetime=1587567161041&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvLfMgfMTaUp%2Bs24ZbpYpJs%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
 ![home](/pic/home.jpg)
 
