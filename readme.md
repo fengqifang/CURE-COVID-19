@@ -82,6 +82,9 @@
  
 ## 检测试剂
 
+- [**2020-04-28 北大,清华,地坛医院联合开发灵敏简单新型冠状病毒测序手段**](https://mp.weixin.qq.com/s?__biz=MzU4ODkyNjA1MQ==&mid=2247483834&idx=1&sn=acaba02e810f5b9b51719356a4659d8c&chksm=fdd41cb6caa395a0844099a78b85b6b37de190b60196fa7a5123999253d4e05a3c92a4e89c72&mpshare=1&scene=1&srcid=&sharer_sharetime=1588101051039&sharer_shareid=4c708f897c10a76d5b204808a3e00b14&exportkey=AlgasGgNZ5GtcLISyj%2FyIb4%3D&pass_ticket=tqoogpaFvlM7LilFw%2FrcPqq7pCiElORbQR7duINtKUYztIQiqc%2F69SrkkJtyKmU5#rd) &#127381;
+![novelseq](/pic/novelseq.jpg)
+
 - [**2020-04-27 Antibody testing will enhance the power and accuracy of COVID-19-prevention trials**](https://www.nature.com/articles/s41591-020-0887-3) &#127381;
 ![antibodytesting](/pic/antibodytesting.jpg)
 
