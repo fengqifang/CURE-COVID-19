@@ -183,7 +183,6 @@
 ## 氯喹专题
 
 - [**2020-04-20 诺华将启动羟氯喹治疗COVID-19大型III期临床试验**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=2247496742&idx=5&sn=cc26524679bfca21b328de6bbd2d73b9&chksm=fc76c792cb014e84b3e719526efd920ef15f897ea9e0876d335ef8ae2c60bd0a7e1127fd841b&mpshare=1&scene=1&srcid=&sharer_sharetime=1587391612887&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj2QZVYTRkuRyoANwBpvRPU%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
-![诺华](/pic/novartis.jpg)
 
 - [**2020-04-19 法国又一项对照研究发表，“神药”羟氯喹还值得期待吗？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488720&idx=1&sn=f65bab0c4ae6435d6de3a913e7a7c7e2&chksm=f9801e95cef79783306678f9c10ab4b26cc2ebae3a155dc3e08dad9f4b0e86b9c5a58597c373&mpshare=1&scene=1&srcid=&sharer_sharetime=1587266497485&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AkbfB1foowazz4mFy0QIUAE%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 
@@ -225,10 +224,16 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-04-26 新冠肺炎疫苗竞速开发，ADE安全性问题不容忽视**](https://mp.weixin.qq.com/s?__biz=MzA4MDA4MTIzMg==&mid=2653070160&idx=1&sn=a016c812fe9e85cb8022b1942e0441bf&chksm=847fbb6fb3083279a1ee5bb1fb2702f0f65be166cae6c35cd9edba9fa7a1262c358f1fc646b3&mpshare=1&scene=1&srcid=&sharer_sharetime=1587949251411&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apn9q%2BzlKVSuLk%2Bno%2B2%2FyqM%3D&pass_ticket=2kmrVuexB7I1bgsYBWj9BpAO23CB2G9Rx6Oe1RRqaecAs3dwtWxuAFbFdBetJZKf#rd) &#127381;
+- [**2020-04-28 Vaccines Are Critical. Here’s How You Can Help Spread the Word.**](https://asm.org/Articles/2020/April/Vaccines-Are-Critical-Here-s-How-You-Can-Help-Spre?utm_campaign=Articles&utm_id=004dw8w698hey8c&utm_medium=social&utm_source=twitter)  &#127381;
+![critical](/pic/critical.jpg)
+
+- [**2020-04-28 The world's largest vaccine maker is producing 40 million units of a coronavirus vaccine on trial in Oxford, without knowing whether it works**](https://www.businessinsider.com/india-serum-institute-millions-oxford-university-vaccine-before-approval-2020-4?utm_medium=social&utm_campaign=sf-bi-main&utm_source=facebook.com&fbclid=IwAR3xuk7aSkutDSqXIFVQgSpNEsYx64TEJqyG8-7_0uPC-wacR-GdRXEBmXU)  &#127381;
+![largestvaccine](/pic/largestvaccine.jpg)
+
+- [**2020-04-26 新冠肺炎疫苗竞速开发，ADE安全性问题不容忽视**](https://mp.weixin.qq.com/s?__biz=MzA4MDA4MTIzMg==&mid=2653070160&idx=1&sn=a016c812fe9e85cb8022b1942e0441bf&chksm=847fbb6fb3083279a1ee5bb1fb2702f0f65be166cae6c35cd9edba9fa7a1262c358f1fc646b3&mpshare=1&scene=1&srcid=&sharer_sharetime=1587949251411&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apn9q%2BzlKVSuLk%2Bno%2B2%2FyqM%3D&pass_ticket=2kmrVuexB7I1bgsYBWj9BpAO23CB2G9Rx6Oe1RRqaecAs3dwtWxuAFbFdBetJZKf#rd) 
 ![ADE安全性](/pic/ADE.jpg)
 
-- [**2020-04-26 疫苗快跑**](https://mp.weixin.qq.com/s?__biz=MTY0MzI5NDcwMQ==&mid=2651215322&idx=1&sn=9496b2ff85e35a03e7de534fc74f8522&chksm=523fad586548244eb5db47ab14edab9719e54fa03ba131ac8c2bd9e11c46cf6d4612c6ff989c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587885497105&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuzoJArbPOQy4MR5f3FuIVM%3D&pass_ticket=2kmrVuexB7I1bgsYBWj9BpAO23CB2G9Rx6Oe1RRqaecAs3dwtWxuAFbFdBetJZKf#rd) &#127381;
+- [**2020-04-26 疫苗快跑**](https://mp.weixin.qq.com/s?__biz=MTY0MzI5NDcwMQ==&mid=2651215322&idx=1&sn=9496b2ff85e35a03e7de534fc74f8522&chksm=523fad586548244eb5db47ab14edab9719e54fa03ba131ac8c2bd9e11c46cf6d4612c6ff989c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587885497105&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuzoJArbPOQy4MR5f3FuIVM%3D&pass_ticket=2kmrVuexB7I1bgsYBWj9BpAO23CB2G9Rx6Oe1RRqaecAs3dwtWxuAFbFdBetJZKf#rd)
 
 ![疫苗快跑](/pic/speedup.jpg)
 
@@ -246,7 +251,6 @@
 ![中和10个代表性](/pic/ADE.jpg)
 
 - [**2020-04-20 中国医科院成功研制出新冠病毒灭活疫苗，系第一个COVID-19疫苗的公开数据**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488743&idx=2&sn=140f80561c6a3fe16a6ae3d455c98868&chksm=f9801ea2cef797b40ffba2be6c1d355a0eedca03972849b37abfbb6fede4b38b5e272afa0735&mpshare=1&scene=1&srcid=&sharer_sharetime=1587430021518&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap16ixWQ9xrAZ0x1mktWhv8%3D&pass_ticket=gmQb7jm8rmUNOrhE3L7Em42JTd0rJuMorXsW6K2kO61Log703BejvT18YaXtlXzF#rd)
-![公开数据](/pic/rapid.jpg)
 
 - [**2020-04-18 第一批32名志愿者完成接种，全球首个新冠灭活疫苗研发为何如此迅速？**](https://mp.weixin.qq.com/s?__biz=MzAxMDU0MDYwMQ==&mid=2653030261&idx=2&sn=b1b35bc9e4163b5fafd7960acdd8a102&chksm=80986423b7efed359d41f0f3bdbf3e0e1534e90cca9b7bcd42bc14caa77c50973d4217373d3c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587277035855&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj1ZoAMPzAHgoORND0OyqnA%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 
@@ -377,7 +381,6 @@
 ![mutate](/pic/mutate.jpeg)
 
 - [**2020-04-20 Antibiotic treatment for COVID-19 complications could fuel resistant bacteria**](https://www.sciencemag.org/news/2020/04/antibiotic-treatment-covid-19-complications-could-fuel-resistant-bacteria)
-![antibiotic](/pic/antibiotic.jpg)
 
 - [**2020-04-18 和人一样，猕猴也有无症状感染！它们将为研究新冠疗法和疫苗提供帮助**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498411&idx=1&sn=16982e674608270fa1fd0d4815b0082c&chksm=ec1d59f8db6ad0ee40301493519c33c66558ef37cddf0c684c25b751ab74588eacdaa42c0b11&mpshare=1&scene=1&srcid=&sharer_sharetime=1587340866347&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=Aqxa77OSvq%2B9m2HaovMrl6c%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 
@@ -501,6 +504,9 @@
  ***
  
 ## 其他
+
+- [**2020-04-28 The Predicted Coronavirus Catastrophe Hasn’t Arrived In Sweden. What’s Next?**](https://www.forbes.com/sites/gabrielleigh/2020/04/27/the-predicted-coronavirus-catastrophe-hasnt-arrived-in-sweden-whats-next/#30f599c43caf) &#127381
+![swedennext](/pic/swedennext.jpg)
 
 - [**2020-04-27 单日新增超 6000，累计确诊病例超 20 万，西班牙为何急于解除全面封锁？**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653377248&idx=1&sn=ecddb3e86da2a30a313380785af4ffd4&chksm=5e32a38669452a90fb4f004cd1aa02c7b672f7b3d11647cc789b387c929dc36e1cfa6f08d3a7&mpshare=1&scene=1&srcid=&sharer_sharetime=1588022704131&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlnBq0GnPgwVDuwBOwohIZw%3D&pass_ticket=YKFJ1yq%2FA3kyGg5oaxVJ3PNEr%2FaMoXXxTqIlxYMQx%2FCGs%2FPt9FI%2FwsbnC0wCTDkY#rd) &#127381;
 ![spain](/pic/spain.jpg)
