@@ -350,6 +350,9 @@
  
 ## 研究进展
 
+- [**2020-04-27 气溶胶中测出新冠病毒核酸，武汉大学最新《自然》该怎么理解？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498566&idx=1&sn=62afc69246c3aad20c779d2ab4a170ed&chksm=ec1d5815db6ad1035f56b5840f874f8ebf655ca39a5c11778ff6be1dec0c2ef4d4fce3c85939&mpshare=1&scene=1&srcid=&sharer_sharetime=1588029222421&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=Aj0R5Gg4ZjVNXk3g4xEO0s8%3D&pass_ticket=YKFJ1yq%2FA3kyGg5oaxVJ3PNEr%2FaMoXXxTqIlxYMQx%2FCGs%2FPt9FI%2FwsbnC0wCTDkY#rd) &#127381;
+![whu](/pic/whu.jpg)
+
 - [**2020-04-24 出院的新冠重症病人：66天历经4家医院，可能要“终身吸氧”**](https://view.inews.qq.com/a/20200422A0SZ0600?chlid=news_news_top&devid=aaf0cd770b71cb15&qimei=864254042371789&cv=0x70000001&dt=6&lang=zh_CN&pass_ticket=R15aSSb8vwMk8PAwrWDKUWemQi5DhrJFeyK7LtzV8E11NbmoVHQv4%2Ftb%2F%2BdoSe2A) &#127381;
 ![新冠重症病人](/pic/oxygen.jpg)
 
@@ -497,6 +500,12 @@
  ***
  
 ## 其他
+
+- [**2020-04-27 单日新增超 6000，累计确诊病例超 20 万，西班牙为何急于解除全面封锁？**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653377248&idx=1&sn=ecddb3e86da2a30a313380785af4ffd4&chksm=5e32a38669452a90fb4f004cd1aa02c7b672f7b3d11647cc789b387c929dc36e1cfa6f08d3a7&mpshare=1&scene=1&srcid=&sharer_sharetime=1588022704131&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlnBq0GnPgwVDuwBOwohIZw%3D&pass_ticket=YKFJ1yq%2FA3kyGg5oaxVJ3PNEr%2FaMoXXxTqIlxYMQx%2FCGs%2FPt9FI%2FwsbnC0wCTDkY#rd) &#127381;
+![spain](/pic/spain.jpg)
+
+- [**2020-04-27 Can We Track COVID-19 and Protect Privacy at the Same Time?**](https://www.newyorker.com/tech/annals-of-technology/can-we-track-covid-19-and-protect-privacy-at-the-same-time) &#127381;
+![newyorker](/pic/newyorker.jpg)
 
 - [**2020-04-26 In four U.S. state prisons, nearly 3,300 inmates test positive for coronavirus -- 96% without symptoms**](https://www.reuters.com/article/us-health-coronavirus-prisons-testing-in/in-four-u-s-state-prisons-nearly-3300-inmates-test-positive-for-coronavirus-96-without-symptoms-idUSKCN2270RX?from=timeline&isappinstalled=0) &#127381;
 ![prison](/pic/prison.jpg)
