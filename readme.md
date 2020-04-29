@@ -359,7 +359,10 @@
  
 ## 研究进展
 
-- [**2020-04-27 气溶胶中测出新冠病毒核酸，武汉大学最新《自然》该怎么理解？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498566&idx=1&sn=62afc69246c3aad20c779d2ab4a170ed&chksm=ec1d5815db6ad1035f56b5840f874f8ebf655ca39a5c11778ff6be1dec0c2ef4d4fce3c85939&mpshare=1&scene=1&srcid=&sharer_sharetime=1588029222421&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=Aj0R5Gg4ZjVNXk3g4xEO0s8%3D&pass_ticket=YKFJ1yq%2FA3kyGg5oaxVJ3PNEr%2FaMoXXxTqIlxYMQx%2FCGs%2FPt9FI%2FwsbnC0wCTDkY#rd) &#127381;
+- [**2020-04-28 无症状感染率有多高？最新案例刷新纪录**](https://mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926684197&idx=1&sn=8342822cd0b1f61e8878ae0004053ca9&chksm=8d3aa51aba4d2c0cace00f88b0abdc33586b097f66684ef0be60e5830477f7374db0d48c8b1f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588123864292&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alh38LiTZvIBCiwKfHvnud8%3D&pass_ticket=VXFdO8hAzuZKGsONkuZO%2FedXSgUuMbboxh%2BkLSGLUXdh4krRkYr2cPYSWE21EUtg#rd) &#127381;
+![最新案例](/pic/newcase.jpg)
+
+- [**2020-04-27 气溶胶中测出新冠病毒核酸，武汉大学最新《自然》该怎么理解？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498566&idx=1&sn=62afc69246c3aad20c779d2ab4a170ed&chksm=ec1d5815db6ad1035f56b5840f874f8ebf655ca39a5c11778ff6be1dec0c2ef4d4fce3c85939&mpshare=1&scene=1&srcid=&sharer_sharetime=1588029222421&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=Aj0R5Gg4ZjVNXk3g4xEO0s8%3D&pass_ticket=YKFJ1yq%2FA3kyGg5oaxVJ3PNEr%2FaMoXXxTqIlxYMQx%2FCGs%2FPt9FI%2FwsbnC0wCTDkY#rd)
 ![whu](/pic/whu.jpg)
 
 - [**2020-04-24 出院的新冠重症病人：66天历经4家医院，可能要“终身吸氧”**](https://view.inews.qq.com/a/20200422A0SZ0600?chlid=news_news_top&devid=aaf0cd770b71cb15&qimei=864254042371789&cv=0x70000001&dt=6&lang=zh_CN&pass_ticket=R15aSSb8vwMk8PAwrWDKUWemQi5DhrJFeyK7LtzV8E11NbmoVHQv4%2Ftb%2F%2BdoSe2A)
@@ -507,6 +510,9 @@
  ***
  
 ## 其他
+
+- [**2020-04-28 非洲的新冠疫情咋样了？**](https://mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926684235&idx=1&sn=fe441b5da28be892e3563d691da2a698&chksm=8d3aa574ba4d2c6262561201850b687d4fb3a32d4e918d0ca94404ceb102f09bff379bc2550d&mpshare=1&scene=1&srcid=&sharer_sharetime=1588125077969&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah2LX9p9SHUU%2FnpOmSVsh90%3D&pass_ticket=VXFdO8hAzuZKGsONkuZO%2FedXSgUuMbboxh%2BkLSGLUXdh4krRkYr2cPYSWE21EUtg#rd) &#127381
+![africa](/pic/africa.jpg)
 
 - [**2020-04-28 The Predicted Coronavirus Catastrophe Hasn’t Arrived In Sweden. What’s Next?**](https://www.forbes.com/sites/gabrielleigh/2020/04/27/the-predicted-coronavirus-catastrophe-hasnt-arrived-in-sweden-whats-next/#30f599c43caf) &#127381
 ![swedennext](/pic/swedennext.jpg)
