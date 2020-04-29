@@ -512,6 +512,7 @@
 ## 其他
 
 - [**2020-04-28 非洲的新冠疫情咋样了？**](https://mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926684235&idx=1&sn=fe441b5da28be892e3563d691da2a698&chksm=8d3aa574ba4d2c6262561201850b687d4fb3a32d4e918d0ca94404ceb102f09bff379bc2550d&mpshare=1&scene=1&srcid=&sharer_sharetime=1588125077969&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah2LX9p9SHUU%2FnpOmSVsh90%3D&pass_ticket=VXFdO8hAzuZKGsONkuZO%2FedXSgUuMbboxh%2BkLSGLUXdh4krRkYr2cPYSWE21EUtg#rd) &#127381;
+
 ![africa](/pic/africa.jpg)
 
 - [**2020-04-28 The Predicted Coronavirus Catastrophe Hasn’t Arrived In Sweden. What’s Next?**](https://www.forbes.com/sites/gabrielleigh/2020/04/27/the-predicted-coronavirus-catastrophe-hasnt-arrived-in-sweden-whats-next/#30f599c43caf) &#127381;
