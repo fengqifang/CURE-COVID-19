@@ -113,7 +113,7 @@
  
 ## 治疗方案
 
-- [**2020-04-25 美国新冠指南颁布，跟我国指南有何区别，我们还欠缺科学跟严谨**](https://www.toutiao.com/i6818797986026357252/?tt_from=weixin&utm_campaign=client_share&wxshare_count=6&from=timeline&timestamp=1587659313&app=news_article&utm_source=weixin&isappinstalled=0&utm_medium=toutiao_ios&req_id=202004240028330101300361635A1AF003&group_id=6818797986026357252&pbid=6802943003478672908) &#127381;
+- [**2020-04-25 美国新冠指南颁布，跟我国指南有何区别，我们还欠缺科学跟严谨**](https://www.toutiao.com/i6818797986026357252/?tt_from=weixin&utm_campaign=client_share&wxshare_count=6&from=timeline&timestamp=1587659313&app=news_article&utm_source=weixin&isappinstalled=0&utm_medium=toutiao_ios&req_id=202004240028330101300361635A1AF003&group_id=6818797986026357252&pbid=6802943003478672908)
 ![新冠指南](/pic/recomd.jpg)
 
 - [**2020-04-24 瑞德西韦治疗新冠被曝无效，“人民的希望”破灭了吗？**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655443233&idx=1&sn=6db814b9ab8f6921cb697a6d27b6f974&chksm=f3a6db4cc4d1525a5c07f57ad4336539b2143eed08a36ed0b33b9f57ea59fa11da8570f6dfa6&mpshare=1&scene=1&srcid=&sharer_sharetime=1587710320785&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhEM07qKynIh53VOk0b7gk8%3D&pass_ticket=R15aSSb8vwMk8PAwrWDKUWemQi5DhrJFeyK7LtzV8E11NbmoVHQv4%2Ftb%2F%2BdoSe2A#rd)
