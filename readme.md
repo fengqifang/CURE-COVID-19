@@ -227,7 +227,10 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-04-28 Vaccines Are Critical. Here’s How You Can Help Spread the Word.**](https://asm.org/Articles/2020/April/Vaccines-Are-Critical-Here-s-How-You-Can-Help-Spre?utm_campaign=Articles&utm_id=004dw8w698hey8c&utm_medium=social&utm_source=twitter)  &#127381;
+- [**2020-04-29 The race for coronavirus vaccines: a graphical guide**](https: //www.nature.com/articles/d41586-020-01221-y?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&utm_medium=social&utm_content=organic&utm_source=twitter&utm_campaign=NatureNews_&sf233338145=1) &#127381;
+![graphicalguide](/pic/graphicguide.jpg)
+
+- [**2020-04-28 Vaccines Are Critical. Here’s How You Can Help Spread the Word.**](https://asm.org/Articles/2020/April/Vaccines-Are-Critical-Here-s-How-You-Can-Help-Spre?utm_campaign=Articles&utm_id=004dw8w698hey8c&utm_medium=social&utm_source=twitter)
 ![critical](/pic/critical.jpg)
 
 - [**2020-04-28 The world's largest vaccine maker is producing 40 million units of a coronavirus vaccine on trial in Oxford, without knowing whether it works**](https://www.businessinsider.com/india-serum-institute-millions-oxford-university-vaccine-before-approval-2020-4?utm_medium=social&utm_campaign=sf-bi-main&utm_source=facebook.com&fbclid=IwAR3xuk7aSkutDSqXIFVQgSpNEsYx64TEJqyG8-7_0uPC-wacR-GdRXEBmXU)  &#127381;
@@ -248,10 +251,8 @@
 ![newdrug](/pic/newdrug.jpg)
 
 - [**2020-04-21 这场新冠疫苗的科技竞赛，谁会赢？**](https://mp.weixin.qq.com/s?__biz=MzIxMDQzOTUyMw==&mid=2247493326&idx=1&sn=f063da664a087bc9871d93416e11be30&chksm=97663ac2a011b3d4fcbe43fe0fb4e3f86a1e1e51b6b1124587889edfc40db03deee497cad85a&mpshare=1&scene=1&srcid=&sharer_sharetime=1587494335152&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvpzWbL7sxjbgEOc3tnIbnw%3D&pass_ticket=90juE%2FadeX3%2Bwz0Ak67icgLnny94JGzy22pa6zlvXd2vUzUTBdyS55WVTsdSZXFM#rd)
-![winner](/pic/winner.jpg)
 
 - [**2020-04-21 首个新冠病毒灭活疫苗临床前实验数据公布：有效中和10个代表性SARS-CoV-2毒株**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247489019&idx=1&sn=4b838add0c1870ba8ca9b6d31e5f1804&chksm=fb8828b8ccffa1ae2f89d8f5b4fe3f7e5644d3d1972f1f1eec079eaa4a649894b7ed39b9c40e&mpshare=1&scene=1&srcid=&sharer_sharetime=1587482029457&sharer_shareid=6949ffb682409667da0d2f6c733327ad&exportkey=AmbFd4HWCqQAezeRo5zC%2FRI%3D&pass_ticket=90juE%2FadeX3%2Bwz0Ak67icgLnny94JGzy22pa6zlvXd2vUzUTBdyS55WVTsdSZXFM#rd)
-![中和10个代表性](/pic/ADE.jpg)
 
 - [**2020-04-20 中国医科院成功研制出新冠病毒灭活疫苗，系第一个COVID-19疫苗的公开数据**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488743&idx=2&sn=140f80561c6a3fe16a6ae3d455c98868&chksm=f9801ea2cef797b40ffba2be6c1d355a0eedca03972849b37abfbb6fede4b38b5e272afa0735&mpshare=1&scene=1&srcid=&sharer_sharetime=1587430021518&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap16ixWQ9xrAZ0x1mktWhv8%3D&pass_ticket=gmQb7jm8rmUNOrhE3L7Em42JTd0rJuMorXsW6K2kO61Log703BejvT18YaXtlXzF#rd)
 
@@ -359,7 +360,10 @@
  
 ## 研究进展
 
-- [**2020-04-28 无症状感染率有多高？最新案例刷新纪录**](https://mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926684197&idx=1&sn=8342822cd0b1f61e8878ae0004053ca9&chksm=8d3aa51aba4d2c0cace00f88b0abdc33586b097f66684ef0be60e5830477f7374db0d48c8b1f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588123864292&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alh38LiTZvIBCiwKfHvnud8%3D&pass_ticket=VXFdO8hAzuZKGsONkuZO%2FedXSgUuMbboxh%2BkLSGLUXdh4krRkYr2cPYSWE21EUtg#rd) &#127381;
+- [**2020-04-29 The trinity of COVID-19: immunity, inflammation and intervention**](https://www.nature.com/articles/s41577-020-0311-8?utm_source=dlvr.it&utm_medium=twitter) &#127381;
+![trinity](/pic/trinity.jpg)
+
+- [**2020-04-28 无症状感染率有多高？最新案例刷新纪录**](https://mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926684197&idx=1&sn=8342822cd0b1f61e8878ae0004053ca9&chksm=8d3aa51aba4d2c0cace00f88b0abdc33586b097f66684ef0be60e5830477f7374db0d48c8b1f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588123864292&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alh38LiTZvIBCiwKfHvnud8%3D&pass_ticket=VXFdO8hAzuZKGsONkuZO%2FedXSgUuMbboxh%2BkLSGLUXdh4krRkYr2cPYSWE21EUtg#rd)
 ![最新案例](/pic/newcase.jpg)
 
 - [**2020-04-27 气溶胶中测出新冠病毒核酸，武汉大学最新《自然》该怎么理解？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498566&idx=1&sn=62afc69246c3aad20c779d2ab4a170ed&chksm=ec1d5815db6ad1035f56b5840f874f8ebf655ca39a5c11778ff6be1dec0c2ef4d4fce3c85939&mpshare=1&scene=1&srcid=&sharer_sharetime=1588029222421&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=Aj0R5Gg4ZjVNXk3g4xEO0s8%3D&pass_ticket=YKFJ1yq%2FA3kyGg5oaxVJ3PNEr%2FaMoXXxTqIlxYMQx%2FCGs%2FPt9FI%2FwsbnC0wCTDkY#rd)
@@ -384,7 +388,6 @@
 ![尿液检测](/pic/viralload.jpg)
 
 - [**2020-04-21 Coronavirus’s ability to mutate has been vastly underestimated, and mutations affect deadliness of strains, Chinese study finds**](https://www.scmp.com/news/china/science/article/3080771/coronavirus-mutations-affect-deadliness-strains-chinese-study)
-![mutate](/pic/mutate.jpeg)
 
 - [**2020-04-20 Antibiotic treatment for COVID-19 complications could fuel resistant bacteria**](https://www.sciencemag.org/news/2020/04/antibiotic-treatment-covid-19-complications-could-fuel-resistant-bacteria)
 
@@ -538,7 +541,6 @@
 ![澳大利亚](/pic/australia.jpg)
 
 - [**2020-04-21 Sweden Says Controversial Virus Strategy Proving Effective**](https://www.bloomberg.com/news/articles/2020-04-19/sweden-says-controversial-covid-19-strategy-is-proving-effective) 
-![sweden](/pic/sweden2.jpg)
 
 - [**2020-04-19 佛系生活，救了日本**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652016030&idx=1&sn=d0094266682b23457bea4788d4a59376&chksm=bd0f77c38a78fed54576c6891728eac2fb734427357d442b9965b95cf7e1e5075b09f01ccf07&mpshare=1&scene=1&srcid=&sharer_sharetime=1587356407103&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvqVYG5YfUfIATXBF34wWLg%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 
