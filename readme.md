@@ -85,7 +85,7 @@
 - [**2020-04-28 北大,清华,地坛医院联合开发灵敏简单新型冠状病毒测序手段**](https://mp.weixin.qq.com/s?__biz=MzU4ODkyNjA1MQ==&mid=2247483834&idx=1&sn=acaba02e810f5b9b51719356a4659d8c&chksm=fdd41cb6caa395a0844099a78b85b6b37de190b60196fa7a5123999253d4e05a3c92a4e89c72&mpshare=1&scene=1&srcid=&sharer_sharetime=1588101051039&sharer_shareid=4c708f897c10a76d5b204808a3e00b14&exportkey=AlgasGgNZ5GtcLISyj%2FyIb4%3D&pass_ticket=tqoogpaFvlM7LilFw%2FrcPqq7pCiElORbQR7duINtKUYztIQiqc%2F69SrkkJtyKmU5#rd) &#127381;
 ![novelseq](/pic/novelseq.jpg)
 
-- [**2020-04-27 Antibody testing will enhance the power and accuracy of COVID-19-prevention trials**](https://www.nature.com/articles/s41591-020-0887-3) &#127381;
+- [**2020-04-27 Antibody testing will enhance the power and accuracy of COVID-19-prevention trials**](https://www.nature.com/articles/s41591-020-0887-3)
 ![antibodytesting](/pic/antibodytesting.jpg)
 
 - [**2020-04-22 FDA首开"在家"新冠病毒检测绿灯，专家们看法不一**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268963&idx=1&sn=5b5493cc7beb9b8e99c7278e10122173&chksm=8bb7c5ddbcc04ccb55f0f40cc3c58e9ed746fc96c8d6c3d19bb3cbcbd89713f9916b8187e81d&mpshare=1&scene=1&srcid=&sharer_sharetime=1587567161041&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvLfMgfMTaUp%2Bs24ZbpYpJs%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
