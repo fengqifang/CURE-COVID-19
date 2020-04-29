@@ -131,7 +131,7 @@
 
 - [**2020-04-16 Early peek at data on Gilead coronavirus drug suggests patients are responding to treatment**](https://www.statnews.com/2020/04/16/early-peek-at-data-on-gilead-coronavirus-drug-suggests-patients-are-responding-to-treatment/?from=timeline&isappinstalled=0)
 
-- [**2020-04-16 Dow futures rally more than 800 points after Gilead coronavirus drug reportedly shows effectiveness**](https://www.cnbc.com/2020/04/16/sp-500-etf-jumps-2percent-after-hours-on-report-gilead-drug-showing-effectiveness-treating-coronavirus.html?__source=iosappshare%7Ccom.tencent.xin.sharetimeline&from=groupmessage&isappinstalled=0) &#127381;
+- [**2020-04-16 Dow futures rally more than 800 points after Gilead coronavirus drug reportedly shows effectiveness**](https://www.cnbc.com/2020/04/16/sp-500-etf-jumps-2percent-after-hours-on-report-gilead-drug-showing-effectiveness-treating-coronavirus.html?__source=iosappshare%7Ccom.tencent.xin.sharetimeline&from=groupmessage&isappinstalled=0)
 
 - [**2020-04-15 萘莫司他抑制SARS-CoV-2感染，阻止COVID-19传播**](https://mp.weixin.qq.com/s?__biz=MzU2ODU3Mzc4Nw==&mid=2247484936&idx=2&sn=2f44e6e4216bbee7dc398b09b85cd109&chksm=fc8aac3ccbfd252a9ec9e7f1d90b7008e329bf65f94601503222e5f23e9e94e148389e358f88&mpshare=1&scene=1&srcid=&sharer_sharetime=1586959477341&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkyIB3CAwIyP1CWFPWD4xTQ%3D&pass_ticket=NQsSvG%2F9oChuMMahd%2BClsvRqaS4ELzdyrxvSBRApi0tQ8e%2FuUQl%2F4PP0f5RPVERe#rd)
 
