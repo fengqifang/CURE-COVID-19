@@ -82,7 +82,7 @@
  
 ## 检测试剂
 
-- [**2020-04-28 北大,清华,地坛医院联合开发灵敏简单新型冠状病毒测序手段**](https://mp.weixin.qq.com/s?__biz=MzU4ODkyNjA1MQ==&mid=2247483834&idx=1&sn=acaba02e810f5b9b51719356a4659d8c&chksm=fdd41cb6caa395a0844099a78b85b6b37de190b60196fa7a5123999253d4e05a3c92a4e89c72&mpshare=1&scene=1&srcid=&sharer_sharetime=1588101051039&sharer_shareid=4c708f897c10a76d5b204808a3e00b14&exportkey=AlgasGgNZ5GtcLISyj%2FyIb4%3D&pass_ticket=tqoogpaFvlM7LilFw%2FrcPqq7pCiElORbQR7duINtKUYztIQiqc%2F69SrkkJtyKmU5#rd) &#127381;
+- [**2020-04-28 北大,清华,地坛医院联合开发灵敏简单新型冠状病毒测序手段**](https://mp.weixin.qq.com/s?__biz=MzU4ODkyNjA1MQ==&mid=2247483834&idx=1&sn=acaba02e810f5b9b51719356a4659d8c&chksm=fdd41cb6caa395a0844099a78b85b6b37de190b60196fa7a5123999253d4e05a3c92a4e89c72&mpshare=1&scene=1&srcid=&sharer_sharetime=1588101051039&sharer_shareid=4c708f897c10a76d5b204808a3e00b14&exportkey=AlgasGgNZ5GtcLISyj%2FyIb4%3D&pass_ticket=tqoogpaFvlM7LilFw%2FrcPqq7pCiElORbQR7duINtKUYztIQiqc%2F69SrkkJtyKmU5#rd)
 ![novelseq](/pic/novelseq.jpg)
 
 - [**2020-04-27 Antibody testing will enhance the power and accuracy of COVID-19-prevention trials**](https://www.nature.com/articles/s41591-020-0887-3)
@@ -112,6 +112,12 @@
  ***
  
 ## 治疗方案
+
+- [**2020-04-29 NIAID发起的瑞德西韦COVID-19研究结果公布：临床恢复时间缩短31%，死亡率下降但不显著**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558431&idx=1&sn=9519d2df98c06cf8f8f8efab22de7131&chksm=889fd674bfe85f6211918ac531381fbae0f542ea310e206a5033ec557d98d9efd2b9b7677dd4&mpshare=1&scene=1&srcid=&sharer_sharetime=1588210609596&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApGlrtkSNgF8zksgcLCyVhI%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd) &#127381;
+![NIAID](/pic/niaid.jpg)
+
+- [**2020-04-29 Gilead公布瑞德西韦治疗重症住院COVID-19患者III期临床数据**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558414&idx=1&sn=6562e89924dcdf7897d5a5cd9129cc39&chksm=889fd665bfe85f73cfda7c09f6ee680b95d26a6cfce3a9898c36c4072423d3f5d4324ddaee5e&mpshare=1&scene=1&srcid=&sharer_sharetime=1588166369858&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Akgga3lF4SNmrWdFGYbgID0%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd) &#127381;
+![III期](/pic/III.jpg)
 
 - [**2020-04-25 美国新冠指南颁布，跟我国指南有何区别，我们还欠缺科学跟严谨**](https://www.toutiao.com/i6818797986026357252/?tt_from=weixin&utm_campaign=client_share&wxshare_count=6&from=timeline&timestamp=1587659313&app=news_article&utm_source=weixin&isappinstalled=0&utm_medium=toutiao_ios&req_id=202004240028330101300361635A1AF003&group_id=6818797986026357252&pbid=6802943003478672908)
 ![新冠指南](/pic/recomd.jpg)
@@ -513,6 +519,9 @@
  ***
  
 ## 其他
+
+- [**2020-04-29 新冠病亡占人口比例最高的国家，为什么是比利时？**](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650467991&idx=1&sn=cb4eff054bb30eb5e83f28c4aae58cac&chksm=bef2a82789852131d930d8d9155d80db52181c7ee5afedd51caca9d0ae0d944dfc86704d08f3&mpshare=1&scene=1&srcid=&sharer_sharetime=1588202743987&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqWVDCK8w79WKzgc60ON4ZA%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd) &#127381;
+![比利时]()
 
 - [**2020-04-29 Do Lockdowns Save Many Lives? In Most Places, the Data Say No**](https://www.wsj.com/articles/do-lockdowns-save-many-lives-is-most-places-the-data-say-no-11587930911) &#127381;
 ![lockdown](/pic/lockdown.jpg)
