@@ -521,7 +521,7 @@
 ## 其他
 
 - [**2020-04-29 新冠病亡占人口比例最高的国家，为什么是比利时？**](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650467991&idx=1&sn=cb4eff054bb30eb5e83f28c4aae58cac&chksm=bef2a82789852131d930d8d9155d80db52181c7ee5afedd51caca9d0ae0d944dfc86704d08f3&mpshare=1&scene=1&srcid=&sharer_sharetime=1588202743987&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqWVDCK8w79WKzgc60ON4ZA%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd) &#127381;
-![比利时]()
+![比利时](/pic/belgium.jpg)
 
 - [**2020-04-29 Do Lockdowns Save Many Lives? In Most Places, the Data Say No**](https://www.wsj.com/articles/do-lockdowns-save-many-lives-is-most-places-the-data-say-no-11587930911) &#127381;
 ![lockdown](/pic/lockdown.jpg)
@@ -530,7 +530,7 @@
 
 ![africa](/pic/africa.jpg)
 
-- [**2020-04-28 The Predicted Coronavirus Catastrophe Hasn’t Arrived In Sweden. What’s Next?**](https://www.forbes.com/sites/gabrielleigh/2020/04/27/the-predicted-coronavirus-catastrophe-hasnt-arrived-in-sweden-whats-next/#30f599c43caf) &#127381;
+- [**2020-04-28 The Predicted Coronavirus Catastrophe Hasn’t Arrived In Sweden. What’s Next?**](https://www.forbes.com/sites/gabrielleigh/2020/04/27/the-predicted-coronavirus-catastrophe-hasnt-arrived-in-sweden-whats-next/#30f599c43caf)
 ![swedennext](/pic/swedennext.jpg)
 
 - [**2020-04-27 单日新增超 6000，累计确诊病例超 20 万，西班牙为何急于解除全面封锁？**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653377248&idx=1&sn=ecddb3e86da2a30a313380785af4ffd4&chksm=5e32a38669452a90fb4f004cd1aa02c7b672f7b3d11647cc789b387c929dc36e1cfa6f08d3a7&mpshare=1&scene=1&srcid=&sharer_sharetime=1588022704131&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlnBq0GnPgwVDuwBOwohIZw%3D&pass_ticket=YKFJ1yq%2FA3kyGg5oaxVJ3PNEr%2FaMoXXxTqIlxYMQx%2FCGs%2FPt9FI%2FwsbnC0wCTDkY#rd)
