@@ -539,10 +539,10 @@
 - [**2020-04-27 单日新增超 6000，累计确诊病例超 20 万，西班牙为何急于解除全面封锁？**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653377248&idx=1&sn=ecddb3e86da2a30a313380785af4ffd4&chksm=5e32a38669452a90fb4f004cd1aa02c7b672f7b3d11647cc789b387c929dc36e1cfa6f08d3a7&mpshare=1&scene=1&srcid=&sharer_sharetime=1588022704131&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlnBq0GnPgwVDuwBOwohIZw%3D&pass_ticket=YKFJ1yq%2FA3kyGg5oaxVJ3PNEr%2FaMoXXxTqIlxYMQx%2FCGs%2FPt9FI%2FwsbnC0wCTDkY#rd)
 ![spain](/pic/spain.jpg)
 
-- [**2020-04-27 Can We Track COVID-19 and Protect Privacy at the Same Time?**](https://www.newyorker.com/tech/annals-of-technology/can-we-track-covid-19-and-protect-privacy-at-the-same-time) &#127381;
+- [**2020-04-27 Can We Track COVID-19 and Protect Privacy at the Same Time?**](https://www.newyorker.com/tech/annals-of-technology/can-we-track-covid-19-and-protect-privacy-at-the-same-time)
 ![newyorker](/pic/newyorker.jpg)
 
-- [**2020-04-26 In four U.S. state prisons, nearly 3,300 inmates test positive for coronavirus -- 96% without symptoms**](https://www.reuters.com/article/us-health-coronavirus-prisons-testing-in/in-four-u-s-state-prisons-nearly-3300-inmates-test-positive-for-coronavirus-96-without-symptoms-idUSKCN2270RX?from=timeline&isappinstalled=0) &#127381;
+- [**2020-04-26 In four U.S. state prisons, nearly 3,300 inmates test positive for coronavirus -- 96% without symptoms**](https://www.reuters.com/article/us-health-coronavirus-prisons-testing-in/in-four-u-s-state-prisons-nearly-3300-inmates-test-positive-for-coronavirus-96-without-symptoms-idUSKCN2270RX?from=timeline&isappinstalled=0)
 ![prison](/pic/prison.jpg)
 
 - [**2020-04-23 Infect Everyone: How Herd Immunity Could Work for Poor Countries**](https://www.bloomberg.com/news/articles/2020-04-21/a-herd-immunity-strategy-could-actually-work-in-youthful-india) 
