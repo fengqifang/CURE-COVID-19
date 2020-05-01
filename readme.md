@@ -89,7 +89,6 @@
 ![antibodytesting](/pic/antibodytesting.jpg)
 
 - [**2020-04-22 FDA首开"在家"新冠病毒检测绿灯，专家们看法不一**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268963&idx=1&sn=5b5493cc7beb9b8e99c7278e10122173&chksm=8bb7c5ddbcc04ccb55f0f40cc3c58e9ed746fc96c8d6c3d19bb3cbcbd89713f9916b8187e81d&mpshare=1&scene=1&srcid=&sharer_sharetime=1587567161041&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvLfMgfMTaUp%2Bs24ZbpYpJs%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
-![home](/pic/home.jpg)
 
 - [**2020-04-17 检测、检测、检测！一个月300万，这个输出是怎么做到的？**](https://mp.weixin.qq.com/s?__biz=MzI0NjcxNzYxNw==&mid=2247486475&idx=1&sn=5a815f66f4ffc534285ab9e4c9260c48&chksm=e9ba41d5decdc8c386d6851026e89bda93a7f9487935a858e46647bd80c351e7231795014b9c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587129295949&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apc9kS98F9jPSVh%2F7Teho5A%3D&pass_ticket=R735S6EYkfc%2B%2FTVQdkXRiQ%2BBJ%2BV%2FY%2BkbIpAiEjgAFJ9GG2Ak8V2VbO8Dl1iT%2BSkQ#rd)
 
@@ -113,10 +112,13 @@
  
 ## 治疗方案
 
-- [**2020-04-29 NIAID发起的瑞德西韦COVID-19研究结果公布：临床恢复时间缩短31%，死亡率下降但不显著**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558431&idx=1&sn=9519d2df98c06cf8f8f8efab22de7131&chksm=889fd674bfe85f6211918ac531381fbae0f542ea310e206a5033ec557d98d9efd2b9b7677dd4&mpshare=1&scene=1&srcid=&sharer_sharetime=1588210609596&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApGlrtkSNgF8zksgcLCyVhI%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd) &#127381;
+- [**2020-04-30 时间线全梳理 "瑞德西韦"这三个月**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651269066&idx=1&sn=ec82eb57e745eca55c96af6d296e5c21&chksm=8bb7c574bcc04c62a5011a6da267a3759387efed5b613ac8d5c81ff41dd2629a13f5830cb67c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588264878922&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtHGlAYec6O4UvtR%2FLAyNnI%3D&pass_ticket=tvoA3PE2LDXgW6ADv3uIvRn%2BXDycVSAh7D1yNBxLuYD%2F7YVMIROZydvNRqKgatBx#rd) &#127381;
+![时间线全梳理](/pic/timeline.jpg)
+
+- [**2020-04-29 NIAID发起的瑞德西韦COVID-19研究结果公布：临床恢复时间缩短31%，死亡率下降但不显著**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558431&idx=1&sn=9519d2df98c06cf8f8f8efab22de7131&chksm=889fd674bfe85f6211918ac531381fbae0f542ea310e206a5033ec557d98d9efd2b9b7677dd4&mpshare=1&scene=1&srcid=&sharer_sharetime=1588210609596&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApGlrtkSNgF8zksgcLCyVhI%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd)
 ![NIAID](/pic/niaid.jpg)
 
-- [**2020-04-29 Gilead公布瑞德西韦治疗重症住院COVID-19患者III期临床数据**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558414&idx=1&sn=6562e89924dcdf7897d5a5cd9129cc39&chksm=889fd665bfe85f73cfda7c09f6ee680b95d26a6cfce3a9898c36c4072423d3f5d4324ddaee5e&mpshare=1&scene=1&srcid=&sharer_sharetime=1588166369858&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Akgga3lF4SNmrWdFGYbgID0%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd) &#127381;
+- [**2020-04-29 Gilead公布瑞德西韦治疗重症住院COVID-19患者III期临床数据**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558414&idx=1&sn=6562e89924dcdf7897d5a5cd9129cc39&chksm=889fd665bfe85f73cfda7c09f6ee680b95d26a6cfce3a9898c36c4072423d3f5d4324ddaee5e&mpshare=1&scene=1&srcid=&sharer_sharetime=1588166369858&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Akgga3lF4SNmrWdFGYbgID0%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd)
 ![III期](/pic/III.jpg)
 
 - [**2020-04-25 美国新冠指南颁布，跟我国指南有何区别，我们还欠缺科学跟严谨**](https://www.toutiao.com/i6818797986026357252/?tt_from=weixin&utm_campaign=client_share&wxshare_count=6&from=timeline&timestamp=1587659313&app=news_article&utm_source=weixin&isappinstalled=0&utm_medium=toutiao_ios&req_id=202004240028330101300361635A1AF003&group_id=6818797986026357252&pbid=6802943003478672908)
@@ -129,7 +131,6 @@
 ![meso](/pic/meso.jpg)
 
 - [**2020-04-22 瑞德西韦将如何改变地球下半年的运转方向**](https://mp.weixin.qq.com/s?__biz=MzUxNTkwNzkzMA==&mid=2247486907&idx=1&sn=91b38c7d05d7f0bb18e313a49f069d36&chksm=f9aec58eced94c98109dc6dccfc8b8ae68a465ecd3b5ea9548cbf6583bdbea4bd03046309e2f&mpshare=1&scene=1&srcid=0418vHLk0c4eECgBGvXx3ts0&sharer_sharetime=1587597743716&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtQDXYGeJBn2amp9JyKVLCg%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
-![运转方向](/pic/review.jpg)
 
 - [**2020-04-19 瑞德西韦在华临床试验被迫终止，近300项研究蜂拥而上，专家呼吁建立国家级临床试验网络**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649585745&idx=1&sn=5c36200a9f1ecf9e90a4c298513437fa&chksm=876a6c48b01de55e9d1578af8f714fae63b7bb89e55e2bcb45f4edbbfe7876f80002c412084bmpshare=1&scene=1&srcid=&sharer_sharetime=1587310053088&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Agk%2BB%2Bi12wgBLJYWgLqIV%2Bo%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 
@@ -233,7 +234,7 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-04-29 The race for coronavirus vaccines a graphical guide**](https://www.nature.com/articles/d41586-020-01221-y?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&utm_medium=social&utm_content=organic&utm_source=twitter&utm_campaign=NatureNews_&sf233338145=1) &#127381;
+- [**2020-04-29 The race for coronavirus vaccines a graphical guide**](https://www.nature.com/articles/d41586-020-01221-y?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&utm_medium=social&utm_content=organic&utm_source=twitter&utm_campaign=NatureNews_&sf233338145=1)
 ![graphicalguide](/pic/graphicguide.jpg)
 
 - [**2020-04-28 Vaccines Are Critical. Here’s How You Can Help Spread the Word.**](https://asm.org/Articles/2020/April/Vaccines-Are-Critical-Here-s-How-You-Can-Help-Spre?utm_campaign=Articles&utm_id=004dw8w698hey8c&utm_medium=social&utm_source=twitter)
@@ -366,7 +367,10 @@
  
 ## 研究进展
 
-- [**2020-04-29 The trinity of COVID-19: immunity, inflammation and intervention**](https://www.nature.com/articles/s41577-020-0311-8?utm_source=dlvr.it&utm_medium=twitter) &#127381;
+- [**2020-04-30 Comparing COVID-19 Deaths to Flu Deaths Is like Comparing Apples to Oranges**](https://blogs.scientificamerican.com/observations/comparing-covid-19-deaths-to-flu-deaths-is-like-comparing-apples-to-oranges/) &#127381;
+![comparing](/pic/comparing.jpg)
+
+- [**2020-04-29 The trinity of COVID-19: immunity, inflammation and intervention**](https://www.nature.com/articles/s41577-020-0311-8?utm_source=dlvr.it&utm_medium=twitter)
 ![trinity](/pic/trinity.jpg)
 
 - [**2020-04-28 无症状感染率有多高？最新案例刷新纪录**](https://mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926684197&idx=1&sn=8342822cd0b1f61e8878ae0004053ca9&chksm=8d3aa51aba4d2c0cace00f88b0abdc33586b097f66684ef0be60e5830477f7374db0d48c8b1f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588123864292&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alh38LiTZvIBCiwKfHvnud8%3D&pass_ticket=VXFdO8hAzuZKGsONkuZO%2FedXSgUuMbboxh%2BkLSGLUXdh4krRkYr2cPYSWE21EUtg#rd)
@@ -382,16 +386,12 @@
 ![pm](/pic/pm.jpg)
 
 - [**2020-04-22 美国首个新冠肺炎病例报告，揭示三个与中国病例不同的新发现**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488773&idx=1&sn=b3dd3a08d74b9dbf9a3b51f0556943b5&chksm=f9801f40cef79656869e5e788e3037f88ed7c582f95021e02b17b0898b0a42eaf77c7b026342&mpshare=1&scene=1&srcid=&sharer_sharetime=1587606878868&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApuU0P5Wv09dhxCFnPhO3k0%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
-![USAFIRST](/pic/usafirst.jpg)
 
 - [**2020-04-22 李兰娟院士：确切证据表明新冠病毒在患者体内发生突变，并对致病性产生影响**](https://mp.weixin.qq.com/s?__biz=MzI0OTUwODU5Mg==&mid=2247517131&idx=4&sn=607f8a4604a635ddd6b5d02fa7c39677&chksm=e992a454dee52d42dfdc3b9c57ef6851cfef01f7ac9602151954941a049773f03deea61a2968&mpshare=1&scene=1&srcid=0423HOsi5c9PS4fM5rddsN3M&sharer_sharetime=1587597828659&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApBNwWrP%2B1tYm2EGzfr3eF0%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
-![突变](/pic/mutation.jpg)
 
 - [**2020-04-22 柳红/杨海涛/许叶春/张磊砢合作团队基于结构的药物设计策略开发出新型抗SARS-CoV-2病毒候选药物**](https://mp.weixin.qq.com/s?__biz=MzA3MzQyNjY1MQ==&mid=2652483639&idx=1&sn=8df91e0c2e910b57c9e07f388f538831&chksm=84e22383b395aa953d546cf1c91f695b7a3fbb722915260f9bda206efc0f2795ccb09a8feea5&mpshare=1&scene=1&srcid=&sharer_sharetime=1587583176246&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnhmoaV%2BIfEizLFJMrPLf3g%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
-![药物设计](/pic/drugdesign.jpg)
 
 - [**2020-04-22 尿液中检测到新冠病毒，浙江大学梁廷波团队发现粪便排毒时间最长**](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247508387&idx=1&sn=2a038939e61f5bfc08acc7d311711750&chksm=fce6d27ccb915b6a36ef2ea73e7ee17761515ba3469304c2d9c1b246c9adbd3c40200f8d1a8c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587536714249&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Anvq8oi2mxSNhaqiUGpXswE%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
-![尿液检测](/pic/viralload.jpg)
 
 - [**2020-04-21 Coronavirus’s ability to mutate has been vastly underestimated, and mutations affect deadliness of strains, Chinese study finds**](https://www.scmp.com/news/china/science/article/3080771/coronavirus-mutations-affect-deadliness-strains-chinese-study)
 
@@ -520,10 +520,13 @@
  
 ## 其他
 
-- [**2020-04-29 新冠病亡占人口比例最高的国家，为什么是比利时？**](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650467991&idx=1&sn=cb4eff054bb30eb5e83f28c4aae58cac&chksm=bef2a82789852131d930d8d9155d80db52181c7ee5afedd51caca9d0ae0d944dfc86704d08f3&mpshare=1&scene=1&srcid=&sharer_sharetime=1588202743987&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqWVDCK8w79WKzgc60ON4ZA%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd) &#127381;
+- [**2020-04-30 UPMC doctor argues COVID-19 not as deadly as feared, says its hospitals will shift back to normal**](https://www.pennlive.com/news/2020/04/umpc-argues-covid-19-not-as-deadly-as-feared-says-its-hospitals-will-shift-back-to-normal.html) &#127381;
+![deadly](/pic/deadly.jpg)
+
+- [**2020-04-29 新冠病亡占人口比例最高的国家，为什么是比利时？**](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650467991&idx=1&sn=cb4eff054bb30eb5e83f28c4aae58cac&chksm=bef2a82789852131d930d8d9155d80db52181c7ee5afedd51caca9d0ae0d944dfc86704d08f3&mpshare=1&scene=1&srcid=&sharer_sharetime=1588202743987&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqWVDCK8w79WKzgc60ON4ZA%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd)
 ![比利时](/pic/belgium.jpg)
 
-- [**2020-04-29 Do Lockdowns Save Many Lives? In Most Places, the Data Say No**](https://www.wsj.com/articles/do-lockdowns-save-many-lives-is-most-places-the-data-say-no-11587930911) &#127381;
+- [**2020-04-29 Do Lockdowns Save Many Lives? In Most Places, the Data Say No**](https://www.wsj.com/articles/do-lockdowns-save-many-lives-is-most-places-the-data-say-no-11587930911)
 ![lockdown](/pic/lockdown.jpg)
 
 - [**2020-04-28 非洲的新冠疫情咋样了？**](https://mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926684235&idx=1&sn=fe441b5da28be892e3563d691da2a698&chksm=8d3aa574ba4d2c6262561201850b687d4fb3a32d4e918d0ca94404ceb102f09bff379bc2550d&mpshare=1&scene=1&srcid=&sharer_sharetime=1588125077969&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah2LX9p9SHUU%2FnpOmSVsh90%3D&pass_ticket=VXFdO8hAzuZKGsONkuZO%2FedXSgUuMbboxh%2BkLSGLUXdh4krRkYr2cPYSWE21EUtg#rd)
@@ -549,8 +552,6 @@
 ![hidden](/pic/hidden.jpg)
 
 - [**2020-04-22 澳大利亚:疫情防范里的优等生**](https://mp.weixin.qq.com/s?__biz=MzIxNzAzMjMxNA==&mid=2650279937&idx=2&sn=bcd6849cddfb4c85840996dfbdad6a28&chksm=8ff34314b884ca02880e30d7358007846bf8e1be0de6581af81a503a5cbb44fef84332e69c4e&mpshare=1&scene=1&srcid=&sharer_sharetime=1587600285045&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsRLsa1rn7e0bjq085vjAuU%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
-
-![澳大利亚](/pic/australia.jpg)
 
 - [**2020-04-21 Sweden Says Controversial Virus Strategy Proving Effective**](https://www.bloomberg.com/news/articles/2020-04-19/sweden-says-controversial-covid-19-strategy-is-proving-effective) 
 
