@@ -255,7 +255,6 @@
 ![全球首个新冠疫苗](/pic/england.jpg)
 
 - [**2020-04-23 中西合璧：聚焦COVID-19药物研发进展**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247520129&idx=1&sn=0f3233e5a60a95fba50d4137e114a2de&chksm=ecb33767dbc4be71216a627ec0c318a4f851672ba82dbfab0efc37048f91496f52767f820816&mpshare=1&scene=1&srcid=&sharer_sharetime=1587692361733&sharer_shareid=6079326e0dfa026e8e9fcc86a17f904d&exportkey=ApiGTsoYTWpuJJ1d9KQds5Q%3D&pass_ticket=EJZZ0lMB4xLc65tZn1WwNuTKBvf1jHq%2BuRbeqcSqEvuC5gJ1WVWLSE1OOZK93bl5#rd)
-![newdrug](/pic/newdrug.jpg)
 
 - [**2020-04-21 这场新冠疫苗的科技竞赛，谁会赢？**](https://mp.weixin.qq.com/s?__biz=MzIxMDQzOTUyMw==&mid=2247493326&idx=1&sn=f063da664a087bc9871d93416e11be30&chksm=97663ac2a011b3d4fcbe43fe0fb4e3f86a1e1e51b6b1124587889edfc40db03deee497cad85a&mpshare=1&scene=1&srcid=&sharer_sharetime=1587494335152&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvpzWbL7sxjbgEOc3tnIbnw%3D&pass_ticket=90juE%2FadeX3%2Bwz0Ak67icgLnny94JGzy22pa6zlvXd2vUzUTBdyS55WVTsdSZXFM#rd)
 
@@ -367,7 +366,10 @@
  
 ## 研究进展
 
-- [**2020-04-30 Comparing COVID-19 Deaths to Flu Deaths Is like Comparing Apples to Oranges**](https://blogs.scientificamerican.com/observations/comparing-covid-19-deaths-to-flu-deaths-is-like-comparing-apples-to-oranges/) &#127381;
+- [**2020-05-01 7 Ways to Boost Data Impact in Response to the Pandemic**](https://beeckcenter.georgetown.edu/7-ways-to-boost-data-impact-in-response-to-the-pandemic/) &#127381;
+![7ways](/pic/7ways.jpg)
+
+- [**2020-04-30 Comparing COVID-19 Deaths to Flu Deaths Is like Comparing Apples to Oranges**](https://blogs.scientificamerican.com/observations/comparing-covid-19-deaths-to-flu-deaths-is-like-comparing-apples-to-oranges/) 
 ![comparing](/pic/comparing.jpg)
 
 - [**2020-04-29 The trinity of COVID-19: immunity, inflammation and intervention**](https://www.nature.com/articles/s41577-020-0311-8?utm_source=dlvr.it&utm_medium=twitter)
@@ -383,7 +385,6 @@
 ![新冠重症病人](/pic/oxygen.jpg)
 
 - [**2020-04-23 户外空气中的颗粒物首次检测到新冠病毒**](https://mp.weixin.qq.com/s?__biz=MjM5NTU1MTY5Mg==&mid=2654091130&idx=1&sn=50863623caf82f349afeb0726d65847e&chksm=bd3057d98a47decf1fdb64423b7000aa95ecbf8f8c24ca33cac00d03dc3a447e3c45fd4f0de9&mpshare=1&scene=1&srcid=&sharer_sharetime=1587661143070&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtA1MnAzQyDhphqY3%2FSh9b0%3D&pass_ticket=EJZZ0lMB4xLc65tZn1WwNuTKBvf1jHq%2BuRbeqcSqEvuC5gJ1WVWLSE1OOZK93bl5#rd)
-![pm](/pic/pm.jpg)
 
 - [**2020-04-22 美国首个新冠肺炎病例报告，揭示三个与中国病例不同的新发现**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488773&idx=1&sn=b3dd3a08d74b9dbf9a3b51f0556943b5&chksm=f9801f40cef79656869e5e788e3037f88ed7c582f95021e02b17b0898b0a42eaf77c7b026342&mpshare=1&scene=1&srcid=&sharer_sharetime=1587606878868&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApuU0P5Wv09dhxCFnPhO3k0%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
 
@@ -520,6 +521,9 @@
  
 ## 其他
 
+- [**2020-05-01 The Classicist: When The Tide Recedes**](https://www.hoover.org/research/classicist-when-tide-recedes) &#127381;
+![receds](/pic/receds.jpg)
+
 - [**2020-04-30 UPMC doctor argues COVID-19 not as deadly as feared, says its hospitals will shift back to normal**](https://www.pennlive.com/news/2020/04/umpc-argues-covid-19-not-as-deadly-as-feared-says-its-hospitals-will-shift-back-to-normal.html) &#127381;
 ![deadly](/pic/deadly.jpg)
 
@@ -546,10 +550,8 @@
 ![prison](/pic/prison.jpg)
 
 - [**2020-04-23 Infect Everyone: How Herd Immunity Could Work for Poor Countries**](https://www.bloomberg.com/news/articles/2020-04-21/a-herd-immunity-strategy-could-actually-work-in-youthful-india) 
-![everyone](/pic/everyone.jpg)
 
 - [**2020-04-23 Hidden Outbreaks Spread Through U.S. Cities Far Earlier Than Americans Knew, Estimates Say**](https://www.nytimes.com/2020/04/23/us/coronavirus-early-outbreaks-cities.html?referringSource=articleShare)
-![hidden](/pic/hidden.jpg)
 
 - [**2020-04-22 澳大利亚:疫情防范里的优等生**](https://mp.weixin.qq.com/s?__biz=MzIxNzAzMjMxNA==&mid=2650279937&idx=2&sn=bcd6849cddfb4c85840996dfbdad6a28&chksm=8ff34314b884ca02880e30d7358007846bf8e1be0de6581af81a503a5cbb44fef84332e69c4e&mpshare=1&scene=1&srcid=&sharer_sharetime=1587600285045&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsRLsa1rn7e0bjq085vjAuU%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
 
