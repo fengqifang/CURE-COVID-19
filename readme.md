@@ -112,6 +112,15 @@
  
 ## 治疗方案
 
+- [**2020-05-01 U.S. emergency approval broadens use of Gilead's COVID-19 drug remdesivir**](https://www.reuters.com/article/us-health-coronavirus-usa-fda/fda-authorizes-remdesivir-drug-as-emergency-treatment-for-covid-19-idUSKBN22D69R?from=timeline&isappinstalled=0) &#127381;
+![approval3](/pic/approval3.jpg)
+
+- [**2020-05-01 FDA刚刚授予瑞德西韦紧急使用授权，它的研发下一步走向何方？**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649993547&idx=1&sn=29fe0d1272a282bf205a82787bfd2028&chksm=82e937cbb59ebedd2b2e30a2b7eb5f570912543cc6ca4833814ec3e17746800866aa4018d0b9&mpshare=1&scene=1&srcid=&sharer_sharetime=1588389356454&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArndqwY4MUsOL8yprZqxWAY%3D&pass_ticket=xlaYzw9HuemNf8lRHByVeL%2FCVgqkobTTw1J9gZ7aU1N8poVM8O6Jx29%2Fj3LAaZYo#rd) &#127381;
+![approval2](/pic/approval2.jpg)
+
+- [**2020-05-01 FDA授予瑞德西韦治疗重症COVID-19紧急使用授权**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558441&idx=1&sn=d71cd133fab867d6905ebda5da27473e&chksm=889fd642bfe85f541c12aea4cef1b4fb67f4485a6aa2690bfbc4c53154ee697f28b4c67d27d5&mpshare=1&scene=1&srcid=&sharer_sharetime=1588389347887&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuVf3NaAHTpYtXNYdMA8W6s%3D&pass_ticket=xlaYzw9HuemNf8lRHByVeL%2FCVgqkobTTw1J9gZ7aU1N8poVM8O6Jx29%2Fj3LAaZYo#rd) &#127381;
+![approval1](/pic/approval1.jpg)
+
 - [**2020-04-30 时间线全梳理 "瑞德西韦"这三个月**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651269066&idx=1&sn=ec82eb57e745eca55c96af6d296e5c21&chksm=8bb7c574bcc04c62a5011a6da267a3759387efed5b613ac8d5c81ff41dd2629a13f5830cb67c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588264878922&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtHGlAYec6O4UvtR%2FLAyNnI%3D&pass_ticket=tvoA3PE2LDXgW6ADv3uIvRn%2BXDycVSAh7D1yNBxLuYD%2F7YVMIROZydvNRqKgatBx#rd)
 ![时间线全梳理](/pic/timeline.jpg)
 
