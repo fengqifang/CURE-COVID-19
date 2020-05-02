@@ -112,7 +112,7 @@
  
 ## 治疗方案
 
-- [**2020-04-30 时间线全梳理 "瑞德西韦"这三个月**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651269066&idx=1&sn=ec82eb57e745eca55c96af6d296e5c21&chksm=8bb7c574bcc04c62a5011a6da267a3759387efed5b613ac8d5c81ff41dd2629a13f5830cb67c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588264878922&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtHGlAYec6O4UvtR%2FLAyNnI%3D&pass_ticket=tvoA3PE2LDXgW6ADv3uIvRn%2BXDycVSAh7D1yNBxLuYD%2F7YVMIROZydvNRqKgatBx#rd) &#127381;
+- [**2020-04-30 时间线全梳理 "瑞德西韦"这三个月**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651269066&idx=1&sn=ec82eb57e745eca55c96af6d296e5c21&chksm=8bb7c574bcc04c62a5011a6da267a3759387efed5b613ac8d5c81ff41dd2629a13f5830cb67c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588264878922&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtHGlAYec6O4UvtR%2FLAyNnI%3D&pass_ticket=tvoA3PE2LDXgW6ADv3uIvRn%2BXDycVSAh7D1yNBxLuYD%2F7YVMIROZydvNRqKgatBx#rd)
 ![时间线全梳理](/pic/timeline.jpg)
 
 - [**2020-04-29 NIAID发起的瑞德西韦COVID-19研究结果公布：临床恢复时间缩短31%，死亡率下降但不显著**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558431&idx=1&sn=9519d2df98c06cf8f8f8efab22de7131&chksm=889fd674bfe85f6211918ac531381fbae0f542ea310e206a5033ec557d98d9efd2b9b7677dd4&mpshare=1&scene=1&srcid=&sharer_sharetime=1588210609596&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApGlrtkSNgF8zksgcLCyVhI%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd)
@@ -520,6 +520,9 @@
  ***
  
 ## 其他
+
+- [**2020-05-01 全球为何纷纷复工？因为病毒大秘密被揭开**](https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjU2MA==&mid=2649643953&idx=1&sn=65b7e752d7b03503dc57a687f63634de&chksm=becbc84e89bc41589118e7885f34a4a7848d0c67665a4fd9d30b5b976035c2465f6ecb017c93&mpshare=1&scene=1&srcid=&sharer_sharetime=1588333246542&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvjZXeWDdD1V4QAZTG9DAJE%3D&pass_ticket=Wf%2FsqDEYxcNUoitxsu7AN9mTgwexhjMn%2FdExcMn9OeRSIPf%2BmD1qWodgfqU1XOUc#rd) &#127381;
+![复工](/pic/reopen.jpg)
 
 - [**2020-05-01 The Classicist: When The Tide Recedes**](https://www.hoover.org/research/classicist-when-tide-recedes) &#127381;
 ![receds](/pic/receds.jpg)
