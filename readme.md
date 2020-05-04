@@ -82,6 +82,12 @@
  
 ## 检测试剂
 
+- [**2020-05-04 深度剖析 新冠病毒各种检测方法优缺点对比**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247502622&idx=1&sn=5cd11fff460f0d94808001516449e183&chksm=96efed4ea19864589638a4c787d3c2051757a8fd3253cf4155fe60c37e0fa1e37eed831fafe1&mpshare=1&scene=1&srcid=&sharer_sharetime=1588551923516&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgaNnSPZBBI%2BI%2B%2FP1KW7Fzs%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd) &#127381;
+![各种检测方法](/pic/multiple.jpg)
+
+- [**2020-05-04 罗氏新冠血清学检测试剂获FDA紧急使用授权，特异性大于99.8%**](https://www.wuximediatech.com/content/post/detail.html?sn=4c8f92dc741c4a9285e22f96753311ea&from=timeline&isappinstalled=0) &#127381;
+![roche](/pic/roche.jpg)
+
 - [**2020-04-28 北大,清华,地坛医院联合开发灵敏简单新型冠状病毒测序手段**](https://mp.weixin.qq.com/s?__biz=MzU4ODkyNjA1MQ==&mid=2247483834&idx=1&sn=acaba02e810f5b9b51719356a4659d8c&chksm=fdd41cb6caa395a0844099a78b85b6b37de190b60196fa7a5123999253d4e05a3c92a4e89c72&mpshare=1&scene=1&srcid=&sharer_sharetime=1588101051039&sharer_shareid=4c708f897c10a76d5b204808a3e00b14&exportkey=AlgasGgNZ5GtcLISyj%2FyIb4%3D&pass_ticket=tqoogpaFvlM7LilFw%2FrcPqq7pCiElORbQR7duINtKUYztIQiqc%2F69SrkkJtyKmU5#rd)
 ![novelseq](/pic/novelseq.jpg)
 
@@ -112,13 +118,16 @@
  
 ## 治疗方案
 
-- [**2020-05-01 U.S. emergency approval broadens use of Gilead's COVID-19 drug remdesivir**](https://www.reuters.com/article/us-health-coronavirus-usa-fda/fda-authorizes-remdesivir-drug-as-emergency-treatment-for-covid-19-idUSKBN22D69R?from=timeline&isappinstalled=0) &#127381;
+- [**2020-05-03 瑞德西韦药效究竟如何？曹彬：有效但很微弱，中美标准不同**](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653359651&idx=1&sn=ef12feaa986a59d2e2623390723dfdf8&chksm=bd56f9798a21706f18ca15bf8bae90ec5870545e138ad3223a1445f75c1b63716bd7668abccd&mpshare=1&scene=1&srcid=&sharer_sharetime=1588524298431&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ar7yHzU7xs1oUiXrOoxEYuI%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd) &#127381;
+![中美标准](/pic/uschina.jpg)
+
+- [**2020-05-01 U.S. emergency approval broadens use of Gilead's COVID-19 drug remdesivir**](https://www.reuters.com/article/us-health-coronavirus-usa-fda/fda-authorizes-remdesivir-drug-as-emergency-treatment-for-covid-19-idUSKBN22D69R?from=timeline&isappinstalled=0) 
 ![approval3](/pic/approval3.jpg)
 
-- [**2020-05-01 FDA刚刚授予瑞德西韦紧急使用授权，它的研发下一步走向何方？**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649993547&idx=1&sn=29fe0d1272a282bf205a82787bfd2028&chksm=82e937cbb59ebedd2b2e30a2b7eb5f570912543cc6ca4833814ec3e17746800866aa4018d0b9&mpshare=1&scene=1&srcid=&sharer_sharetime=1588389356454&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArndqwY4MUsOL8yprZqxWAY%3D&pass_ticket=xlaYzw9HuemNf8lRHByVeL%2FCVgqkobTTw1J9gZ7aU1N8poVM8O6Jx29%2Fj3LAaZYo#rd) &#127381;
+- [**2020-05-01 FDA刚刚授予瑞德西韦紧急使用授权，它的研发下一步走向何方？**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649993547&idx=1&sn=29fe0d1272a282bf205a82787bfd2028&chksm=82e937cbb59ebedd2b2e30a2b7eb5f570912543cc6ca4833814ec3e17746800866aa4018d0b9&mpshare=1&scene=1&srcid=&sharer_sharetime=1588389356454&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArndqwY4MUsOL8yprZqxWAY%3D&pass_ticket=xlaYzw9HuemNf8lRHByVeL%2FCVgqkobTTw1J9gZ7aU1N8poVM8O6Jx29%2Fj3LAaZYo#rd) 
 ![approval2](/pic/approval2.jpg)
 
-- [**2020-05-01 FDA授予瑞德西韦治疗重症COVID-19紧急使用授权**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558441&idx=1&sn=d71cd133fab867d6905ebda5da27473e&chksm=889fd642bfe85f541c12aea4cef1b4fb67f4485a6aa2690bfbc4c53154ee697f28b4c67d27d5&mpshare=1&scene=1&srcid=&sharer_sharetime=1588389347887&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuVf3NaAHTpYtXNYdMA8W6s%3D&pass_ticket=xlaYzw9HuemNf8lRHByVeL%2FCVgqkobTTw1J9gZ7aU1N8poVM8O6Jx29%2Fj3LAaZYo#rd) &#127381;
+- [**2020-05-01 FDA授予瑞德西韦治疗重症COVID-19紧急使用授权**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558441&idx=1&sn=d71cd133fab867d6905ebda5da27473e&chksm=889fd642bfe85f541c12aea4cef1b4fb67f4485a6aa2690bfbc4c53154ee697f28b4c67d27d5&mpshare=1&scene=1&srcid=&sharer_sharetime=1588389347887&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuVf3NaAHTpYtXNYdMA8W6s%3D&pass_ticket=xlaYzw9HuemNf8lRHByVeL%2FCVgqkobTTw1J9gZ7aU1N8poVM8O6Jx29%2Fj3LAaZYo#rd) 
 ![approval1](/pic/approval1.jpg)
 
 - [**2020-04-30 时间线全梳理 "瑞德西韦"这三个月**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651269066&idx=1&sn=ec82eb57e745eca55c96af6d296e5c21&chksm=8bb7c574bcc04c62a5011a6da267a3759387efed5b613ac8d5c81ff41dd2629a13f5830cb67c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588264878922&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtHGlAYec6O4UvtR%2FLAyNnI%3D&pass_ticket=tvoA3PE2LDXgW6ADv3uIvRn%2BXDycVSAh7D1yNBxLuYD%2F7YVMIROZydvNRqKgatBx#rd)
@@ -131,13 +140,10 @@
 ![III期](/pic/III.jpg)
 
 - [**2020-04-25 美国新冠指南颁布，跟我国指南有何区别，我们还欠缺科学跟严谨**](https://www.toutiao.com/i6818797986026357252/?tt_from=weixin&utm_campaign=client_share&wxshare_count=6&from=timeline&timestamp=1587659313&app=news_article&utm_source=weixin&isappinstalled=0&utm_medium=toutiao_ios&req_id=202004240028330101300361635A1AF003&group_id=6818797986026357252&pbid=6802943003478672908)
-![新冠指南](/pic/recomd.jpg)
 
 - [**2020-04-24 瑞德西韦治疗新冠被曝无效，“人民的希望”破灭了吗？**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655443233&idx=1&sn=6db814b9ab8f6921cb697a6d27b6f974&chksm=f3a6db4cc4d1525a5c07f57ad4336539b2143eed08a36ed0b33b9f57ea59fa11da8570f6dfa6&mpshare=1&scene=1&srcid=&sharer_sharetime=1587710320785&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhEM07qKynIh53VOk0b7gk8%3D&pass_ticket=R15aSSb8vwMk8PAwrWDKUWemQi5DhrJFeyK7LtzV8E11NbmoVHQv4%2Ftb%2F%2BdoSe2A#rd)
-![无效](/pic/ineffective.jpg)
 
 - [**2020-04-24 Mesoblast’s Stem Cell Therapy Shows 83% Survival in Ventilator-Dependent COVID-19 Patients**](https://www.biospace.com/article/mesoblast-ltd-s-stem-cell-therapy-shows-83-percent-survival-in-covid-19-patients/?from=timeline&isappinstalled=0)
-![meso](/pic/meso.jpg)
 
 - [**2020-04-22 瑞德西韦将如何改变地球下半年的运转方向**](https://mp.weixin.qq.com/s?__biz=MzUxNTkwNzkzMA==&mid=2247486907&idx=1&sn=91b38c7d05d7f0bb18e313a49f069d36&chksm=f9aec58eced94c98109dc6dccfc8b8ae68a465ecd3b5ea9548cbf6583bdbea4bd03046309e2f&mpshare=1&scene=1&srcid=0418vHLk0c4eECgBGvXx3ts0&sharer_sharetime=1587597743716&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtQDXYGeJBn2amp9JyKVLCg%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
 
@@ -243,6 +249,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-05-04 最详细！盘点8款临床在研新冠疫苗**](https://mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655776304&idx=1&sn=f737efbacc9765197786c436267fe478&chksm=8bcef0b5bcb979a30e097db170df4e2ac1e50cea9f3036d2684bafa8a4824e8435d2932cadb6&mpshare=1&scene=1&srcid=&sharer_sharetime=1588400695970&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvaoTlVUfK1Sj8JUpF1K%2B1Q%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd) &#127381;
+![8款临床](/pic/8v.jpg)
+
 - [**2020-04-29 The race for coronavirus vaccines a graphical guide**](https://www.nature.com/articles/d41586-020-01221-y?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&utm_medium=social&utm_content=organic&utm_source=twitter&utm_campaign=NatureNews_&sf233338145=1)
 ![graphicalguide](/pic/graphicguide.jpg)
 
@@ -253,15 +262,10 @@
 ![largestvaccine](/pic/largestvaccine.jpg)
 
 - [**2020-04-26 新冠肺炎疫苗竞速开发，ADE安全性问题不容忽视**](https://mp.weixin.qq.com/s?__biz=MzA4MDA4MTIzMg==&mid=2653070160&idx=1&sn=a016c812fe9e85cb8022b1942e0441bf&chksm=847fbb6fb3083279a1ee5bb1fb2702f0f65be166cae6c35cd9edba9fa7a1262c358f1fc646b3&mpshare=1&scene=1&srcid=&sharer_sharetime=1587949251411&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apn9q%2BzlKVSuLk%2Bno%2B2%2FyqM%3D&pass_ticket=2kmrVuexB7I1bgsYBWj9BpAO23CB2G9Rx6Oe1RRqaecAs3dwtWxuAFbFdBetJZKf#rd) 
-![ADE安全性](/pic/ADE.jpg)
 
 - [**2020-04-26 疫苗快跑**](https://mp.weixin.qq.com/s?__biz=MTY0MzI5NDcwMQ==&mid=2651215322&idx=1&sn=9496b2ff85e35a03e7de534fc74f8522&chksm=523fad586548244eb5db47ab14edab9719e54fa03ba131ac8c2bd9e11c46cf6d4612c6ff989c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587885497105&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuzoJArbPOQy4MR5f3FuIVM%3D&pass_ticket=2kmrVuexB7I1bgsYBWj9BpAO23CB2G9Rx6Oe1RRqaecAs3dwtWxuAFbFdBetJZKf#rd)
 
-![疫苗快跑](/pic/speedup.jpg)
-
 - [**2020-04-24 英国有望造出全球首个新冠疫苗**](https://mp.weixin.qq.com/s?__biz=MzA4OTczMjE2OQ==&mid=2651767609&idx=4&sn=6c302117815ce6bdf175db93c533129c&chksm=8bec061fbc9b8f09b26564cd0cac8ef556beab2c743f059203c256e45e1b9da5d859778d1079&mpshare=1&scene=1&srcid=&sharer_sharetime=1587705269729&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Agt6MoWMmBJq6eiP4NcPdLU%3D&pass_ticket=R15aSSb8vwMk8PAwrWDKUWemQi5DhrJFeyK7LtzV8E11NbmoVHQv4%2Ftb%2F%2BdoSe2A#rd)
-
-![全球首个新冠疫苗](/pic/england.jpg)
 
 - [**2020-04-23 中西合璧：聚焦COVID-19药物研发进展**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247520129&idx=1&sn=0f3233e5a60a95fba50d4137e114a2de&chksm=ecb33767dbc4be71216a627ec0c318a4f851672ba82dbfab0efc37048f91496f52767f820816&mpshare=1&scene=1&srcid=&sharer_sharetime=1587692361733&sharer_shareid=6079326e0dfa026e8e9fcc86a17f904d&exportkey=ApiGTsoYTWpuJJ1d9KQds5Q%3D&pass_ticket=EJZZ0lMB4xLc65tZn1WwNuTKBvf1jHq%2BuRbeqcSqEvuC5gJ1WVWLSE1OOZK93bl5#rd)
 
@@ -375,7 +379,13 @@
  
 ## 研究进展
 
-- [**2020-05-01 7 Ways to Boost Data Impact in Response to the Pandemic**](https://beeckcenter.georgetown.edu/7-ways-to-boost-data-impact-in-response-to-the-pandemic/) &#127381;
+- [**2020-05-03 新冠肺炎双胞胎实验研究表明，新冠肺炎的症状与遗传密切相关**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247499192&idx=1&sn=e8ea04267dd9843803126023730686ca&chksm=fbf6096dcc81807bb76f9faabf21777780bfbf72c8062fc74a9ed777e27a7d2db14a02e97b9d&mpshare=1&scene=1&srcid=0503UidpDAbMg44dqwXUWMgi&sharer_sharetime=1588516933675&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmXZhucRGAkLmzUL86N7%2F1g%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd) &#127381;
+![twins](/pic/twins.jpg)
+
+- [**2020-05-02 重大进展，中国科学技术大学徐晓玲/魏海明团队发现托珠单抗能有效治疗新冠肺炎重症患者**](https://mp.weixin.qq.com/s?__biz=MzA4ODY4MDE0NA==&mid=2247491610&idx=2&sn=dc92f0b44d0e444ea676de3fa8c82f1a&chksm=9024d3a5a7535ab318cb664f1bd510e2ef5c5a667b8577d1224be6b0bb46c82a07409456fef0&mpshare=1&scene=1&srcid=&sharer_sharetime=1588422622390&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap7vFJdyVvIgQYrcPeb9zII%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd) &#127381;
+![ustc](/pic/ustc.jpg)
+
+- [**2020-05-01 7 Ways to Boost Data Impact in Response to the Pandemic**](https://beeckcenter.georgetown.edu/7-ways-to-boost-data-impact-in-response-to-the-pandemic/)
 ![7ways](/pic/7ways.jpg)
 
 - [**2020-04-30 Comparing COVID-19 Deaths to Flu Deaths Is like Comparing Apples to Oranges**](https://blogs.scientificamerican.com/observations/comparing-covid-19-deaths-to-flu-deaths-is-like-comparing-apples-to-oranges/) 
@@ -391,7 +401,6 @@
 ![whu](/pic/whu.jpg)
 
 - [**2020-04-24 出院的新冠重症病人：66天历经4家医院，可能要“终身吸氧”**](https://view.inews.qq.com/a/20200422A0SZ0600?chlid=news_news_top&devid=aaf0cd770b71cb15&qimei=864254042371789&cv=0x70000001&dt=6&lang=zh_CN&pass_ticket=R15aSSb8vwMk8PAwrWDKUWemQi5DhrJFeyK7LtzV8E11NbmoVHQv4%2Ftb%2F%2BdoSe2A)
-![新冠重症病人](/pic/oxygen.jpg)
 
 - [**2020-04-23 户外空气中的颗粒物首次检测到新冠病毒**](https://mp.weixin.qq.com/s?__biz=MjM5NTU1MTY5Mg==&mid=2654091130&idx=1&sn=50863623caf82f349afeb0726d65847e&chksm=bd3057d98a47decf1fdb64423b7000aa95ecbf8f8c24ca33cac00d03dc3a447e3c45fd4f0de9&mpshare=1&scene=1&srcid=&sharer_sharetime=1587661143070&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtA1MnAzQyDhphqY3%2FSh9b0%3D&pass_ticket=EJZZ0lMB4xLc65tZn1WwNuTKBvf1jHq%2BuRbeqcSqEvuC5gJ1WVWLSE1OOZK93bl5#rd)
 
@@ -530,13 +539,13 @@
  
 ## 其他
 
-- [**2020-05-01 全球为何纷纷复工？因为病毒大秘密被揭开**](https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjU2MA==&mid=2649643953&idx=1&sn=65b7e752d7b03503dc57a687f63634de&chksm=becbc84e89bc41589118e7885f34a4a7848d0c67665a4fd9d30b5b976035c2465f6ecb017c93&mpshare=1&scene=1&srcid=&sharer_sharetime=1588333246542&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvjZXeWDdD1V4QAZTG9DAJE%3D&pass_ticket=Wf%2FsqDEYxcNUoitxsu7AN9mTgwexhjMn%2FdExcMn9OeRSIPf%2BmD1qWodgfqU1XOUc#rd) &#127381;
+- [**2020-05-01 全球为何纷纷复工？因为病毒大秘密被揭开**](https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjU2MA==&mid=2649643953&idx=1&sn=65b7e752d7b03503dc57a687f63634de&chksm=becbc84e89bc41589118e7885f34a4a7848d0c67665a4fd9d30b5b976035c2465f6ecb017c93&mpshare=1&scene=1&srcid=&sharer_sharetime=1588333246542&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvjZXeWDdD1V4QAZTG9DAJE%3D&pass_ticket=Wf%2FsqDEYxcNUoitxsu7AN9mTgwexhjMn%2FdExcMn9OeRSIPf%2BmD1qWodgfqU1XOUc#rd)
 ![复工](/pic/reopen.jpg)
 
-- [**2020-05-01 The Classicist: When The Tide Recedes**](https://www.hoover.org/research/classicist-when-tide-recedes) &#127381;
+- [**2020-05-01 The Classicist: When The Tide Recedes**](https://www.hoover.org/research/classicist-when-tide-recedes)
 ![receds](/pic/receds.jpg)
 
-- [**2020-04-30 UPMC doctor argues COVID-19 not as deadly as feared, says its hospitals will shift back to normal**](https://www.pennlive.com/news/2020/04/umpc-argues-covid-19-not-as-deadly-as-feared-says-its-hospitals-will-shift-back-to-normal.html) &#127381;
+- [**2020-04-30 UPMC doctor argues COVID-19 not as deadly as feared, says its hospitals will shift back to normal**](https://www.pennlive.com/news/2020/04/umpc-argues-covid-19-not-as-deadly-as-feared-says-its-hospitals-will-shift-back-to-normal.html) 
 ![deadly](/pic/deadly.jpg)
 
 - [**2020-04-29 新冠病亡占人口比例最高的国家，为什么是比利时？**](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650467991&idx=1&sn=cb4eff054bb30eb5e83f28c4aae58cac&chksm=bef2a82789852131d930d8d9155d80db52181c7ee5afedd51caca9d0ae0d944dfc86704d08f3&mpshare=1&scene=1&srcid=&sharer_sharetime=1588202743987&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqWVDCK8w79WKzgc60ON4ZA%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd)
@@ -559,7 +568,6 @@
 ![newyorker](/pic/newyorker.jpg)
 
 - [**2020-04-26 In four U.S. state prisons, nearly 3,300 inmates test positive for coronavirus -- 96% without symptoms**](https://www.reuters.com/article/us-health-coronavirus-prisons-testing-in/in-four-u-s-state-prisons-nearly-3300-inmates-test-positive-for-coronavirus-96-without-symptoms-idUSKCN2270RX?from=timeline&isappinstalled=0)
-![prison](/pic/prison.jpg)
 
 - [**2020-04-23 Infect Everyone: How Herd Immunity Could Work for Poor Countries**](https://www.bloomberg.com/news/articles/2020-04-21/a-herd-immunity-strategy-could-actually-work-in-youthful-india) 
 
