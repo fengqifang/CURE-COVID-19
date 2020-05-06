@@ -82,17 +82,16 @@
  
 ## 检测试剂
 
-- [**2020-05-04 深度剖析 新冠病毒各种检测方法优缺点对比**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247502622&idx=1&sn=5cd11fff460f0d94808001516449e183&chksm=96efed4ea19864589638a4c787d3c2051757a8fd3253cf4155fe60c37e0fa1e37eed831fafe1&mpshare=1&scene=1&srcid=&sharer_sharetime=1588551923516&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgaNnSPZBBI%2BI%2B%2FP1KW7Fzs%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd) &#127381;
+- [**2020-05-04 深度剖析 新冠病毒各种检测方法优缺点对比**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247502622&idx=1&sn=5cd11fff460f0d94808001516449e183&chksm=96efed4ea19864589638a4c787d3c2051757a8fd3253cf4155fe60c37e0fa1e37eed831fafe1&mpshare=1&scene=1&srcid=&sharer_sharetime=1588551923516&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgaNnSPZBBI%2BI%2B%2FP1KW7Fzs%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
 ![各种检测方法](/pic/multiple.jpg)
 
-- [**2020-05-04 罗氏新冠血清学检测试剂获FDA紧急使用授权，特异性大于99.8%**](https://www.wuximediatech.com/content/post/detail.html?sn=4c8f92dc741c4a9285e22f96753311ea&from=timeline&isappinstalled=0) &#127381;
+- [**2020-05-04 罗氏新冠血清学检测试剂获FDA紧急使用授权，特异性大于99.8%**](https://www.wuximediatech.com/content/post/detail.html?sn=4c8f92dc741c4a9285e22f96753311ea&from=timeline&isappinstalled=0)
 ![roche](/pic/roche.jpg)
 
 - [**2020-04-28 北大,清华,地坛医院联合开发灵敏简单新型冠状病毒测序手段**](https://mp.weixin.qq.com/s?__biz=MzU4ODkyNjA1MQ==&mid=2247483834&idx=1&sn=acaba02e810f5b9b51719356a4659d8c&chksm=fdd41cb6caa395a0844099a78b85b6b37de190b60196fa7a5123999253d4e05a3c92a4e89c72&mpshare=1&scene=1&srcid=&sharer_sharetime=1588101051039&sharer_shareid=4c708f897c10a76d5b204808a3e00b14&exportkey=AlgasGgNZ5GtcLISyj%2FyIb4%3D&pass_ticket=tqoogpaFvlM7LilFw%2FrcPqq7pCiElORbQR7duINtKUYztIQiqc%2F69SrkkJtyKmU5#rd)
 ![novelseq](/pic/novelseq.jpg)
 
 - [**2020-04-27 Antibody testing will enhance the power and accuracy of COVID-19-prevention trials**](https://www.nature.com/articles/s41591-020-0887-3)
-![antibodytesting](/pic/antibodytesting.jpg)
 
 - [**2020-04-22 FDA首开"在家"新冠病毒检测绿灯，专家们看法不一**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651268963&idx=1&sn=5b5493cc7beb9b8e99c7278e10122173&chksm=8bb7c5ddbcc04ccb55f0f40cc3c58e9ed746fc96c8d6c3d19bb3cbcbd89713f9916b8187e81d&mpshare=1&scene=1&srcid=&sharer_sharetime=1587567161041&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvLfMgfMTaUp%2Bs24ZbpYpJs%3D&pass_ticket=%2BFvZgNxVrjvxf5AvclCI2R9oIWTk2asRluhLcY7EfdhvldqGWEMPgwbVfa2aHOFZ#rd)
 
@@ -118,7 +117,7 @@
  
 ## 治疗方案
 
-- [**2020-05-03 瑞德西韦药效究竟如何？曹彬：有效但很微弱，中美标准不同**](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653359651&idx=1&sn=ef12feaa986a59d2e2623390723dfdf8&chksm=bd56f9798a21706f18ca15bf8bae90ec5870545e138ad3223a1445f75c1b63716bd7668abccd&mpshare=1&scene=1&srcid=&sharer_sharetime=1588524298431&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ar7yHzU7xs1oUiXrOoxEYuI%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd) &#127381;
+- [**2020-05-03 瑞德西韦药效究竟如何？曹彬：有效但很微弱，中美标准不同**](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653359651&idx=1&sn=ef12feaa986a59d2e2623390723dfdf8&chksm=bd56f9798a21706f18ca15bf8bae90ec5870545e138ad3223a1445f75c1b63716bd7668abccd&mpshare=1&scene=1&srcid=&sharer_sharetime=1588524298431&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ar7yHzU7xs1oUiXrOoxEYuI%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
 ![中美标准](/pic/uschina.jpg)
 
 - [**2020-05-01 U.S. emergency approval broadens use of Gilead's COVID-19 drug remdesivir**](https://www.reuters.com/article/us-health-coronavirus-usa-fda/fda-authorizes-remdesivir-drug-as-emergency-treatment-for-covid-19-idUSKBN22D69R?from=timeline&isappinstalled=0) 
@@ -249,7 +248,10 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-05-04 最详细！盘点8款临床在研新冠疫苗**](https://mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655776304&idx=1&sn=f737efbacc9765197786c436267fe478&chksm=8bcef0b5bcb979a30e097db170df4e2ac1e50cea9f3036d2684bafa8a4824e8435d2932cadb6&mpshare=1&scene=1&srcid=&sharer_sharetime=1588400695970&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvaoTlVUfK1Sj8JUpF1K%2B1Q%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd) &#127381;
+- [**2020-05-05 登上最新《细胞》的“神兽”，或许能帮我们抵抗新冠病毒**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498683&idx=1&sn=e39fd94e36b4132f588ad1e5795ee350&chksm=ec1d58e8db6ad1feb08ede08400f09c1204d166152cf1c5c50b4d09a42b6889325e69c3eaa5c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588730078025&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArH8RIUCPU9VtthtbwpZu8A%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd) &#127381;
+![llama](/pic/llama.jpg)
+
+- [**2020-05-04 最详细！盘点8款临床在研新冠疫苗**](https://mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655776304&idx=1&sn=f737efbacc9765197786c436267fe478&chksm=8bcef0b5bcb979a30e097db170df4e2ac1e50cea9f3036d2684bafa8a4824e8435d2932cadb6&mpshare=1&scene=1&srcid=&sharer_sharetime=1588400695970&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvaoTlVUfK1Sj8JUpF1K%2B1Q%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
 ![8款临床](/pic/8v.jpg)
 
 - [**2020-04-29 The race for coronavirus vaccines a graphical guide**](https://www.nature.com/articles/d41586-020-01221-y?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&utm_medium=social&utm_content=organic&utm_source=twitter&utm_campaign=NatureNews_&sf233338145=1)
@@ -379,10 +381,13 @@
  
 ## 研究进展
 
-- [**2020-05-03 新冠肺炎双胞胎实验研究表明，新冠肺炎的症状与遗传密切相关**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247499192&idx=1&sn=e8ea04267dd9843803126023730686ca&chksm=fbf6096dcc81807bb76f9faabf21777780bfbf72c8062fc74a9ed777e27a7d2db14a02e97b9d&mpshare=1&scene=1&srcid=0503UidpDAbMg44dqwXUWMgi&sharer_sharetime=1588516933675&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmXZhucRGAkLmzUL86N7%2F1g%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd) &#127381;
+- [**2020-05-05 颠覆认知， 2个团队体外人工合成出新冠病毒：能在一周之内生产或改造出大量病毒活体**](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247508623&idx=2&sn=0ae7e297852572471b716825fe32e34f&chksm=fce6d150cb915846648ffdb3f66aec4eb42df3346e1859049ea29fba50afa30725d78bac4435&mpshare=1&scene=1&srcid=&sharer_sharetime=1588682421033&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqJILofsBYgFK9cEVJHmlUc%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd) &#127381;
+![invivo](/pic/invivo.jpg)
+
+- [**2020-05-03 新冠肺炎双胞胎实验研究表明，新冠肺炎的症状与遗传密切相关**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247499192&idx=1&sn=e8ea04267dd9843803126023730686ca&chksm=fbf6096dcc81807bb76f9faabf21777780bfbf72c8062fc74a9ed777e27a7d2db14a02e97b9d&mpshare=1&scene=1&srcid=0503UidpDAbMg44dqwXUWMgi&sharer_sharetime=1588516933675&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmXZhucRGAkLmzUL86N7%2F1g%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
 ![twins](/pic/twins.jpg)
 
-- [**2020-05-02 重大进展，中国科学技术大学徐晓玲/魏海明团队发现托珠单抗能有效治疗新冠肺炎重症患者**](https://mp.weixin.qq.com/s?__biz=MzA4ODY4MDE0NA==&mid=2247491610&idx=2&sn=dc92f0b44d0e444ea676de3fa8c82f1a&chksm=9024d3a5a7535ab318cb664f1bd510e2ef5c5a667b8577d1224be6b0bb46c82a07409456fef0&mpshare=1&scene=1&srcid=&sharer_sharetime=1588422622390&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap7vFJdyVvIgQYrcPeb9zII%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd) &#127381;
+- [**2020-05-02 重大进展，中国科学技术大学徐晓玲/魏海明团队发现托珠单抗能有效治疗新冠肺炎重症患者**](https://mp.weixin.qq.com/s?__biz=MzA4ODY4MDE0NA==&mid=2247491610&idx=2&sn=dc92f0b44d0e444ea676de3fa8c82f1a&chksm=9024d3a5a7535ab318cb664f1bd510e2ef5c5a667b8577d1224be6b0bb46c82a07409456fef0&mpshare=1&scene=1&srcid=&sharer_sharetime=1588422622390&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap7vFJdyVvIgQYrcPeb9zII%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
 ![ustc](/pic/ustc.jpg)
 
 - [**2020-05-01 7 Ways to Boost Data Impact in Response to the Pandemic**](https://beeckcenter.georgetown.edu/7-ways-to-boost-data-impact-in-response-to-the-pandemic/)
@@ -398,7 +403,6 @@
 ![最新案例](/pic/newcase.jpg)
 
 - [**2020-04-27 气溶胶中测出新冠病毒核酸，武汉大学最新《自然》该怎么理解？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498566&idx=1&sn=62afc69246c3aad20c779d2ab4a170ed&chksm=ec1d5815db6ad1035f56b5840f874f8ebf655ca39a5c11778ff6be1dec0c2ef4d4fce3c85939&mpshare=1&scene=1&srcid=&sharer_sharetime=1588029222421&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=Aj0R5Gg4ZjVNXk3g4xEO0s8%3D&pass_ticket=YKFJ1yq%2FA3kyGg5oaxVJ3PNEr%2FaMoXXxTqIlxYMQx%2FCGs%2FPt9FI%2FwsbnC0wCTDkY#rd)
-![whu](/pic/whu.jpg)
 
 - [**2020-04-24 出院的新冠重症病人：66天历经4家医院，可能要“终身吸氧”**](https://view.inews.qq.com/a/20200422A0SZ0600?chlid=news_news_top&devid=aaf0cd770b71cb15&qimei=864254042371789&cv=0x70000001&dt=6&lang=zh_CN&pass_ticket=R15aSSb8vwMk8PAwrWDKUWemQi5DhrJFeyK7LtzV8E11NbmoVHQv4%2Ftb%2F%2BdoSe2A)
 
@@ -539,6 +543,9 @@
  
 ## 其他
 
+- [**2020-05-05 Nature全面阐述：导致新冠病毒大流行的复杂生物学**](https://mp.weixin.qq.com/s?__biz=MjM5ODU5NDgyMg==&mid=2653948557&idx=1&sn=d38327736c57be1b20ac49d77be709f7&chksm=bd0cfae48a7b73f2c0089e8f877e19dfec2d858b30732be90b181b131c68d45de9e3ec0e4931&mpshare=1&scene=1&srcid=&sharer_sharetime=1588698224875&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApJ5Rv0qQnq341LDpBboBNk%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd) &#127381;
+![complex](/pic/complex.jpg)
+
 - [**2020-05-01 全球为何纷纷复工？因为病毒大秘密被揭开**](https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjU2MA==&mid=2649643953&idx=1&sn=65b7e752d7b03503dc57a687f63634de&chksm=becbc84e89bc41589118e7885f34a4a7848d0c67665a4fd9d30b5b976035c2465f6ecb017c93&mpshare=1&scene=1&srcid=&sharer_sharetime=1588333246542&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvjZXeWDdD1V4QAZTG9DAJE%3D&pass_ticket=Wf%2FsqDEYxcNUoitxsu7AN9mTgwexhjMn%2FdExcMn9OeRSIPf%2BmD1qWodgfqU1XOUc#rd)
 ![复工](/pic/reopen.jpg)
 
@@ -562,10 +569,8 @@
 ![swedennext](/pic/swedennext.jpg)
 
 - [**2020-04-27 单日新增超 6000，累计确诊病例超 20 万，西班牙为何急于解除全面封锁？**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653377248&idx=1&sn=ecddb3e86da2a30a313380785af4ffd4&chksm=5e32a38669452a90fb4f004cd1aa02c7b672f7b3d11647cc789b387c929dc36e1cfa6f08d3a7&mpshare=1&scene=1&srcid=&sharer_sharetime=1588022704131&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlnBq0GnPgwVDuwBOwohIZw%3D&pass_ticket=YKFJ1yq%2FA3kyGg5oaxVJ3PNEr%2FaMoXXxTqIlxYMQx%2FCGs%2FPt9FI%2FwsbnC0wCTDkY#rd)
-![spain](/pic/spain.jpg)
 
 - [**2020-04-27 Can We Track COVID-19 and Protect Privacy at the Same Time?**](https://www.newyorker.com/tech/annals-of-technology/can-we-track-covid-19-and-protect-privacy-at-the-same-time)
-![newyorker](/pic/newyorker.jpg)
 
 - [**2020-04-26 In four U.S. state prisons, nearly 3,300 inmates test positive for coronavirus -- 96% without symptoms**](https://www.reuters.com/article/us-health-coronavirus-prisons-testing-in/in-four-u-s-state-prisons-nearly-3300-inmates-test-positive-for-coronavirus-96-without-symptoms-idUSKCN2270RX?from=timeline&isappinstalled=0)
 
