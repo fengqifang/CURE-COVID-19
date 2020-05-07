@@ -89,7 +89,6 @@
 ![roche](/pic/roche.jpg)
 
 - [**2020-04-28 北大,清华,地坛医院联合开发灵敏简单新型冠状病毒测序手段**](https://mp.weixin.qq.com/s?__biz=MzU4ODkyNjA1MQ==&mid=2247483834&idx=1&sn=acaba02e810f5b9b51719356a4659d8c&chksm=fdd41cb6caa395a0844099a78b85b6b37de190b60196fa7a5123999253d4e05a3c92a4e89c72&mpshare=1&scene=1&srcid=&sharer_sharetime=1588101051039&sharer_shareid=4c708f897c10a76d5b204808a3e00b14&exportkey=AlgasGgNZ5GtcLISyj%2FyIb4%3D&pass_ticket=tqoogpaFvlM7LilFw%2FrcPqq7pCiElORbQR7duINtKUYztIQiqc%2F69SrkkJtyKmU5#rd)
-![novelseq](/pic/novelseq.jpg)
 
 - [**2020-04-27 Antibody testing will enhance the power and accuracy of COVID-19-prevention trials**](https://www.nature.com/articles/s41591-020-0887-3)
 
@@ -248,7 +247,13 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-05-05 登上最新《细胞》的“神兽”，或许能帮我们抵抗新冠病毒**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498683&idx=1&sn=e39fd94e36b4132f588ad1e5795ee350&chksm=ec1d58e8db6ad1feb08ede08400f09c1204d166152cf1c5c50b4d09a42b6889325e69c3eaa5c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588730078025&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArH8RIUCPU9VtthtbwpZu8A%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd) &#127381;
+- [**2020-05-06 新冠疫苗首次对动物产生保护效果！"科学"介绍中国团队最新研究**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498486&idx=1&sn=e559a97cd6bca65fa888d5a24f53e351&chksm=ec1d59a5db6ad0b31745f5f35f549226dff0fd2d6cdff3c9a7294852b77e6c93efd54fa1ce73&mpshare=1&scene=1&srcid=&sharer_sharetime=1588818009724&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AoTXb67j83rU3rvM8q%2FK1m0%3D&pass_ticket=8e6Z9gwITQj4nXaQnYeMxzV%2B9haxL8v9w77UcY54B1MTJi6P8gFNmTYdCIm%2Fw0jq#rd) &#127381;
+![新冠疫苗动物实验2](/pic/animalsafe2.jpg)
+
+- [**2020-05-06 中国团队发布首个新冠疫苗动物实验研究结果：新型冠状病毒灭活疫苗在恒河猴模型中安全有效**](https://mp.weixin.qq.com/s?__biz=MjM5NTI3MDE0NQ==&mid=2653628448&idx=2&sn=3414a8fe6965b61e8cca01f9d0a1fbff&chksm=bd24934e8a531a586a52a7f35863030422e0d4874556bc43056a6234c3717aff66acad410b6d&mpshare=1&scene=1&srcid=&sharer_sharetime=1588805182468&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al4CoqcVqpS%2Fu1QYOXR%2B9mw%3D&pass_ticket=8e6Z9gwITQj4nXaQnYeMxzV%2B9haxL8v9w77UcY54B1MTJi6P8gFNmTYdCIm%2Fw0jq#rd) &#127381;
+![新冠疫苗动物实验](/pic/animalsafe.jpg)
+
+- [**2020-05-05 登上最新《细胞》的“神兽”，或许能帮我们抵抗新冠病毒**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498683&idx=1&sn=e39fd94e36b4132f588ad1e5795ee350&chksm=ec1d58e8db6ad1feb08ede08400f09c1204d166152cf1c5c50b4d09a42b6889325e69c3eaa5c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588730078025&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArH8RIUCPU9VtthtbwpZu8A%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
 ![llama](/pic/llama.jpg)
 
 - [**2020-05-04 最详细！盘点8款临床在研新冠疫苗**](https://mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655776304&idx=1&sn=f737efbacc9765197786c436267fe478&chksm=8bcef0b5bcb979a30e097db170df4e2ac1e50cea9f3036d2684bafa8a4824e8435d2932cadb6&mpshare=1&scene=1&srcid=&sharer_sharetime=1588400695970&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvaoTlVUfK1Sj8JUpF1K%2B1Q%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
@@ -258,10 +263,8 @@
 ![graphicalguide](/pic/graphicguide.jpg)
 
 - [**2020-04-28 Vaccines Are Critical. Here’s How You Can Help Spread the Word.**](https://asm.org/Articles/2020/April/Vaccines-Are-Critical-Here-s-How-You-Can-Help-Spre?utm_campaign=Articles&utm_id=004dw8w698hey8c&utm_medium=social&utm_source=twitter)
-![critical](/pic/critical.jpg)
 
 - [**2020-04-28 The world's largest vaccine maker is producing 40 million units of a coronavirus vaccine on trial in Oxford, without knowing whether it works**](https://www.businessinsider.com/india-serum-institute-millions-oxford-university-vaccine-before-approval-2020-4?utm_medium=social&utm_campaign=sf-bi-main&utm_source=facebook.com&fbclid=IwAR3xuk7aSkutDSqXIFVQgSpNEsYx64TEJqyG8-7_0uPC-wacR-GdRXEBmXU)
-![largestvaccine](/pic/largestvaccine.jpg)
 
 - [**2020-04-26 新冠肺炎疫苗竞速开发，ADE安全性问题不容忽视**](https://mp.weixin.qq.com/s?__biz=MzA4MDA4MTIzMg==&mid=2653070160&idx=1&sn=a016c812fe9e85cb8022b1942e0441bf&chksm=847fbb6fb3083279a1ee5bb1fb2702f0f65be166cae6c35cd9edba9fa7a1262c358f1fc646b3&mpshare=1&scene=1&srcid=&sharer_sharetime=1587949251411&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apn9q%2BzlKVSuLk%2Bno%2B2%2FyqM%3D&pass_ticket=2kmrVuexB7I1bgsYBWj9BpAO23CB2G9Rx6Oe1RRqaecAs3dwtWxuAFbFdBetJZKf#rd) 
 
@@ -381,7 +384,7 @@
  
 ## 研究进展
 
-- [**2020-05-05 颠覆认知， 2个团队体外人工合成出新冠病毒：能在一周之内生产或改造出大量病毒活体**](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247508623&idx=2&sn=0ae7e297852572471b716825fe32e34f&chksm=fce6d150cb915846648ffdb3f66aec4eb42df3346e1859049ea29fba50afa30725d78bac4435&mpshare=1&scene=1&srcid=&sharer_sharetime=1588682421033&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqJILofsBYgFK9cEVJHmlUc%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd) &#127381;
+- [**2020-05-05 颠覆认知， 2个团队体外人工合成出新冠病毒：能在一周之内生产或改造出大量病毒活体**](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247508623&idx=2&sn=0ae7e297852572471b716825fe32e34f&chksm=fce6d150cb915846648ffdb3f66aec4eb42df3346e1859049ea29fba50afa30725d78bac4435&mpshare=1&scene=1&srcid=&sharer_sharetime=1588682421033&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqJILofsBYgFK9cEVJHmlUc%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
 ![invivo](/pic/invivo.jpg)
 
 - [**2020-05-03 新冠肺炎双胞胎实验研究表明，新冠肺炎的症状与遗传密切相关**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247499192&idx=1&sn=e8ea04267dd9843803126023730686ca&chksm=fbf6096dcc81807bb76f9faabf21777780bfbf72c8062fc74a9ed777e27a7d2db14a02e97b9d&mpshare=1&scene=1&srcid=0503UidpDAbMg44dqwXUWMgi&sharer_sharetime=1588516933675&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmXZhucRGAkLmzUL86N7%2F1g%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
@@ -400,7 +403,6 @@
 ![trinity](/pic/trinity.jpg)
 
 - [**2020-04-28 无症状感染率有多高？最新案例刷新纪录**](https://mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926684197&idx=1&sn=8342822cd0b1f61e8878ae0004053ca9&chksm=8d3aa51aba4d2c0cace00f88b0abdc33586b097f66684ef0be60e5830477f7374db0d48c8b1f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588123864292&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alh38LiTZvIBCiwKfHvnud8%3D&pass_ticket=VXFdO8hAzuZKGsONkuZO%2FedXSgUuMbboxh%2BkLSGLUXdh4krRkYr2cPYSWE21EUtg#rd)
-![最新案例](/pic/newcase.jpg)
 
 - [**2020-04-27 气溶胶中测出新冠病毒核酸，武汉大学最新《自然》该怎么理解？**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498566&idx=1&sn=62afc69246c3aad20c779d2ab4a170ed&chksm=ec1d5815db6ad1035f56b5840f874f8ebf655ca39a5c11778ff6be1dec0c2ef4d4fce3c85939&mpshare=1&scene=1&srcid=&sharer_sharetime=1588029222421&sharer_shareid=c172db88b28df0f0d5aa8643b626ccc3&exportkey=Aj0R5Gg4ZjVNXk3g4xEO0s8%3D&pass_ticket=YKFJ1yq%2FA3kyGg5oaxVJ3PNEr%2FaMoXXxTqIlxYMQx%2FCGs%2FPt9FI%2FwsbnC0wCTDkY#rd)
 
@@ -543,7 +545,13 @@
  
 ## 其他
 
-- [**2020-05-05 Nature全面阐述：导致新冠病毒大流行的复杂生物学**](https://mp.weixin.qq.com/s?__biz=MjM5ODU5NDgyMg==&mid=2653948557&idx=1&sn=d38327736c57be1b20ac49d77be709f7&chksm=bd0cfae48a7b73f2c0089e8f877e19dfec2d858b30732be90b181b131c68d45de9e3ec0e4931&mpshare=1&scene=1&srcid=&sharer_sharetime=1588698224875&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApJ5Rv0qQnq341LDpBboBNk%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd) &#127381;
+- [**2020-05-06 Coronavirus: Is it time to free the healthy from restrictions?**](https://www.bbc.com/news/health-52543692) &#127381;
+![freehealthy](/pic/freehealth.jpg)
+
+- [**2020-05-06 The Pandemic Will Soon Test Rural America COVID-19 Meets Poor Health and Collapsing Hospitals**](https://www.foreignaffairs.com/articles/united-states/2020-05-06/pandemic-will-soon-test-rural-america?utm_medium=social&utm_campaign=tw_daily_soc&utm_source=twitter_posts) &#127381;
+![rural](/pic/rural.jpg)
+
+- [**2020-05-05 Nature全面阐述：导致新冠病毒大流行的复杂生物学**](https://mp.weixin.qq.com/s?__biz=MjM5ODU5NDgyMg==&mid=2653948557&idx=1&sn=d38327736c57be1b20ac49d77be709f7&chksm=bd0cfae48a7b73f2c0089e8f877e19dfec2d858b30732be90b181b131c68d45de9e3ec0e4931&mpshare=1&scene=1&srcid=&sharer_sharetime=1588698224875&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApJ5Rv0qQnq341LDpBboBNk%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
 ![complex](/pic/complex.jpg)
 
 - [**2020-05-01 全球为何纷纷复工？因为病毒大秘密被揭开**](https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjU2MA==&mid=2649643953&idx=1&sn=65b7e752d7b03503dc57a687f63634de&chksm=becbc84e89bc41589118e7885f34a4a7848d0c67665a4fd9d30b5b976035c2465f6ecb017c93&mpshare=1&scene=1&srcid=&sharer_sharetime=1588333246542&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvjZXeWDdD1V4QAZTG9DAJE%3D&pass_ticket=Wf%2FsqDEYxcNUoitxsu7AN9mTgwexhjMn%2FdExcMn9OeRSIPf%2BmD1qWodgfqU1XOUc#rd)
@@ -563,10 +571,7 @@
 
 - [**2020-04-28 非洲的新冠疫情咋样了？**](https://mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926684235&idx=1&sn=fe441b5da28be892e3563d691da2a698&chksm=8d3aa574ba4d2c6262561201850b687d4fb3a32d4e918d0ca94404ceb102f09bff379bc2550d&mpshare=1&scene=1&srcid=&sharer_sharetime=1588125077969&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah2LX9p9SHUU%2FnpOmSVsh90%3D&pass_ticket=VXFdO8hAzuZKGsONkuZO%2FedXSgUuMbboxh%2BkLSGLUXdh4krRkYr2cPYSWE21EUtg#rd)
 
-![africa](/pic/africa.jpg)
-
 - [**2020-04-28 The Predicted Coronavirus Catastrophe Hasn’t Arrived In Sweden. What’s Next?**](https://www.forbes.com/sites/gabrielleigh/2020/04/27/the-predicted-coronavirus-catastrophe-hasnt-arrived-in-sweden-whats-next/#30f599c43caf)
-![swedennext](/pic/swedennext.jpg)
 
 - [**2020-04-27 单日新增超 6000，累计确诊病例超 20 万，西班牙为何急于解除全面封锁？**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653377248&idx=1&sn=ecddb3e86da2a30a313380785af4ffd4&chksm=5e32a38669452a90fb4f004cd1aa02c7b672f7b3d11647cc789b387c929dc36e1cfa6f08d3a7&mpshare=1&scene=1&srcid=&sharer_sharetime=1588022704131&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlnBq0GnPgwVDuwBOwohIZw%3D&pass_ticket=YKFJ1yq%2FA3kyGg5oaxVJ3PNEr%2FaMoXXxTqIlxYMQx%2FCGs%2FPt9FI%2FwsbnC0wCTDkY#rd)
 
