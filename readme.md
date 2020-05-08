@@ -116,6 +116,9 @@
  
 ## 治疗方案
 
+- [**2020-05-07 瑞德西韦在日本获批治疗COVID-19**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247489324&idx=2&sn=b341c1fd1941c47ba9de6adee7b178f3&chksm=fb882a6fccffa3796750000804c18da0126916b5f421a92763e79a393a76699871aa52d21a58&mpshare=1&scene=1&srcid=&sharer_sharetime=1588860990141&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqkJApX96pEghC0SIHsYZKE%3D&pass_ticket=fHT83qUHyvt%2BWBk6cFQspzPWej1%2BNs7vieMvQGnIbkvc%2FyzZ9%2BTG0QNX2uyEOLsC#rd) &#127381;
+![japan](/pic/japan.jpg)
+
 - [**2020-05-03 瑞德西韦药效究竟如何？曹彬：有效但很微弱，中美标准不同**](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653359651&idx=1&sn=ef12feaa986a59d2e2623390723dfdf8&chksm=bd56f9798a21706f18ca15bf8bae90ec5870545e138ad3223a1445f75c1b63716bd7668abccd&mpshare=1&scene=1&srcid=&sharer_sharetime=1588524298431&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ar7yHzU7xs1oUiXrOoxEYuI%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
 ![中美标准](/pic/uschina.jpg)
 
@@ -384,6 +387,9 @@
  
 ## 研究进展
 
+- [**2020-05-07 Outcomes Data Published from Large, Diverse COVID-19 Patient Study in NYC**](https://health.mountsinai.org/blog/outcomes-data-published-from-large-diverse-covid-19-patient-study-in-nyc/?from=timeline&isappinstalled=0) &#127381;
+![patientstudy](/pic/patientstudy.jpg)
+
 - [**2020-05-05 颠覆认知， 2个团队体外人工合成出新冠病毒：能在一周之内生产或改造出大量病毒活体**](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247508623&idx=2&sn=0ae7e297852572471b716825fe32e34f&chksm=fce6d150cb915846648ffdb3f66aec4eb42df3346e1859049ea29fba50afa30725d78bac4435&mpshare=1&scene=1&srcid=&sharer_sharetime=1588682421033&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqJILofsBYgFK9cEVJHmlUc%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
 ![invivo](/pic/invivo.jpg)
 
@@ -544,6 +550,9 @@
  ***
  
 ## 其他
+
+- [**2020-05-07 The Case for a Mandatory COVID-19 App**](https://quillette.com/2020/05/07/the-case-for-a-mandatory-covid-19-app/) &#127381;
+![app](/pic/app.jpg)
 
 - [**2020-05-06 Coronavirus: Is it time to free the healthy from restrictions?**](https://www.bbc.com/news/health-52543692) &#127381;
 ![freehealthy](/pic/freehealth.jpg)
