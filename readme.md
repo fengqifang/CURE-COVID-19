@@ -135,10 +135,8 @@
 ![时间线全梳理](/pic/timeline.jpg)
 
 - [**2020-04-29 NIAID发起的瑞德西韦COVID-19研究结果公布：临床恢复时间缩短31%，死亡率下降但不显著**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558431&idx=1&sn=9519d2df98c06cf8f8f8efab22de7131&chksm=889fd674bfe85f6211918ac531381fbae0f542ea310e206a5033ec557d98d9efd2b9b7677dd4&mpshare=1&scene=1&srcid=&sharer_sharetime=1588210609596&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApGlrtkSNgF8zksgcLCyVhI%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd)
-![NIAID](/pic/niaid.jpg)
 
 - [**2020-04-29 Gilead公布瑞德西韦治疗重症住院COVID-19患者III期临床数据**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558414&idx=1&sn=6562e89924dcdf7897d5a5cd9129cc39&chksm=889fd665bfe85f73cfda7c09f6ee680b95d26a6cfce3a9898c36c4072423d3f5d4324ddaee5e&mpshare=1&scene=1&srcid=&sharer_sharetime=1588166369858&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Akgga3lF4SNmrWdFGYbgID0%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd)
-![III期](/pic/III.jpg)
 
 - [**2020-04-25 美国新冠指南颁布，跟我国指南有何区别，我们还欠缺科学跟严谨**](https://www.toutiao.com/i6818797986026357252/?tt_from=weixin&utm_campaign=client_share&wxshare_count=6&from=timeline&timestamp=1587659313&app=news_article&utm_source=weixin&isappinstalled=0&utm_medium=toutiao_ios&req_id=202004240028330101300361635A1AF003&group_id=6818797986026357252&pbid=6802943003478672908)
 
@@ -250,10 +248,10 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-05-06 新冠疫苗首次对动物产生保护效果！"科学"介绍中国团队最新研究**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498486&idx=1&sn=e559a97cd6bca65fa888d5a24f53e351&chksm=ec1d59a5db6ad0b31745f5f35f549226dff0fd2d6cdff3c9a7294852b77e6c93efd54fa1ce73&mpshare=1&scene=1&srcid=&sharer_sharetime=1588818009724&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AoTXb67j83rU3rvM8q%2FK1m0%3D&pass_ticket=8e6Z9gwITQj4nXaQnYeMxzV%2B9haxL8v9w77UcY54B1MTJi6P8gFNmTYdCIm%2Fw0jq#rd) &#127381;
+- [**2020-05-06 新冠疫苗首次对动物产生保护效果！"科学"介绍中国团队最新研究**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498486&idx=1&sn=e559a97cd6bca65fa888d5a24f53e351&chksm=ec1d59a5db6ad0b31745f5f35f549226dff0fd2d6cdff3c9a7294852b77e6c93efd54fa1ce73&mpshare=1&scene=1&srcid=&sharer_sharetime=1588818009724&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AoTXb67j83rU3rvM8q%2FK1m0%3D&pass_ticket=8e6Z9gwITQj4nXaQnYeMxzV%2B9haxL8v9w77UcY54B1MTJi6P8gFNmTYdCIm%2Fw0jq#rd)
 ![新冠疫苗动物实验2](/pic/animalsafe2.jpg)
 
-- [**2020-05-06 中国团队发布首个新冠疫苗动物实验研究结果：新型冠状病毒灭活疫苗在恒河猴模型中安全有效**](https://mp.weixin.qq.com/s?__biz=MjM5NTI3MDE0NQ==&mid=2653628448&idx=2&sn=3414a8fe6965b61e8cca01f9d0a1fbff&chksm=bd24934e8a531a586a52a7f35863030422e0d4874556bc43056a6234c3717aff66acad410b6d&mpshare=1&scene=1&srcid=&sharer_sharetime=1588805182468&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al4CoqcVqpS%2Fu1QYOXR%2B9mw%3D&pass_ticket=8e6Z9gwITQj4nXaQnYeMxzV%2B9haxL8v9w77UcY54B1MTJi6P8gFNmTYdCIm%2Fw0jq#rd) &#127381;
+- [**2020-05-06 中国团队发布首个新冠疫苗动物实验研究结果：新型冠状病毒灭活疫苗在恒河猴模型中安全有效**](https://mp.weixin.qq.com/s?__biz=MjM5NTI3MDE0NQ==&mid=2653628448&idx=2&sn=3414a8fe6965b61e8cca01f9d0a1fbff&chksm=bd24934e8a531a586a52a7f35863030422e0d4874556bc43056a6234c3717aff66acad410b6d&mpshare=1&scene=1&srcid=&sharer_sharetime=1588805182468&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al4CoqcVqpS%2Fu1QYOXR%2B9mw%3D&pass_ticket=8e6Z9gwITQj4nXaQnYeMxzV%2B9haxL8v9w77UcY54B1MTJi6P8gFNmTYdCIm%2Fw0jq#rd)
 ![新冠疫苗动物实验](/pic/animalsafe.jpg)
 
 - [**2020-05-05 登上最新《细胞》的“神兽”，或许能帮我们抵抗新冠病毒**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498683&idx=1&sn=e39fd94e36b4132f588ad1e5795ee350&chksm=ec1d58e8db6ad1feb08ede08400f09c1204d166152cf1c5c50b4d09a42b6889325e69c3eaa5c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588730078025&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArH8RIUCPU9VtthtbwpZu8A%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
@@ -263,7 +261,6 @@
 ![8款临床](/pic/8v.jpg)
 
 - [**2020-04-29 The race for coronavirus vaccines a graphical guide**](https://www.nature.com/articles/d41586-020-01221-y?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&utm_medium=social&utm_content=organic&utm_source=twitter&utm_campaign=NatureNews_&sf233338145=1)
-![graphicalguide](/pic/graphicguide.jpg)
 
 - [**2020-04-28 Vaccines Are Critical. Here’s How You Can Help Spread the Word.**](https://asm.org/Articles/2020/April/Vaccines-Are-Critical-Here-s-How-You-Can-Help-Spre?utm_campaign=Articles&utm_id=004dw8w698hey8c&utm_medium=social&utm_source=twitter)
 
@@ -406,7 +403,6 @@
 ![comparing](/pic/comparing.jpg)
 
 - [**2020-04-29 The trinity of COVID-19: immunity, inflammation and intervention**](https://www.nature.com/articles/s41577-020-0311-8?utm_source=dlvr.it&utm_medium=twitter)
-![trinity](/pic/trinity.jpg)
 
 - [**2020-04-28 无症状感染率有多高？最新案例刷新纪录**](https://mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926684197&idx=1&sn=8342822cd0b1f61e8878ae0004053ca9&chksm=8d3aa51aba4d2c0cace00f88b0abdc33586b097f66684ef0be60e5830477f7374db0d48c8b1f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588123864292&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Alh38LiTZvIBCiwKfHvnud8%3D&pass_ticket=VXFdO8hAzuZKGsONkuZO%2FedXSgUuMbboxh%2BkLSGLUXdh4krRkYr2cPYSWE21EUtg#rd)
 
@@ -554,10 +550,10 @@
 - [**2020-05-07 The Case for a Mandatory COVID-19 App**](https://quillette.com/2020/05/07/the-case-for-a-mandatory-covid-19-app/) &#127381;
 ![app](/pic/app.jpg)
 
-- [**2020-05-06 Coronavirus: Is it time to free the healthy from restrictions?**](https://www.bbc.com/news/health-52543692) &#127381;
+- [**2020-05-06 Coronavirus: Is it time to free the healthy from restrictions?**](https://www.bbc.com/news/health-52543692)
 ![freehealthy](/pic/freehealth.jpg)
 
-- [**2020-05-06 The Pandemic Will Soon Test Rural America COVID-19 Meets Poor Health and Collapsing Hospitals**](https://www.foreignaffairs.com/articles/united-states/2020-05-06/pandemic-will-soon-test-rural-america?utm_medium=social&utm_campaign=tw_daily_soc&utm_source=twitter_posts) &#127381;
+- [**2020-05-06 The Pandemic Will Soon Test Rural America COVID-19 Meets Poor Health and Collapsing Hospitals**](https://www.foreignaffairs.com/articles/united-states/2020-05-06/pandemic-will-soon-test-rural-america?utm_medium=social&utm_campaign=tw_daily_soc&utm_source=twitter_posts)
 ![rural](/pic/rural.jpg)
 
 - [**2020-05-05 Nature全面阐述：导致新冠病毒大流行的复杂生物学**](https://mp.weixin.qq.com/s?__biz=MjM5ODU5NDgyMg==&mid=2653948557&idx=1&sn=d38327736c57be1b20ac49d77be709f7&chksm=bd0cfae48a7b73f2c0089e8f877e19dfec2d858b30732be90b181b131c68d45de9e3ec0e4931&mpshare=1&scene=1&srcid=&sharer_sharetime=1588698224875&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApJ5Rv0qQnq341LDpBboBNk%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
@@ -573,10 +569,8 @@
 ![deadly](/pic/deadly.jpg)
 
 - [**2020-04-29 新冠病亡占人口比例最高的国家，为什么是比利时？**](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650467991&idx=1&sn=cb4eff054bb30eb5e83f28c4aae58cac&chksm=bef2a82789852131d930d8d9155d80db52181c7ee5afedd51caca9d0ae0d944dfc86704d08f3&mpshare=1&scene=1&srcid=&sharer_sharetime=1588202743987&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqWVDCK8w79WKzgc60ON4ZA%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd)
-![比利时](/pic/belgium.jpg)
 
 - [**2020-04-29 Do Lockdowns Save Many Lives? In Most Places, the Data Say No**](https://www.wsj.com/articles/do-lockdowns-save-many-lives-is-most-places-the-data-say-no-11587930911)
-![lockdown](/pic/lockdown.jpg)
 
 - [**2020-04-28 非洲的新冠疫情咋样了？**](https://mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926684235&idx=1&sn=fe441b5da28be892e3563d691da2a698&chksm=8d3aa574ba4d2c6262561201850b687d4fb3a32d4e918d0ca94404ceb102f09bff379bc2550d&mpshare=1&scene=1&srcid=&sharer_sharetime=1588125077969&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah2LX9p9SHUU%2FnpOmSVsh90%3D&pass_ticket=VXFdO8hAzuZKGsONkuZO%2FedXSgUuMbboxh%2BkLSGLUXdh4krRkYr2cPYSWE21EUtg#rd)
 
