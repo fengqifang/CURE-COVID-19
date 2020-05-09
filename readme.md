@@ -116,7 +116,7 @@
  
 ## 治疗方案
 
-- [**2020-05-07 瑞德西韦在日本获批治疗COVID-19**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247489324&idx=2&sn=b341c1fd1941c47ba9de6adee7b178f3&chksm=fb882a6fccffa3796750000804c18da0126916b5f421a92763e79a393a76699871aa52d21a58&mpshare=1&scene=1&srcid=&sharer_sharetime=1588860990141&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqkJApX96pEghC0SIHsYZKE%3D&pass_ticket=fHT83qUHyvt%2BWBk6cFQspzPWej1%2BNs7vieMvQGnIbkvc%2FyzZ9%2BTG0QNX2uyEOLsC#rd) &#127381;
+- [**2020-05-07 瑞德西韦在日本获批治疗COVID-19**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247489324&idx=2&sn=b341c1fd1941c47ba9de6adee7b178f3&chksm=fb882a6fccffa3796750000804c18da0126916b5f421a92763e79a393a76699871aa52d21a58&mpshare=1&scene=1&srcid=&sharer_sharetime=1588860990141&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqkJApX96pEghC0SIHsYZKE%3D&pass_ticket=fHT83qUHyvt%2BWBk6cFQspzPWej1%2BNs7vieMvQGnIbkvc%2FyzZ9%2BTG0QNX2uyEOLsC#rd)
 ![japan](/pic/japan.jpg)
 
 - [**2020-05-03 瑞德西韦药效究竟如何？曹彬：有效但很微弱，中美标准不同**](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653359651&idx=1&sn=ef12feaa986a59d2e2623390723dfdf8&chksm=bd56f9798a21706f18ca15bf8bae90ec5870545e138ad3223a1445f75c1b63716bd7668abccd&mpshare=1&scene=1&srcid=&sharer_sharetime=1588524298431&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ar7yHzU7xs1oUiXrOoxEYuI%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
@@ -132,7 +132,6 @@
 ![approval1](/pic/approval1.jpg)
 
 - [**2020-04-30 时间线全梳理 "瑞德西韦"这三个月**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651269066&idx=1&sn=ec82eb57e745eca55c96af6d296e5c21&chksm=8bb7c574bcc04c62a5011a6da267a3759387efed5b613ac8d5c81ff41dd2629a13f5830cb67c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588264878922&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtHGlAYec6O4UvtR%2FLAyNnI%3D&pass_ticket=tvoA3PE2LDXgW6ADv3uIvRn%2BXDycVSAh7D1yNBxLuYD%2F7YVMIROZydvNRqKgatBx#rd)
-![时间线全梳理](/pic/timeline.jpg)
 
 - [**2020-04-29 NIAID发起的瑞德西韦COVID-19研究结果公布：临床恢复时间缩短31%，死亡率下降但不显著**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558431&idx=1&sn=9519d2df98c06cf8f8f8efab22de7131&chksm=889fd674bfe85f6211918ac531381fbae0f542ea310e206a5033ec557d98d9efd2b9b7677dd4&mpshare=1&scene=1&srcid=&sharer_sharetime=1588210609596&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApGlrtkSNgF8zksgcLCyVhI%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd)
 
@@ -406,7 +405,6 @@
 ![7ways](/pic/7ways.jpg)
 
 - [**2020-04-30 Comparing COVID-19 Deaths to Flu Deaths Is like Comparing Apples to Oranges**](https://blogs.scientificamerican.com/observations/comparing-covid-19-deaths-to-flu-deaths-is-like-comparing-apples-to-oranges/) 
-![comparing](/pic/comparing.jpg)
 
 - [**2020-04-29 The trinity of COVID-19: immunity, inflammation and intervention**](https://www.nature.com/articles/s41577-020-0311-8?utm_source=dlvr.it&utm_medium=twitter)
 
@@ -553,7 +551,10 @@
  
 ## 其他
 
-- [**2020-05-07 The Case for a Mandatory COVID-19 App**](https://quillette.com/2020/05/07/the-case-for-a-mandatory-covid-19-app/) &#127381;
+- [**2020-05-08 Scientist who fought Ebola and HIV reflects on facing death from COVID-19**](https://www.sciencemag.org/news/2020/05/finally-virus-got-me-scientist-who-fought-ebola-and-hiv-reflects-facing-death-covid-19#) &#127381;
+![hiv](/pic/hiv.jpg)
+
+- [**2020-05-07 The Case for a Mandatory COVID-19 App**](https://quillette.com/2020/05/07/the-case-for-a-mandatory-covid-19-app/)
 ![app](/pic/app.jpg)
 
 - [**2020-05-06 Coronavirus: Is it time to free the healthy from restrictions?**](https://www.bbc.com/news/health-52543692)
@@ -572,7 +573,6 @@
 ![receds](/pic/receds.jpg)
 
 - [**2020-04-30 UPMC doctor argues COVID-19 not as deadly as feared, says its hospitals will shift back to normal**](https://www.pennlive.com/news/2020/04/umpc-argues-covid-19-not-as-deadly-as-feared-says-its-hospitals-will-shift-back-to-normal.html) 
-![deadly](/pic/deadly.jpg)
 
 - [**2020-04-29 新冠病亡占人口比例最高的国家，为什么是比利时？**](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650467991&idx=1&sn=cb4eff054bb30eb5e83f28c4aae58cac&chksm=bef2a82789852131d930d8d9155d80db52181c7ee5afedd51caca9d0ae0d944dfc86704d08f3&mpshare=1&scene=1&srcid=&sharer_sharetime=1588202743987&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqWVDCK8w79WKzgc60ON4ZA%3D&pass_ticket=cIvomaDXcRp%2BswhPgLuKVm8cAVo8KGy7SzQ7qv4yfhffW9OShoPv5T62nf1a87Sp#rd)
 
