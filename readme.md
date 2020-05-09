@@ -248,6 +248,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-05-08 这8种新冠疫苗承载着全人类的希望**](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247506690&idx=1&sn=eaed139f217add6450a627cf8d78bf6a&chksm=a6e233799195ba6f8574875d01ab5333ba261cbcf845c4ab7feffc613ea91d371b10917ac4a5&mpshare=1&scene=1&srcid=&sharer_sharetime=1588945712337&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=An3jvCEngUuEj8PNxA0u1gQ%3D&pass_ticket=S61SS%2FJjiijy6TQD6jzwhzXtZn3WZJchFAj%2BxfJn3Y%2FnYalEYtRnwYovqhE5TpS6#rd) &#127381;
+![hope](/pic/hope.jpg)
+
 - [**2020-05-06 新冠疫苗首次对动物产生保护效果！"科学"介绍中国团队最新研究**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498486&idx=1&sn=e559a97cd6bca65fa888d5a24f53e351&chksm=ec1d59a5db6ad0b31745f5f35f549226dff0fd2d6cdff3c9a7294852b77e6c93efd54fa1ce73&mpshare=1&scene=1&srcid=&sharer_sharetime=1588818009724&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AoTXb67j83rU3rvM8q%2FK1m0%3D&pass_ticket=8e6Z9gwITQj4nXaQnYeMxzV%2B9haxL8v9w77UcY54B1MTJi6P8gFNmTYdCIm%2Fw0jq#rd)
 ![新冠疫苗动物实验2](/pic/animalsafe2.jpg)
 
@@ -384,7 +387,10 @@
  
 ## 研究进展
 
-- [**2020-05-07 Outcomes Data Published from Large, Diverse COVID-19 Patient Study in NYC**](https://health.mountsinai.org/blog/outcomes-data-published-from-large-diverse-covid-19-patient-study-in-nyc/?from=timeline&isappinstalled=0) &#127381;
+- [**2020-05-08 Nature：穿山甲或为新冠潜在中间宿主**](https://mp.weixin.qq.com/s?__biz=MzU1MTc0MDM4NQ==&mid=2247486606&idx=1&sn=3fc4d90acf1fb6de34164626cc84f5c6&chksm=fb8dfa00ccfa731603eb8f2f3810fdd67f4049977f6d2a0716fd0340120efa2db3607b91ed64&scene=126&sessionid=1588947005&exportkey=AsTVJLUt2dJt30rHJMbY5HA%3D&pass_ticket=S61SS%2FJjiijy6TQD6jzwhzXtZn3WZJchFAj%2BxfJn3Y%2FnYalEYtRnwYovqhE5TpS6#rd) &#127381;
+![pangolins](/pic/pangolins.jpg)
+
+- [**2020-05-07 Outcomes Data Published from Large, Diverse COVID-19 Patient Study in NYC**](https://health.mountsinai.org/blog/outcomes-data-published-from-large-diverse-covid-19-patient-study-in-nyc/?from=timeline&isappinstalled=0)
 ![patientstudy](/pic/patientstudy.jpg)
 
 - [**2020-05-05 颠覆认知， 2个团队体外人工合成出新冠病毒：能在一周之内生产或改造出大量病毒活体**](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247508623&idx=2&sn=0ae7e297852572471b716825fe32e34f&chksm=fce6d150cb915846648ffdb3f66aec4eb42df3346e1859049ea29fba50afa30725d78bac4435&mpshare=1&scene=1&srcid=&sharer_sharetime=1588682421033&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqJILofsBYgFK9cEVJHmlUc%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
