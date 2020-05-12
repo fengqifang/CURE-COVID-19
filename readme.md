@@ -38,6 +38,8 @@
 
 ## 疫情地图
 
+- [**Coronavirus Locations: COVID-19 Map by County and State**](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/) &#127381;
+
 - [**Statistics and Research: Coronavirus Disease (COVID-19)**](https://ourworldindata.org/coronavirus)
 
 - [**People of the Pandemic: a global pandemic has arrived in your backyard**](https://peopleofthepandemicgame.com/)
@@ -116,20 +118,22 @@
  
 ## 治疗方案
 
+- [**2020-05-09 袁国勇团队临床试验，洛匹那韦/利托那韦三联疗法对新冠轻中症有效**](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914922&idx=1&sn=e79ed3524061393adf6fd1be115291b8&chksm=83c3d0e8b4b459fe80ce43f5daa356f309643e7f932abe78fb144925d485f481b4f73f53259b&mpshare=1&scene=1&srcid=&sharer_sharetime=1589007467939&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah7dW5xrClqyUXAl67scXRI%3D&pass_ticket=cm7n3k40mI9%2B8%2Bv8ttJGlzmL732HpmUT2kOmQwMODbk7srjjFK19sW7%2B2LTV7Khp#rd) &#127381;
+![three](/pic/three.jpg)
+
+- [**2020-05-09 A Drug Cocktail Hastens Recovery in Some Coronavirus Patients**](https://www.nytimes.com/2020/05/08/health/coronavirus-drug-treatment.html?smid=nytcore-ios-share) &#127381;
+![cocktail](/pic/cocktail.jpg)
+
 - [**2020-05-07 瑞德西韦在日本获批治疗COVID-19**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247489324&idx=2&sn=b341c1fd1941c47ba9de6adee7b178f3&chksm=fb882a6fccffa3796750000804c18da0126916b5f421a92763e79a393a76699871aa52d21a58&mpshare=1&scene=1&srcid=&sharer_sharetime=1588860990141&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqkJApX96pEghC0SIHsYZKE%3D&pass_ticket=fHT83qUHyvt%2BWBk6cFQspzPWej1%2BNs7vieMvQGnIbkvc%2FyzZ9%2BTG0QNX2uyEOLsC#rd)
 ![japan](/pic/japan.jpg)
 
 - [**2020-05-03 瑞德西韦药效究竟如何？曹彬：有效但很微弱，中美标准不同**](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653359651&idx=1&sn=ef12feaa986a59d2e2623390723dfdf8&chksm=bd56f9798a21706f18ca15bf8bae90ec5870545e138ad3223a1445f75c1b63716bd7668abccd&mpshare=1&scene=1&srcid=&sharer_sharetime=1588524298431&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ar7yHzU7xs1oUiXrOoxEYuI%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
-![中美标准](/pic/uschina.jpg)
 
 - [**2020-05-01 U.S. emergency approval broadens use of Gilead's COVID-19 drug remdesivir**](https://www.reuters.com/article/us-health-coronavirus-usa-fda/fda-authorizes-remdesivir-drug-as-emergency-treatment-for-covid-19-idUSKBN22D69R?from=timeline&isappinstalled=0) 
-![approval3](/pic/approval3.jpg)
 
 - [**2020-05-01 FDA刚刚授予瑞德西韦紧急使用授权，它的研发下一步走向何方？**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649993547&idx=1&sn=29fe0d1272a282bf205a82787bfd2028&chksm=82e937cbb59ebedd2b2e30a2b7eb5f570912543cc6ca4833814ec3e17746800866aa4018d0b9&mpshare=1&scene=1&srcid=&sharer_sharetime=1588389356454&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArndqwY4MUsOL8yprZqxWAY%3D&pass_ticket=xlaYzw9HuemNf8lRHByVeL%2FCVgqkobTTw1J9gZ7aU1N8poVM8O6Jx29%2Fj3LAaZYo#rd) 
-![approval2](/pic/approval2.jpg)
 
 - [**2020-05-01 FDA授予瑞德西韦治疗重症COVID-19紧急使用授权**](https://mp.weixin.qq.com/s?__biz=MzA5ODA3MDcyNA==&mid=2650558441&idx=1&sn=d71cd133fab867d6905ebda5da27473e&chksm=889fd642bfe85f541c12aea4cef1b4fb67f4485a6aa2690bfbc4c53154ee697f28b4c67d27d5&mpshare=1&scene=1&srcid=&sharer_sharetime=1588389347887&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuVf3NaAHTpYtXNYdMA8W6s%3D&pass_ticket=xlaYzw9HuemNf8lRHByVeL%2FCVgqkobTTw1J9gZ7aU1N8poVM8O6Jx29%2Fj3LAaZYo#rd) 
-![approval1](/pic/approval1.jpg)
 
 - [**2020-04-30 时间线全梳理 "瑞德西韦"这三个月**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651269066&idx=1&sn=ec82eb57e745eca55c96af6d296e5c21&chksm=8bb7c574bcc04c62a5011a6da267a3759387efed5b613ac8d5c81ff41dd2629a13f5830cb67c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588264878922&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtHGlAYec6O4UvtR%2FLAyNnI%3D&pass_ticket=tvoA3PE2LDXgW6ADv3uIvRn%2BXDycVSAh7D1yNBxLuYD%2F7YVMIROZydvNRqKgatBx#rd)
 
@@ -386,6 +390,15 @@
  
 ## 研究进展
 
+- [**2020-05-11 卡介苗接种能保护人群免于新冠病毒感染吗？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489201&idx=1&sn=a4916cdc67379190980f7395f1b8b30e&chksm=f9801cf4cef795e2ea1d82ccf8539bf23710113ba3beec74cd6e8d08819f9278ec55f635cd94&mpshare=1&scene=1&srcid=&sharer_sharetime=1589243524380&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Amzhy2Dmx6xUHutLZrml1MU%3D&pass_ticket=cm7n3k40mI9%2B8%2Bv8ttJGlzmL732HpmUT2kOmQwMODbk7srjjFK19sW7%2B2LTV7Khp#rd) &#127381;
+![bcg](/pic/bcg.jpg)
+
+- [**2020-05-10 大幅缩短新冠患者排毒时间的疗法出现了！港大团队发现，及早使用干扰素β1b+利巴韦林+克力芝治疗，可缩短患者转阴时间**](https://mp.weixin.qq.com/s?__biz=MzA4MjA2MDI5OQ==&mid=2659490017&idx=1&sn=cb852add14c5e8f4cc9b7a8b0edd23dd&chksm=84fb4d85b38cc493a3fa068dc412e29a58171dcb5422a1fea98351b5fcff980f81b17db9a2d7&mpshare=1&scene=1&srcid=&sharer_sharetime=1589116083188&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AjOCrKkXFbeuBfeF2UxL%2Fxw%3D&pass_ticket=cm7n3k40mI9%2B8%2Bv8ttJGlzmL732HpmUT2kOmQwMODbk7srjjFK19sW7%2B2LTV7Khp#rd) &#127381;
+![triple](/pic/triple.jpg)
+
+- [**2020-05-09 安眠药可显著改善COVID-19患者病情？听听专家如何解释**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651269187&idx=2&sn=5b2a7d5291a7902f0122a55478a82a22&chksm=8bb7cafdbcc043ebc2239bb88259683bc2968f11daceb8578bae87992981cf88c6d3b6915924&mpshare=1&scene=1&srcid=&sharer_sharetime=1589027020420&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AjWjBE6VEXmY0aKvLYzWcsk%3D&pass_ticket=cm7n3k40mI9%2B8%2Bv8ttJGlzmL732HpmUT2kOmQwMODbk7srjjFK19sW7%2B2LTV7Khp#rd) &#127381;
+![dexzo](/pic/dexzo.jpg)
+
 - [**2020-05-08 Nature：穿山甲或为新冠潜在中间宿主**](https://mp.weixin.qq.com/s?__biz=MzU1MTc0MDM4NQ==&mid=2247486606&idx=1&sn=3fc4d90acf1fb6de34164626cc84f5c6&chksm=fb8dfa00ccfa731603eb8f2f3810fdd67f4049977f6d2a0716fd0340120efa2db3607b91ed64&scene=126&sessionid=1588947005&exportkey=AsTVJLUt2dJt30rHJMbY5HA%3D&pass_ticket=S61SS%2FJjiijy6TQD6jzwhzXtZn3WZJchFAj%2BxfJn3Y%2FnYalEYtRnwYovqhE5TpS6#rd) &#127381;
 ![pangolins](/pic/pangolins.jpg)
 
@@ -396,13 +409,10 @@
 ![invivo](/pic/invivo.jpg)
 
 - [**2020-05-03 新冠肺炎双胞胎实验研究表明，新冠肺炎的症状与遗传密切相关**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247499192&idx=1&sn=e8ea04267dd9843803126023730686ca&chksm=fbf6096dcc81807bb76f9faabf21777780bfbf72c8062fc74a9ed777e27a7d2db14a02e97b9d&mpshare=1&scene=1&srcid=0503UidpDAbMg44dqwXUWMgi&sharer_sharetime=1588516933675&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmXZhucRGAkLmzUL86N7%2F1g%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
-![twins](/pic/twins.jpg)
 
 - [**2020-05-02 重大进展，中国科学技术大学徐晓玲/魏海明团队发现托珠单抗能有效治疗新冠肺炎重症患者**](https://mp.weixin.qq.com/s?__biz=MzA4ODY4MDE0NA==&mid=2247491610&idx=2&sn=dc92f0b44d0e444ea676de3fa8c82f1a&chksm=9024d3a5a7535ab318cb664f1bd510e2ef5c5a667b8577d1224be6b0bb46c82a07409456fef0&mpshare=1&scene=1&srcid=&sharer_sharetime=1588422622390&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ap7vFJdyVvIgQYrcPeb9zII%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
-![ustc](/pic/ustc.jpg)
 
 - [**2020-05-01 7 Ways to Boost Data Impact in Response to the Pandemic**](https://beeckcenter.georgetown.edu/7-ways-to-boost-data-impact-in-response-to-the-pandemic/)
-![7ways](/pic/7ways.jpg)
 
 - [**2020-04-30 Comparing COVID-19 Deaths to Flu Deaths Is like Comparing Apples to Oranges**](https://blogs.scientificamerican.com/observations/comparing-covid-19-deaths-to-flu-deaths-is-like-comparing-apples-to-oranges/) 
 
@@ -551,7 +561,10 @@
  
 ## 其他
 
-- [**2020-05-08 Scientist who fought Ebola and HIV reflects on facing death from COVID-19**](https://www.sciencemag.org/news/2020/05/finally-virus-got-me-scientist-who-fought-ebola-and-hiv-reflects-facing-death-covid-19#) &#127381;
+- [**2020-05-11 Why I Just Volunteered for a Covid-19 Vaccine Trial**](https://www.bloomberg.com/opinion/articles/2020-05-05/covid-19-vaccine-trials-are-risky-but-the-virus-is-riskier) &#127381;
+![volunteered](/pic/volunteered.jpg)
+
+- [**2020-05-08 Scientist who fought Ebola and HIV reflects on facing death from COVID-19**](https://www.sciencemag.org/news/2020/05/finally-virus-got-me-scientist-who-fought-ebola-and-hiv-reflects-facing-death-covid-19#)
 ![hiv](/pic/hiv.jpg)
 
 - [**2020-05-07 The Case for a Mandatory COVID-19 App**](https://quillette.com/2020/05/07/the-case-for-a-mandatory-covid-19-app/)
@@ -567,10 +580,8 @@
 ![complex](/pic/complex.jpg)
 
 - [**2020-05-01 全球为何纷纷复工？因为病毒大秘密被揭开**](https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjU2MA==&mid=2649643953&idx=1&sn=65b7e752d7b03503dc57a687f63634de&chksm=becbc84e89bc41589118e7885f34a4a7848d0c67665a4fd9d30b5b976035c2465f6ecb017c93&mpshare=1&scene=1&srcid=&sharer_sharetime=1588333246542&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvjZXeWDdD1V4QAZTG9DAJE%3D&pass_ticket=Wf%2FsqDEYxcNUoitxsu7AN9mTgwexhjMn%2FdExcMn9OeRSIPf%2BmD1qWodgfqU1XOUc#rd)
-![复工](/pic/reopen.jpg)
 
 - [**2020-05-01 The Classicist: When The Tide Recedes**](https://www.hoover.org/research/classicist-when-tide-recedes)
-![receds](/pic/receds.jpg)
 
 - [**2020-04-30 UPMC doctor argues COVID-19 not as deadly as feared, says its hospitals will shift back to normal**](https://www.pennlive.com/news/2020/04/umpc-argues-covid-19-not-as-deadly-as-feared-says-its-hospitals-will-shift-back-to-normal.html) 
 
