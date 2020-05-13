@@ -562,7 +562,10 @@
  
 ## 其他
 
-- [**2020-05-11 Why I Just Volunteered for a Covid-19 Vaccine Trial**](https://www.bloomberg.com/opinion/articles/2020-05-05/covid-19-vaccine-trials-are-risky-but-the-virus-is-riskier) &#127381;
+- [**2020-05-12 Amazon built a roving robot covered in UV light bulbs that could kill the coronavirus in warehouses and Whole Foods stores**](https://www.businessinsider.com/amazon-builds-uv-light-robot-to-kill-coronavirus-on-surfaces-2020-5) &#127381;
+![amazon](/pic/amazon.jpg)
+
+- [**2020-05-11 Why I Just Volunteered for a Covid-19 Vaccine Trial**](https://www.bloomberg.com/opinion/articles/2020-05-05/covid-19-vaccine-trials-are-risky-but-the-virus-is-riskier)
 ![volunteered](/pic/volunteered.jpg)
 
 - [**2020-05-08 Scientist who fought Ebola and HIV reflects on facing death from COVID-19**](https://www.sciencemag.org/news/2020/05/finally-virus-got-me-scientist-who-fought-ebola-and-hiv-reflects-facing-death-covid-19#)
