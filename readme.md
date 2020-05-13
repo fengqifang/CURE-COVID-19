@@ -38,7 +38,7 @@
 
 ## 疫情地图
 
-- [**Coronavirus Locations: COVID-19 Map by County and State**](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/) &#127381;
+- [**Coronavirus Locations: COVID-19 Map by County and State**](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 
 - [**Statistics and Research: Coronavirus Disease (COVID-19)**](https://ourworldindata.org/coronavirus)
 
@@ -85,10 +85,8 @@
 ## 检测试剂
 
 - [**2020-05-04 深度剖析 新冠病毒各种检测方法优缺点对比**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247502622&idx=1&sn=5cd11fff460f0d94808001516449e183&chksm=96efed4ea19864589638a4c787d3c2051757a8fd3253cf4155fe60c37e0fa1e37eed831fafe1&mpshare=1&scene=1&srcid=&sharer_sharetime=1588551923516&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgaNnSPZBBI%2BI%2B%2FP1KW7Fzs%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
-![各种检测方法](/pic/multiple.jpg)
 
 - [**2020-05-04 罗氏新冠血清学检测试剂获FDA紧急使用授权，特异性大于99.8%**](https://www.wuximediatech.com/content/post/detail.html?sn=4c8f92dc741c4a9285e22f96753311ea&from=timeline&isappinstalled=0)
-![roche](/pic/roche.jpg)
 
 - [**2020-04-28 北大,清华,地坛医院联合开发灵敏简单新型冠状病毒测序手段**](https://mp.weixin.qq.com/s?__biz=MzU4ODkyNjA1MQ==&mid=2247483834&idx=1&sn=acaba02e810f5b9b51719356a4659d8c&chksm=fdd41cb6caa395a0844099a78b85b6b37de190b60196fa7a5123999253d4e05a3c92a4e89c72&mpshare=1&scene=1&srcid=&sharer_sharetime=1588101051039&sharer_shareid=4c708f897c10a76d5b204808a3e00b14&exportkey=AlgasGgNZ5GtcLISyj%2FyIb4%3D&pass_ticket=tqoogpaFvlM7LilFw%2FrcPqq7pCiElORbQR7duINtKUYztIQiqc%2F69SrkkJtyKmU5#rd)
 
@@ -251,6 +249,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-05-12 Moderna疫苗获FDA快速通道资格，创新重组蛋白疫苗获3.8亿美元助力**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649993922&idx=2&sn=23b3efc9ef3390438c881da907455977&chksm=82e93442b59ebd54f1831ceb0c9cfb188456ce36c8c88d06f14efaa1a955a6d10440f52dd1f7&mpshare=1&scene=1&srcid=&sharer_sharetime=1589334671878&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsLasQUwcTKf1%2BgJnUD%2FQ3Q%3D&pass_ticket=gsKr1efy%2FZ9nzG4FBbJI8jULKddsNO7GdU0ndj41pJKuJVyC4xlPY11qgReJapFZ#rd) &#127381;
+![moderna2](/pic/moderna.jpg)
+
 - [**2020-05-08 这8种新冠疫苗承载着全人类的希望**](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247506690&idx=1&sn=eaed139f217add6450a627cf8d78bf6a&chksm=a6e233799195ba6f8574875d01ab5333ba261cbcf845c4ab7feffc613ea91d371b10917ac4a5&mpshare=1&scene=1&srcid=&sharer_sharetime=1588945712337&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=An3jvCEngUuEj8PNxA0u1gQ%3D&pass_ticket=S61SS%2FJjiijy6TQD6jzwhzXtZn3WZJchFAj%2BxfJn3Y%2FnYalEYtRnwYovqhE5TpS6#rd)
 ![hope](/pic/hope.jpg)
 
@@ -264,7 +265,6 @@
 ![llama](/pic/llama.jpg)
 
 - [**2020-05-04 最详细！盘点8款临床在研新冠疫苗**](https://mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655776304&idx=1&sn=f737efbacc9765197786c436267fe478&chksm=8bcef0b5bcb979a30e097db170df4e2ac1e50cea9f3036d2684bafa8a4824e8435d2932cadb6&mpshare=1&scene=1&srcid=&sharer_sharetime=1588400695970&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvaoTlVUfK1Sj8JUpF1K%2B1Q%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
-![8款临床](/pic/8v.jpg)
 
 - [**2020-04-29 The race for coronavirus vaccines a graphical guide**](https://www.nature.com/articles/d41586-020-01221-y?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&utm_medium=social&utm_content=organic&utm_source=twitter&utm_campaign=NatureNews_&sf233338145=1)
 
@@ -561,6 +561,9 @@
  ***
  
 ## 其他
+
+- [**2020-05-12 瑞典抗疫，究竟是睿智典范还是人道灾难？**](https://mp.weixin.qq.com/s?__biz=MzIwNDA3MjgyMg==&mid=2654212379&idx=1&sn=10f5d59ff4b522a845051334004d4b1b&chksm=8d050302ba728a146fe16c1f7d284f22632dcfb4d1175372d4757299d501c869a6f47f59589b&mpshare=1&scene=1&srcid=&sharer_sharetime=1589322669374&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqAT0Cn7Fw8tPPMgURvXRH4%3D&pass_ticket=gsKr1efy%2FZ9nzG4FBbJI8jULKddsNO7GdU0ndj41pJKuJVyC4xlPY11qgReJapFZ#rd) &#127381;
+![人道灾难](/pic/humanity.jpg)
 
 - [**2020-05-12 Amazon built a roving robot covered in UV light bulbs that could kill the coronavirus in warehouses and Whole Foods stores**](https://www.businessinsider.com/amazon-builds-uv-light-robot-to-kill-coronavirus-on-surfaces-2020-5) &#127381;
 ![amazon](/pic/amazon.jpg)
