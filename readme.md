@@ -249,7 +249,10 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-05-12 Moderna疫苗获FDA快速通道资格，创新重组蛋白疫苗获3.8亿美元助力**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649993922&idx=2&sn=23b3efc9ef3390438c881da907455977&chksm=82e93442b59ebd54f1831ceb0c9cfb188456ce36c8c88d06f14efaa1a955a6d10440f52dd1f7&mpshare=1&scene=1&srcid=&sharer_sharetime=1589334671878&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsLasQUwcTKf1%2BgJnUD%2FQ3Q%3D&pass_ticket=gsKr1efy%2FZ9nzG4FBbJI8jULKddsNO7GdU0ndj41pJKuJVyC4xlPY11qgReJapFZ#rd) &#127381;
+- [**2020-05-13 康希诺新冠疫苗将在海外开展临床试验，最快今秋申请加拿大紧急使用授权**](https://www.wuximediatech.com/content/post/detail.html?sn=d7f4cdd8ec5445c49314dcf1d8acdf19&from=timeline&isappinstalled=0) &#127381;
+![canadatrial](/pic/canadatrial.jpg)
+
+- [**2020-05-12 Moderna疫苗获FDA快速通道资格，创新重组蛋白疫苗获3.8亿美元助力**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649993922&idx=2&sn=23b3efc9ef3390438c881da907455977&chksm=82e93442b59ebd54f1831ceb0c9cfb188456ce36c8c88d06f14efaa1a955a6d10440f52dd1f7&mpshare=1&scene=1&srcid=&sharer_sharetime=1589334671878&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsLasQUwcTKf1%2BgJnUD%2FQ3Q%3D&pass_ticket=gsKr1efy%2FZ9nzG4FBbJI8jULKddsNO7GdU0ndj41pJKuJVyC4xlPY11qgReJapFZ#rd)
 ![moderna2](/pic/moderna.jpg)
 
 - [**2020-05-08 这8种新冠疫苗承载着全人类的希望**](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247506690&idx=1&sn=eaed139f217add6450a627cf8d78bf6a&chksm=a6e233799195ba6f8574875d01ab5333ba261cbcf845c4ab7feffc613ea91d371b10917ac4a5&mpshare=1&scene=1&srcid=&sharer_sharetime=1588945712337&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=An3jvCEngUuEj8PNxA0u1gQ%3D&pass_ticket=S61SS%2FJjiijy6TQD6jzwhzXtZn3WZJchFAj%2BxfJn3Y%2FnYalEYtRnwYovqhE5TpS6#rd)
@@ -262,7 +265,6 @@
 ![新冠疫苗动物实验](/pic/animalsafe.jpg)
 
 - [**2020-05-05 登上最新《细胞》的“神兽”，或许能帮我们抵抗新冠病毒**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498683&idx=1&sn=e39fd94e36b4132f588ad1e5795ee350&chksm=ec1d58e8db6ad1feb08ede08400f09c1204d166152cf1c5c50b4d09a42b6889325e69c3eaa5c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588730078025&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArH8RIUCPU9VtthtbwpZu8A%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
-![llama](/pic/llama.jpg)
 
 - [**2020-05-04 最详细！盘点8款临床在研新冠疫苗**](https://mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655776304&idx=1&sn=f737efbacc9765197786c436267fe478&chksm=8bcef0b5bcb979a30e097db170df4e2ac1e50cea9f3036d2684bafa8a4824e8435d2932cadb6&mpshare=1&scene=1&srcid=&sharer_sharetime=1588400695970&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvaoTlVUfK1Sj8JUpF1K%2B1Q%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
 
@@ -390,6 +392,9 @@
  
 ## 研究进展
 
+- [**2020-05-13 中国医学科学院 Nature 发布新冠论文，上线不到 1 周被疑涉嫌图片造假**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653377845&idx=1&sn=789f76fffd33109579409a999097f137&chksm=5e32a45369452d4564272a9f616f149537efe00428c40958000566b4980b0aa83df928d03d2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1589403002429&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avr%2ByE7RqxSZdP5pvtIESqM%3D&pass_ticket=J3TKuyzrsamomjMhpcXIGDN%2FxMxzT%2BYCsFu%2BnPUmzXsRbfLT9zMB5XBx54rozJVw#rd) &#127381;
+![fake](/pic/fake.jpg)
+
 - [**2020-05-11 卡介苗接种能保护人群免于新冠病毒感染吗？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489201&idx=1&sn=a4916cdc67379190980f7395f1b8b30e&chksm=f9801cf4cef795e2ea1d82ccf8539bf23710113ba3beec74cd6e8d08819f9278ec55f635cd94&mpshare=1&scene=1&srcid=&sharer_sharetime=1589243524380&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Amzhy2Dmx6xUHutLZrml1MU%3D&pass_ticket=cm7n3k40mI9%2B8%2Bv8ttJGlzmL732HpmUT2kOmQwMODbk7srjjFK19sW7%2B2LTV7Khp#rd)
 ![bcg](/pic/bcg.jpg)
 
@@ -407,7 +412,6 @@
 ![patientstudy](/pic/patientstudy.jpg)
 
 - [**2020-05-05 颠覆认知， 2个团队体外人工合成出新冠病毒：能在一周之内生产或改造出大量病毒活体**](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247508623&idx=2&sn=0ae7e297852572471b716825fe32e34f&chksm=fce6d150cb915846648ffdb3f66aec4eb42df3346e1859049ea29fba50afa30725d78bac4435&mpshare=1&scene=1&srcid=&sharer_sharetime=1588682421033&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqJILofsBYgFK9cEVJHmlUc%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
-![invivo](/pic/invivo.jpg)
 
 - [**2020-05-03 新冠肺炎双胞胎实验研究表明，新冠肺炎的症状与遗传密切相关**](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247499192&idx=1&sn=e8ea04267dd9843803126023730686ca&chksm=fbf6096dcc81807bb76f9faabf21777780bfbf72c8062fc74a9ed777e27a7d2db14a02e97b9d&mpshare=1&scene=1&srcid=0503UidpDAbMg44dqwXUWMgi&sharer_sharetime=1588516933675&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmXZhucRGAkLmzUL86N7%2F1g%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
 
@@ -562,10 +566,16 @@
  
 ## 其他
 
-- [**2020-05-12 瑞典抗疫，究竟是睿智典范还是人道灾难？**](https://mp.weixin.qq.com/s?__biz=MzIwNDA3MjgyMg==&mid=2654212379&idx=1&sn=10f5d59ff4b522a845051334004d4b1b&chksm=8d050302ba728a146fe16c1f7d284f22632dcfb4d1175372d4757299d501c869a6f47f59589b&mpshare=1&scene=1&srcid=&sharer_sharetime=1589322669374&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqAT0Cn7Fw8tPPMgURvXRH4%3D&pass_ticket=gsKr1efy%2FZ9nzG4FBbJI8jULKddsNO7GdU0ndj41pJKuJVyC4xlPY11qgReJapFZ#rd) &#127381;
+- [**2020-05-13 High-risk states are seeing fewer new coronavirus cases**](https://www.axios.com/coronavirus-cases-map-high-risk-states-8ceeaa05-cc07-4e8b-b9f4-df3a3315f143.html?utm_campaign=organic&utm_medium=socialshare&utm_source=twitter) &#127381;
+![highrisk](/pic/highrisk.jpg)
+
+- [**2020-05-13 英国新冠死亡人数超印度15倍！伦敦华人学者给出这5大原因**](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691387747&idx=2&sn=937cbad489ba075a9d0bea3ab00c38f3&chksm=a9eaeeb89e9d67aebf50bb20ddbcbadbcede728de1def74afc4ff5cd7d0f98ea63007d17c08f&mpshare=1&scene=1&srcid=&sharer_sharetime=1589375931773&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiBy%2BdgcNztJGqtdDvQuO68%3D&pass_ticket=J3TKuyzrsamomjMhpcXIGDN%2FxMxzT%2BYCsFu%2BnPUmzXsRbfLT9zMB5XBx54rozJVw#rd) &#127381;
+![15times](/pic/15times.jpg)
+
+- [**2020-05-12 瑞典抗疫，究竟是睿智典范还是人道灾难？**](https://mp.weixin.qq.com/s?__biz=MzIwNDA3MjgyMg==&mid=2654212379&idx=1&sn=10f5d59ff4b522a845051334004d4b1b&chksm=8d050302ba728a146fe16c1f7d284f22632dcfb4d1175372d4757299d501c869a6f47f59589b&mpshare=1&scene=1&srcid=&sharer_sharetime=1589322669374&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqAT0Cn7Fw8tPPMgURvXRH4%3D&pass_ticket=gsKr1efy%2FZ9nzG4FBbJI8jULKddsNO7GdU0ndj41pJKuJVyC4xlPY11qgReJapFZ#rd) 
 ![人道灾难](/pic/humanity.jpg)
 
-- [**2020-05-12 Amazon built a roving robot covered in UV light bulbs that could kill the coronavirus in warehouses and Whole Foods stores**](https://www.businessinsider.com/amazon-builds-uv-light-robot-to-kill-coronavirus-on-surfaces-2020-5) &#127381;
+- [**2020-05-12 Amazon built a roving robot covered in UV light bulbs that could kill the coronavirus in warehouses and Whole Foods stores**](https://www.businessinsider.com/amazon-builds-uv-light-robot-to-kill-coronavirus-on-surfaces-2020-5)
 ![amazon](/pic/amazon.jpg)
 
 - [**2020-05-11 Why I Just Volunteered for a Covid-19 Vaccine Trial**](https://www.bloomberg.com/opinion/articles/2020-05-05/covid-19-vaccine-trials-are-risky-but-the-virus-is-riskier)
@@ -584,7 +594,6 @@
 ![rural](/pic/rural.jpg)
 
 - [**2020-05-05 Nature全面阐述：导致新冠病毒大流行的复杂生物学**](https://mp.weixin.qq.com/s?__biz=MjM5ODU5NDgyMg==&mid=2653948557&idx=1&sn=d38327736c57be1b20ac49d77be709f7&chksm=bd0cfae48a7b73f2c0089e8f877e19dfec2d858b30732be90b181b131c68d45de9e3ec0e4931&mpshare=1&scene=1&srcid=&sharer_sharetime=1588698224875&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApJ5Rv0qQnq341LDpBboBNk%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
-![complex](/pic/complex.jpg)
 
 - [**2020-05-01 全球为何纷纷复工？因为病毒大秘密被揭开**](https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjU2MA==&mid=2649643953&idx=1&sn=65b7e752d7b03503dc57a687f63634de&chksm=becbc84e89bc41589118e7885f34a4a7848d0c67665a4fd9d30b5b976035c2465f6ecb017c93&mpshare=1&scene=1&srcid=&sharer_sharetime=1588333246542&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvjZXeWDdD1V4QAZTG9DAJE%3D&pass_ticket=Wf%2FsqDEYxcNUoitxsu7AN9mTgwexhjMn%2FdExcMn9OeRSIPf%2BmD1qWodgfqU1XOUc#rd)
 
