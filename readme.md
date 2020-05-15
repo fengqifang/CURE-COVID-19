@@ -250,6 +250,7 @@
 ## 疫苗相关／新药开发
 
 - [**2020-05-14 七种候选疫苗在路上了**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652019052&idx=1&sn=49eb2daf6a16f413322acfbca2c32988&chksm=bd0f63318a78ea2732dede6045345c858f276354617487858dcf461fe2914afed337f90535c9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505361296&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuZ5sfxlsbZB5uWGZU2AKQo%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd) &#127381;
+
 ![7vaccine](/pic/7vaccine.jpg)
 
 - [**2020-05-13 康希诺新冠疫苗将在海外开展临床试验，最快今秋申请加拿大紧急使用授权**](https://www.wuximediatech.com/content/post/detail.html?sn=d7f4cdd8ec5445c49314dcf1d8acdf19&from=timeline&isappinstalled=0)
