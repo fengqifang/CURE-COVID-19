@@ -249,7 +249,10 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-05-13 康希诺新冠疫苗将在海外开展临床试验，最快今秋申请加拿大紧急使用授权**](https://www.wuximediatech.com/content/post/detail.html?sn=d7f4cdd8ec5445c49314dcf1d8acdf19&from=timeline&isappinstalled=0) &#127381;
+- [**2020-05-14 七种候选疫苗在路上了**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652019052&idx=1&sn=49eb2daf6a16f413322acfbca2c32988&chksm=bd0f63318a78ea2732dede6045345c858f276354617487858dcf461fe2914afed337f90535c9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505361296&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuZ5sfxlsbZB5uWGZU2AKQo%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd) &#127381;
+![7vaccine](/pic/7vaccine.jpg)
+
+- [**2020-05-13 康希诺新冠疫苗将在海外开展临床试验，最快今秋申请加拿大紧急使用授权**](https://www.wuximediatech.com/content/post/detail.html?sn=d7f4cdd8ec5445c49314dcf1d8acdf19&from=timeline&isappinstalled=0)
 ![canadatrial](/pic/canadatrial.jpg)
 
 - [**2020-05-12 Moderna疫苗获FDA快速通道资格，创新重组蛋白疫苗获3.8亿美元助力**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649993922&idx=2&sn=23b3efc9ef3390438c881da907455977&chksm=82e93442b59ebd54f1831ceb0c9cfb188456ce36c8c88d06f14efaa1a955a6d10440f52dd1f7&mpshare=1&scene=1&srcid=&sharer_sharetime=1589334671878&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsLasQUwcTKf1%2BgJnUD%2FQ3Q%3D&pass_ticket=gsKr1efy%2FZ9nzG4FBbJI8jULKddsNO7GdU0ndj41pJKuJVyC4xlPY11qgReJapFZ#rd)
@@ -259,10 +262,8 @@
 ![hope](/pic/hope.jpg)
 
 - [**2020-05-06 新冠疫苗首次对动物产生保护效果！"科学"介绍中国团队最新研究**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498486&idx=1&sn=e559a97cd6bca65fa888d5a24f53e351&chksm=ec1d59a5db6ad0b31745f5f35f549226dff0fd2d6cdff3c9a7294852b77e6c93efd54fa1ce73&mpshare=1&scene=1&srcid=&sharer_sharetime=1588818009724&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AoTXb67j83rU3rvM8q%2FK1m0%3D&pass_ticket=8e6Z9gwITQj4nXaQnYeMxzV%2B9haxL8v9w77UcY54B1MTJi6P8gFNmTYdCIm%2Fw0jq#rd)
-![新冠疫苗动物实验2](/pic/animalsafe2.jpg)
 
 - [**2020-05-06 中国团队发布首个新冠疫苗动物实验研究结果：新型冠状病毒灭活疫苗在恒河猴模型中安全有效**](https://mp.weixin.qq.com/s?__biz=MjM5NTI3MDE0NQ==&mid=2653628448&idx=2&sn=3414a8fe6965b61e8cca01f9d0a1fbff&chksm=bd24934e8a531a586a52a7f35863030422e0d4874556bc43056a6234c3717aff66acad410b6d&mpshare=1&scene=1&srcid=&sharer_sharetime=1588805182468&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al4CoqcVqpS%2Fu1QYOXR%2B9mw%3D&pass_ticket=8e6Z9gwITQj4nXaQnYeMxzV%2B9haxL8v9w77UcY54B1MTJi6P8gFNmTYdCIm%2Fw0jq#rd)
-![新冠疫苗动物实验](/pic/animalsafe.jpg)
 
 - [**2020-05-05 登上最新《细胞》的“神兽”，或许能帮我们抵抗新冠病毒**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247498683&idx=1&sn=e39fd94e36b4132f588ad1e5795ee350&chksm=ec1d58e8db6ad1feb08ede08400f09c1204d166152cf1c5c50b4d09a42b6889325e69c3eaa5c&mpshare=1&scene=1&srcid=&sharer_sharetime=1588730078025&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArH8RIUCPU9VtthtbwpZu8A%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
 
@@ -392,7 +393,10 @@
  
 ## 研究进展
 
-- [**2020-05-13 中国医学科学院 Nature 发布新冠论文，上线不到 1 周被疑涉嫌图片造假**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653377845&idx=1&sn=789f76fffd33109579409a999097f137&chksm=5e32a45369452d4564272a9f616f149537efe00428c40958000566b4980b0aa83df928d03d2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1589403002429&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avr%2ByE7RqxSZdP5pvtIESqM%3D&pass_ticket=J3TKuyzrsamomjMhpcXIGDN%2FxMxzT%2BYCsFu%2BnPUmzXsRbfLT9zMB5XBx54rozJVw#rd) &#127381;
+- [**2020-05-14 中国医学科学院在Nature发表的研究里P图造假？**](https://mp.weixin.qq.com/s?__biz=MzIwNDA3MjgyMg==&mid=2654212401&idx=1&sn=c7e554f41bd5ef0bd79daa3ca5cd6bd0&chksm=8d050328ba728a3e11b5f334d524457e79e685cbf16f78f4a87adc52911548afb88778324ab9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505047657&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al0PLz1T0TT0fxHCqkIz4dI%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd) &#127381;
+![fake2](/pic/fake2.jpg)
+
+- [**2020-05-13 中国医学科学院 Nature 发布新冠论文，上线不到 1 周被疑涉嫌图片造假**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653377845&idx=1&sn=789f76fffd33109579409a999097f137&chksm=5e32a45369452d4564272a9f616f149537efe00428c40958000566b4980b0aa83df928d03d2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1589403002429&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avr%2ByE7RqxSZdP5pvtIESqM%3D&pass_ticket=J3TKuyzrsamomjMhpcXIGDN%2FxMxzT%2BYCsFu%2BnPUmzXsRbfLT9zMB5XBx54rozJVw#rd)
 ![fake](/pic/fake.jpg)
 
 - [**2020-05-11 卡介苗接种能保护人群免于新冠病毒感染吗？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489201&idx=1&sn=a4916cdc67379190980f7395f1b8b30e&chksm=f9801cf4cef795e2ea1d82ccf8539bf23710113ba3beec74cd6e8d08819f9278ec55f635cd94&mpshare=1&scene=1&srcid=&sharer_sharetime=1589243524380&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Amzhy2Dmx6xUHutLZrml1MU%3D&pass_ticket=cm7n3k40mI9%2B8%2Bv8ttJGlzmL732HpmUT2kOmQwMODbk7srjjFK19sW7%2B2LTV7Khp#rd)
@@ -566,10 +570,13 @@
  
 ## 其他
 
-- [**2020-05-13 High-risk states are seeing fewer new coronavirus cases**](https://www.axios.com/coronavirus-cases-map-high-risk-states-8ceeaa05-cc07-4e8b-b9f4-df3a3315f143.html?utm_campaign=organic&utm_medium=socialshare&utm_source=twitter) &#127381;
+- [**2020-05-14 冠状病毒正在发生变异，这是否意味着病毒正在变得更危险？**](https://mp.weixin.qq.com/s?__biz=MzI1NjAzODEyNQ==&mid=2651032202&idx=3&sn=821cc001ef5d31873bbf53d370cf4a8a&chksm=f1dbef08c6ac661e4a0ef6810f70b4c150ec03b6f4b83926e0c75f0616e36714996f03a70baa&mpshare=1&scene=1&srcid=&sharer_sharetime=1589507514115&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtgjJ%2FCyR7%2F9bodva9iFED8%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd) &#127381;
+![mutation](/pic/mutation.jpg)
+
+- [**2020-05-13 High-risk states are seeing fewer new coronavirus cases**](https://www.axios.com/coronavirus-cases-map-high-risk-states-8ceeaa05-cc07-4e8b-b9f4-df3a3315f143.html?utm_campaign=organic&utm_medium=socialshare&utm_source=twitter)
 ![highrisk](/pic/highrisk.jpg)
 
-- [**2020-05-13 英国新冠死亡人数超印度15倍！伦敦华人学者给出这5大原因**](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691387747&idx=2&sn=937cbad489ba075a9d0bea3ab00c38f3&chksm=a9eaeeb89e9d67aebf50bb20ddbcbadbcede728de1def74afc4ff5cd7d0f98ea63007d17c08f&mpshare=1&scene=1&srcid=&sharer_sharetime=1589375931773&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiBy%2BdgcNztJGqtdDvQuO68%3D&pass_ticket=J3TKuyzrsamomjMhpcXIGDN%2FxMxzT%2BYCsFu%2BnPUmzXsRbfLT9zMB5XBx54rozJVw#rd) &#127381;
+- [**2020-05-13 英国新冠死亡人数超印度15倍！伦敦华人学者给出这5大原因**](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691387747&idx=2&sn=937cbad489ba075a9d0bea3ab00c38f3&chksm=a9eaeeb89e9d67aebf50bb20ddbcbadbcede728de1def74afc4ff5cd7d0f98ea63007d17c08f&mpshare=1&scene=1&srcid=&sharer_sharetime=1589375931773&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiBy%2BdgcNztJGqtdDvQuO68%3D&pass_ticket=J3TKuyzrsamomjMhpcXIGDN%2FxMxzT%2BYCsFu%2BnPUmzXsRbfLT9zMB5XBx54rozJVw#rd)
 ![15times](/pic/15times.jpg)
 
 - [**2020-05-12 瑞典抗疫，究竟是睿智典范还是人道灾难？**](https://mp.weixin.qq.com/s?__biz=MzIwNDA3MjgyMg==&mid=2654212379&idx=1&sn=10f5d59ff4b522a845051334004d4b1b&chksm=8d050302ba728a146fe16c1f7d284f22632dcfb4d1175372d4757299d501c869a6f47f59589b&mpshare=1&scene=1&srcid=&sharer_sharetime=1589322669374&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqAT0Cn7Fw8tPPMgURvXRH4%3D&pass_ticket=gsKr1efy%2FZ9nzG4FBbJI8jULKddsNO7GdU0ndj41pJKuJVyC4xlPY11qgReJapFZ#rd) 
@@ -588,10 +595,8 @@
 ![app](/pic/app.jpg)
 
 - [**2020-05-06 Coronavirus: Is it time to free the healthy from restrictions?**](https://www.bbc.com/news/health-52543692)
-![freehealthy](/pic/freehealth.jpg)
 
 - [**2020-05-06 The Pandemic Will Soon Test Rural America COVID-19 Meets Poor Health and Collapsing Hospitals**](https://www.foreignaffairs.com/articles/united-states/2020-05-06/pandemic-will-soon-test-rural-america?utm_medium=social&utm_campaign=tw_daily_soc&utm_source=twitter_posts)
-![rural](/pic/rural.jpg)
 
 - [**2020-05-05 Nature全面阐述：导致新冠病毒大流行的复杂生物学**](https://mp.weixin.qq.com/s?__biz=MjM5ODU5NDgyMg==&mid=2653948557&idx=1&sn=d38327736c57be1b20ac49d77be709f7&chksm=bd0cfae48a7b73f2c0089e8f877e19dfec2d858b30732be90b181b131c68d45de9e3ec0e4931&mpshare=1&scene=1&srcid=&sharer_sharetime=1588698224875&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ApJ5Rv0qQnq341LDpBboBNk%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
 
