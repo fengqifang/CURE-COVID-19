@@ -207,6 +207,9 @@
  
 ## 氯喹专题
 
+- [**2020-05-15 羟氯喹治疗新冠效果不佳：瑞金医院发表中国试验，欧美多项研究结果阴性**](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649915033&idx=1&sn=deb82c368c897f7d81198e1eb673ce8c&chksm=83c3d05bb4b4594d9396b08e0a5340fbf7587ad7fb64a0137a0903ec3a47625b6f0d7f59d8be&mpshare=1&scene=1&srcid=&sharer_sharetime=1589544972117&sharer_shareid=723fa425a7cb76b6eae250d7dbe341c2&exportkey=AiusRmmkVL9SCMkROYGkeaQ%3D&pass_ticket=ji7xqkwGmsCtz8GzHJeV0lk%2BgLOpve3hxokfot7sVAxQmZRFVzkNoprPqfRyjZng#rd) &#127381;
+![ruijin](/pic/ruijin.jpg)
+
 - [**2020-04-20 诺华将启动羟氯喹治疗COVID-19大型III期临床试验**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=2247496742&idx=5&sn=cc26524679bfca21b328de6bbd2d73b9&chksm=fc76c792cb014e84b3e719526efd920ef15f897ea9e0876d335ef8ae2c60bd0a7e1127fd841b&mpshare=1&scene=1&srcid=&sharer_sharetime=1587391612887&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj2QZVYTRkuRyoANwBpvRPU%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 
 - [**2020-04-19 法国又一项对照研究发表，“神药”羟氯喹还值得期待吗？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247488720&idx=1&sn=f65bab0c4ae6435d6de3a913e7a7c7e2&chksm=f9801e95cef79783306678f9c10ab4b26cc2ebae3a155dc3e08dad9f4b0e86b9c5a58597c373&mpshare=1&scene=1&srcid=&sharer_sharetime=1587266497485&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AkbfB1foowazz4mFy0QIUAE%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
@@ -570,6 +573,9 @@
  ***
  
 ## 其他
+
+- [**2020-05-15 大疫过后, 中国人到底怎么看自己的领导人?**](https://mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664304753&idx=1&sn=87290e3068c5a551f05fd00cfccdea41&chksm=8b54fa80bc237396ee41d829deaa3e99c1bdd380940b6f2714182f91a307cd140a08959c2281&mpshare=1&scene=1&srcid=&sharer_sharetime=1589559293986&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AndE3M8Hgyhse5WKdKO7gX8%3D&pass_ticket=ji7xqkwGmsCtz8GzHJeV0lk%2BgLOpve3hxokfot7sVAxQmZRFVzkNoprPqfRyjZng#rd) &#127381;
+![leader](/pic/leader.jpg)
 
 - [**2020-05-14 冠状病毒正在发生变异，这是否意味着病毒正在变得更危险？**](https://mp.weixin.qq.com/s?__biz=MzI1NjAzODEyNQ==&mid=2651032202&idx=3&sn=821cc001ef5d31873bbf53d370cf4a8a&chksm=f1dbef08c6ac661e4a0ef6810f70b4c150ec03b6f4b83926e0c75f0616e36714996f03a70baa&mpshare=1&scene=1&srcid=&sharer_sharetime=1589507514115&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtgjJ%2FCyR7%2F9bodva9iFED8%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd) &#127381;
 ![mutation](/pic/mutation.jpg)
