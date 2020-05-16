@@ -123,7 +123,6 @@
 ![cocktail](/pic/cocktail.jpg)
 
 - [**2020-05-07 瑞德西韦在日本获批治疗COVID-19**](https://mp.weixin.qq.com/s?__biz=MzU1MTk1NTUwMA==&mid=2247489324&idx=2&sn=b341c1fd1941c47ba9de6adee7b178f3&chksm=fb882a6fccffa3796750000804c18da0126916b5f421a92763e79a393a76699871aa52d21a58&mpshare=1&scene=1&srcid=&sharer_sharetime=1588860990141&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqkJApX96pEghC0SIHsYZKE%3D&pass_ticket=fHT83qUHyvt%2BWBk6cFQspzPWej1%2BNs7vieMvQGnIbkvc%2FyzZ9%2BTG0QNX2uyEOLsC#rd)
-![japan](/pic/japan.jpg)
 
 - [**2020-05-03 瑞德西韦药效究竟如何？曹彬：有效但很微弱，中美标准不同**](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653359651&idx=1&sn=ef12feaa986a59d2e2623390723dfdf8&chksm=bd56f9798a21706f18ca15bf8bae90ec5870545e138ad3223a1445f75c1b63716bd7668abccd&mpshare=1&scene=1&srcid=&sharer_sharetime=1588524298431&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ar7yHzU7xs1oUiXrOoxEYuI%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
 
@@ -252,7 +251,7 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-05-14 七种候选疫苗在路上了**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652019052&idx=1&sn=49eb2daf6a16f413322acfbca2c32988&chksm=bd0f63318a78ea2732dede6045345c858f276354617487858dcf461fe2914afed337f90535c9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505361296&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuZ5sfxlsbZB5uWGZU2AKQo%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd) &#127381;
+- [**2020-05-14 七种候选疫苗在路上了**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652019052&idx=1&sn=49eb2daf6a16f413322acfbca2c32988&chksm=bd0f63318a78ea2732dede6045345c858f276354617487858dcf461fe2914afed337f90535c9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505361296&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuZ5sfxlsbZB5uWGZU2AKQo%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd)
 
 ![7vaccine](/pic/7vaccine.jpg)
 
@@ -397,7 +396,7 @@
  
 ## 研究进展
 
-- [**2020-05-14 中国医学科学院在Nature发表的研究里P图造假？**](https://mp.weixin.qq.com/s?__biz=MzIwNDA3MjgyMg==&mid=2654212401&idx=1&sn=c7e554f41bd5ef0bd79daa3ca5cd6bd0&chksm=8d050328ba728a3e11b5f334d524457e79e685cbf16f78f4a87adc52911548afb88778324ab9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505047657&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al0PLz1T0TT0fxHCqkIz4dI%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd) &#127381;
+- [**2020-05-14 中国医学科学院在Nature发表的研究里P图造假？**](https://mp.weixin.qq.com/s?__biz=MzIwNDA3MjgyMg==&mid=2654212401&idx=1&sn=c7e554f41bd5ef0bd79daa3ca5cd6bd0&chksm=8d050328ba728a3e11b5f334d524457e79e685cbf16f78f4a87adc52911548afb88778324ab9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505047657&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al0PLz1T0TT0fxHCqkIz4dI%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd)
 ![fake2](/pic/fake2.jpg)
 
 - [**2020-05-13 中国医学科学院 Nature 发布新冠论文，上线不到 1 周被疑涉嫌图片造假**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653377845&idx=1&sn=789f76fffd33109579409a999097f137&chksm=5e32a45369452d4564272a9f616f149537efe00428c40958000566b4980b0aa83df928d03d2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1589403002429&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avr%2ByE7RqxSZdP5pvtIESqM%3D&pass_ticket=J3TKuyzrsamomjMhpcXIGDN%2FxMxzT%2BYCsFu%2BnPUmzXsRbfLT9zMB5XBx54rozJVw#rd)
@@ -417,7 +416,6 @@
 ![pangolins](/pic/pangolins.jpg)
 
 - [**2020-05-07 Outcomes Data Published from Large, Diverse COVID-19 Patient Study in NYC**](https://health.mountsinai.org/blog/outcomes-data-published-from-large-diverse-covid-19-patient-study-in-nyc/?from=timeline&isappinstalled=0)
-![patientstudy](/pic/patientstudy.jpg)
 
 - [**2020-05-05 颠覆认知， 2个团队体外人工合成出新冠病毒：能在一周之内生产或改造出大量病毒活体**](https://mp.weixin.qq.com/s?__biz=MzU3MTE3MjUyOA==&mid=2247508623&idx=2&sn=0ae7e297852572471b716825fe32e34f&chksm=fce6d150cb915846648ffdb3f66aec4eb42df3346e1859049ea29fba50afa30725d78bac4435&mpshare=1&scene=1&srcid=&sharer_sharetime=1588682421033&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqJILofsBYgFK9cEVJHmlUc%3D&pass_ticket=Zk%2BUjz9r6ZXcxv1l3c%2BTuvq440lKiQ1Yn0TfDgtje0jyvJJIgh8reptXbMlqBZiA#rd)
 
@@ -577,7 +575,7 @@
 - [**2020-05-15 大疫过后, 中国人到底怎么看自己的领导人?**](https://mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664304753&idx=1&sn=87290e3068c5a551f05fd00cfccdea41&chksm=8b54fa80bc237396ee41d829deaa3e99c1bdd380940b6f2714182f91a307cd140a08959c2281&mpshare=1&scene=1&srcid=&sharer_sharetime=1589559293986&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AndE3M8Hgyhse5WKdKO7gX8%3D&pass_ticket=ji7xqkwGmsCtz8GzHJeV0lk%2BgLOpve3hxokfot7sVAxQmZRFVzkNoprPqfRyjZng#rd) &#127381;
 ![leader](/pic/leader.jpg)
 
-- [**2020-05-14 冠状病毒正在发生变异，这是否意味着病毒正在变得更危险？**](https://mp.weixin.qq.com/s?__biz=MzI1NjAzODEyNQ==&mid=2651032202&idx=3&sn=821cc001ef5d31873bbf53d370cf4a8a&chksm=f1dbef08c6ac661e4a0ef6810f70b4c150ec03b6f4b83926e0c75f0616e36714996f03a70baa&mpshare=1&scene=1&srcid=&sharer_sharetime=1589507514115&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtgjJ%2FCyR7%2F9bodva9iFED8%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd) &#127381;
+- [**2020-05-14 冠状病毒正在发生变异，这是否意味着病毒正在变得更危险？**](https://mp.weixin.qq.com/s?__biz=MzI1NjAzODEyNQ==&mid=2651032202&idx=3&sn=821cc001ef5d31873bbf53d370cf4a8a&chksm=f1dbef08c6ac661e4a0ef6810f70b4c150ec03b6f4b83926e0c75f0616e36714996f03a70baa&mpshare=1&scene=1&srcid=&sharer_sharetime=1589507514115&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtgjJ%2FCyR7%2F9bodva9iFED8%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd)
 ![mutation](/pic/mutation.jpg)
 
 - [**2020-05-13 High-risk states are seeing fewer new coronavirus cases**](https://www.axios.com/coronavirus-cases-map-high-risk-states-8ceeaa05-cc07-4e8b-b9f4-df3a3315f143.html?utm_campaign=organic&utm_medium=socialshare&utm_source=twitter)
@@ -599,7 +597,6 @@
 ![hiv](/pic/hiv.jpg)
 
 - [**2020-05-07 The Case for a Mandatory COVID-19 App**](https://quillette.com/2020/05/07/the-case-for-a-mandatory-covid-19-app/)
-![app](/pic/app.jpg)
 
 - [**2020-05-06 Coronavirus: Is it time to free the healthy from restrictions?**](https://www.bbc.com/news/health-52543692)
 
