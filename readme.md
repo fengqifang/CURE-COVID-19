@@ -84,6 +84,9 @@
  
 ## 检测试剂
 
+- [**2020-05-18 中国核酸检测能力每天已达150万份，核酸检测员成为新职业**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247503147&idx=1&sn=23f223d8985eb0d627c98834c882b348&chksm=96efeb7ba198626d2be0569038939eeba58afd1bb2641eb2ba65ee15442abc9cea3b02d97958&mpshare=1&scene=1&srcid=&sharer_sharetime=1589634432109&sharer_shareid=238fa676d005b801ed9bd2b8a647b54f&exportkey=AuC4a%2F5oXe9dSTypJKn2ur4%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd) &#127381;
+![testing](/pic/testing.jpg)
+
 - [**2020-05-04 深度剖析 新冠病毒各种检测方法优缺点对比**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247502622&idx=1&sn=5cd11fff460f0d94808001516449e183&chksm=96efed4ea19864589638a4c787d3c2051757a8fd3253cf4155fe60c37e0fa1e37eed831fafe1&mpshare=1&scene=1&srcid=&sharer_sharetime=1588551923516&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgaNnSPZBBI%2BI%2B%2FP1KW7Fzs%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
 
 - [**2020-05-04 罗氏新冠血清学检测试剂获FDA紧急使用授权，特异性大于99.8%**](https://www.wuximediatech.com/content/post/detail.html?sn=4c8f92dc741c4a9285e22f96753311ea&from=timeline&isappinstalled=0)
@@ -251,6 +254,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-05-18 英国：新冠疫苗研制进展快速 如成功将在9月提供三千万支**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=513443936&idx=1&sn=ca7f75d62f98e0d74d6266aab6ad44d5&chksm=3dd8a2c70aaf2bd1a4250d61197baf0a78af71f67f15fd37e28ed1d7f209eb0ee9131ca96238&mpshare=1&scene=1&srcid=&sharer_sharetime=1589771784784&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhFFMtLk7I3b5r1Rg7SbmLE%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
+![GB](/pic/GB.jpg)
+
 - [**2020-05-15 STI-1499, A Potent Anti-SARS-CoV-2 Antibody, Demonstrates Ability To Completely Inhibit In Vitro Virus Infection In Preclinical Studies**](https://investors.sorrentotherapeutics.com/news-releases/news-release-details/sti-1499-potent-anti-sars-cov-2-antibody-demonstrates-ability) &#127381;
 ![sorrento](/pic/sorrento.jpg)
 
@@ -398,6 +404,18 @@
  ***
  
 ## 研究进展
+
+- [**2020-05-18 港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性**](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650139826&idx=2&sn=542250eb91fb1585d8056a8838f52845&chksm=af3dd471984a5d6745e7bceebfc39fe895bd16f27052759be222704da08f902d30f5a26fc3e3&mpshare=1&scene=1&srcid=&sharer_sharetime=1589671362614&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsyqveLhX4GLjEHT1ucJANA%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
+![positive](/pic/positive.jpg)
+
+- [**2020-05-18 多个国家计划对污水中SARS-CoV-2开展大规模筛查研究，监测病毒传播和疫情发展**](https://mp.weixin.qq.com/s?__biz=MzA5NTYzMzAyNQ==&mid=2650199620&idx=1&sn=d8a7649486e5d4f2bcb424b7c248dff3&chksm=88be1daabfc994bc8816b0076645c97d72cbbd28980a7dbe802c5bca15855765d98e1afa65ac&mpshare=1&scene=1&srcid=&sharer_sharetime=1589635653795&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ag%2BxnbNz5hzZ2PcDuSEfJi8%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
+![wastewater](/pic/wastewater.jpg)
+
+- [**2020-05-18 近期得过这类感冒，50%对新冠病毒有免疫应答**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489301&idx=1&sn=7990b55360897c71706f3f3d265ae621&chksm=f9801d50cef79446f7473e9e807f4132924a1f9bbb43ea95fb53f1295e648deefe1a39f2f5b9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589598263282&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AsS6cM6aEI4agFBxKn3%2B%2Fnc%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
+![flu](/pic/flu.jpg)
+
+- [**2020-05-18 源自康复患者的好消息：阻止新冠病毒，科学家发现我们的免疫系统有很多方式**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247499013&idx=1&sn=9e5fde1f853321bfb6a3776d945aa863&chksm=ec1d5e56db6ad740e849c3b0dfa6dd2b6d572def4b618a65ed5839a03812cf454506f3754b26&mpshare=1&scene=1&srcid=&sharer_sharetime=1589635261248&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avv8km%2FQD8%2BJtqa1xi%2F9YnY%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
+![many](/pic/many.jpg)
 
 - [**2020-05-14 中国医学科学院在Nature发表的研究里P图造假？**](https://mp.weixin.qq.com/s?__biz=MzIwNDA3MjgyMg==&mid=2654212401&idx=1&sn=c7e554f41bd5ef0bd79daa3ca5cd6bd0&chksm=8d050328ba728a3e11b5f334d524457e79e685cbf16f78f4a87adc52911548afb88778324ab9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505047657&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al0PLz1T0TT0fxHCqkIz4dI%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd)
 ![fake2](/pic/fake2.jpg)
@@ -574,6 +592,12 @@
  ***
  
 ## 其他
+
+- [**2020-05-18 瑞典专家宣称本国首都5月将实现新冠群体免疫，如何解读？**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649587688&idx=1&sn=7fa44653df413b2366868d14f87c3b7c&chksm=876a6bf1b01de2e7b1d731aa4f9df74495b5a42d62395a1b1460a7c9933b5230ac88c8d909d1&mpshare=1&scene=1&srcid=&sharer_sharetime=1589772692914&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ak7jTB9D2D4dxyk0B48YRos%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
+![herd](/pic/herd.jpg)
+
+- [**2020-05-18 Behind North America’s Lowest Death Rate: A Doctor Who Fought Ebola**](https://www.bloomberg.com/news/articles/2020-05-16/a-virus-epicenter-that-wasn-t-how-one-region-stemmed-the-deaths) &#127381;
+![lowest](/pic/lowest.jpg)
 
 - [**2020-05-15 大疫过后, 中国人到底怎么看自己的领导人?**](https://mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664304753&idx=1&sn=87290e3068c5a551f05fd00cfccdea41&chksm=8b54fa80bc237396ee41d829deaa3e99c1bdd380940b6f2714182f91a307cd140a08959c2281&mpshare=1&scene=1&srcid=&sharer_sharetime=1589559293986&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AndE3M8Hgyhse5WKdKO7gX8%3D&pass_ticket=ji7xqkwGmsCtz8GzHJeV0lk%2BgLOpve3hxokfot7sVAxQmZRFVzkNoprPqfRyjZng#rd) &#127381;
 ![leader](/pic/leader.jpg)
