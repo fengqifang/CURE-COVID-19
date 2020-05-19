@@ -207,7 +207,7 @@
  
 ## 氯喹专题
 
-- [**2020-05-15 羟氯喹治疗新冠效果不佳：瑞金医院发表中国试验，欧美多项研究结果阴性**](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649915033&idx=1&sn=deb82c368c897f7d81198e1eb673ce8c&chksm=83c3d05bb4b4594d9396b08e0a5340fbf7587ad7fb64a0137a0903ec3a47625b6f0d7f59d8be&mpshare=1&scene=1&srcid=&sharer_sharetime=1589544972117&sharer_shareid=723fa425a7cb76b6eae250d7dbe341c2&exportkey=AiusRmmkVL9SCMkROYGkeaQ%3D&pass_ticket=ji7xqkwGmsCtz8GzHJeV0lk%2BgLOpve3hxokfot7sVAxQmZRFVzkNoprPqfRyjZng#rd) &#127381;
+- [**2020-05-15 羟氯喹治疗新冠效果不佳：瑞金医院发表中国试验，欧美多项研究结果阴性**](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649915033&idx=1&sn=deb82c368c897f7d81198e1eb673ce8c&chksm=83c3d05bb4b4594d9396b08e0a5340fbf7587ad7fb64a0137a0903ec3a47625b6f0d7f59d8be&mpshare=1&scene=1&srcid=&sharer_sharetime=1589544972117&sharer_shareid=723fa425a7cb76b6eae250d7dbe341c2&exportkey=AiusRmmkVL9SCMkROYGkeaQ%3D&pass_ticket=ji7xqkwGmsCtz8GzHJeV0lk%2BgLOpve3hxokfot7sVAxQmZRFVzkNoprPqfRyjZng#rd)
 ![ruijin](/pic/ruijin.jpg)
 
 - [**2020-04-20 诺华将启动羟氯喹治疗COVID-19大型III期临床试验**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=2247496742&idx=5&sn=cc26524679bfca21b328de6bbd2d73b9&chksm=fc76c792cb014e84b3e719526efd920ef15f897ea9e0876d335ef8ae2c60bd0a7e1127fd841b&mpshare=1&scene=1&srcid=&sharer_sharetime=1587391612887&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj2QZVYTRkuRyoANwBpvRPU%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
