@@ -252,6 +252,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-05-18 Moderna宣布新冠mRNA疫苗一期临床“结果积极”**](https://mp.weixin.qq.com/s?__biz=MzIzMTY2MTAzMA==&mid=2247487907&idx=1&sn=f03d9463af9cb7dc1e8665e1e5fccd42&chksm=e8a19d2adfd6143cefc024e9c55b814007e835e38f4ce3fe8146e2115efc3e344f9800994bf6&mpshare=1&scene=1&srcid=&sharer_sharetime=1589821160733&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiM9Ls8ToZmn9979CJ2oivM%3D&pass_ticket=WakmftQEVxbtgj3tRMAiMnadGIwBIj6IQ21AmhD4nLSz3%2BbqW0cK0seIkEOX0WPc#rd) &#127381;
+![clinicalI](/pic/clinicalI.jpg)
+
 - [**2020-05-18 Coronavirus Vaccine Trial by Moderna Shows Promising Early Results**](https://www.nytimes.com/2020/05/18/health/coronavirus-vaccine-moderna.html) &#127381;
 ![moderna](/pic/moderna.jpg)
 
