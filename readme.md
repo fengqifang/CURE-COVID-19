@@ -20,7 +20,7 @@
   
   
 - [COVID-19 治疗相关报道](#covid-19-------)
-  * [疫情地图](#疫情地图)
+  * [疫情可视化](#疫情可视化)
   * [检测试剂](#检测试剂)
   * [治疗方案](#治疗方案)
   * [氯喹专题](#氯喹专题)
@@ -36,7 +36,9 @@
 
  ***
 
-## 疫情地图
+## 疫情可视化
+
+- [**Social Impact: IHME Model Uncertainty, Visualized over Time**](https://www.gluesolutions.io/social-impact) &#127381;
 
 - [**Coronavirus Locations: COVID-19 Map by County and State**](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 
@@ -207,6 +209,9 @@
  
 ## 氯喹专题
 
+- [**2020-05-20 氯喹计划入组人数堪比春运，疫情临床潮后世界剩下了什么？**](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247499536&idx=1&sn=3ea977ad1e8b2ea1331f8cc278cefa4b&chksm=9b3489c1ac4300d7291170e363a09f217522f351cda3f8a4b7fb7dca8baa282c2498d58fadcc&mpshare=1&scene=1&srcid=&sharer_sharetime=1589866224362&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkN0jdh8DBNE6rL71ldcto8%3D&pass_ticket=vUD5khBiM1pgqUbVOjazlBSyKUtlhx8%2FmIdeVdJ3BCqspNVmDoTCR5jm1mEKwzGe#rd) &#127381;
+![number](/pic/number.jpg)
+
 - [**2020-05-15 羟氯喹治疗新冠效果不佳：瑞金医院发表中国试验，欧美多项研究结果阴性**](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649915033&idx=1&sn=deb82c368c897f7d81198e1eb673ce8c&chksm=83c3d05bb4b4594d9396b08e0a5340fbf7587ad7fb64a0137a0903ec3a47625b6f0d7f59d8be&mpshare=1&scene=1&srcid=&sharer_sharetime=1589544972117&sharer_shareid=723fa425a7cb76b6eae250d7dbe341c2&exportkey=AiusRmmkVL9SCMkROYGkeaQ%3D&pass_ticket=ji7xqkwGmsCtz8GzHJeV0lk%2BgLOpve3hxokfot7sVAxQmZRFVzkNoprPqfRyjZng#rd)
 ![ruijin](/pic/ruijin.jpg)
 
@@ -252,6 +257,9 @@
 
 ## 疫苗相关／新药开发
 
+- [**2020-05-20 同日两篇《科学》：新冠疫苗开发又迎重要进展**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247499136&idx=1&sn=85273b2a41696a7ebb4482d2ad571d0e&chksm=ec1d5ed3db6ad7c594c3238b31cd4333877119cfb5128e590ddb223caf922517b5f1a30f5d06&mpshare=1&scene=1&srcid=&sharer_sharetime=1590024734259&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkFxezJOhH%2BPxlzb%2F1UBEjE%3D&pass_ticket=vUD5khBiM1pgqUbVOjazlBSyKUtlhx8%2FmIdeVdJ3BCqspNVmDoTCR5jm1mEKwzGe#rd) &#127381;
+![scivaccine](/pic/scivaccine.jpg)
+
 - [**2020-05-18 Moderna宣布新冠mRNA疫苗一期临床“结果积极”**](https://mp.weixin.qq.com/s?__biz=MzIzMTY2MTAzMA==&mid=2247487907&idx=1&sn=f03d9463af9cb7dc1e8665e1e5fccd42&chksm=e8a19d2adfd6143cefc024e9c55b814007e835e38f4ce3fe8146e2115efc3e344f9800994bf6&mpshare=1&scene=1&srcid=&sharer_sharetime=1589821160733&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiM9Ls8ToZmn9979CJ2oivM%3D&pass_ticket=WakmftQEVxbtgj3tRMAiMnadGIwBIj6IQ21AmhD4nLSz3%2BbqW0cK0seIkEOX0WPc#rd) &#127381;
 ![clinicalI](/pic/clinicalI.jpg)
 
@@ -272,7 +280,6 @@
 ![canadatrial](/pic/canadatrial.jpg)
 
 - [**2020-05-12 Moderna疫苗获FDA快速通道资格，创新重组蛋白疫苗获3.8亿美元助力**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649993922&idx=2&sn=23b3efc9ef3390438c881da907455977&chksm=82e93442b59ebd54f1831ceb0c9cfb188456ce36c8c88d06f14efaa1a955a6d10440f52dd1f7&mpshare=1&scene=1&srcid=&sharer_sharetime=1589334671878&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsLasQUwcTKf1%2BgJnUD%2FQ3Q%3D&pass_ticket=gsKr1efy%2FZ9nzG4FBbJI8jULKddsNO7GdU0ndj41pJKuJVyC4xlPY11qgReJapFZ#rd)
-![moderna2](/pic/moderna.jpg)
 
 - [**2020-05-08 这8种新冠疫苗承载着全人类的希望**](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247506690&idx=1&sn=eaed139f217add6450a627cf8d78bf6a&chksm=a6e233799195ba6f8574875d01ab5333ba261cbcf845c4ab7feffc613ea91d371b10917ac4a5&mpshare=1&scene=1&srcid=&sharer_sharetime=1588945712337&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=An3jvCEngUuEj8PNxA0u1gQ%3D&pass_ticket=S61SS%2FJjiijy6TQD6jzwhzXtZn3WZJchFAj%2BxfJn3Y%2FnYalEYtRnwYovqhE5TpS6#rd)
 
@@ -408,6 +415,9 @@
  
 ## 研究进展
 
+- [**2020-05-20 Why do some COVID-19 patients infect many others, whereas most don’t spread the virus at all?**](https://www.sciencemag.org/news/2020/05/why-do-some-covid-19-patients-infect-many-others-whereas-most-don-t-spread-virus-all) &#127381;
+![infectmany](/pic/infectmany.jpg)
+
 - [**2020-05-16 港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性**](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650139826&idx=2&sn=542250eb91fb1585d8056a8838f52845&chksm=af3dd471984a5d6745e7bceebfc39fe895bd16f27052759be222704da08f902d30f5a26fc3e3&mpshare=1&scene=1&srcid=&sharer_sharetime=1589671362614&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsyqveLhX4GLjEHT1ucJANA%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd) &#127381;
 ![positive](/pic/positive.jpg)
 
@@ -427,11 +437,8 @@
 ![fake](/pic/fake.jpg)
 
 - [**2020-05-11 卡介苗接种能保护人群免于新冠病毒感染吗？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489201&idx=1&sn=a4916cdc67379190980f7395f1b8b30e&chksm=f9801cf4cef795e2ea1d82ccf8539bf23710113ba3beec74cd6e8d08819f9278ec55f635cd94&mpshare=1&scene=1&srcid=&sharer_sharetime=1589243524380&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Amzhy2Dmx6xUHutLZrml1MU%3D&pass_ticket=cm7n3k40mI9%2B8%2Bv8ttJGlzmL732HpmUT2kOmQwMODbk7srjjFK19sW7%2B2LTV7Khp#rd)
-![bcg](/pic/bcg.jpg)
 
 - [**2020-05-10 大幅缩短新冠患者排毒时间的疗法出现了！港大团队发现，及早使用干扰素β1b+利巴韦林+克力芝治疗，可缩短患者转阴时间**](https://mp.weixin.qq.com/s?__biz=MzA4MjA2MDI5OQ==&mid=2659490017&idx=1&sn=cb852add14c5e8f4cc9b7a8b0edd23dd&chksm=84fb4d85b38cc493a3fa068dc412e29a58171dcb5422a1fea98351b5fcff980f81b17db9a2d7&mpshare=1&scene=1&srcid=&sharer_sharetime=1589116083188&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AjOCrKkXFbeuBfeF2UxL%2Fxw%3D&pass_ticket=cm7n3k40mI9%2B8%2Bv8ttJGlzmL732HpmUT2kOmQwMODbk7srjjFK19sW7%2B2LTV7Khp#rd)
-
-![triple](/pic/triple.jpg)
 
 - [**2020-05-09 安眠药可显著改善COVID-19患者病情？听听专家如何解释**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651269187&idx=2&sn=5b2a7d5291a7902f0122a55478a82a22&chksm=8bb7cafdbcc043ebc2239bb88259683bc2968f11daceb8578bae87992981cf88c6d3b6915924&mpshare=1&scene=1&srcid=&sharer_sharetime=1589027020420&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AjWjBE6VEXmY0aKvLYzWcsk%3D&pass_ticket=cm7n3k40mI9%2B8%2Bv8ttJGlzmL732HpmUT2kOmQwMODbk7srjjFK19sW7%2B2LTV7Khp#rd)
 
@@ -594,10 +601,13 @@
  
 ## 其他
 
-- [**2020-05-17 瑞典专家宣称本国首都5月将实现新冠群体免疫，如何解读？**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649587688&idx=1&sn=7fa44653df413b2366868d14f87c3b7c&chksm=876a6bf1b01de2e7b1d731aa4f9df74495b5a42d62395a1b1460a7c9933b5230ac88c8d909d1&mpshare=1&scene=1&srcid=&sharer_sharetime=1589772692914&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ak7jTB9D2D4dxyk0B48YRos%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd) &#127381;
+- [**2020-05-20 新冠肺炎的长病程成为又一谜团**](https://mp.weixin.qq.com/s?__biz=MjM5NjIzOTM0MA==&mid=2650466764&idx=2&sn=31169a0eaadf3083ea1a5db0c17b832d&chksm=bee20b4f89958259ebdf7f269711ed170be5648150ce50bf216567274e3e9f5493508fd21bf2&mpshare=1&scene=1&srcid=&sharer_sharetime=1589990244040&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ai%2BpEDKRIzytAz%2BwZVySP1E%3D&pass_ticket=vUD5khBiM1pgqUbVOjazlBSyKUtlhx8%2FmIdeVdJ3BCqspNVmDoTCR5jm1mEKwzGe#rd) &#127381;
+![6weeks](/pic/sixweeks.jpg)
+
+- [**2020-05-17 瑞典专家宣称本国首都5月将实现新冠群体免疫，如何解读？**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649587688&idx=1&sn=7fa44653df413b2366868d14f87c3b7c&chksm=876a6bf1b01de2e7b1d731aa4f9df74495b5a42d62395a1b1460a7c9933b5230ac88c8d909d1&mpshare=1&scene=1&srcid=&sharer_sharetime=1589772692914&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ak7jTB9D2D4dxyk0B48YRos%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
 ![herd](/pic/herd.jpg)
 
-- [**2020-05-17 Behind North America’s Lowest Death Rate: A Doctor Who Fought Ebola**](https://www.bloomberg.com/news/articles/2020-05-16/a-virus-epicenter-that-wasn-t-how-one-region-stemmed-the-deaths) &#127381;
+- [**2020-05-17 Behind North America’s Lowest Death Rate: A Doctor Who Fought Ebola**](https://www.bloomberg.com/news/articles/2020-05-16/a-virus-epicenter-that-wasn-t-how-one-region-stemmed-the-deaths)
 ![lowest](/pic/lowest.jpg)
 
 - [**2020-05-15 大疫过后, 中国人到底怎么看自己的领导人?**](https://mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664304753&idx=1&sn=87290e3068c5a551f05fd00cfccdea41&chksm=8b54fa80bc237396ee41d829deaa3e99c1bdd380940b6f2714182f91a307cd140a08959c2281&mpshare=1&scene=1&srcid=&sharer_sharetime=1589559293986&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AndE3M8Hgyhse5WKdKO7gX8%3D&pass_ticket=ji7xqkwGmsCtz8GzHJeV0lk%2BgLOpve3hxokfot7sVAxQmZRFVzkNoprPqfRyjZng#rd)
@@ -616,10 +626,8 @@
 ![人道灾难](/pic/humanity.jpg)
 
 - [**2020-05-12 Amazon built a roving robot covered in UV light bulbs that could kill the coronavirus in warehouses and Whole Foods stores**](https://www.businessinsider.com/amazon-builds-uv-light-robot-to-kill-coronavirus-on-surfaces-2020-5)
-![amazon](/pic/amazon.jpg)
 
 - [**2020-05-11 Why I Just Volunteered for a Covid-19 Vaccine Trial**](https://www.bloomberg.com/opinion/articles/2020-05-05/covid-19-vaccine-trials-are-risky-but-the-virus-is-riskier)
-![volunteered](/pic/volunteered.jpg)
 
 - [**2020-05-08 Scientist who fought Ebola and HIV reflects on facing death from COVID-19**](https://www.sciencemag.org/news/2020/05/finally-virus-got-me-scientist-who-fought-ebola-and-hiv-reflects-facing-death-covid-19#)
 
