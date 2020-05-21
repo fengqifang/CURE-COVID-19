@@ -86,7 +86,7 @@
  
 ## 检测试剂
 
-- [**2020-05-16 中国核酸检测能力每天已达150万份，核酸检测员成为新职业**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247503147&idx=1&sn=23f223d8985eb0d627c98834c882b348&chksm=96efeb7ba198626d2be0569038939eeba58afd1bb2641eb2ba65ee15442abc9cea3b02d97958&mpshare=1&scene=1&srcid=&sharer_sharetime=1589634432109&sharer_shareid=238fa676d005b801ed9bd2b8a647b54f&exportkey=AuC4a%2F5oXe9dSTypJKn2ur4%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd) &#127381;
+- [**2020-05-16 中国核酸检测能力每天已达150万份，核酸检测员成为新职业**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247503147&idx=1&sn=23f223d8985eb0d627c98834c882b348&chksm=96efeb7ba198626d2be0569038939eeba58afd1bb2641eb2ba65ee15442abc9cea3b02d97958&mpshare=1&scene=1&srcid=&sharer_sharetime=1589634432109&sharer_shareid=238fa676d005b801ed9bd2b8a647b54f&exportkey=AuC4a%2F5oXe9dSTypJKn2ur4%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
 ![testing](/pic/testing.jpg)
 
 - [**2020-05-04 深度剖析 新冠病毒各种检测方法优缺点对比**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247502622&idx=1&sn=5cd11fff460f0d94808001516449e183&chksm=96efed4ea19864589638a4c787d3c2051757a8fd3253cf4155fe60c37e0fa1e37eed831fafe1&mpshare=1&scene=1&srcid=&sharer_sharetime=1588551923516&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgaNnSPZBBI%2BI%2B%2FP1KW7Fzs%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
@@ -260,13 +260,12 @@
 - [**2020-05-20 同日两篇《科学》：新冠疫苗开发又迎重要进展**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247499136&idx=1&sn=85273b2a41696a7ebb4482d2ad571d0e&chksm=ec1d5ed3db6ad7c594c3238b31cd4333877119cfb5128e590ddb223caf922517b5f1a30f5d06&mpshare=1&scene=1&srcid=&sharer_sharetime=1590024734259&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkFxezJOhH%2BPxlzb%2F1UBEjE%3D&pass_ticket=vUD5khBiM1pgqUbVOjazlBSyKUtlhx8%2FmIdeVdJ3BCqspNVmDoTCR5jm1mEKwzGe#rd) &#127381;
 ![scivaccine](/pic/scivaccine.jpg)
 
-- [**2020-05-18 Moderna宣布新冠mRNA疫苗一期临床“结果积极”**](https://mp.weixin.qq.com/s?__biz=MzIzMTY2MTAzMA==&mid=2247487907&idx=1&sn=f03d9463af9cb7dc1e8665e1e5fccd42&chksm=e8a19d2adfd6143cefc024e9c55b814007e835e38f4ce3fe8146e2115efc3e344f9800994bf6&mpshare=1&scene=1&srcid=&sharer_sharetime=1589821160733&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiM9Ls8ToZmn9979CJ2oivM%3D&pass_ticket=WakmftQEVxbtgj3tRMAiMnadGIwBIj6IQ21AmhD4nLSz3%2BbqW0cK0seIkEOX0WPc#rd) &#127381;
-![clinicalI](/pic/clinicalI.jpg)
+- [**2020-05-18 Moderna宣布新冠mRNA疫苗一期临床“结果积极”**](https://mp.weixin.qq.com/s?__biz=MzIzMTY2MTAzMA==&mid=2247487907&idx=1&sn=f03d9463af9cb7dc1e8665e1e5fccd42&chksm=e8a19d2adfd6143cefc024e9c55b814007e835e38f4ce3fe8146e2115efc3e344f9800994bf6&mpshare=1&scene=1&srcid=&sharer_sharetime=1589821160733&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiM9Ls8ToZmn9979CJ2oivM%3D&pass_ticket=WakmftQEVxbtgj3tRMAiMnadGIwBIj6IQ21AmhD4nLSz3%2BbqW0cK0seIkEOX0WPc#rd)
 
-- [**2020-05-18 Coronavirus Vaccine Trial by Moderna Shows Promising Early Results**](https://www.nytimes.com/2020/05/18/health/coronavirus-vaccine-moderna.html) &#127381;
+- [**2020-05-18 Coronavirus Vaccine Trial by Moderna Shows Promising Early Results**](https://www.nytimes.com/2020/05/18/health/coronavirus-vaccine-moderna.html)
 ![moderna](/pic/moderna.jpg)
 
-- [**2020-05-17 英国：新冠疫苗研制进展快速 如成功将在9月提供三千万支**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=513443936&idx=1&sn=ca7f75d62f98e0d74d6266aab6ad44d5&chksm=3dd8a2c70aaf2bd1a4250d61197baf0a78af71f67f15fd37e28ed1d7f209eb0ee9131ca96238&mpshare=1&scene=1&srcid=&sharer_sharetime=1589771784784&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhFFMtLk7I3b5r1Rg7SbmLE%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd) &#127381;
+- [**2020-05-17 英国：新冠疫苗研制进展快速 如成功将在9月提供三千万支**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=513443936&idx=1&sn=ca7f75d62f98e0d74d6266aab6ad44d5&chksm=3dd8a2c70aaf2bd1a4250d61197baf0a78af71f67f15fd37e28ed1d7f209eb0ee9131ca96238&mpshare=1&scene=1&srcid=&sharer_sharetime=1589771784784&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhFFMtLk7I3b5r1Rg7SbmLE%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
 ![GB](/pic/GB.jpg)
 
 - [**2020-05-15 STI-1499, A Potent Anti-SARS-CoV-2 Antibody, Demonstrates Ability To Completely Inhibit In Vitro Virus Infection In Preclinical Studies**](https://investors.sorrentotherapeutics.com/news-releases/news-release-details/sti-1499-potent-anti-sars-cov-2-antibody-demonstrates-ability)
@@ -418,16 +417,16 @@
 - [**2020-05-20 Why do some COVID-19 patients infect many others, whereas most don’t spread the virus at all?**](https://www.sciencemag.org/news/2020/05/why-do-some-covid-19-patients-infect-many-others-whereas-most-don-t-spread-virus-all) &#127381;
 ![infectmany](/pic/infectmany.jpg)
 
-- [**2020-05-16 港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性**](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650139826&idx=2&sn=542250eb91fb1585d8056a8838f52845&chksm=af3dd471984a5d6745e7bceebfc39fe895bd16f27052759be222704da08f902d30f5a26fc3e3&mpshare=1&scene=1&srcid=&sharer_sharetime=1589671362614&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsyqveLhX4GLjEHT1ucJANA%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd) &#127381;
+- [**2020-05-16 港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性**](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650139826&idx=2&sn=542250eb91fb1585d8056a8838f52845&chksm=af3dd471984a5d6745e7bceebfc39fe895bd16f27052759be222704da08f902d30f5a26fc3e3&mpshare=1&scene=1&srcid=&sharer_sharetime=1589671362614&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsyqveLhX4GLjEHT1ucJANA%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
 ![positive](/pic/positive.jpg)
 
-- [**2020-05-16 多个国家计划对污水中SARS-CoV-2开展大规模筛查研究，监测病毒传播和疫情发展**](https://mp.weixin.qq.com/s?__biz=MzA5NTYzMzAyNQ==&mid=2650199620&idx=1&sn=d8a7649486e5d4f2bcb424b7c248dff3&chksm=88be1daabfc994bc8816b0076645c97d72cbbd28980a7dbe802c5bca15855765d98e1afa65ac&mpshare=1&scene=1&srcid=&sharer_sharetime=1589635653795&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ag%2BxnbNz5hzZ2PcDuSEfJi8%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd) &#127381;
+- [**2020-05-16 多个国家计划对污水中SARS-CoV-2开展大规模筛查研究，监测病毒传播和疫情发展**](https://mp.weixin.qq.com/s?__biz=MzA5NTYzMzAyNQ==&mid=2650199620&idx=1&sn=d8a7649486e5d4f2bcb424b7c248dff3&chksm=88be1daabfc994bc8816b0076645c97d72cbbd28980a7dbe802c5bca15855765d98e1afa65ac&mpshare=1&scene=1&srcid=&sharer_sharetime=1589635653795&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ag%2BxnbNz5hzZ2PcDuSEfJi8%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
 ![wastewater](/pic/wastewater.jpg)
 
-- [**2020-05-16 近期得过这类感冒，50%对新冠病毒有免疫应答**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489301&idx=1&sn=7990b55360897c71706f3f3d265ae621&chksm=f9801d50cef79446f7473e9e807f4132924a1f9bbb43ea95fb53f1295e648deefe1a39f2f5b9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589598263282&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AsS6cM6aEI4agFBxKn3%2B%2Fnc%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd) &#127381;
+- [**2020-05-16 近期得过这类感冒，50%对新冠病毒有免疫应答**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489301&idx=1&sn=7990b55360897c71706f3f3d265ae621&chksm=f9801d50cef79446f7473e9e807f4132924a1f9bbb43ea95fb53f1295e648deefe1a39f2f5b9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589598263282&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AsS6cM6aEI4agFBxKn3%2B%2Fnc%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
 ![flu](/pic/flu.jpg)
 
-- [**2020-05-16 源自康复患者的好消息：阻止新冠病毒，科学家发现我们的免疫系统有很多方式**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247499013&idx=1&sn=9e5fde1f853321bfb6a3776d945aa863&chksm=ec1d5e56db6ad740e849c3b0dfa6dd2b6d572def4b618a65ed5839a03812cf454506f3754b26&mpshare=1&scene=1&srcid=&sharer_sharetime=1589635261248&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avv8km%2FQD8%2BJtqa1xi%2F9YnY%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd) &#127381;
+- [**2020-05-16 源自康复患者的好消息：阻止新冠病毒，科学家发现我们的免疫系统有很多方式**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247499013&idx=1&sn=9e5fde1f853321bfb6a3776d945aa863&chksm=ec1d5e56db6ad740e849c3b0dfa6dd2b6d572def4b618a65ed5839a03812cf454506f3754b26&mpshare=1&scene=1&srcid=&sharer_sharetime=1589635261248&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avv8km%2FQD8%2BJtqa1xi%2F9YnY%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
 ![many](/pic/many.jpg)
 
 - [**2020-05-14 中国医学科学院在Nature发表的研究里P图造假？**](https://mp.weixin.qq.com/s?__biz=MzIwNDA3MjgyMg==&mid=2654212401&idx=1&sn=c7e554f41bd5ef0bd79daa3ca5cd6bd0&chksm=8d050328ba728a3e11b5f334d524457e79e685cbf16f78f4a87adc52911548afb88778324ab9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505047657&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al0PLz1T0TT0fxHCqkIz4dI%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd)
