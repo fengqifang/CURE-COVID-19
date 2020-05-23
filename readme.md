@@ -38,7 +38,7 @@
 
 ## 疫情可视化
 
-- [**Social Impact: IHME Model Uncertainty, Visualized over Time**](https://www.gluesolutions.io/social-impact) &#127381;
+- [**Social Impact: IHME Model Uncertainty, Visualized over Time**](https://www.gluesolutions.io/social-impact)
 
 - [**Coronavirus Locations: COVID-19 Map by County and State**](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 
@@ -285,10 +285,7 @@
 
 - [**2020-05-14 七种候选疫苗在路上了**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652019052&idx=1&sn=49eb2daf6a16f413322acfbca2c32988&chksm=bd0f63318a78ea2732dede6045345c858f276354617487858dcf461fe2914afed337f90535c9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505361296&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuZ5sfxlsbZB5uWGZU2AKQo%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd)
 
-![7vaccine](/pic/7vaccine.jpg)
-
 - [**2020-05-13 康希诺新冠疫苗将在海外开展临床试验，最快今秋申请加拿大紧急使用授权**](https://www.wuximediatech.com/content/post/detail.html?sn=d7f4cdd8ec5445c49314dcf1d8acdf19&from=timeline&isappinstalled=0)
-![canadatrial](/pic/canadatrial.jpg)
 
 - [**2020-05-12 Moderna疫苗获FDA快速通道资格，创新重组蛋白疫苗获3.8亿美元助力**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649993922&idx=2&sn=23b3efc9ef3390438c881da907455977&chksm=82e93442b59ebd54f1831ceb0c9cfb188456ce36c8c88d06f14efaa1a955a6d10440f52dd1f7&mpshare=1&scene=1&srcid=&sharer_sharetime=1589334671878&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsLasQUwcTKf1%2BgJnUD%2FQ3Q%3D&pass_ticket=gsKr1efy%2FZ9nzG4FBbJI8jULKddsNO7GdU0ndj41pJKuJVyC4xlPY11qgReJapFZ#rd)
 
@@ -426,7 +423,7 @@
  
 ## 研究进展
 
-- [**2020-05-20 Why do some COVID-19 patients infect many others, whereas most don’t spread the virus at all?**](https://www.sciencemag.org/news/2020/05/why-do-some-covid-19-patients-infect-many-others-whereas-most-don-t-spread-virus-all) &#127381;
+- [**2020-05-20 Why do some COVID-19 patients infect many others, whereas most don’t spread the virus at all?**](https://www.sciencemag.org/news/2020/05/why-do-some-covid-19-patients-infect-many-others-whereas-most-don-t-spread-virus-all)
 ![infectmany](/pic/infectmany.jpg)
 
 - [**2020-05-16 港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性**](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650139826&idx=2&sn=542250eb91fb1585d8056a8838f52845&chksm=af3dd471984a5d6745e7bceebfc39fe895bd16f27052759be222704da08f902d30f5a26fc3e3&mpshare=1&scene=1&srcid=&sharer_sharetime=1589671362614&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsyqveLhX4GLjEHT1ucJANA%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
@@ -442,10 +439,8 @@
 ![many](/pic/many.jpg)
 
 - [**2020-05-14 中国医学科学院在Nature发表的研究里P图造假？**](https://mp.weixin.qq.com/s?__biz=MzIwNDA3MjgyMg==&mid=2654212401&idx=1&sn=c7e554f41bd5ef0bd79daa3ca5cd6bd0&chksm=8d050328ba728a3e11b5f334d524457e79e685cbf16f78f4a87adc52911548afb88778324ab9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505047657&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al0PLz1T0TT0fxHCqkIz4dI%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd)
-![fake2](/pic/fake2.jpg)
 
 - [**2020-05-13 中国医学科学院 Nature 发布新冠论文，上线不到 1 周被疑涉嫌图片造假**](https://mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653377845&idx=1&sn=789f76fffd33109579409a999097f137&chksm=5e32a45369452d4564272a9f616f149537efe00428c40958000566b4980b0aa83df928d03d2f&mpshare=1&scene=1&srcid=&sharer_sharetime=1589403002429&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avr%2ByE7RqxSZdP5pvtIESqM%3D&pass_ticket=J3TKuyzrsamomjMhpcXIGDN%2FxMxzT%2BYCsFu%2BnPUmzXsRbfLT9zMB5XBx54rozJVw#rd)
-![fake](/pic/fake.jpg)
 
 - [**2020-05-11 卡介苗接种能保护人群免于新冠病毒感染吗？**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489201&idx=1&sn=a4916cdc67379190980f7395f1b8b30e&chksm=f9801cf4cef795e2ea1d82ccf8539bf23710113ba3beec74cd6e8d08819f9278ec55f635cd94&mpshare=1&scene=1&srcid=&sharer_sharetime=1589243524380&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Amzhy2Dmx6xUHutLZrml1MU%3D&pass_ticket=cm7n3k40mI9%2B8%2Bv8ttJGlzmL732HpmUT2kOmQwMODbk7srjjFK19sW7%2B2LTV7Khp#rd)
 
@@ -612,7 +607,7 @@
  
 ## 其他
 
-- [**2020-05-20 新冠肺炎的长病程成为又一谜团**](https://mp.weixin.qq.com/s?__biz=MjM5NjIzOTM0MA==&mid=2650466764&idx=2&sn=31169a0eaadf3083ea1a5db0c17b832d&chksm=bee20b4f89958259ebdf7f269711ed170be5648150ce50bf216567274e3e9f5493508fd21bf2&mpshare=1&scene=1&srcid=&sharer_sharetime=1589990244040&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ai%2BpEDKRIzytAz%2BwZVySP1E%3D&pass_ticket=vUD5khBiM1pgqUbVOjazlBSyKUtlhx8%2FmIdeVdJ3BCqspNVmDoTCR5jm1mEKwzGe#rd) &#127381;
+- [**2020-05-20 新冠肺炎的长病程成为又一谜团**](https://mp.weixin.qq.com/s?__biz=MjM5NjIzOTM0MA==&mid=2650466764&idx=2&sn=31169a0eaadf3083ea1a5db0c17b832d&chksm=bee20b4f89958259ebdf7f269711ed170be5648150ce50bf216567274e3e9f5493508fd21bf2&mpshare=1&scene=1&srcid=&sharer_sharetime=1589990244040&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ai%2BpEDKRIzytAz%2BwZVySP1E%3D&pass_ticket=vUD5khBiM1pgqUbVOjazlBSyKUtlhx8%2FmIdeVdJ3BCqspNVmDoTCR5jm1mEKwzGe#rd)
 ![6weeks](/pic/sixweeks.jpg)
 
 - [**2020-05-17 瑞典专家宣称本国首都5月将实现新冠群体免疫，如何解读？**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649587688&idx=1&sn=7fa44653df413b2366868d14f87c3b7c&chksm=876a6bf1b01de2e7b1d731aa4f9df74495b5a42d62395a1b1460a7c9933b5230ac88c8d909d1&mpshare=1&scene=1&srcid=&sharer_sharetime=1589772692914&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ak7jTB9D2D4dxyk0B48YRos%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
@@ -628,13 +623,10 @@
 ![mutation](/pic/mutation.jpg)
 
 - [**2020-05-13 High-risk states are seeing fewer new coronavirus cases**](https://www.axios.com/coronavirus-cases-map-high-risk-states-8ceeaa05-cc07-4e8b-b9f4-df3a3315f143.html?utm_campaign=organic&utm_medium=socialshare&utm_source=twitter)
-![highrisk](/pic/highrisk.jpg)
 
 - [**2020-05-13 英国新冠死亡人数超印度15倍！伦敦华人学者给出这5大原因**](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691387747&idx=2&sn=937cbad489ba075a9d0bea3ab00c38f3&chksm=a9eaeeb89e9d67aebf50bb20ddbcbadbcede728de1def74afc4ff5cd7d0f98ea63007d17c08f&mpshare=1&scene=1&srcid=&sharer_sharetime=1589375931773&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiBy%2BdgcNztJGqtdDvQuO68%3D&pass_ticket=J3TKuyzrsamomjMhpcXIGDN%2FxMxzT%2BYCsFu%2BnPUmzXsRbfLT9zMB5XBx54rozJVw#rd)
-![15times](/pic/15times.jpg)
 
 - [**2020-05-12 瑞典抗疫，究竟是睿智典范还是人道灾难？**](https://mp.weixin.qq.com/s?__biz=MzIwNDA3MjgyMg==&mid=2654212379&idx=1&sn=10f5d59ff4b522a845051334004d4b1b&chksm=8d050302ba728a146fe16c1f7d284f22632dcfb4d1175372d4757299d501c869a6f47f59589b&mpshare=1&scene=1&srcid=&sharer_sharetime=1589322669374&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqAT0Cn7Fw8tPPMgURvXRH4%3D&pass_ticket=gsKr1efy%2FZ9nzG4FBbJI8jULKddsNO7GdU0ndj41pJKuJVyC4xlPY11qgReJapFZ#rd) 
-![人道灾难](/pic/humanity.jpg)
 
 - [**2020-05-12 Amazon built a roving robot covered in UV light bulbs that could kill the coronavirus in warehouses and Whole Foods stores**](https://www.businessinsider.com/amazon-builds-uv-light-robot-to-kill-coronavirus-on-surfaces-2020-5)
 
