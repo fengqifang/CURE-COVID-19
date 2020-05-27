@@ -38,6 +38,8 @@
 
 ## 疫情可视化
 
+- [**TEXAS COVID-19 DATA RESOURCE**](https://texas2036.shinyapps.io/covid_tracker/) &#127381;
+
 - [**Social Impact: IHME Model Uncertainty, Visualized over Time**](https://www.gluesolutions.io/social-impact)
 
 - [**Coronavirus Locations: COVID-19 Map by County and State**](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
@@ -120,6 +122,9 @@
  ***
  
 ## 治疗方案
+
+- [**2020-05-25 连花清瘟治疗新冠：离验证有效还有多远？**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655444814&idx=1&sn=5dae1264fceca3f10b45ce164b0af583&chksm=f3a6dd23c4d15435c160c723db97bee09e4af43649e3f69e386ce1a50bec36c2019cc12bd4eb&mpshare=1&scene=1&srcid=&sharer_sharetime=1590439038264&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArJnMUJX3fxtZzoINM%2FWpU8%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd) &#127381;
+![lianhua](/pic/lianhua.jpg)
 
 - [**2020-05-09 袁国勇团队临床试验，洛匹那韦/利托那韦三联疗法对新冠轻中症有效**](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649914922&idx=1&sn=e79ed3524061393adf6fd1be115291b8&chksm=83c3d0e8b4b459fe80ce43f5daa356f309643e7f932abe78fb144925d485f481b4f73f53259b&mpshare=1&scene=1&srcid=&sharer_sharetime=1589007467939&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah7dW5xrClqyUXAl67scXRI%3D&pass_ticket=cm7n3k40mI9%2B8%2Bv8ttJGlzmL732HpmUT2kOmQwMODbk7srjjFK19sW7%2B2LTV7Khp#rd)
 
@@ -256,6 +261,9 @@
  ***
 
 ## 疫苗相关／新药开发
+
+- [**2020-05-26 一口气宣布针对COVID-19的三项重磅举措，默沙东终于要爆发了！**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651270084&idx=1&sn=fe0bf02ffcb4577b98b90deee6e8d420&chksm=8bb7c97abcc0406c58bd52406fa4454d6f058f8222fa8456f6c4d396b5146cff41b83d748a98&mpshare=1&scene=1&srcid=&sharer_sharetime=1590558108010&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmJMbq4VV0hgN2n593TcIaY%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd) &#127381;
+![merck](/pic/merck.jpg)
 
 - [**2020-05-23 美国组织15万志愿者检测新冠疫苗，年底之前疫苗有望面世**](https://mp.weixin.qq.com/s?__biz=MzAxMzY0NDE4Mw==&mid=2649991107&idx=4&sn=fd27c06ef1fb715c0abadcd079ff46c0&chksm=83987f3bb4eff62d21dba797b79e498da435bd6105edc9d19eb9f16fdaae40e346c01795078e&mpshare=1&scene=1&srcid=&sharer_sharetime=1590284110265&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Av3tFjMS30J5uPskqXc0Xj4%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd) &#127381;
 ![endofyear](/pic/endofyear.jpg)
@@ -621,6 +629,9 @@
  ***
  
 ## 其他
+
+- [**2020-05-26 康希诺：股市大溃败，今日再大跌**](https://mp.weixin.qq.com/s?__biz=MzI4OTIzMzcwMw==&mid=2659320794&idx=1&sn=976a6ca2302762d81167834e4dfaa003&chksm=f744ed92c0336484bb5a046f386c110da0495c7f803c215894966939e3941de6910254742344&mpshare=1&scene=1&srcid=&sharer_sharetime=1590534224216&sharer_shareid=6b0d720ea116e8b159c142616be2b52e&exportkey=AkfqQfAzRgUC7uivh5%2F%2FncQ%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd) &#127381;
+![ad5](/pic/ad5.jpg)
 
 - [**2020-05-20 新冠肺炎的长病程成为又一谜团**](https://mp.weixin.qq.com/s?__biz=MjM5NjIzOTM0MA==&mid=2650466764&idx=2&sn=31169a0eaadf3083ea1a5db0c17b832d&chksm=bee20b4f89958259ebdf7f269711ed170be5648150ce50bf216567274e3e9f5493508fd21bf2&mpshare=1&scene=1&srcid=&sharer_sharetime=1589990244040&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ai%2BpEDKRIzytAz%2BwZVySP1E%3D&pass_ticket=vUD5khBiM1pgqUbVOjazlBSyKUtlhx8%2FmIdeVdJ3BCqspNVmDoTCR5jm1mEKwzGe#rd)
 ![6weeks](/pic/sixweeks.jpg)
