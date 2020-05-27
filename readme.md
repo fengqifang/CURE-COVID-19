@@ -38,6 +38,8 @@
 
 ## 疫情可视化
 
+- [**COVID AMP POLICY AND PLAN DATABASE**](https://covidamp.org/) &#127381;
+
 - [**America’s COVID warning system**](https://covidactnow.org/) &#127381;
 
 - [**TEXAS COVID-19 DATA RESOURCE**](https://texas2036.shinyapps.io/covid_tracker/) &#127381;
