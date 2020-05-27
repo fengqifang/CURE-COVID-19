@@ -38,6 +38,8 @@
 
 ## 疫情可视化
 
+- [**America’s COVID warning system**](https://covidactnow.org/) &#127381;
+
 - [**TEXAS COVID-19 DATA RESOURCE**](https://texas2036.shinyapps.io/covid_tracker/) &#127381;
 
 - [**Social Impact: IHME Model Uncertainty, Visualized over Time**](https://www.gluesolutions.io/social-impact)
