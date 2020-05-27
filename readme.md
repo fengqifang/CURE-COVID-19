@@ -432,6 +432,9 @@
  
 ## 研究进展
 
+- [**2020-05-24 武汉1000万人大检测，获得一系列重大发现！**](https://mp.weixin.qq.com/s?__biz=MjM5ODI5NTE2MA==&mid=2651664755&idx=6&sn=f40897cae697b8d150a3e6fa37e38fca&chksm=bd3572648a42fb72b36d81813917f89238f470387f60c3fa2c9ffc9732b863b809cc41efba9c&mpshare=1&scene=1&srcid=&sharer_sharetime=1590364205829&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkFFFnsEOnKx%2BZ1k5bT95Cs%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd) &#127381;
+![whole](/pic/whole.jpg)
+
 - [**2020-05-20 Why do some COVID-19 patients infect many others, whereas most don’t spread the virus at all?**](https://www.sciencemag.org/news/2020/05/why-do-some-covid-19-patients-infect-many-others-whereas-most-don-t-spread-virus-all)
 ![infectmany](/pic/infectmany.jpg)
 
@@ -605,6 +608,9 @@
  ***
  
 ## 典型病例报道
+
+- [**2020-05-24 60例新冠出院患者研究：10人复阳，病毒脱落最长56天**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=504167619&idx=1&sn=1c199c13815728e6150e2a13092fe106&chksm=3d61617f0a16e869229cca83893bfcdc10e4df8ab3c0da31d59265c137f042e267efce582279&mpshare=1&scene=1&srcid=&sharer_sharetime=1590345336464&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnqgmIAkD8WeeIZpcdpHQcg%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd) &#127381;
+![out](/pic/out.jpg)
 
 - [**2020-03-20 Breadth of concomitant immune responses prior to patient recovery: a case report of non-severe COVID-19**](https://www.nature.com/articles/s41591-020-0819-2)
 
