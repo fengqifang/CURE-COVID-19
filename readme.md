@@ -93,7 +93,6 @@
 ## 检测试剂
 
 - [**2020-05-16 中国核酸检测能力每天已达150万份，核酸检测员成为新职业**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247503147&idx=1&sn=23f223d8985eb0d627c98834c882b348&chksm=96efeb7ba198626d2be0569038939eeba58afd1bb2641eb2ba65ee15442abc9cea3b02d97958&mpshare=1&scene=1&srcid=&sharer_sharetime=1589634432109&sharer_shareid=238fa676d005b801ed9bd2b8a647b54f&exportkey=AuC4a%2F5oXe9dSTypJKn2ur4%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
-![testing](/pic/testing.jpg)
 
 - [**2020-05-04 深度剖析 新冠病毒各种检测方法优缺点对比**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247502622&idx=1&sn=5cd11fff460f0d94808001516449e183&chksm=96efed4ea19864589638a4c787d3c2051757a8fd3253cf4155fe60c37e0fa1e37eed831fafe1&mpshare=1&scene=1&srcid=&sharer_sharetime=1588551923516&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AgaNnSPZBBI%2BI%2B%2FP1KW7Fzs%3D&pass_ticket=9Vbk6jJ7lugQrbN2ltD7zdwRkDvJYQjGIzSejFDD%2FX2icYkhJy9FDaTjBui0xpcn#rd)
 
@@ -218,11 +217,10 @@
  
 ## 氯喹专题
 
-- [**2020-05-20 氯喹计划入组人数堪比春运，疫情临床潮后世界剩下了什么？**](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247499536&idx=1&sn=3ea977ad1e8b2ea1331f8cc278cefa4b&chksm=9b3489c1ac4300d7291170e363a09f217522f351cda3f8a4b7fb7dca8baa282c2498d58fadcc&mpshare=1&scene=1&srcid=&sharer_sharetime=1589866224362&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkN0jdh8DBNE6rL71ldcto8%3D&pass_ticket=vUD5khBiM1pgqUbVOjazlBSyKUtlhx8%2FmIdeVdJ3BCqspNVmDoTCR5jm1mEKwzGe#rd) &#127381;
+- [**2020-05-20 氯喹计划入组人数堪比春运，疫情临床潮后世界剩下了什么？**](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247499536&idx=1&sn=3ea977ad1e8b2ea1331f8cc278cefa4b&chksm=9b3489c1ac4300d7291170e363a09f217522f351cda3f8a4b7fb7dca8baa282c2498d58fadcc&mpshare=1&scene=1&srcid=&sharer_sharetime=1589866224362&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkN0jdh8DBNE6rL71ldcto8%3D&pass_ticket=vUD5khBiM1pgqUbVOjazlBSyKUtlhx8%2FmIdeVdJ3BCqspNVmDoTCR5jm1mEKwzGe#rd)
 ![number](/pic/number.jpg)
 
 - [**2020-05-15 羟氯喹治疗新冠效果不佳：瑞金医院发表中国试验，欧美多项研究结果阴性**](https://mp.weixin.qq.com/s?__biz=MzAxOTU2OTU4MQ==&mid=2649915033&idx=1&sn=deb82c368c897f7d81198e1eb673ce8c&chksm=83c3d05bb4b4594d9396b08e0a5340fbf7587ad7fb64a0137a0903ec3a47625b6f0d7f59d8be&mpshare=1&scene=1&srcid=&sharer_sharetime=1589544972117&sharer_shareid=723fa425a7cb76b6eae250d7dbe341c2&exportkey=AiusRmmkVL9SCMkROYGkeaQ%3D&pass_ticket=ji7xqkwGmsCtz8GzHJeV0lk%2BgLOpve3hxokfot7sVAxQmZRFVzkNoprPqfRyjZng#rd)
-![ruijin](/pic/ruijin.jpg)
 
 - [**2020-04-20 诺华将启动羟氯喹治疗COVID-19大型III期临床试验**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=2247496742&idx=5&sn=cc26524679bfca21b328de6bbd2d73b9&chksm=fc76c792cb014e84b3e719526efd920ef15f897ea9e0876d335ef8ae2c60bd0a7e1127fd841b&mpshare=1&scene=1&srcid=&sharer_sharetime=1587391612887&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj2QZVYTRkuRyoANwBpvRPU%3D&pass_ticket=K5rfFhX6szAajVNQbN3wF%2BsrdJbHVM8%2FD%2B8pQECkvzVTO3I3CDqlzHhj1qKxAYzr#rd)
 
@@ -273,6 +271,7 @@
 ![endofyear](/pic/endofyear.jpg)
 
 - [**2020-05-23 陈薇院士：谨慎解读**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651650497&idx=1&sn=41c5a2d10207f5266873fe58c835cf37&chksm=bd61647d8a16ed6b339ce6c780cd44be3aea4ca479868ae2cf48100a181a60089303c603574a&mpshare=1&scene=1&srcid=&sharer_sharetime=1590257787163&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AoiBV3zm1kIHQfy%2FBCARkJk%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd) &#127381;
+
 ![chen](/pic/chen.jpg)
 
 - [**2020-05-23 中国新冠疫苗一期临床试验证实安全性，但预存抗体或削弱疫苗效果**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655444745&idx=1&sn=693e64dc01ccf69bb695af87998b595f&chksm=f3a6dd64c4d15472aca9e5cedd4dab308df96ac44450a2fa9a0cab91024438b28221c1403e61&mpshare=1&scene=1&srcid=&sharer_sharetime=1590239864662&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AnfKmZcHtJMPPWSp8OjzldQ%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd) &#127381;
@@ -296,13 +295,10 @@
 - [**2020-05-18 Moderna宣布新冠mRNA疫苗一期临床“结果积极”**](https://mp.weixin.qq.com/s?__biz=MzIzMTY2MTAzMA==&mid=2247487907&idx=1&sn=f03d9463af9cb7dc1e8665e1e5fccd42&chksm=e8a19d2adfd6143cefc024e9c55b814007e835e38f4ce3fe8146e2115efc3e344f9800994bf6&mpshare=1&scene=1&srcid=&sharer_sharetime=1589821160733&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiM9Ls8ToZmn9979CJ2oivM%3D&pass_ticket=WakmftQEVxbtgj3tRMAiMnadGIwBIj6IQ21AmhD4nLSz3%2BbqW0cK0seIkEOX0WPc#rd)
 
 - [**2020-05-18 Coronavirus Vaccine Trial by Moderna Shows Promising Early Results**](https://www.nytimes.com/2020/05/18/health/coronavirus-vaccine-moderna.html)
-![moderna](/pic/moderna.jpg)
 
 - [**2020-05-17 英国：新冠疫苗研制进展快速 如成功将在9月提供三千万支**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=513443936&idx=1&sn=ca7f75d62f98e0d74d6266aab6ad44d5&chksm=3dd8a2c70aaf2bd1a4250d61197baf0a78af71f67f15fd37e28ed1d7f209eb0ee9131ca96238&mpshare=1&scene=1&srcid=&sharer_sharetime=1589771784784&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhFFMtLk7I3b5r1Rg7SbmLE%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
-![GB](/pic/GB.jpg)
 
 - [**2020-05-15 STI-1499, A Potent Anti-SARS-CoV-2 Antibody, Demonstrates Ability To Completely Inhibit In Vitro Virus Infection In Preclinical Studies**](https://investors.sorrentotherapeutics.com/news-releases/news-release-details/sti-1499-potent-anti-sars-cov-2-antibody-demonstrates-ability)
-![sorrento](/pic/sorrento.jpg)
 
 - [**2020-05-14 七种候选疫苗在路上了**](https://mp.weixin.qq.com/s?__biz=MjM5NjQzMzcxNA==&mid=2652019052&idx=1&sn=49eb2daf6a16f413322acfbca2c32988&chksm=bd0f63318a78ea2732dede6045345c858f276354617487858dcf461fe2914afed337f90535c9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505361296&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuZ5sfxlsbZB5uWGZU2AKQo%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd)
 
@@ -451,16 +447,12 @@
 ![infectmany](/pic/infectmany.jpg)
 
 - [**2020-05-16 港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性**](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650139826&idx=2&sn=542250eb91fb1585d8056a8838f52845&chksm=af3dd471984a5d6745e7bceebfc39fe895bd16f27052759be222704da08f902d30f5a26fc3e3&mpshare=1&scene=1&srcid=&sharer_sharetime=1589671362614&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsyqveLhX4GLjEHT1ucJANA%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
-![positive](/pic/positive.jpg)
 
 - [**2020-05-16 多个国家计划对污水中SARS-CoV-2开展大规模筛查研究，监测病毒传播和疫情发展**](https://mp.weixin.qq.com/s?__biz=MzA5NTYzMzAyNQ==&mid=2650199620&idx=1&sn=d8a7649486e5d4f2bcb424b7c248dff3&chksm=88be1daabfc994bc8816b0076645c97d72cbbd28980a7dbe802c5bca15855765d98e1afa65ac&mpshare=1&scene=1&srcid=&sharer_sharetime=1589635653795&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ag%2BxnbNz5hzZ2PcDuSEfJi8%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
-![wastewater](/pic/wastewater.jpg)
 
 - [**2020-05-16 近期得过这类感冒，50%对新冠病毒有免疫应答**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489301&idx=1&sn=7990b55360897c71706f3f3d265ae621&chksm=f9801d50cef79446f7473e9e807f4132924a1f9bbb43ea95fb53f1295e648deefe1a39f2f5b9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589598263282&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AsS6cM6aEI4agFBxKn3%2B%2Fnc%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
-![flu](/pic/flu.jpg)
 
 - [**2020-05-16 源自康复患者的好消息：阻止新冠病毒，科学家发现我们的免疫系统有很多方式**](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247499013&idx=1&sn=9e5fde1f853321bfb6a3776d945aa863&chksm=ec1d5e56db6ad740e849c3b0dfa6dd2b6d572def4b618a65ed5839a03812cf454506f3754b26&mpshare=1&scene=1&srcid=&sharer_sharetime=1589635261248&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Avv8km%2FQD8%2BJtqa1xi%2F9YnY%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
-![many](/pic/many.jpg)
 
 - [**2020-05-14 中国医学科学院在Nature发表的研究里P图造假？**](https://mp.weixin.qq.com/s?__biz=MzIwNDA3MjgyMg==&mid=2654212401&idx=1&sn=c7e554f41bd5ef0bd79daa3ca5cd6bd0&chksm=8d050328ba728a3e11b5f334d524457e79e685cbf16f78f4a87adc52911548afb88778324ab9&mpshare=1&scene=1&srcid=&sharer_sharetime=1589505047657&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Al0PLz1T0TT0fxHCqkIz4dI%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd)
 
@@ -641,16 +633,12 @@
 ![6weeks](/pic/sixweeks.jpg)
 
 - [**2020-05-17 瑞典专家宣称本国首都5月将实现新冠群体免疫，如何解读？**](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649587688&idx=1&sn=7fa44653df413b2366868d14f87c3b7c&chksm=876a6bf1b01de2e7b1d731aa4f9df74495b5a42d62395a1b1460a7c9933b5230ac88c8d909d1&mpshare=1&scene=1&srcid=&sharer_sharetime=1589772692914&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ak7jTB9D2D4dxyk0B48YRos%3D&pass_ticket=h40pSziNa8HLkNE9Y8Fjfg118JCSylOZjuK0%2BkyMVAnytXsrIVMt3BgtGdqLJX%2Fh#rd)
-![herd](/pic/herd.jpg)
 
 - [**2020-05-17 Behind North America’s Lowest Death Rate: A Doctor Who Fought Ebola**](https://www.bloomberg.com/news/articles/2020-05-16/a-virus-epicenter-that-wasn-t-how-one-region-stemmed-the-deaths)
-![lowest](/pic/lowest.jpg)
 
 - [**2020-05-15 大疫过后, 中国人到底怎么看自己的领导人?**](https://mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664304753&idx=1&sn=87290e3068c5a551f05fd00cfccdea41&chksm=8b54fa80bc237396ee41d829deaa3e99c1bdd380940b6f2714182f91a307cd140a08959c2281&mpshare=1&scene=1&srcid=&sharer_sharetime=1589559293986&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AndE3M8Hgyhse5WKdKO7gX8%3D&pass_ticket=ji7xqkwGmsCtz8GzHJeV0lk%2BgLOpve3hxokfot7sVAxQmZRFVzkNoprPqfRyjZng#rd)
-![leader](/pic/leader.jpg)
 
 - [**2020-05-14 冠状病毒正在发生变异，这是否意味着病毒正在变得更危险？**](https://mp.weixin.qq.com/s?__biz=MzI1NjAzODEyNQ==&mid=2651032202&idx=3&sn=821cc001ef5d31873bbf53d370cf4a8a&chksm=f1dbef08c6ac661e4a0ef6810f70b4c150ec03b6f4b83926e0c75f0616e36714996f03a70baa&mpshare=1&scene=1&srcid=&sharer_sharetime=1589507514115&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtgjJ%2FCyR7%2F9bodva9iFED8%3D&pass_ticket=oLfeDn5eo3ewbIvBJnmVnZ%2FEHm%2BFmCk5omK8VSYbFloc%2BdjnvUoZjRxHwVpitLVj#rd)
-![mutation](/pic/mutation.jpg)
 
 - [**2020-05-13 High-risk states are seeing fewer new coronavirus cases**](https://www.axios.com/coronavirus-cases-map-high-risk-states-8ceeaa05-cc07-4e8b-b9f4-df3a3315f143.html?utm_campaign=organic&utm_medium=socialshare&utm_source=twitter)
 
