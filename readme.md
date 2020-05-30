@@ -440,6 +440,9 @@
  
 ## 研究进展
 
+- [**2020-05-28 美国新冠病死超10万人，已紧急启动41项研究，大数据分析揭示其秘密**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489698&idx=1&sn=2c04229e9882b4d1f041122f9f7fe36d&chksm=f98012e7cef79bf1b93a5270a2c706341b093aec7603673c5c0508513c3f9bd26027f9ae7466&mpshare=1&scene=1&srcid=&sharer_sharetime=1590710012346&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AjYiE8XRCAn3uQS0PH89EMY%3D&pass_ticket=ct3xbqa6gN7AnURLAiFB2n%2Ft071fHqsmzrQlZOI9sbg7MRorQkjRmDcO9vc0yVwU#rd) &#127381;
+![bigdata](/pic/bigdata.jpg)
+
 - [**2020-05-24 武汉1000万人大检测，获得一系列重大发现！**](https://mp.weixin.qq.com/s?__biz=MjM5ODI5NTE2MA==&mid=2651664755&idx=6&sn=f40897cae697b8d150a3e6fa37e38fca&chksm=bd3572648a42fb72b36d81813917f89238f470387f60c3fa2c9ffc9732b863b809cc41efba9c&mpshare=1&scene=1&srcid=&sharer_sharetime=1590364205829&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkFFFnsEOnKx%2BZ1k5bT95Cs%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd) &#127381;
 ![whole](/pic/whole.jpg)
 
