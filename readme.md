@@ -219,6 +219,12 @@
  
 ## 氯喹专题
 
+- [**2020-06-07 跌宕起伏的氯喹临床试验：从心脏毒性到论文撤稿**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655445709&idx=1&sn=a872f663f973bc73fc1aa58a08cf3f9f&chksm=f3a6e0a0c4d169b6af4ea56992a14760397688bb4342490ce4d17619863805168d306160de29&mpshare=1&scene=1&srcid=&sharer_sharetime=1591454061348&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Agt%2FG8GsABqlvpzNUoVoPug%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) &#127381;
+![change](/pic/change.jpg)
+
+- [**2020-06-07 抱歉！羟氯喹不是治疗新冠肺炎，而是预防感染**](https://mp.weixin.qq.com/s?__biz=MjM5NDI0ODQ5OA==&mid=2654172495&idx=2&sn=5ea8c0ebc9182b61d7ebd7f20173ae13&chksm=bd4d77128a3afe04ea3bb7c6106bafd0bf43d3c2b0bd82a3f0bd8d95372957176cda7b6bfd52&mpshare=1&scene=1&srcid=&sharer_sharetime=1591453388862&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqszFvx0y3LXR9cquvDNyZ8%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) &#127381;
+![prevent](/pic/prevent.jpg)
+
 - [**2020-06-06 新冠热门研究论文撤稿，《柳叶刀》陷入信任危机**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660933305&idx=2&sn=302c1020a828e2e2cd7b4b8867b58adc&chksm=bdd8b41e8aaf3d0818cc88ce2a3921b963634c40d606e7729b94b743a33eecd8dea324603c3f&mpshare=1&scene=1&srcid=&sharer_sharetime=1591398999569&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqF4V27EvMtETnclOvWWPjI%3D&pass_ticket=g6MdpvUiZtk4ZIZBwXG1PEXf5%2BCaCHjTK2wovZ054VHsRZoXBjjMZXJcqFCfjkvO#rd) &#127381;
 ![scandal2](/pic/scaldal2.jpg)
 
@@ -288,6 +294,15 @@
  ***
 
 ## 疫苗相关／新药开发
+
+- [**2020-06-07 新冠肺炎治疗性抗体又有新突破**](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MzQ4MQ==&mid=2654603342&idx=1&sn=42423517cfd28cdddd311d606c3fb23f&chksm=bd15d1d88a6258ce8aacf716b52c5db75f3e05243dbf052583db93bc4071f4ad5479af6c4107&mpshare=1&scene=1&srcid=&sharer_sharetime=1591505648603&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqMlMuySxzWoDO5PxfKdIoU%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) &#127381;
+![break](/pic/break.jpg)
+
+- [**2020-07-07 正式批准！新冠肺炎治疗性抗体进入临床试验**](https://mp.weixin.qq.com/s?__biz=MzI3NDI5MjI4OQ==&mid=2247558388&idx=1&sn=dc86e18f64dcd6b905c82f7bb7ab0614&chksm=eb15efdadc6266cc8bcd08bb51decc767d890d4a54ee06967a169d7a28a4c8016c30de3b3982&mpshare=1&scene=1&srcid=&sharer_sharetime=1591466036712&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlK4wd4Me2%2B9M5xG3FN4NLc%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) &#127381;
+![official](/pic/official.jpg)
+
+- [**2020-06-07 新冠抗体药上海首例受试者给药，预计7月底前出结果**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660933777&idx=1&sn=ea31c0412fd13484a1a06718e3611dd7&chksm=bdd88a368aaf0320f01be6024ad4e607ba2e039030c1c0769b6d4e1eee7bfb01433eb2015a4e&mpshare=1&scene=1&srcid=&sharer_sharetime=1591561739874&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aok9vO07hLuVrgkbaZ1ucmQ%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) &#127381;
+![antibody](/pic/antibody.jpg)
 
 - [**2020-06-04 Oxford, AstraZeneca Covid-19 deal reinforces ‘vaccine sovereignty.’ We need a people’s vaccine instead**](https://www.statnews.com/2020/06/04/oxford-astrazeneca-covid-19-deal-reinforces-vaccine-sovereignty/)
 ![oxford](/pic/oxford.jpg)
