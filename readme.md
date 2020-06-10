@@ -219,6 +219,9 @@
  
 ## 氯喹专题
 
+- [**2020-06-08 氯喹究竟有无疗效，还是让试验说吧**](https://mp.weixin.qq.com/s?__biz=MjM5OTYyNzAyMA==&mid=2649953566&idx=1&sn=8991f22354226aebd93d01222f31b0eb&chksm=bf3f257d8848ac6b3b8c22be4bfdff3803667fa345f407d0054c9da9208cf9d60f030d6eb39c&mpshare=1&scene=1&srcid=&sharer_sharetime=1591667856637&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=At0TIWGJd8%2FyZlBrWZqLMrg%3D&pass_ticket=1fjbOe4rnwnJsSrQtE4ed2Tsrcb64wL%2Fv3LJ%2BztxzrZulbf5AG89%2F2NK5D0P4gKs#rd) &#127381;
+![exp](/pic/exp.jpg)
+
 - [**2020-06-07 跌宕起伏的氯喹临床试验：从心脏毒性到论文撤稿**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655445709&idx=1&sn=a872f663f973bc73fc1aa58a08cf3f9f&chksm=f3a6e0a0c4d169b6af4ea56992a14760397688bb4342490ce4d17619863805168d306160de29&mpshare=1&scene=1&srcid=&sharer_sharetime=1591454061348&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Agt%2FG8GsABqlvpzNUoVoPug%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) &#127381;
 ![change](/pic/change.jpg)
 
@@ -484,6 +487,9 @@
  ***
  
 ## 研究进展
+
+- [**2020-06-09 高福、冯子健联合发表论文：中国或面临新冠再次流行风险**](https://mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247575372&idx=1&sn=5c12e81a4705009977b44cc6faad4f6c&chksm=fc5c0e12cb2b87041820149dc9bb2b06afd6a654990f10d46620fc29af14d48c7e2add3575e9&mpshare=1&scene=1&srcid=&sharer_sharetime=1591722478440&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah3JowmJxCZZuAAHaByNoxA%3D&pass_ticket=1fjbOe4rnwnJsSrQtE4ed2Tsrcb64wL%2Fv3LJ%2BztxzrZulbf5AG89%2F2NK5D0P4gKs#rd) &#127381;
+![again](/pic/again.jpg)
 
 - [**2020-06-04 SARS-CoV-2 looks like a hybrid of viruses from two different species**](https://arstechnica.com/science/2020/06/sars-cov-2-looks-like-a-hybrid-of-viruses-from-two-different-species/)
 ![hybrid](/pic/hybrid.jpg)
