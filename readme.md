@@ -127,7 +127,6 @@
 ## 治疗方案
 
 - [**2020-06-01 首次证明瑞德西韦治疗中度新冠肺炎有效！为早期治疗打开一扇门**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489814&idx=1&sn=f2a0bb3c4054a6e4edeb614480c309a4&chksm=f9801353cef79a451033d66bfdafc069f632de3f8b57c4e5f3fc554eec7dff75864ca593c22c&mpshare=1&scene=1&srcid=&sharer_sharetime=1591059224684&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqWJM9BQ30L8JP%2F2dWV0h4g%3D&pass_ticket=FTuloSFNHRGZCJRqPjTBUaRr4wLXv2ZwTy%2Fu9gdqauAUrxcq79iAg8bOiVCwI4ZJ#rd)
-![中度](/pic/insightII.jpg)
 
 - [**2020-05-25 连花清瘟治疗新冠：离验证有效还有多远？**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655444814&idx=1&sn=5dae1264fceca3f10b45ce164b0af583&chksm=f3a6dd23c4d15435c160c723db97bee09e4af43649e3f69e386ce1a50bec36c2019cc12bd4eb&mpshare=1&scene=1&srcid=&sharer_sharetime=1590439038264&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArJnMUJX3fxtZzoINM%2FWpU8%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd)
 
@@ -247,10 +246,8 @@
 ![mysterious](/pic/mysterious.jpg)
 
 - [**2020-05-29 钟南山团队逆转国外结果，氯喹治疗新冠病毒病有效**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489732&idx=1&sn=15199b865ee1912fa85e134849bcb0f7&chksm=f9801281cef79b979db166896af8ef6f8dd762445ca7732450573a59110160cf5289791a4ae8&mpshare=1&scene=1&srcid=&sharer_sharetime=1590797908928&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArGhg8LcdCggcc8bKa7NNIg%3D&pass_ticket=ct3xbqa6gN7AnURLAiFB2n%2Ft071fHqsmzrQlZOI9sbg7MRorQkjRmDcO9vc0yVwU#rd)
-![reverse1](/pic/reverse1.jpg)
 
 - [**2020-05-29 反转！钟南山，单鸿等发现氯喹治疗新冠肺炎恢复快，无重大副作用**](https://mbd.baidu.com/newspage/data/landingshare?pageType=1&isBdboxFrom=1&context=%7B%22nid%22%3A%22news_10277145196527032561%22%2C%22sourceFrom%22%3A%22bjh%22%7D)
-![reverse](/pic/reverse.jpg)
 
 - [**2020-05-20 氯喹计划入组人数堪比春运，疫情临床潮后世界剩下了什么？**](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247499536&idx=1&sn=3ea977ad1e8b2ea1331f8cc278cefa4b&chksm=9b3489c1ac4300d7291170e363a09f217522f351cda3f8a4b7fb7dca8baa282c2498d58fadcc&mpshare=1&scene=1&srcid=&sharer_sharetime=1589866224362&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkN0jdh8DBNE6rL71ldcto8%3D&pass_ticket=vUD5khBiM1pgqUbVOjazlBSyKUtlhx8%2FmIdeVdJ3BCqspNVmDoTCR5jm1mEKwzGe#rd)
 
@@ -311,16 +308,12 @@
 ![oxford](/pic/oxford.jpg)
 
 - [**2020-06-01 新冠疫苗报道眼花缭乱？临床试验告诉了我们什么**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655444982&idx=1&sn=11563a07aecd3931586a98964aa7b609&chksm=f3a6dd9bc4d1548db5fdacc1bab78d97536c3a64c428cd76ee1c0952211a8c6c78985e269226&mpshare=1&scene=1&srcid=&sharer_sharetime=1590891823274&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhxaXoEWNOzZ6us8PaI9BN0%3D&pass_ticket=FTuloSFNHRGZCJRqPjTBUaRr4wLXv2ZwTy%2Fu9gdqauAUrxcq79iAg8bOiVCwI4ZJ#rd) 
-![insight](/pic/insight.jpg)
 
 - [**2020-06-01 面对疫情大考，疫苗研发亟需集体发力**](https://mp.weixin.qq.com/s?__biz=MzI3NDI5MjI4OQ==&mid=2247556399&idx=5&sn=3224459cf3d2ed56b91dbb21118d6fe5&chksm=eb141601dc639f17733b12fd5589266642c60faea7970cc5754c45c3967a6a96ea1cec76463d&mpshare=1&scene=1&srcid=&sharer_sharetime=1590881104881&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArRBxDCJE%2Fcxoyhhbu78%2FvI%3D&pass_ticket=FTuloSFNHRGZCJRqPjTBUaRr4wLXv2ZwTy%2Fu9gdqauAUrxcq79iAg8bOiVCwI4ZJ#rd)
-![together](/pic/together.jpg)
 
 - [**2020-05-29 疫苗卡位战：从埃博拉到新冠，陈薇团队的强势反超**](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247499929&idx=1&sn=4accc5831812b4a5356c8a0994630328&chksm=9b34b648ac433f5e46099c12773bc282c314850f0eb4e18c8e7589af9e1de831d587ea1fdf0f&mpshare=1&scene=1&srcid=&sharer_sharetime=1590798011054&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AplGn9FAt6EfINgr08F0gVA%3D&pass_ticket=ct3xbqa6gN7AnURLAiFB2n%2Ft071fHqsmzrQlZOI9sbg7MRorQkjRmDcO9vc0yVwU#rd) 
-![overtake](/pic/overtake.jpg)
 
 - [**2020-05-29 全球最大新冠疫苗车间首次开放，年产能可达1.2亿剂**](https://mp.weixin.qq.com/s?__biz=MzUyOTAxMjYzNQ==&mid=2247585549&idx=2&sn=b83ad494c87744de64ef6da0ff7544f1&chksm=fa644df9cd13c4eff8dfd23b707bd8f85bc7e6f09356f7b740be16cb9db5e59b0a4452e540e6&mpshare=1&scene=1&srcid=&sharer_sharetime=1590780727307&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmHdx5KDX%2BBt38K3jv4rOBo%3D&pass_ticket=ct3xbqa6gN7AnURLAiFB2n%2Ft071fHqsmzrQlZOI9sbg7MRorQkjRmDcO9vc0yVwU#rd)
-![factory](/pic/factory.jpg)
 
 - [**2020-05-26 一口气宣布针对COVID-19的三项重磅举措，默沙东终于要爆发了！**](https://mp.weixin.qq.com/s?__biz=MzA5NTExNTIxNw==&mid=2651270084&idx=1&sn=fe0bf02ffcb4577b98b90deee6e8d420&chksm=8bb7c97abcc0406c58bd52406fa4454d6f058f8222fa8456f6c4d396b5146cff41b83d748a98&mpshare=1&scene=1&srcid=&sharer_sharetime=1590558108010&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmJMbq4VV0hgN2n593TcIaY%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd) 
 
@@ -686,7 +679,6 @@
 ![DeSantis](/pic/desantis.jpg)
 
 - [**2020-05-29 病毒变异会影响新冠灭活疫苗的效果吗？专家回应来了**](https://mp.weixin.qq.com/s?__biz=MzI3NDI5MjI4OQ==&mid=2247556578&idx=3&sn=45b8d64cf5651ac90c38cd938dad33cc&chksm=eb1416ccdc639fda0eea9bb618779de5646054bfbbaea81db32baf2888a7710ab8462c6a0d02&mpshare=1&scene=1&srcid=&sharer_sharetime=1590797563281&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvdP%2FFiQJNH%2BwiuqayC7%2BHo%3D&pass_ticket=ct3xbqa6gN7AnURLAiFB2n%2Ft071fHqsmzrQlZOI9sbg7MRorQkjRmDcO9vc0yVwU#rd)
-![question](/pic/question.jpg)
 
 - [**2020-05-26 康希诺：股市大溃败，今日再大跌**](https://mp.weixin.qq.com/s?__biz=MzI4OTIzMzcwMw==&mid=2659320794&idx=1&sn=976a6ca2302762d81167834e4dfaa003&chksm=f744ed92c0336484bb5a046f386c110da0495c7f803c215894966939e3941de6910254742344&mpshare=1&scene=1&srcid=&sharer_sharetime=1590534224216&sharer_shareid=6b0d720ea116e8b159c142616be2b52e&exportkey=AkfqQfAzRgUC7uivh5%2F%2FncQ%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd) 
 
