@@ -126,6 +126,12 @@
  
 ## 治疗方案
 
+- [**2020-06-14 美国公布首个新冠肺炎放疗人体试验结果，重症有效率达80%**](https://mp.weixin.qq.com/s?__biz=MzIyOTYwNjEzMA==&mid=2247486138&idx=1&sn=51cb0a69e1b241b19328cf267c610a71&chksm=e8415d27df36d43162bbe554acf8ba4d046baf154a1ade94e1827eb4ba108e4e1a060a09cd78&mpshare=1&scene=1&srcid=&sharer_sharetime=1592161282992&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhCbobKo5YS3GCJkeQHyddw%3D&pass_ticket=mzacU2AgQ0mri8QfWr79tgOX5enMMVlqoeKgRuforS%2FjE%2BkAy%2BhQqwvz4CugcNUO#rd) &#127381;
+![radio](/pic/radio.jpg)
+
+- [**2020-06-13 瑞德西韦减缓了新冠肺炎恒河猴的疾病进展**](https://mp.weixin.qq.com/s?__biz=MzAwNTAyMDY0MQ==&mid=2652572124&idx=3&sn=99fca3f605e987417841aa215b03898c&chksm=80cca752b7bb2e444b392c6c8001b55146fa85fab9468ff324af7fd36603d14ee9bc10652fdb&mpshare=1&scene=1&srcid=&sharer_sharetime=1591962935240&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AraUB3nLzDk6sgWkVzURMpM%3D&pass_ticket=mzacU2AgQ0mri8QfWr79tgOX5enMMVlqoeKgRuforS%2FjE%2BkAy%2BhQqwvz4CugcNUO#rd) &#127381;
+![slowdown](/pic/slowdown.jpg) 
+
 - [**2020-06-01 首次证明瑞德西韦治疗中度新冠肺炎有效！为早期治疗打开一扇门**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489814&idx=1&sn=f2a0bb3c4054a6e4edeb614480c309a4&chksm=f9801353cef79a451033d66bfdafc069f632de3f8b57c4e5f3fc554eec7dff75864ca593c22c&mpshare=1&scene=1&srcid=&sharer_sharetime=1591059224684&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqWJM9BQ30L8JP%2F2dWV0h4g%3D&pass_ticket=FTuloSFNHRGZCJRqPjTBUaRr4wLXv2ZwTy%2Fu9gdqauAUrxcq79iAg8bOiVCwI4ZJ#rd)
 
 - [**2020-05-25 连花清瘟治疗新冠：离验证有效还有多远？**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655444814&idx=1&sn=5dae1264fceca3f10b45ce164b0af583&chksm=f3a6dd23c4d15435c160c723db97bee09e4af43649e3f69e386ce1a50bec36c2019cc12bd4eb&mpshare=1&scene=1&srcid=&sharer_sharetime=1590439038264&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArJnMUJX3fxtZzoINM%2FWpU8%3D&pass_ticket=lWSVTvTw6YgtdaYpMQsLSA0v%2BZzS2M6bGluMB3de04IlSpmPdDYy%2BJDKnoB0hlNp#rd)
@@ -218,32 +224,26 @@
  
 ## 氯喹专题
 
-- [**2020-06-08 氯喹究竟有无疗效，还是让试验说吧**](https://mp.weixin.qq.com/s?__biz=MjM5OTYyNzAyMA==&mid=2649953566&idx=1&sn=8991f22354226aebd93d01222f31b0eb&chksm=bf3f257d8848ac6b3b8c22be4bfdff3803667fa345f407d0054c9da9208cf9d60f030d6eb39c&mpshare=1&scene=1&srcid=&sharer_sharetime=1591667856637&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=At0TIWGJd8%2FyZlBrWZqLMrg%3D&pass_ticket=1fjbOe4rnwnJsSrQtE4ed2Tsrcb64wL%2Fv3LJ%2BztxzrZulbf5AG89%2F2NK5D0P4gKs#rd) &#127381;
+- [**2020-06-08 氯喹究竟有无疗效，还是让试验说吧**](https://mp.weixin.qq.com/s?__biz=MjM5OTYyNzAyMA==&mid=2649953566&idx=1&sn=8991f22354226aebd93d01222f31b0eb&chksm=bf3f257d8848ac6b3b8c22be4bfdff3803667fa345f407d0054c9da9208cf9d60f030d6eb39c&mpshare=1&scene=1&srcid=&sharer_sharetime=1591667856637&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=At0TIWGJd8%2FyZlBrWZqLMrg%3D&pass_ticket=1fjbOe4rnwnJsSrQtE4ed2Tsrcb64wL%2Fv3LJ%2BztxzrZulbf5AG89%2F2NK5D0P4gKs#rd) 
 ![exp](/pic/exp.jpg)
 
-- [**2020-06-07 跌宕起伏的氯喹临床试验：从心脏毒性到论文撤稿**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655445709&idx=1&sn=a872f663f973bc73fc1aa58a08cf3f9f&chksm=f3a6e0a0c4d169b6af4ea56992a14760397688bb4342490ce4d17619863805168d306160de29&mpshare=1&scene=1&srcid=&sharer_sharetime=1591454061348&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Agt%2FG8GsABqlvpzNUoVoPug%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) &#127381;
+- [**2020-06-07 跌宕起伏的氯喹临床试验：从心脏毒性到论文撤稿**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655445709&idx=1&sn=a872f663f973bc73fc1aa58a08cf3f9f&chksm=f3a6e0a0c4d169b6af4ea56992a14760397688bb4342490ce4d17619863805168d306160de29&mpshare=1&scene=1&srcid=&sharer_sharetime=1591454061348&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Agt%2FG8GsABqlvpzNUoVoPug%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) 
 ![change](/pic/change.jpg)
 
-- [**2020-06-07 抱歉！羟氯喹不是治疗新冠肺炎，而是预防感染**](https://mp.weixin.qq.com/s?__biz=MjM5NDI0ODQ5OA==&mid=2654172495&idx=2&sn=5ea8c0ebc9182b61d7ebd7f20173ae13&chksm=bd4d77128a3afe04ea3bb7c6106bafd0bf43d3c2b0bd82a3f0bd8d95372957176cda7b6bfd52&mpshare=1&scene=1&srcid=&sharer_sharetime=1591453388862&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqszFvx0y3LXR9cquvDNyZ8%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) &#127381;
+- [**2020-06-07 抱歉！羟氯喹不是治疗新冠肺炎，而是预防感染**](https://mp.weixin.qq.com/s?__biz=MjM5NDI0ODQ5OA==&mid=2654172495&idx=2&sn=5ea8c0ebc9182b61d7ebd7f20173ae13&chksm=bd4d77128a3afe04ea3bb7c6106bafd0bf43d3c2b0bd82a3f0bd8d95372957176cda7b6bfd52&mpshare=1&scene=1&srcid=&sharer_sharetime=1591453388862&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqszFvx0y3LXR9cquvDNyZ8%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) 
 ![prevent](/pic/prevent.jpg)
 
 - [**2020-06-05 新冠热门研究论文撤稿，《柳叶刀》陷入信任危机**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660933305&idx=2&sn=302c1020a828e2e2cd7b4b8867b58adc&chksm=bdd8b41e8aaf3d0818cc88ce2a3921b963634c40d606e7729b94b743a33eecd8dea324603c3f&mpshare=1&scene=1&srcid=&sharer_sharetime=1591398999569&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqF4V27EvMtETnclOvWWPjI%3D&pass_ticket=g6MdpvUiZtk4ZIZBwXG1PEXf5%2BCaCHjTK2wovZ054VHsRZoXBjjMZXJcqFCfjkvO#rd) 
-![scandal2](/pic/scaldal2.jpg)
 
 - [**2020-06-05 学界丑闻，神秘公司如何炮制氯喹试验结果戏耍顶级机构**](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247500152&idx=1&sn=a38461e1329e86f1bc01d8adcc5a049c&chksm=9b34b7a9ac433ebfa95154e594e626f94f0f8d81f1d34b948b92bab9d834e98d2f42d56b7183&mpshare=1&scene=1&srcid=&sharer_sharetime=1591357253925&sharer_shareid=96fd95eff614b1a181a8078222cac6b9&exportkey=ApdgMFV2m0Pvo2Cf%2F3Zn2Lo%3D&pass_ticket=g6MdpvUiZtk4ZIZBwXG1PEXf5%2BCaCHjTK2wovZ054VHsRZoXBjjMZXJcqFCfjkvO#rd) 
-![scandal](/pic/scandal.jpg)
 
 - [**2020-06-05 改写全球抗疫进程的文章造假被撤稿，恶劣影响却难以挽回，背后故事耐人寻味**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489919&idx=1&sn=5b3047eb470180932dffe2e45be132ec&chksm=f980133acef79a2c6501f18dfe962f9cf88d0a8b147f2b614df1a309ef77c6a3aad3daf48dde&mpshare=1&scene=1&srcid=&sharer_sharetime=1591401762335&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=An8mmjcJixOYCkqKyW2V23o%3D&pass_ticket=g6MdpvUiZtk4ZIZBwXG1PEXf5%2BCaCHjTK2wovZ054VHsRZoXBjjMZXJcqFCfjkvO#rd) 
-![story](/pic/story.jpg)
 
 - [**2020-06-04 权威期刊研究背后的数据公司疑造假，羟氯喹要逆势翻盘？**](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650471413&idx=5&sn=7a877ad1d38f5a04f50983dd44c3fe79&chksm=bef2bd45898534533b3fd52e0a2e16ec646c1e27f41b2653d1be10f7f0a9cdc4900b30199f44&mpshare=1&scene=1&srcid=&sharer_sharetime=1591300301241&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsEW8ix6r%2BP8UCm5wvDwr94%3D&pass_ticket=wT08FfmJxo5vu2LS2O0jAuL3qzRaU7Kek%2FnJ%2Fe7ZBwCIB4HjCzJkXvQzF1t%2BXxNa#rd)
-![fake](/pic/fake.jpg)
 
 - [**2020-06-03 逆转！WHO重新支持羟氯喹用于新冠肺炎患者临床研究**](https://mp.weixin.qq.com/s?__biz=MTU1OTI4NDM4MQ==&mid=2651898515&idx=2&sn=6747b78287290ae4bc4e582de69af0b4&chksm=6f2b5f61585cd67777aef62faa61e9a3d679b68b6244f413f44ccd36e7dc488d65d3141c3373&mpshare=1&scene=1&srcid=&sharer_sharetime=1591249568841&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvhXw8%2BQngdcz3Sm%2F%2BrAwdI%3D&pass_ticket=wT08FfmJxo5vu2LS2O0jAuL3qzRaU7Kek%2FnJ%2Fe7ZBwCIB4HjCzJkXvQzF1t%2BXxNa#rd)
-![newsupport](/pic/newsupport.jpg)
 
 - [**2020-06-02 A mysterious company’s coronavirus papers in top medical journals may be unraveling**](https://www.sciencemag.org/news/2020/06/mysterious-company-s-coronavirus-papers-top-medical-journals-may-be-unraveling)
-![mysterious](/pic/mysterious.jpg)
 
 - [**2020-05-29 钟南山团队逆转国外结果，氯喹治疗新冠病毒病有效**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489732&idx=1&sn=15199b865ee1912fa85e134849bcb0f7&chksm=f9801281cef79b979db166896af8ef6f8dd762445ca7732450573a59110160cf5289791a4ae8&mpshare=1&scene=1&srcid=&sharer_sharetime=1590797908928&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=ArGhg8LcdCggcc8bKa7NNIg%3D&pass_ticket=ct3xbqa6gN7AnURLAiFB2n%2Ft071fHqsmzrQlZOI9sbg7MRorQkjRmDcO9vc0yVwU#rd)
 
@@ -295,17 +295,19 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-06-07 新冠肺炎治疗性抗体又有新突破**](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MzQ4MQ==&mid=2654603342&idx=1&sn=42423517cfd28cdddd311d606c3fb23f&chksm=bd15d1d88a6258ce8aacf716b52c5db75f3e05243dbf052583db93bc4071f4ad5479af6c4107&mpshare=1&scene=1&srcid=&sharer_sharetime=1591505648603&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqMlMuySxzWoDO5PxfKdIoU%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) &#127381;
+- [**2020-06-10 冠状病毒疫苗研发进展**](https://mp.weixin.qq.com/s?__biz=MzI1NjAzODEyNQ==&mid=2651033782&idx=4&sn=5559fd612393f668c4573323a6eaaa23&chksm=f1dbf534c6ac7c229665943089eb6e44b710cda8cc79bb2bf0193205f551bd5aa04d3e21c005&mpshare=1&scene=1&srcid=&sharer_sharetime=1592141850214&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apu4Ley%2BoAmHwzgb8wbfhic%3D&pass_ticket=mzacU2AgQ0mri8QfWr79tgOX5enMMVlqoeKgRuforS%2FjE%2BkAy%2BhQqwvz4CugcNUO#rd) &#127381;
+![progress](/pic/progress.jpg)
+
+- [**2020-06-07 新冠肺炎治疗性抗体又有新突破**](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MzQ4MQ==&mid=2654603342&idx=1&sn=42423517cfd28cdddd311d606c3fb23f&chksm=bd15d1d88a6258ce8aacf716b52c5db75f3e05243dbf052583db93bc4071f4ad5479af6c4107&mpshare=1&scene=1&srcid=&sharer_sharetime=1591505648603&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqMlMuySxzWoDO5PxfKdIoU%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) 
 ![break](/pic/break.jpg)
 
-- [**2020-06-07 正式批准！新冠肺炎治疗性抗体进入临床试验**](https://mp.weixin.qq.com/s?__biz=MzI3NDI5MjI4OQ==&mid=2247558388&idx=1&sn=dc86e18f64dcd6b905c82f7bb7ab0614&chksm=eb15efdadc6266cc8bcd08bb51decc767d890d4a54ee06967a169d7a28a4c8016c30de3b3982&mpshare=1&scene=1&srcid=&sharer_sharetime=1591466036712&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlK4wd4Me2%2B9M5xG3FN4NLc%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) &#127381;
+- [**2020-06-07 正式批准！新冠肺炎治疗性抗体进入临床试验**](https://mp.weixin.qq.com/s?__biz=MzI3NDI5MjI4OQ==&mid=2247558388&idx=1&sn=dc86e18f64dcd6b905c82f7bb7ab0614&chksm=eb15efdadc6266cc8bcd08bb51decc767d890d4a54ee06967a169d7a28a4c8016c30de3b3982&mpshare=1&scene=1&srcid=&sharer_sharetime=1591466036712&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AlK4wd4Me2%2B9M5xG3FN4NLc%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd)
 ![official](/pic/official.jpg)
 
-- [**2020-06-07 新冠抗体药上海首例受试者给药，预计7月底前出结果**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660933777&idx=1&sn=ea31c0412fd13484a1a06718e3611dd7&chksm=bdd88a368aaf0320f01be6024ad4e607ba2e039030c1c0769b6d4e1eee7bfb01433eb2015a4e&mpshare=1&scene=1&srcid=&sharer_sharetime=1591561739874&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aok9vO07hLuVrgkbaZ1ucmQ%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) &#127381;
+- [**2020-06-07 新冠抗体药上海首例受试者给药，预计7月底前出结果**](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2660933777&idx=1&sn=ea31c0412fd13484a1a06718e3611dd7&chksm=bdd88a368aaf0320f01be6024ad4e607ba2e039030c1c0769b6d4e1eee7bfb01433eb2015a4e&mpshare=1&scene=1&srcid=&sharer_sharetime=1591561739874&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aok9vO07hLuVrgkbaZ1ucmQ%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd)
 ![antibody](/pic/antibody.jpg)
 
 - [**2020-06-04 Oxford, AstraZeneca Covid-19 deal reinforces ‘vaccine sovereignty.’ We need a people’s vaccine instead**](https://www.statnews.com/2020/06/04/oxford-astrazeneca-covid-19-deal-reinforces-vaccine-sovereignty/)
-![oxford](/pic/oxford.jpg)
 
 - [**2020-06-01 新冠疫苗报道眼花缭乱？临床试验告诉了我们什么**](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655444982&idx=1&sn=11563a07aecd3931586a98964aa7b609&chksm=f3a6dd9bc4d1548db5fdacc1bab78d97536c3a64c428cd76ee1c0952211a8c6c78985e269226&mpshare=1&scene=1&srcid=&sharer_sharetime=1590891823274&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhxaXoEWNOzZ6us8PaI9BN0%3D&pass_ticket=FTuloSFNHRGZCJRqPjTBUaRr4wLXv2ZwTy%2Fu9gdqauAUrxcq79iAg8bOiVCwI4ZJ#rd) 
 
@@ -481,14 +483,12 @@
  
 ## 研究进展
 
-- [**2020-06-09 高福、冯子健联合发表论文：中国或面临新冠再次流行风险**](https://mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247575372&idx=1&sn=5c12e81a4705009977b44cc6faad4f6c&chksm=fc5c0e12cb2b87041820149dc9bb2b06afd6a654990f10d46620fc29af14d48c7e2add3575e9&mpshare=1&scene=1&srcid=&sharer_sharetime=1591722478440&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah3JowmJxCZZuAAHaByNoxA%3D&pass_ticket=1fjbOe4rnwnJsSrQtE4ed2Tsrcb64wL%2Fv3LJ%2BztxzrZulbf5AG89%2F2NK5D0P4gKs#rd) &#127381;
+- [**2020-06-09 高福、冯子健联合发表论文：中国或面临新冠再次流行风险**](https://mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247575372&idx=1&sn=5c12e81a4705009977b44cc6faad4f6c&chksm=fc5c0e12cb2b87041820149dc9bb2b06afd6a654990f10d46620fc29af14d48c7e2add3575e9&mpshare=1&scene=1&srcid=&sharer_sharetime=1591722478440&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ah3JowmJxCZZuAAHaByNoxA%3D&pass_ticket=1fjbOe4rnwnJsSrQtE4ed2Tsrcb64wL%2Fv3LJ%2BztxzrZulbf5AG89%2F2NK5D0P4gKs#rd)
 ![again](/pic/again.jpg)
 
 - [**2020-06-04 SARS-CoV-2 looks like a hybrid of viruses from two different species**](https://arstechnica.com/science/2020/06/sars-cov-2-looks-like-a-hybrid-of-viruses-from-two-different-species/)
-![hybrid](/pic/hybrid.jpg)
 
 - [**2020-06-03 FDA局长Stephen Hahn：将永久采用新冠肺炎期间的加速研发措施**](https://mp.weixin.qq.com/s?__biz=MzI5NzY0NDQyNQ==&mid=2247525625&idx=1&sn=e703657e33976c19cd741b6b6f2ecab3&chksm=ecb3dc1fdbc4550919cfd96f7da1f42f74c3234883e5ea35fe075e5fed6a691f6c8595768b31&mpshare=1&scene=1&srcid=&sharer_sharetime=1591225714855&sharer_shareid=6079326e0dfa026e8e9fcc86a17f904d&exportkey=Avz6KlkDRxtUIEV53vyVsNs%3D&pass_ticket=wT08FfmJxo5vu2LS2O0jAuL3qzRaU7Kek%2FnJ%2Fe7ZBwCIB4HjCzJkXvQzF1t%2BXxNa#rd) 
-![stephen](/pic/stephen.jpg)
 
 - [**2020-05-28 美国新冠病死超10万人，已紧急启动41项研究，大数据分析揭示其秘密**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489698&idx=1&sn=2c04229e9882b4d1f041122f9f7fe36d&chksm=f98012e7cef79bf1b93a5270a2c706341b093aec7603673c5c0508513c3f9bd26027f9ae7466&mpshare=1&scene=1&srcid=&sharer_sharetime=1590710012346&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AjYiE8XRCAn3uQS0PH89EMY%3D&pass_ticket=ct3xbqa6gN7AnURLAiFB2n%2Ft071fHqsmzrQlZOI9sbg7MRorQkjRmDcO9vc0yVwU#rd)
 
@@ -675,8 +675,10 @@
  
 ## 其他
 
+- [**2020-06-14 唐驳虎：为什么是新发地？科学调查之后的真相**](https://mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2247519811&idx=1&sn=87b91d65eeb03fbffe83955fd3ff70ab&chksm=fd98a74bcaef2e5daae2bd988d0a78c1589ef31093a43c83385fc8e118891c8a8181086f2408&mpshare=1&scene=1&srcid=&sharer_sharetime=1592165919726&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqztYCZEdbRmI01WBsbw5Wg%3D&pass_ticket=mzacU2AgQ0mri8QfWr79tgOX5enMMVlqoeKgRuforS%2FjE%2BkAy%2BhQqwvz4CugcNUO#rd) &#127381;
+![xinfadi](/pic/xinfadi.jpg)
+
 - [**2020-06-01 Despite Media Narrative, DeSantis Was Right and Cuomo Was Wrong**](https://www.newsweek.com/despite-media-narrative-desantis-was-right-cuomo-was-wrong-opinion-1506950) 
-![DeSantis](/pic/desantis.jpg)
 
 - [**2020-05-29 病毒变异会影响新冠灭活疫苗的效果吗？专家回应来了**](https://mp.weixin.qq.com/s?__biz=MzI3NDI5MjI4OQ==&mid=2247556578&idx=3&sn=45b8d64cf5651ac90c38cd938dad33cc&chksm=eb1416ccdc639fda0eea9bb618779de5646054bfbbaea81db32baf2888a7710ab8462c6a0d02&mpshare=1&scene=1&srcid=&sharer_sharetime=1590797563281&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AvdP%2FFiQJNH%2BwiuqayC7%2BHo%3D&pass_ticket=ct3xbqa6gN7AnURLAiFB2n%2Ft071fHqsmzrQlZOI9sbg7MRorQkjRmDcO9vc0yVwU#rd)
 
