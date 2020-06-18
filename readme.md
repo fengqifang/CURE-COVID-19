@@ -126,10 +126,13 @@
  
 ## 治疗方案
 
-- [**2020-06-14 美国公布首个新冠肺炎放疗人体试验结果，重症有效率达80%**](https://mp.weixin.qq.com/s?__biz=MzIyOTYwNjEzMA==&mid=2247486138&idx=1&sn=51cb0a69e1b241b19328cf267c610a71&chksm=e8415d27df36d43162bbe554acf8ba4d046baf154a1ade94e1827eb4ba108e4e1a060a09cd78&mpshare=1&scene=1&srcid=&sharer_sharetime=1592161282992&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhCbobKo5YS3GCJkeQHyddw%3D&pass_ticket=mzacU2AgQ0mri8QfWr79tgOX5enMMVlqoeKgRuforS%2FjE%2BkAy%2BhQqwvz4CugcNUO#rd) &#127381;
+- [**2020-06-16 Coronavirus: Dexamethasone proves first life-saving drug**](https://www.bbc.com/news/health-53061281?at_custom3=BBC%20News&at_custom1=) &#127381;
+![dexa](/pic/dexa.jpg)
+
+- [**2020-06-14 美国公布首个新冠肺炎放疗人体试验结果，重症有效率达80%**](https://mp.weixin.qq.com/s?__biz=MzIyOTYwNjEzMA==&mid=2247486138&idx=1&sn=51cb0a69e1b241b19328cf267c610a71&chksm=e8415d27df36d43162bbe554acf8ba4d046baf154a1ade94e1827eb4ba108e4e1a060a09cd78&mpshare=1&scene=1&srcid=&sharer_sharetime=1592161282992&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhCbobKo5YS3GCJkeQHyddw%3D&pass_ticket=mzacU2AgQ0mri8QfWr79tgOX5enMMVlqoeKgRuforS%2FjE%2BkAy%2BhQqwvz4CugcNUO#rd)
 ![radio](/pic/radio.jpg)
 
-- [**2020-06-13 瑞德西韦减缓了新冠肺炎恒河猴的疾病进展**](https://mp.weixin.qq.com/s?__biz=MzAwNTAyMDY0MQ==&mid=2652572124&idx=3&sn=99fca3f605e987417841aa215b03898c&chksm=80cca752b7bb2e444b392c6c8001b55146fa85fab9468ff324af7fd36603d14ee9bc10652fdb&mpshare=1&scene=1&srcid=&sharer_sharetime=1591962935240&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AraUB3nLzDk6sgWkVzURMpM%3D&pass_ticket=mzacU2AgQ0mri8QfWr79tgOX5enMMVlqoeKgRuforS%2FjE%2BkAy%2BhQqwvz4CugcNUO#rd) &#127381;
+- [**2020-06-13 瑞德西韦减缓了新冠肺炎恒河猴的疾病进展**](https://mp.weixin.qq.com/s?__biz=MzAwNTAyMDY0MQ==&mid=2652572124&idx=3&sn=99fca3f605e987417841aa215b03898c&chksm=80cca752b7bb2e444b392c6c8001b55146fa85fab9468ff324af7fd36603d14ee9bc10652fdb&mpshare=1&scene=1&srcid=&sharer_sharetime=1591962935240&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AraUB3nLzDk6sgWkVzURMpM%3D&pass_ticket=mzacU2AgQ0mri8QfWr79tgOX5enMMVlqoeKgRuforS%2FjE%2BkAy%2BhQqwvz4CugcNUO#rd)
 ![slowdown](/pic/slowdown.jpg) 
 
 - [**2020-06-01 首次证明瑞德西韦治疗中度新冠肺炎有效！为早期治疗打开一扇门**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247489814&idx=1&sn=f2a0bb3c4054a6e4edeb614480c309a4&chksm=f9801353cef79a451033d66bfdafc069f632de3f8b57c4e5f3fc554eec7dff75864ca593c22c&mpshare=1&scene=1&srcid=&sharer_sharetime=1591059224684&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqWJM9BQ30L8JP%2F2dWV0h4g%3D&pass_ticket=FTuloSFNHRGZCJRqPjTBUaRr4wLXv2ZwTy%2Fu9gdqauAUrxcq79iAg8bOiVCwI4ZJ#rd)
@@ -224,6 +227,15 @@
  
 ## 氯喹专题
 
+- [**2020-06-17 详解FDA关于羟基氯喹的新政策 -- 别上媒体当，氯喹“兄弟”今后可随时用于轻症新冠患者**](https://mp.weixin.qq.com/s?__biz=MzAwMTkxNTQ0MA==&mid=2247493302&idx=1&sn=3626357cb0680c291a306e8025393d42&chksm=9ad0c9e9ada740ff1f310d788173509d4a938e6e3799bfdeb4f22a81d4a0c997b99aee7dae9c&mpshare=1&scene=1&srcid=&sharer_sharetime=1592454680281&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AjpUgKrVN%2BwAJEB1HyEchSw%3D&pass_ticket=z7hAKE0tDfQOuJOSyFVFgdAvJ9JwV%2BbHdB3RR86yHGFhYOm16eRQg8%2BoXXNkHUgd#rd) &#127381;
+![wrong](/pic/wrong.jpg)
+
+- [**2020-06-16 美国FDA撤销对羟氯喹/氯喹治疗COVID-19的紧急使用授权；完整回顾，引以为鉴**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247490179&idx=1&sn=ad7aeef115d41bfe158b8672e1075ef0&chksm=f98010c6cef799d020623cd8176c62cc9b360bc2f8fdb8e0848f5aa45d6ec50bfed6b948d6fb&mpshare=1&scene=1&srcid=&sharer_sharetime=1592268936755&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AuoEN9F%2F4J5Y9vt4UXbDQtU%3D&pass_ticket=z7hAKE0tDfQOuJOSyFVFgdAvJ9JwV%2BbHdB3RR86yHGFhYOm16eRQg8%2BoXXNkHUgd#rd) &#127381;
+![removal1](/pic/removal1.jpg)
+
+- [**2020-06-15 撤消氯喹/羟氯喹治疗COVID-19紧急使用授权，FDA详述四大原因**](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649995213&idx=1&sn=d8ca0461e0f4373c05488a962389dc3a&chksm=82e9314db59eb85b85f2e6eb52af493413dc44fcc386ae734082bea318cfed41204b3224e296&mpshare=1&scene=1&srcid=&sharer_sharetime=1592267194111&sharer_shareid=723fa425a7cb76b6eae250d7dbe341c2&exportkey=ArmmHbFaH6mD1XAkwIr2vnE%3D&pass_ticket=z7hAKE0tDfQOuJOSyFVFgdAvJ9JwV%2BbHdB3RR86yHGFhYOm16eRQg8%2BoXXNkHUgd#rd) &#127381;
+![removal](/pic/removal.jpg)
+
 - [**2020-06-08 氯喹究竟有无疗效，还是让试验说吧**](https://mp.weixin.qq.com/s?__biz=MjM5OTYyNzAyMA==&mid=2649953566&idx=1&sn=8991f22354226aebd93d01222f31b0eb&chksm=bf3f257d8848ac6b3b8c22be4bfdff3803667fa345f407d0054c9da9208cf9d60f030d6eb39c&mpshare=1&scene=1&srcid=&sharer_sharetime=1591667856637&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=At0TIWGJd8%2FyZlBrWZqLMrg%3D&pass_ticket=1fjbOe4rnwnJsSrQtE4ed2Tsrcb64wL%2Fv3LJ%2BztxzrZulbf5AG89%2F2NK5D0P4gKs#rd) 
 ![exp](/pic/exp.jpg)
 
@@ -295,7 +307,10 @@
 
 ## 疫苗相关／新药开发
 
-- [**2020-06-10 冠状病毒疫苗研发进展**](https://mp.weixin.qq.com/s?__biz=MzI1NjAzODEyNQ==&mid=2651033782&idx=4&sn=5559fd612393f668c4573323a6eaaa23&chksm=f1dbf534c6ac7c229665943089eb6e44b710cda8cc79bb2bf0193205f551bd5aa04d3e21c005&mpshare=1&scene=1&srcid=&sharer_sharetime=1592141850214&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apu4Ley%2BoAmHwzgb8wbfhic%3D&pass_ticket=mzacU2AgQ0mri8QfWr79tgOX5enMMVlqoeKgRuforS%2FjE%2BkAy%2BhQqwvz4CugcNUO#rd) &#127381;
+- [**2020-06-16 你想接种全球首例新冠灭活疫苗吗？Ⅰ/Ⅱ期临床研究已揭盲：疫苗组接种者均产生高滴度抗体**](https://mp.weixin.qq.com/s?__biz=MjM5OTExMjYwMA==&mid=522348537&idx=1&sn=12a3e61daeb874892ec1a28330686332&chksm=3c16bd0e0b61341806378a39ac1b07a4216ce1b97177aae154944bc0e5977a2d01c92bf5eb65&mpshare=1&scene=1&srcid=&sharer_sharetime=1592330707198&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmaPDIvhU1%2F7AarVeOJizoM%3D&pass_ticket=z7hAKE0tDfQOuJOSyFVFgdAvJ9JwV%2BbHdB3RR86yHGFhYOm16eRQg8%2BoXXNkHUgd#rd) &#127381;
+![vacinne12](/pic/vacinne12.jpg)
+
+- [**2020-06-10 冠状病毒疫苗研发进展**](https://mp.weixin.qq.com/s?__biz=MzI1NjAzODEyNQ==&mid=2651033782&idx=4&sn=5559fd612393f668c4573323a6eaaa23&chksm=f1dbf534c6ac7c229665943089eb6e44b710cda8cc79bb2bf0193205f551bd5aa04d3e21c005&mpshare=1&scene=1&srcid=&sharer_sharetime=1592141850214&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Apu4Ley%2BoAmHwzgb8wbfhic%3D&pass_ticket=mzacU2AgQ0mri8QfWr79tgOX5enMMVlqoeKgRuforS%2FjE%2BkAy%2BhQqwvz4CugcNUO#rd)
 ![progress](/pic/progress.jpg)
 
 - [**2020-06-07 新冠肺炎治疗性抗体又有新突破**](https://mp.weixin.qq.com/s?__biz=MjM5NzM0MzQ4MQ==&mid=2654603342&idx=1&sn=42423517cfd28cdddd311d606c3fb23f&chksm=bd15d1d88a6258ce8aacf716b52c5db75f3e05243dbf052583db93bc4071f4ad5479af6c4107&mpshare=1&scene=1&srcid=&sharer_sharetime=1591505648603&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqMlMuySxzWoDO5PxfKdIoU%3D&pass_ticket=Y%2BSWh4Xjikz2ns5tSyLly7LjKvr4ewW7Q2T365iu1XF9Og5pusx4KRmCFwrP%2BvxB#rd) 
@@ -675,7 +690,10 @@
  
 ## 其他
 
-- [**2020-06-14 唐驳虎：为什么是新发地？科学调查之后的真相**](https://mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2247519811&idx=1&sn=87b91d65eeb03fbffe83955fd3ff70ab&chksm=fd98a74bcaef2e5daae2bd988d0a78c1589ef31093a43c83385fc8e118891c8a8181086f2408&mpshare=1&scene=1&srcid=&sharer_sharetime=1592165919726&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqztYCZEdbRmI01WBsbw5Wg%3D&pass_ticket=mzacU2AgQ0mri8QfWr79tgOX5enMMVlqoeKgRuforS%2FjE%2BkAy%2BhQqwvz4CugcNUO#rd) &#127381;
+- [**2020-06-17 拯救绝症猫咪的神药，许是治疗新冠的真正特效药**](https://mp.weixin.qq.com/s?__biz=MzU0ODE1NDE0NQ==&mid=2247536063&idx=2&sn=409427d7a1e7bcd1567d9ebaa52c3e08&chksm=fb4173f1cc36fae71e4ce17e0494a014bfc4c7fd75ed83b5688447b98ea94762bd3156886946&mpshare=1&scene=1&srcid=&sharer_sharetime=1592411555336&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AkZjqLfV9iW1isI%2F9PcbZFA%3D&pass_ticket=z7hAKE0tDfQOuJOSyFVFgdAvJ9JwV%2BbHdB3RR86yHGFhYOm16eRQg8%2BoXXNkHUgd#rd) &#127381;
+![cat](/pic/cat.jpg)
+
+- [**2020-06-14 唐驳虎：为什么是新发地？科学调查之后的真相**](https://mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2247519811&idx=1&sn=87b91d65eeb03fbffe83955fd3ff70ab&chksm=fd98a74bcaef2e5daae2bd988d0a78c1589ef31093a43c83385fc8e118891c8a8181086f2408&mpshare=1&scene=1&srcid=&sharer_sharetime=1592165919726&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AqztYCZEdbRmI01WBsbw5Wg%3D&pass_ticket=mzacU2AgQ0mri8QfWr79tgOX5enMMVlqoeKgRuforS%2FjE%2BkAy%2BhQqwvz4CugcNUO#rd)
 ![xinfadi](/pic/xinfadi.jpg)
 
 - [**2020-06-01 Despite Media Narrative, DeSantis Was Right and Cuomo Was Wrong**](https://www.newsweek.com/despite-media-narrative-desantis-was-right-cuomo-was-wrong-opinion-1506950) 
