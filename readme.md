@@ -691,6 +691,9 @@
  
 ## 其他
 
+- [**2020-06-26 The Shape of Epidemics**](http://bostonreview.net/science-nature/david-s-jones-stefan-helmreich-shape-epidemics#.XvX1o1NNzR4.twitter) &#127381;
+![pattern](/pic/pattern.jpg)
+
 - [**2020-06-25 CDC Head Estimates U.S. Coronavirus Cases Might be 10 Times Higher Than Data Show**](https://time.com/5859790/cdc-coronavirus-estimates/) &#127381;
 ![cdc10](/pic/cdc10.jpg)
 
