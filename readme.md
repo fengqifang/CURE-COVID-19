@@ -714,6 +714,7 @@
 ## 其他
 
 - [**2020-07-01 巴基斯坦，卖血**](https://mp.weixin.qq.com/s?__biz=MzI1ODUzNjQ1Mw==&mid=2247527997&idx=2&sn=2d63ed1f6998227de7b1244e52c82ddb&chksm=ea048b57dd7302411d0960ec287e1e262eeb1baae2b9c81b5ac4f58cdc5dc0b5050712453a8a&mpshare=1&scene=1&srcid=&sharer_sharetime=1593712261260&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsvlmTxIgG%2Fuq77zuiGYWG0%3D&pass_ticket=HxQK0nEHgAbWo8QZNlVpNMPCIJ9FOYSOwWyK28GBZXXIoq7litOkCDoFCVRh0Vff&wx_header=0#rd) &#127381;
+
 ![巴基斯坦](/pic/pakistan.jpg)
 
 - [**2020-06-26 The Shape of Epidemics**](http://bostonreview.net/science-nature/david-s-jones-stefan-helmreich-shape-epidemics#.XvX1o1NNzR4.twitter)
