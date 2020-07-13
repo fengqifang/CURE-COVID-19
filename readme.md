@@ -129,7 +129,9 @@
 - [**2020-07-10 瑞德西韦再变脸，降低重症新冠肺炎死亡风险达62%**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247490922&idx=1&sn=7a935c6e76d6513519e5333b8bae117d&chksm=f980172fcef79e39ad0fe6b02baa6fb06ba6eed2879f2e613f75042d097034ca5b01995c3100&mpshare=1&scene=1&srcid=0711VYdNK3yZtNtxdxlFneyi&sharer_sharetime=1594476257624&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AgbJSM%2B%2BUqIG4BqKEGeq2Mo%3D&pass_ticket=3QYp3BEr%2B7oOJXUZHG3a8BxjPfHZ%2BaP7ZAz8vKSt9gvn4ss3%2Bt%2Bs60wUBmmhtq8f&wx_header=0#rd) &#127381;
 ![62](/pic/62.jpg)
 
+
 - [**2020-07-06 欧盟委员会批准瑞德西韦治疗新冠肺炎**](https://mp.weixin.qq.com/s?__biz=MzIzNzQwMDc2MQ==&mid=2247497619&idx=4&sn=3ce7543bbcd366eb19e01e47215f1163&chksm=e8cb9045dfbc1953798e0f13a9ff87063fb122f5730017b9dc81297e8fc8f1da37cf3a589da9&mpshare=1&scene=1&srcid=0706tAKX4f0bW8l0TslWX0u1&sharer_sharetime=1593975695406&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AoRYmOG9c1bla4FF5nkPHMY%3D&pass_ticket=3QYp3BEr%2B7oOJXUZHG3a8BxjPfHZ%2BaP7ZAz8vKSt9gvn4ss3%2Bt%2Bs60wUBmmhtq8f&wx_header=0#rd) &#127381;
+
 ![euro](/pic/euro.jpg)
 
 - [**2020-06-21 印度批准首个新冠肺炎治疗药物——法维拉韦**](https://mp.weixin.qq.com/s?__biz=MzU2MTcxOTAwMw==&mid=2247499453&idx=2&sn=fbd8d5bd7ba051297ed8af250be24602&chksm=fc76cd09cb01441fcc80f0609603af3f1778d82486eddd8f1b73f6061a980d28fb9d8e019e8e&mpshare=1&scene=1&srcid=&sharer_sharetime=1592744764758&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Aj168Ve84hc1cMUYPnufwiI%3D&pass_ticket=ZoE2JDy3ruPuHzkT%2BejNpHwuGOnZn0srBIdZEVDwXspGey99Hgi05q5L1iP%2B9coH#rd)
