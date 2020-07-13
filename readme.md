@@ -522,15 +522,19 @@
 ## 研究进展
 
 - [**2020-07-12 JAMA发表迄今最全面的COVID-19教科书式综述**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247490968&idx=1&sn=6763e7403b8f959de3ff6e47aa97ca5b&chksm=f98017ddcef79ecb38c9ee9b6fbb47bf25e3dd7cd48ad24834c2a2097cbac9edf1cb4045452e&mpshare=1&scene=1&srcid=0713HpB8MLXc0C5r08oZ3Wk0&sharer_sharetime=1594605600812&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AkdkrJTurVZ5tVBahKttFQg%3D&pass_ticket=3QYp3BEr%2B7oOJXUZHG3a8BxjPfHZ%2BaP7ZAz8vKSt9gvn4ss3%2Bt%2Bs60wUBmmhtq8f&wx_header=0#rd) &#127381;
+
 ![jamareview](/pic/javareview.jpg)
 
+
 - [**2020-07-10 新冠最新发现！1700万人数据揭示新冠肺炎相关死亡的影响因素，男性、高龄、糖尿病和非白人族裔均是死亡高危因素**](https://mp.weixin.qq.com/s?__biz=MzA4MjA2MDI5OQ==&mid=2659491340&idx=1&sn=12112e8e9861221331df0be23cb8eb86&chksm=84fb4b68b38cc27e0bb85c4a13a6444b13311fd86248db060a9ae4e04354ce8ed1510c21b7f4&mpshare=1&scene=1&srcid=0712rnERVXxGlHZUXgCt29oP&sharer_sharetime=1594492577873&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ao3cFl3tb1AUzWBDZRN0umw%3D&pass_ticket=3QYp3BEr%2B7oOJXUZHG3a8BxjPfHZ%2BaP7ZAz8vKSt9gvn4ss3%2Bt%2Bs60wUBmmhtq8f&wx_header=0#rd) &#127381;
+
 ![1700](/pic/1700.jpg)
 
 - [**2020-07-06 耶鲁大学血液学团队证明：“新冠”作为“血管内皮疾病”，应该可防可治！**](https://mp.weixin.qq.com/s?__biz=MzI5NTc5MTI3Nw==&mid=2247484782&idx=1&sn=bca84f703156ea5bcc347eae8ac097ef&chksm=ec4f7aacdb38f3ba9609cd073d4be446081ae0d57d8dbf256f3e330532a57c35ba48bd494b3b&mpshare=1&scene=1&srcid=0704JZjI4IgBrl0gnz1EZBPA&sharer_sharetime=1594244263326&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Arv1SLsgiTtODQtDn9Ok3nE%3D&pass_ticket=3QYp3BEr%2B7oOJXUZHG3a8BxjPfHZ%2BaP7ZAz8vKSt9gvn4ss3%2Bt%2Bs60wUBmmhtq8f&wx_header=0#rd) &#127381;
 ![yale1](/pic/yale1.jpg)
 
 - [**2020-07-06 耶鲁大学与NBA合作开展新冠病毒检测研究，验证无需RNA提取的新冠病毒唾液检测方法**](https://mp.weixin.qq.com/s?__biz=MzA5NTYzMzAyNQ==&mid=2650201324&idx=1&sn=b4203cd4b43061aa6ccd299b0b0d8d57&chksm=88be1702bfc99e140875cc27b8d99c353430ba40404dd8379cd3c1e846f571c0ab5576933666&mpshare=1&scene=1&srcid=0706179zgdHp4kWDN9lzEQPX&sharer_sharetime=1593994105139&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiCOiHG6PKAgK5P7iAv%2BlKo%3D&pass_ticket=3QYp3BEr%2B7oOJXUZHG3a8BxjPfHZ%2BaP7ZAz8vKSt9gvn4ss3%2Bt%2Bs60wUBmmhtq8f&wx_header=0#rd) &#127381;
+
 ![yale](/pic/yale.jpg)
 
 - [**2020-07-02 中性粒细胞胞外陷阱或是导致COVID-19并发症的罪魁祸首！**](https://mp.weixin.qq.com/s?__biz=MjM5OTU3NDQ5Mg==&mid=2652819749&idx=1&sn=78149b7f5b50af3716902fbf34068fa7&chksm=bcd31f968ba496807255aeef509cb933b3ee899dee2537ad4cc82140d3c7f3077782abb6a2df&mpshare=1&scene=1&srcid=&sharer_sharetime=1593744929759&sharer_shareid=2aec247612647f7d97693cf2981b8768&exportkey=AmSbEkk%2B49G1qsSDmkBRd7Y%3D&pass_ticket=HxQK0nEHgAbWo8QZNlVpNMPCIJ9FOYSOwWyK28GBZXXIoq7litOkCDoFCVRh0Vff&wx_header=0#rd)
