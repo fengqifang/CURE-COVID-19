@@ -311,10 +311,12 @@
 ## 疫苗相关／新药开发
 
 - [**2020-07-08 美国4.5亿美元买断再生元新冠双抗体鸡尾酒疗法早期供应**](https://mp.weixin.qq.com/s?__biz=MzU1NTg4OTM3Mg==&mid=2247499454&idx=1&sn=f421cd261a2c503496ec19100febbb42&chksm=fbcfd90dccb8501b20b812e478a27b5cc3386fe65942452ac2d5bba16b4ea4f139954c9a2975&mpshare=1&scene=1&srcid=0708n2NRPgU92mr1UlubpGK8&sharer_sharetime=1594213515515&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ajph8J1x9CeM0AzrfpbLc1o%3D&pass_ticket=3QYp3BEr%2B7oOJXUZHG3a8BxjPfHZ%2BaP7ZAz8vKSt9gvn4ss3%2Bt%2Bs60wUBmmhtq8f&wx_header=0#rd) &#127381;
+
 ![regn](/pic/regn.jpg)
 
 
 - [**2020-07-06 疫苗研究重要进展！**](https://mp.weixin.qq.com/s?__biz=MzI5NTI5NDI0Mw==&mid=2247493015&idx=1&sn=3fbbe3d01bb8e3f96b674bc05272dffc&chksm=ec5761dbdb20e8cdaace7ae80dd4b8de8c1645e0438fd4dcb01bc24f1c50242d2ee66b6f3603&mpshare=1&scene=1&srcid=0705zUKZcfnBrQb8sOw2OXAs&sharer_sharetime=1593884269019&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtgNemnU3h5IfpAgERs142c%3D&pass_ticket=3QYp3BEr%2B7oOJXUZHG3a8BxjPfHZ%2BaP7ZAz8vKSt9gvn4ss3%2Bt%2Bs60wUBmmhtq8f&wx_header=0#rd) &#127381;
+
 ![progress](/pic/newprogress.jpg)
 
 - [**2020-07-03 Tesla Filed a Joint Patent With CureVac For COVID-19 Vaccine Research**](https://www.tesmanian.com/blogs/tesmanian-blog/patent-1)
