@@ -232,8 +232,7 @@
  
 ## 氯喹专题
 
-- [**2020-07-02 Hydroxychloroquine lowers COVID-19 death rate, Henry Ford Health study finds**](https://amp.detroitnews.com/amp/5365090002?__twitter_impression=true) &#127381;
-![lower](/pic/lower.jpg)
+- [**2020-07-02 Hydroxychloroquine lowers COVID-19 death rate, Henry Ford Health study finds**](https://amp.detroitnews.com/amp/5365090002?__twitter_impression=true)
 
 - [**2020-06-17 详解FDA关于羟基氯喹的新政策 -- 别上媒体当，氯喹“兄弟”今后可随时用于轻症新冠患者**](https://mp.weixin.qq.com/s?__biz=MzAwMTkxNTQ0MA==&mid=2247493302&idx=1&sn=3626357cb0680c291a306e8025393d42&chksm=9ad0c9e9ada740ff1f310d788173509d4a938e6e3799bfdeb4f22a81d4a0c997b99aee7dae9c&mpshare=1&scene=1&srcid=&sharer_sharetime=1592454680281&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AjpUgKrVN%2BwAJEB1HyEchSw%3D&pass_ticket=z7hAKE0tDfQOuJOSyFVFgdAvJ9JwV%2BbHdB3RR86yHGFhYOm16eRQg8%2BoXXNkHUgd#rd) 
 
@@ -312,25 +311,19 @@
 - [**2020-07-08 美国4.5亿美元买断再生元新冠双抗体鸡尾酒疗法早期供应**](https://mp.weixin.qq.com/s?__biz=MzU1NTg4OTM3Mg==&mid=2247499454&idx=1&sn=f421cd261a2c503496ec19100febbb42&chksm=fbcfd90dccb8501b20b812e478a27b5cc3386fe65942452ac2d5bba16b4ea4f139954c9a2975&mpshare=1&scene=1&srcid=0708n2NRPgU92mr1UlubpGK8&sharer_sharetime=1594213515515&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ajph8J1x9CeM0AzrfpbLc1o%3D&pass_ticket=3QYp3BEr%2B7oOJXUZHG3a8BxjPfHZ%2BaP7ZAz8vKSt9gvn4ss3%2Bt%2Bs60wUBmmhtq8f&wx_header=0#rd) &#127381;
 ![regn](/pic/regn.jpg)
 
+
 - [**2020-07-06 疫苗研究重要进展！**](https://mp.weixin.qq.com/s?__biz=MzI5NTI5NDI0Mw==&mid=2247493015&idx=1&sn=3fbbe3d01bb8e3f96b674bc05272dffc&chksm=ec5761dbdb20e8cdaace7ae80dd4b8de8c1645e0438fd4dcb01bc24f1c50242d2ee66b6f3603&mpshare=1&scene=1&srcid=0705zUKZcfnBrQb8sOw2OXAs&sharer_sharetime=1593884269019&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtgNemnU3h5IfpAgERs142c%3D&pass_ticket=3QYp3BEr%2B7oOJXUZHG3a8BxjPfHZ%2BaP7ZAz8vKSt9gvn4ss3%2Bt%2Bs60wUBmmhtq8f&wx_header=0#rd) &#127381;
 ![progress](/pic/newprogress.jpg)
 
 - [**2020-07-03 Tesla Filed a Joint Patent With CureVac For COVID-19 Vaccine Research**](https://www.tesmanian.com/blogs/tesmanian-blog/patent-1)
-![tesla](/pic/tesla.jpg)
 
 - [**2020-07-02 成功了！新冠克星终于来了！疫苗开始使用**](https://mp.weixin.qq.com/s?__biz=MzIwMTQ3MDc4Mw==&mid=2247506924&idx=1&sn=cd798acdd499066708d963c4cabd400f&chksm=96effdbca19874aa8d3e543d0e839d4728b8a629ba0d5579b689746a723a00539f95ec170d5e&mpshare=1&scene=1&srcid=&sharer_sharetime=1593667995305&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AhK3MizhbSksQhqS4wPLGSs%3D&pass_ticket=HxQK0nEHgAbWo8QZNlVpNMPCIJ9FOYSOwWyK28GBZXXIoq7litOkCDoFCVRh0Vff&wx_header=0#rd) 
-![apply](/pic/apply.jpg)
-
 
 - [**2020-06-29 康希诺新冠疫苗获批解放军内部使用**](https://mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653352750&idx=4&sn=adc33e164ac32d1bfbcabdedb2b413e0&chksm=bd6eb9368a193020fc99c763b628ef7572b4d28854a840b102c1f1ca22287c4472e61117052d&mpshare=1&scene=1&srcid=&sharer_sharetime=1593413967148&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AmPDCKpRfuUUqoYj%2BPXCrdQ%3D&pass_ticket=HxQK0nEHgAbWo8QZNlVpNMPCIJ9FOYSOwWyK28GBZXXIoq7litOkCDoFCVRh0Vff&wx_header=0#rd) 
 
-![pla](/pic/pla.jpg)
-
 - [**2020-06-28 全球确诊破1000万后，新冠疫苗炼成之路还有多远**](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651678432&idx=3&sn=f8a0908a1ca0a3185cc833aa76589696&chksm=bd60fb5c8a17724a73bdeb6881eb55f2e97d71c9110cf36752b6e3cb009cef37de6625dc7fed&mpshare=1&scene=1&srcid=&sharer_sharetime=1593364933786&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AjtC5HxzXcp5vrC2ttm6Fmk%3D&pass_ticket=HxQK0nEHgAbWo8QZNlVpNMPCIJ9FOYSOwWyK28GBZXXIoq7litOkCDoFCVRh0Vff&wx_header=0#rd) 
-![1000](/pic/1000.jpg)
  
 - [**2020-06-28 快讯！国药集团北京生物制品研究所新冠灭活疫苗Ⅰ/Ⅱ期临床揭盲**](https://www.wuximediatech.com/content/post/detail.html?sn=10cc964e4948450e91f4994704c134bc&from=wechat)
-![guoyao](/pic/guoyao.jpg)
 
 - [**2020-06-24 园区发力！全国首个新冠mRNA疫苗获批临床！**](https://mp.weixin.qq.com/s?__biz=MjM5ODk4NzQyMg==&mid=2653735730&idx=1&sn=3780b33f92023f78e5749a854c8c0b0c&chksm=bd1a38c38a6db1d5954375499fd1a86903aa9d0b24202ef98e4d44f8141ffad11197cf2554a3&mpshare=1&scene=1&srcid=&sharer_sharetime=1593062697028&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AtUvXiYDsdV4CO4QmqT1mHw%3D&pass_ticket=ZoE2JDy3ruPuHzkT%2BejNpHwuGOnZn0srBIdZEVDwXspGey99Hgi05q5L1iP%2B9coH#rd)
  
@@ -524,8 +517,6 @@
  
 ## 研究进展
 
-
-
 - [**2020-07-12 JAMA发表迄今最全面的COVID-19教科书式综述**](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA==&mid=2247490968&idx=1&sn=6763e7403b8f959de3ff6e47aa97ca5b&chksm=f98017ddcef79ecb38c9ee9b6fbb47bf25e3dd7cd48ad24834c2a2097cbac9edf1cb4045452e&mpshare=1&scene=1&srcid=0713HpB8MLXc0C5r08oZ3Wk0&sharer_sharetime=1594605600812&sharer_shareid=b68d8317789f29dcf2f5879eed2cdff5&exportkey=AkdkrJTurVZ5tVBahKttFQg%3D&pass_ticket=3QYp3BEr%2B7oOJXUZHG3a8BxjPfHZ%2BaP7ZAz8vKSt9gvn4ss3%2Bt%2Bs60wUBmmhtq8f&wx_header=0#rd) &#127381;
 ![jamareview](/pic/javareview.jpg)
 
@@ -539,12 +530,8 @@
 ![yale](/pic/yale.jpg)
 
 - [**2020-07-02 中性粒细胞胞外陷阱或是导致COVID-19并发症的罪魁祸首！**](https://mp.weixin.qq.com/s?__biz=MjM5OTU3NDQ5Mg==&mid=2652819749&idx=1&sn=78149b7f5b50af3716902fbf34068fa7&chksm=bcd31f968ba496807255aeef509cb933b3ee899dee2537ad4cc82140d3c7f3077782abb6a2df&mpshare=1&scene=1&srcid=&sharer_sharetime=1593744929759&sharer_shareid=2aec247612647f7d97693cf2981b8768&exportkey=AmSbEkk%2B49G1qsSDmkBRd7Y%3D&pass_ticket=HxQK0nEHgAbWo8QZNlVpNMPCIJ9FOYSOwWyK28GBZXXIoq7litOkCDoFCVRh0Vff&wx_header=0#rd)
-![blood](/pic/blood.jpg)
- 
  
 - [**2020-06-28 新冠最新发现！武大团队发起的迄今最大回顾性研究发现，他汀的使用与新冠肺炎住院患者死亡率下降45%有关丨临床大发现**](https://mp.weixin.qq.com/s?__biz=MzA4MjA2MDI5OQ==&mid=2659491068&idx=1&sn=751b27a8ffa1d7bd8f09bd242edc7b1b&chksm=84fb4998b38cc08e34265f85849542bbef11af8478d3534f566a51b00026ccb881b51d6eb321&mpshare=1&scene=1&srcid=&sharer_sharetime=1593380252797&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=Ajs8U%2BY250uVLxf01qgYer8%3D&pass_ticket=HxQK0nEHgAbWo8QZNlVpNMPCIJ9FOYSOwWyK28GBZXXIoq7litOkCDoFCVRh0Vff&wx_header=0#rd)
-
-![他汀](/pic/statins.jpg)
 
 - [**2020-06-25 陈薇团队：新型冠状病毒抗体研究取得重大突破**](https://mp.weixin.qq.com/s?__biz=MjM5OTA1OTMwMg==&mid=2652021178&idx=5&sn=b7058675813b46ed475192ce1499a70b&chksm=bd274bb38a50c2a5cc520ebd64fcefa87785d331b493da9e2fa09bf1b76d1bf8857a26cb4ab4&mpshare=1&scene=1&srcid=&sharer_sharetime=1593119274991&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AiGTxNeRZeTgquRSQlzAnrM%3D&pass_ticket=ZoE2JDy3ruPuHzkT%2BejNpHwuGOnZn0srBIdZEVDwXspGey99Hgi05q5L1iP%2B9coH#rd)
 
@@ -749,8 +736,6 @@
 ![silent](/pic/silent.jpg)
 
 - [**2020-07-01 巴基斯坦，卖血**](https://mp.weixin.qq.com/s?__biz=MzI1ODUzNjQ1Mw==&mid=2247527997&idx=2&sn=2d63ed1f6998227de7b1244e52c82ddb&chksm=ea048b57dd7302411d0960ec287e1e262eeb1baae2b9c81b5ac4f58cdc5dc0b5050712453a8a&mpshare=1&scene=1&srcid=&sharer_sharetime=1593712261260&sharer_shareid=a95d81bba82caa939c92c4c89cf532d1&exportkey=AsvlmTxIgG%2Fuq77zuiGYWG0%3D&pass_ticket=HxQK0nEHgAbWo8QZNlVpNMPCIJ9FOYSOwWyK28GBZXXIoq7litOkCDoFCVRh0Vff&wx_header=0#rd)
-
-![巴基斯坦](/pic/pakistan.jpg)
 
 - [**2020-06-26 The Shape of Epidemics**](http://bostonreview.net/science-nature/david-s-jones-stefan-helmreich-shape-epidemics#.XvX1o1NNzR4.twitter)
 
